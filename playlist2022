@@ -44,10 +44,6 @@ http://203.77.246.50:5000/udp/239.1.3.80:5000
 #EXTINF: -1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_sctv_small1.png?v=2.0.0.15" group-title="Lokal", SCTV
 http://stream.semerutv.link:7780/freebies/EOti98qsWH/1
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="Lokal" tvg-logo="https://img.ksa.my.id/sctv.png",SCTV
-http://rr2.dens.tv/s/s03/index.m3u8
-#EXTINF:-1 group-title="Lokal" tvg-logo="https://thumbor.prod.vid.id/cV7suiKWlj2Bj0Igw03BOf5VCvw=/112x112/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/204/4e9f5c.png" ,SCTV-HD
-http://tvn.x10.mx/vidio/master-1.m3u8
-#EXTINF: -1 tvg-logo="https://www.useetv.com/pimages/logo_sctv_small1.png?v=2.0.0.15" group-title="Local", SCTV
 http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=274ad4786c3abca69fa097b85867d9a4446503011668def857b1c03bafabba51
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
