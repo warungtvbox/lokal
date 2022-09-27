@@ -1024,8 +1024,6 @@ https://ert-live-bcbs15228.siliconweb.com/media/ert_sports_ww/ert_sports2_ww.m3u
 
 ------------------------------------
 #EXTM3U
-#EXTINF:0 tvg-country="AF" tvg-logo="https://i.imgur.com/7mBkLKV.png" group-title="Sport",Best Cable Sports Perú (720p) [Not 24/7]
-https://tv.inka.net.pe/bestcablesports/bestcablesports/index.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="AF" tvg-logo="https://upload.wikimedia.org/wikipedia/el/thumb/a/a5/Ertsports2.png/512px-Ertsports2.png" group-title="Sport",ERT Sports 2 (1080p) [Geo-blocked]
 https://ert-live-bcbs15228.siliconweb.com/media/ert_sports_ww/ert_sports2_ww.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="AF" tvg-logo="https://upload.wikimedia.org/wikipedia/el/thumb/d/db/Ertsports3.png/512px-Ertsports3.png" group-title="Sport",ERT Sports 3 (1080p) [Geo-blocked]
@@ -1034,9 +1032,6 @@ https://ert-live-bcbs15228.siliconweb.com/media/ert_sports_ww/ert_sports3_ww.m3u
 https://edge.taghtia.com/sa/9.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="AF" tvg-logo="https://www.lyngsat.com/logo/tv/kk/ksa-sports-2-sa.png" group-title="Sport",KSA Sports 2 (1080p) [Not 24/7]
 https://edge.taghtia.com/sa/10.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="AF" tvg-logo="https://www.lyngsat.com/logo/tv/mm/mnb-sport-mn.png" group-title="Sport",MNB Sport
-https://live.mnb.mn/live/mnb_sport.stream/playlist.m3u8?checkedby:iptvcat.com
-http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/35340?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="AZ" tvg-logo="" group-title="Sport",CBC Sport
 http://mfe.cliptv.az/dash/CBC_Sport_HD.ism/playlist.mpd?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="AZ" tvg-logo="" group-title="Sport",Матч! Арена
@@ -1045,109 +1040,12 @@ http://mfe.cliptv.az/dash/Match_Arena_HD.ism/playlist.mpd?checkedby:iptvcat.com
 http://mfe.cliptv.az/dash/Matc_Boec_SD.ism/playlist.mpd?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Sport",ALL SPORTS
 http://168.205.87.198:8555/live/JOSEE/123456/148.ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Sport",BAND SPORTS
-http://168.205.87.198:8555/live/1431/123456/176.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BG" tvg-logo="" group-title="Sport",Eurosport
 http://78.83.191.18:8000/play/a05y?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BG" tvg-logo="" group-title="Sport",Eurosport 2
 http://78.83.191.18:8000/play/a04b?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BG" tvg-logo="" group-title="Sport",Nova Sport
 http://78.83.191.18:8000/play/a04a?checkedby:iptvcat.com
-
-
-
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Sport",TVA Sports 2 HD (FR)
-http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SHgJRnyWnzTqFjPPpUTFA2Y/ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Sport",TVA Sports HD (FR)
-http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SHPmeuWpLyuhCXqg7eNRQ6E/ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Sport",----- SKY SPORT -----
-http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/379525?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Sport",----- SPORT -----
-http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/135926?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Sport",----- VIP SPORT -----
-http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/378164?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Sport",AUTO MOTOR SPORT CHANNEL HD
-http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/132513?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Sport",ESPORTS1 HD
-http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/235606?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Sport",FC BAYERN TV HD
-http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/234999?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Sport",MOVIE TIME SPORT HD
-http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/418602?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="DE" tvg-logo="https://i.imgur.com/BmJaDT3.jpg" group-title="Sport",OF-TV Offenbach (720p)
-https://5864df9ceac85.streamlock.net/germanpictures-live/mp4:streamschedule/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Sport",SKY SPORT 1 FHD
-http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/132798?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Sport",SKY SPORT 1 HD
-http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/30036?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Sport",SKY SPORT 1 UHD - BUNDESLIGA 1 UHD - F1 UHD
-http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/132807?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Sport",SKY SPORT 10 HD (Only Live Event)
-http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/123025?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Sport",SKY SPORT 11 HD (Only Live Event)
-http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/395375?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Sport",SKY SPORT 2 FHD
-http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/132797?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Sport",SKY SPORT 2 HD
-http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/30039?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Sport",SKY SPORT 3 HD (Only Live Event)
-http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/123018?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Sport",SKY SPORT 4 HD (Only Live Event)
-http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/123019?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Sport",SKY SPORT 5 HD (Only Live Event)
-http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/123020?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Sport",SKY SPORT 6 HD (Only Live Event)
-http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/123021?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Sport",SKY SPORT 7 HD (Only Live Event)
-http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/123022?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Sport",SKY SPORT 8 HD (Only Live Event)
-http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/123023?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Sport",SKY SPORT 9 HD (Only Live Event)
-http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/123024?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Sport",SKY SPORT BUNDESLIGA 1 FHD
-http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/3415?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Sport",SKY SPORT BUNDESLIGA 1 HD
-http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/29997?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Sport",SKY SPORT BUNDESLIGA 1 HEVC
-http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/356343?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Sport",SKY SPORT BUNDESLIGA 10 (Only Live Event)
-http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/3414?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Sport",SKY SPORT BUNDESLIGA 2 FHD (Only Live Event)
-http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/132806?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Sport",SKY SPORT BUNDESLIGA 2 HD (Only Live Event)
-http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/3413?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Sport",SKY SPORT BUNDESLIGA 3 FHD (Only Live Event)
-http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/132805?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Sport",SKY SPORT BUNDESLIGA 3 HD (Only Live Event)
-http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/3412?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Sport",SKY SPORT BUNDESLIGA 4 FHD (Only Live Event)
-http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/132804?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Sport",SKY SPORT BUNDESLIGA 4 HD (Only Live Event)
-http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/123115?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Sport",SKY SPORT BUNDESLIGA 5 FHD (Only Live Event)
-http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/132803?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Sport",SKY SPORT BUNDESLIGA 5 HD (Only Live Event)
-http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/3410?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Sport",SKY SPORT BUNDESLIGA 6 FHD (Only Live Event)
-http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/132802?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Sport",SKY SPORT BUNDESLIGA 6 HD (Only Live Event)
-http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/3409?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Sport",SKY SPORT BUNDESLIGA 7 FHD (Only Live Event)
-http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/132801?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Sport",SKY SPORT BUNDESLIGA 7 HD (Only Live Event)
-http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/3408?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Sport",SKY SPORT BUNDESLIGA 9 (Only Live Event)
-http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/3406?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Sport",SKY SPORT F1 FHD
-http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/330461?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Sport",SKY SPORT F1 HD
-http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/366496?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Sport",SKY SPORT F1 HEVC
-http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/412606?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Sport",SKY SPORT NEWS FHD
-http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/132799?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Sport",SKY SPORT NEWS HD
-http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/3374?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Sport",SLTV 24 - 7 TRANSPORTER FHD
 http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/401051?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Sport",SPORT1 HD
@@ -1156,7 +1054,6 @@ http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/3373?checkedby:iptvcat.com
 http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/30357?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Sport",SPORT1+ HEVC
 http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/3375?checkedby:iptvcat.com
-
 #EXTINF:-1 tvg-id="SPOTV.kr" tvg-logo="https://i.ibb.co/C5gD7th/file-7408e006-5492-4b54-aa54-581581b2d87b-modified.png" group-title="Sports",SPOTV 1
 https://bcovlive-a.akamaihd.net/99545824f51f4c1592b35314c6ece3b0/ap-northeast-1/6271486521001/profile_0/chunklist.m3u8
 #EXTINF:-1 tvg-id="SPOTV2.kr" tvg-logo="https://i.ibb.co/N7LpgDN/channel-428-modified.png" group-title="Sports",SPOTV 2
@@ -1164,43 +1061,5 @@ https://bcovlive-a.akamaihd.net/48eee16919834d3b97df1082a649bcfa/ap-northeast-1/
 
 
 
-#EXTINF:0 tvg-id="ext" group-title="Sports",Champions 1
-http://tvn.x10.mx/vidio/master-7.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Sports",Champions 2
-http://tvn.x10.mx/vidio/master-8.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Sports",Champions 3
-http://tvn.x10.mx/vidio/master-9.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Sports",Champions Goal
-http://tvn.x10.mx/vidio/master-10.m3u8
-http://tvn.x10.mx/vidio/master-10.m3u8
-#EXTINF:0 tvg-id="bein1hd.jsc" group-title="Sports",BeIN SPORTS 1 HD
-http://skupi.club:8080/DarkIpTv/8l0kBnK1pu/2646
-#EXTINF:0 tvg-id="bein2hd.jsc" group-title="Sports",BeIN SPORTS 2 HD
-http://skupi.club:8080/DarkIpTv/8l0kBnK1pu/2639
-#EXTINF:0 tvg-id="bein3hd.jsc" group-title="Sports",BeIN SPORTS 3 HD
-http://skupi.club:8080/DarkIpTv/8l0kBnK1pu/2638
-#EXTINF:0 tvg-id="bein4hd.jsc" group-title="Sports",BeIN SPORTS 4 HD
-http://skupi.club:8080/DarkIpTv/8l0kBnK1pu/3481
-#EXTINF:0 tvg-id="bein6hd.jsc" group-title="Sports",BeIN SPORTS 6 HD
-http://skupi.club:8080/DarkIpTv/8l0kBnK1pu/3482
-#EXTINF:0 tvg-id="bein7hd.jsc" group-title="Sports",BEIN SPORTS 7 HD
-http://skupi.club:8080/DarkIpTv/8l0kBnK1pu/4538
-#EXTINF:0 tvg-id="bein8hd.jsc" group-title="Sports",BeIN SPORTS 8 HD
-http://skupi.club:8080/DarkIpTv/8l0kBnK1pu/3484
-#EXTINF:0 tvg-id="bein9hd.jsc" group-title="Sports",BeIN SPORTS 9 HD
-http://skupi.club:8080/DarkIpTv/8l0kBnK1pu/3485
-#EXTINF:0 tvg-id="bein10hd.jsc" group-title="Sports",BEIN SPORTS 10 HD
-http://skupi.club:8080/DarkIpTv/8l0kBnK1pu/4880
-#EXTINF:0 tvg-id="ext" group-title="Sports",AbuDabi Sport 1 HD
-http://skupi.club:8080/DarkIpTv/8l0kBnK1pu/7320
-#EXTINF:0 tvg-id="ext" group-title="Sports",AbuDabi Sport 2 HD
-http://skupi.club:8080/DarkIpTv/8l0kBnK1pu/7321
-#EXTINF:0 tvg-id="beINSport1.fr" group-title="Sports",FR: BEIN SPORT 1 HD
-http://skupi.club:8080/DarkIpTv/8l0kBnK1pu/8441
-#EXTINF:0 tvg-id="beINSport1.fr" group-title="Sports",FR: BEIN SPORT 1 HD
-http://skupi.club:8080/DarkIpTv/8l0kBnK1pu/6918
-#EXTINF:0 tvg-id="beINSport2.fr" group-title="Sports",FR: BEIN SPORT 2 HD
-http://skupi.club:8080/DarkIpTv/8l0kBnK1pu/6919
-#EXTINF:0 tvg-id="beINSport3.fr" group-title="Sports",FR: BEIN SPORT 3 HD
-http://skupi.club:8080/DarkIpTv/8l0kBnK1pu/6920
+
 
