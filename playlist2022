@@ -406,84 +406,15 @@ https://liveanevia.mncnow.id/live/eds/Animax/sa_dash_vmx/Animax.mpd
 http://rr1.dens.tv/h/h02/01.m3u8?chname=ANIPLUS_HD
 
 ---------------------MALAYSIA----------------------
-#EXTINF:-1 group-title="Malaysia" tvg-logo="https://i.postimg.cc/DzhCJdyV/IMG-20211020-231859-910.jpg",RTB 1
-https://d1211whpimeups.cloudfront.net/smil:rtb1/playlist.m3u8
-#EXTINF:-1 group-title="Malaysia" tvg-logo="https://i.postimg.cc/DzhCJdyV/IMG-20211020-231859-910.jpg",RTB 2
-https://d1211whpimeups.cloudfront.net/smil:rtb2/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.ksa.my.id/dramasangat.png" group-title="Malaysia",Drama Sangat
-https://stream-04.sg1.dailymotion.com/sec(jyCOMoYa2SFWfHvye_Gd0tYJZVl50deav4NgocZs84WJOi3gnISdtkMYaN2cyRb6)/dm/3/x6zvnex/s/live-4.m3u8#cell=lsg1
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.ksa.my.id/8tv.png" group-title="Malaysia",8TV
-https://stream-05.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHTgepKkDAZd27qNDFPsYGtVn28vWgC_nEx3yH-5MatfQ)/dm/3/x6qud17/s/live-0.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.ksa.my.id/tv9.png" group-title="Malaysia",TV9
-https://stream-05.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHd8bUChRrtDfz8QICr84u0DiFfL1YRQtb2AQg9Lc-dpI)/dm/3/x6qqja6/s/live-4.m3u8#cell=lsg1
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.ksa.my.id/awani.png" group-title="Malaysia",Awani
-https://awanitv.akamaized.net/hls/live/2017836/LiveTV1/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.ksa.my.id/dramasangat.png" group-title="Malaysia",Drama Sangat
-https://k.ksa.my.id/vidio.m3u8?a=6289e0c2483c53d67d24&b=8c4a7972a3d2cba05317&c=dramasangat
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.ksa.my.id/didiktvkpm.png" group-title="Malaysia",DidikTV KPM
-https://k.ksa.my.id/vidio.m3u8?a=fbb8219c1e517def131d&b=f3f0ea69bb64006b03dc&c=didiktvkpm
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.ksa.my.id/8tv.png" group-title="Malaysia",8TV
-https://k.ksa.my.id/vidio.m3u8?a=6552ee8e796ed080801c&b=37ead13f7eb339f2ef5d&c=8tv
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.ksa.my.id/tv9.png" group-title="Malaysia",TV9
-https://k.ksa.my.id/vidio.m3u8?a=85f15232d1a64cb420e0&b=4d35c9b14c050342193b&c=tv9
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.ksa.my.id/tv1.png" group-title="Malaysia",TV1
-https://rtmlive01tv.secureswiftcontent.com/rtmchannel/01-manifest.mpd
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.ksa.my.id/tv2.png" group-title="Malaysia",TV2
-https://rtmlive05tv.secureswiftcontent.com/rtmchannel/05-manifest.mpd
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.ksa.my.id/rtmokey.png" group-title="Malaysia",Okey
-https://rtmlive02tv.secureswiftcontent.com/rtmchannel/02-manifest.mpd
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.ksa.my.id/bes.png" group-title="Malaysia",Berita RTM
-https://rtmlive02tv.secureswiftcontent.com/rtmchannel/03-manifest.mpd
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.ksa.my.id/sukanrtm.png" group-title="Malaysia",Sukan RTM
-https://rtmlive06tv.secureswiftcontent.com/rtmchannel/06-manifest.mpd
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.ksa.my.id/tv6.png" group-title="Malaysia",TV6
-https://rtmlive07tv.secureswiftcontent.com/rtmchannel/07-manifest.mpd
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.ksa.my.id/dewanrakyat.png" group-title="Malaysia",Dewan Rakyat
-https://rtmlive04tv.secureswiftcontent.com/rtmchannel/04-manifest.mpd
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.ksa.my.id/dewannegara.png" group-title="Malaysia",Dewan Negara
-https://rtmlive08tv.secureswiftcontent.com/rtmchannel/08-manifest.mpd
-#EXTINF:-1  tvg-id="" tvg-name="" tvg-logo="https://img.ksa.my.id/unifisports1.png" group-title="Malaysia",Unifi Sports 1
-https://unifi-live05.secureswiftcontent.com/UnifiHD/live11.mpd
-#EXTINF:-1  tvg-id="" tvg-name="" tvg-logo="https://img.ksa.my.id/unifisports2.png" group-title="Malaysia",Unifi Sports 2
-https://unifi-live05.secureswiftcontent.com/UnifiHD/live12.mpd
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.ksa.my.id/awani.png" group-title="Malaysia",Awani
-https://awanitv.akamaized.net/hls/live/2017836/LiveTV1/index.m3u8
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJodHRwczovL3Jlc3QtYXMub3R0LmthbHR1cmEuY29tL2FwaV92My9zZXJ2aWNlL2Fzc2V0RmlsZS9hY3Rpb24vZ2V0Q29udGV4dD9rcz1kako4TVRRM2ZLb2JDT2FJcnBRMnVQdmwxS205aGM5WURGVlpGakFDRnRTR1ExN3l4LXRkYTNZSm5QU2V2MXQ1WjdYT1dVMmVPbmUySmVuQTl0LVpaOWlTQWtrMnpyeGpuZG81RUZ1SU5reDZ3djhucF9BZ2F2SW82VjljSnhnbmc3UE5wdXl2U1YzQ0x6Vjcwc2xiSURyZFp4STkyaEJyZ3Z2enBSOG1LNjJ3NExNcjdzNEZHWE9TdWJ2U1VsdUhBNDNWblJCdmxvd2RpWVRMYVdkMVRPVlotWnNyRWNRRy0wNDZfTllpcVZxeDdCUjlkNFZQaTRHWjcxMUxZSUxRU3pna25NRDRSanhfMy1XSkd6LTFzclN5d2FtSmJLZGJmOEVmZjduTUw3SmpyZUxKU3NBaGdYWGt4Q2NaN2VFd2htVzRtYTdjcWtLN01rMFl5TEZyNlIzdGFQdUZEWGc9JmNvbnRleHRUeXBlPW5vbmUmaWQ9NTc1NDExNiIsImFjY291bnRfaWQiOjIwODIzMTEsImNvbnRlbnRfaWQiOiJmdGFfY2g1X2Rhc2hfdHZfZHJtIiwiZmlsZXMiOiIiLCJ1c2VyX3Rva2VuIjoiZGpKOE1UUTNmS29iQ09hSXJwUTJ1UHZsMUttOWhjOVlERlZaRmpBQ0Z0U0dRMTd5eC10ZGEzWUpuUFNldjF0NVo3WE9XVTJlT25lMkplbkE5dC1aWjlpU0FrazJ6cnhqbmRvNUVGdUlOa3g2d3Y4bnBfQWdhdklvNlY5Y0p4Z25nN1BOcHV5dlNWM0NMelY3MHNsYklEcmRaeEk5MmhCcmd2dnpwUjhtSzYydzRMTXI3czRGR1hPU3VidlNVbHVIQTQzVm5SQnZsb3dkaVlUTGFXZDFUT1ZaLVpzckVjUUctMDQ2X05ZaXFWcXg3QlI5ZDRWUGk0R1o3MTFMWUlMUVN6Z2tuTUQ0Ump4XzMtV0pHei0xc3JTeXdhbUpiS2RiZjhFZmY3bk1MN0pqcmVMSlNzQWhnWFhreENjWjdlRXdobVc0bWE3Y3FrSzdNazBZeUxGcjZSM3RhUHVGRFhnPSIsInVkaWQiOiIiLCJhZGRpdGlvbmFsX2Nhc19zeXN0ZW0iOjE0N30%3d&signature=OQJmMJrn3PSwBonCs8Qbf3t9PmI%3d
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Singapura" tvg-logo="https://img.ksa.my.id/ch5.png",Channel 5
-https://rest-as.ott.kaltura.com/api_v3/service/assetFile/action/playManifest/partnerId/147/assetId/316288/assetType/media/assetFileId/5754116/contextType/PLAYBACK/isAltUrl/False/a.mpd
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJodHRwczovL3Jlc3QtYXMub3R0LmthbHR1cmEuY29tL2FwaV92My9zZXJ2aWNlL2Fzc2V0RmlsZS9hY3Rpb24vZ2V0Q29udGV4dD9rcz1kako4TVRRM2ZPQm9qTlAtMGRSTlJ6M1ZyczNwdVhrWWdOaWJabl9HYWxTWjBEaEF0TGZleTRoaDJRcU93RExzNWlXMlRWcnMwYVBlMmVhMFczZVRsekdXUWZJbnI3Qy1QU0pQa2o3RTkxdDh0dmM1VjZTRF9KaVdfNTUtemkwRVg3YkFsZWJ5QW1Gdm5McUp5N3FGR1J0OFd6S0tMYUVaNUdpUEMyaU13YUhPeTVRYzJLVWpBNVNoMzhMbHdMelYyNzdKdHI0clFzLTFoa2doMmphYnI1ZVlveWhVek53XzhBOVVZRllwMFF0QTg2VXdBR3E3T2Qta3p3elJHYklMN1hNbzFzMHJUZkdySjV4X0x4OTU1MmE4MHpYSDh6WVhvelIyQnY4aGhaakVmbk4wYWg5S192dWlibTc3WWdVdkhWS0JZMTU0VGlDV2ZmWmVNYjBxTFpCdjVpZWE3Ny1ybzk4djc1d0xpbV9DcXVzYnNSVUsmY29udGV4dFR5cGU9bm9uZSZpZD01NzU0MTI0IiwiYWNjb3VudF9pZCI6MjA4MjMxMSwiY29udGVudF9pZCI6ImZ0YV9jaDhfZGFzaF90dl9kcm0iLCJmaWxlcyI6IiIsInVzZXJfdG9rZW4iOiJkako4TVRRM2ZPQm9qTlAtMGRSTlJ6M1ZyczNwdVhrWWdOaWJabl9HYWxTWjBEaEF0TGZleTRoaDJRcU93RExzNWlXMlRWcnMwYVBlMmVhMFczZVRsekdXUWZJbnI3Qy1QU0pQa2o3RTkxdDh0dmM1VjZTRF9KaVdfNTUtemkwRVg3YkFsZWJ5QW1Gdm5McUp5N3FGR1J0OFd6S0tMYUVaNUdpUEMyaU13YUhPeTVRYzJLVWpBNVNoMzhMbHdMelYyNzdKdHI0clFzLTFoa2doMmphYnI1ZVlveWhVek53XzhBOVVZRllwMFF0QTg2VXdBR3E3T2Qta3p3elJHYklMN1hNbzFzMHJUZkdySjV4X0x4OTU1MmE4MHpYSDh6WVhvelIyQnY4aGhaakVmbk4wYWg5S192dWlibTc3WWdVdkhWS0JZMTU0VGlDV2ZmWmVNYjBxTFpCdjVpZWE3Ny1ybzk4djc1d0xpbV9DcXVzYnNSVUsiLCJ1ZGlkIjoiIiwiYWRkaXRpb25hbF9jYXNfc3lzdGVtIjoxNDd9&signature=Oxq260XRvvZxthB8%2fhqXPkZ9Sq4%3d
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Singapura" tvg-logo="https://img.ksa.my.id/ch8.png",Channel 8
-https://rest-as.ott.kaltura.com/api_v3/service/assetFile/action/playManifest/partnerId/147/assetId/260581/assetType/media/assetFileId/5754124/contextType/PLAYBACK/isAltUrl/False/a.mpd
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJodHRwczovL3Jlc3QtYXMub3R0LmthbHR1cmEuY29tL2FwaV92My9zZXJ2aWNlL2Fzc2V0RmlsZS9hY3Rpb24vZ2V0Q29udGV4dD9rcz1kako4TVRRM2ZMdC05UnNYb1YwTERtZHZpUGxHYkh3M2hKaTYzS0FBdTNDRkZqczZWbXNOcGczV3FrMUlBeVVudXlOYWtPVHBWekN5MGJYTU4wWl9jOWVGbC1xSXJzbzZwbEZQNGExTXBVSnRuM21KR0dLUEh0QU04bHVIVHZ3OTZHUERtWjVZWlZrbDZrLW5wZHB5VHdqdkQyaFd1WTdNQUNGTFhtR2t5aEZhNU52eklYVGFyUUlvdHdUTVo0XzYyWEpyUGF2UFBDNjZqZlhZRnhZVUdpdFpLbnNfRkJYNnZ1OFRjdlN3YzUyQV9sVU1SdFZvTTM0d3VwWjV1QVNweE9UaVE1ZDFVbWlVRUZObi0xeWJYcktjZVBZTGNlVE95SVVIWENEWGROdFRud09tX1Y0MnQ0QzBENVZCUGtFRU1ENFlZY1BkNUE9PSZjb250ZXh0VHlwZT1ub25lJmlkPTU3NTQxNTYiLCJhY2NvdW50X2lkIjoyMDgyMzExLCJjb250ZW50X2lkIjoiZnRhX2NoVV9kYXNoX3dlYl9kcm0iLCJmaWxlcyI6IiIsInVzZXJfdG9rZW4iOiJkako4TVRRM2ZMdC05UnNYb1YwTERtZHZpUGxHYkh3M2hKaTYzS0FBdTNDRkZqczZWbXNOcGczV3FrMUlBeVVudXlOYWtPVHBWekN5MGJYTU4wWl9jOWVGbC1xSXJzbzZwbEZQNGExTXBVSnRuM21KR0dLUEh0QU04bHVIVHZ3OTZHUERtWjVZWlZrbDZrLW5wZHB5VHdqdkQyaFd1WTdNQUNGTFhtR2t5aEZhNU52eklYVGFyUUlvdHdUTVo0XzYyWEpyUGF2UFBDNjZqZlhZRnhZVUdpdFpLbnNfRkJYNnZ1OFRjdlN3YzUyQV9sVU1SdFZvTTM0d3VwWjV1QVNweE9UaVE1ZDFVbWlVRUZObi0xeWJYcktjZVBZTGNlVE95SVVIWENEWGROdFRud09tX1Y0MnQ0QzBENVZCUGtFRU1ENFlZY1BkNUE9PSIsInVkaWQiOiIiLCJhZGRpdGlvbmFsX2Nhc19zeXN0ZW0iOjE0N30%3d&signature=%2bk%2fz%2beMsTL4f1OVOlzVmZusllaA%3d
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Singapura" tvg-logo="https://img.ksa.my.id/chu.png",Channel U
-https://rest-as.ott.kaltura.com/api_v3/service/assetFile/action/playManifest/partnerId/147/assetId/330332/assetType/media/assetFileId/5754156/contextType/PLAYBACK/isAltUrl/False/a.mpd
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJodHRwczovL3Jlc3QtYXMub3R0LmthbHR1cmEuY29tL2FwaV92My9zZXJ2aWNlL2Fzc2V0RmlsZS9hY3Rpb24vZ2V0Q29udGV4dD9rcz1kako4TVRRM2ZHRTZoVUJsSld5NzI5MS1zT0ttaDlKVFVtLWduVEhSSzlZT3cyVGUxOWg3djBxaG52OU1qMW9kcm5RbmtLMjB3M1lfNEZfbFhjQzhlelpsdXppQi1YNVlwR0JhMm9sZ192ajlLY1FmTS1Ob3E1NW5EQXhDNk9yQWZVWWY3a2RBdlNUQ1Jfa2tpNld6WUJueDBMMXRtZ21hZXNUcENyNEluUGswVEJlaVlZZ2NVN1FMRWRJaS1aODJSR2lxTDItMlVIUjVwcEZNOVBMTVJ0UlNHU1FCcWtJSUhxX0pCaDhMazdaMXpSUXEydE9hNEM4X083N3QtZlRBQkswZFFiLUpwaWs0dlYzc2ZmbmkyYVAydklrZno1cmltWjRBYjNpbGR6akp5ZTRrUWRySzliUmdGOGdmUFMxc19pS0xpZU80Z2p1aHlRdWp1cVNDZG9FVW93XzNOVE09JmNvbnRleHRUeXBlPW5vbmUmaWQ9NTc1NDA2NiIsImFjY291bnRfaWQiOjIwODIzMTEsImNvbnRlbnRfaWQiOiJmdGFfc3VyaWFfZGFzaF90dl9kcm0iLCJmaWxlcyI6IiIsInVzZXJfdG9rZW4iOiJkako4TVRRM2ZHRTZoVUJsSld5NzI5MS1zT0ttaDlKVFVtLWduVEhSSzlZT3cyVGUxOWg3djBxaG52OU1qMW9kcm5RbmtLMjB3M1lfNEZfbFhjQzhlelpsdXppQi1YNVlwR0JhMm9sZ192ajlLY1FmTS1Ob3E1NW5EQXhDNk9yQWZVWWY3a2RBdlNUQ1Jfa2tpNld6WUJueDBMMXRtZ21hZXNUcENyNEluUGswVEJlaVlZZ2NVN1FMRWRJaS1aODJSR2lxTDItMlVIUjVwcEZNOVBMTVJ0UlNHU1FCcWtJSUhxX0pCaDhMazdaMXpSUXEydE9hNEM4X083N3QtZlRBQkswZFFiLUpwaWs0dlYzc2ZmbmkyYVAydklrZno1cmltWjRBYjNpbGR6akp5ZTRrUWRySzliUmdGOGdmUFMxc19pS0xpZU80Z2p1aHlRdWp1cVNDZG9FVW93XzNOVE09IiwidWRpZCI6IiIsImFkZGl0aW9uYWxfY2FzX3N5c3RlbSI6MTQ3fQ%3d%3d&signature=UiDD4wTXHu9ekE304bbTw2rVOGc%3d
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Singapura" tvg-logo="https://img.ksa.my.id/suria.png",Channel Suria
-https://rest-as.ott.kaltura.com/api_v3/service/assetFile/action/playManifest/partnerId/147/assetId/237652/assetType/media/assetFileId/5754066/contextType/PLAYBACK/isAltUrl/False/a.mpd
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJodHRwczovL3Jlc3QtYXMub3R0LmthbHR1cmEuY29tL2FwaV92My9zZXJ2aWNlL2Fzc2V0RmlsZS9hY3Rpb24vZ2V0Q29udGV4dD9rcz1kako4TVRRM2ZIdHVWSF9qRnZ6WmRubl9ZM1BBLTVhZ2ZyVXk2cnpsTzZzejhMekVyRjVzdFFGV3dOMzRKUjdfWGtlQ3BucnVUZElydVVXUjBIWGF0VjVIY3JRZkJJQ3N1OXlpLTRlWUE3aG5mLURLenFkbjR1cWpkSVpfS0V4V1c5UlJGbzBRdEUwUlBXSUgxOEJNaHJFTEI0RjBQZTZLTVM4U3J3cjJFN0JRZDdjWFpiT2l0Rk9QM1I2elFzN1pKdDJpOU45dlV4ZFZudjI1RzJ2a3BfN29sUmxPeTFLN3JKMlg5bXFheTRjTGE5Rmw2VVpzVVl4akFCRlI3NTdkYzRSMlkxLTdoVFgyMkthblB2REJSNlExOWRkT3JnS0hjTjBaWjVBZ2I4ZDF5NUVwTklidXJEOTJaVl93b0FCNldLR2t2eks4UEk4cXpfT1lrY3I1MTlxWlRCRURhSlk9JmNvbnRleHRUeXBlPW5vbmUmaWQ9NTc1NDEwOCIsImFjY291bnRfaWQiOjIwODIzMTEsImNvbnRlbnRfaWQiOiJmdGFfdmFzYW50aGFtX2Rhc2hfdHZfZHJtIiwiZmlsZXMiOiIiLCJ1c2VyX3Rva2VuIjoiZGpKOE1UUTNmSHR1VkhfakZ2elpkbm5fWTNQQS01YWdmclV5NnJ6bE82c3o4THpFckY1c3RRRld3TjM0SlI3X1hrZUNwbnJ1VGRJcnVVV1IwSFhhdFY1SGNyUWZCSUNzdTl5aS00ZVlBN2huZi1ES3pxZG40dXFqZElaX0tFeFdXOVJSRm8wUXRFMFJQV0lIMThCTWhyRUxCNEYwUGU2S01TOFNyd3IyRTdCUWQ3Y1haYk9pdEZPUDNSNnpRczdaSnQyaTlOOXZVeGRWbnYyNUcydmtwXzdvbFJsT3kxSzdySjJYOW1xYXk0Y0xhOUZsNlVac1VZeGpBQkZSNzU3ZGM0UjJZMS03aFRYMjJLYW5QdkRCUjZRMTlkZE9yZ0tIY04wWlo1QWdiOGQxeTVFcE5JYnVyRDkyWlZfd29BQjZXS0drdnpLOFBJOHF6X09Za2NyNTE5cVpUQkVEYUpZPSIsInVkaWQiOiIiLCJhZGRpdGlvbmFsX2Nhc19zeXN0ZW0iOjE0N30%3d&signature=afI8PaItrAi9YGxp8196iYFpbHs%3d
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Singapura" tvg-logo="https://img.ksa.my.id/vasantham.png",Channel Vasantham
-https://rest-as.ott.kaltura.com/api_v3/service/assetFile/action/playManifest/partnerId/147/assetId/237653/assetType/media/assetFileId/5754108/contextType/PLAYBACK/isAltUrl/False/a.mpd
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJodHRwczovL3Jlc3QtYXMub3R0LmthbHR1cmEuY29tL2FwaV92My9zZXJ2aWNlL2Fzc2V0RmlsZS9hY3Rpb24vZ2V0Q29udGV4dD9rcz1kako4TVRRM2ZIYlp3X0JJdlk4c05BdnJ6dG5QTGpodkU0Qk1QTnBBRXZieWFQa3dUS0cxQWRwYnQxYlpwMXhjZk9kcG9NOWV0WTZ0S1lYTVpQTC16WnVKZThPMVU0bjNZSzBiaE9NNlloX3ktNkYyREQ1R1dfdEZ6eFFqdENuekpubFJXbldUM1ctWTBwdEI5dVU5NlBCUzNKU25kNlFNdmkxZEtVNFpYMFUydTY1ZC03R1Z5a0t2TDFnT0pxQjl6OXpPdndPZUoxenRFY1ZXbUV0YmFtM0hoa1phd1FHN1FJZlpLNUdDa0JzMDZuTXpEdDNaa3hCLWhKdW56dDB6UVdneTZjR0RlenBfVTZfeXo1Q0YtRDYzcGJiWElmYUdVMU5YdWUyd050MERfaTdLSjN5eHZtTXVQd2tNajZDS09mbzlOMDVBTHFScDNlRGJGZmRjUW5MQWU1bHlUU2c9JmNvbnRleHRUeXBlPW5vbmUmaWQ9NTc1NDE0OSIsImFjY291bnRfaWQiOjIwODIzMTEsImNvbnRlbnRfaWQiOiJmdGFfY25hU19kYXNoX3R2X2RybSIsImZpbGVzIjoiIiwidXNlcl90b2tlbiI6ImRqSjhNVFEzZkhiWndfQkl2WThzTkF2cnp0blBMamh2RTRCTVBOcEFFdmJ5YVBrd1RLRzFBZHBidDFiWnAxeGNmT2Rwb005ZXRZNnRLWVhNWlBMLXpadUplOE8xVTRuM1lLMGJoT002WWhfeS02RjJERDVHV190Rnp4UWp0Q256Sm5sUlduV1QzVy1ZMHB0Qjl1VTk2UEJTM0pTbmQ2UU12aTFkS1U0WlgwVTJ1NjVkLTdHVnlrS3ZMMWdPSnFCOXo5ek92d09lSjF6dEVjVldtRXRiYW0zSGhrWmF3UUc3UUlmWks1R0NrQnMwNm5NekR0M1preEItaEp1bnp0MHpRV2d5NmNHRGV6cF9VNl95ejVDRi1ENjNwYmJYSWZhR1UxTlh1ZTJ3TnQwRF9pN0tKM3l4dm1NdVB3a01qNkNLT2ZvOU4wNUFMcVJwM2VEYkZmZGNRbkxBZTVseVRTZz0iLCJ1ZGlkIjoiIiwiYWRkaXRpb25hbF9jYXNfc3lzdGVtIjoxNDd9&signature=sWVWoMLfBMWcOP%2bjcDmLiUxb7JI%3d
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Singapura" tvg-logo="https://img.ksa.my.id/cna.png",CNA
-https://rest-as.ott.kaltura.com/api_v3/service/assetFile/action/playManifest/partnerId/147/assetId/197985/assetType/media/assetFileId/5754149/contextType/PLAYBACK/isAltUrl/False/a.mpd
-
 
  --------------------------------RELIGI------------------------------------
  
- #EXTINF:-1 tvg-logo="https://images.useetv.com/logo_tv9_big.png?v=2.0.0.13" group-title="Religi", TV9 NU
-http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=ffd67d44870fda644560c47682a87a73&cdy=9188905e74c28e489b44e954ec0b9bcadfdded94c48ea6229c48edefa9ec1c9f
+
+
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://img.ksa.my.id/muslimtv.png" group-title="Religi",Muslim TV
 https://liveanevia.mncnow.id/live/eds/MNCMuslim/sa_dash_vmx/MNCMuslim.mpd
-
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.ksa.my.id/mekkah.png" group-title="Religi",Al Quran Al Kareem
