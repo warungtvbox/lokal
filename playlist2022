@@ -671,11 +671,11 @@ https://liveanevia.mncnow.id/live/eds/XingKongTV/sa_dash_vmx/XingKongTV.mpd
 http://playlist.urfan.web.id/uq2663/h/h22/01.m3u8
 
 -------------------------------MUSIC----------------------
-
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/P5YwxwPj/Screenshot-3.png" group-title="MUSIC",ROTANA MUSIC
+https://list.iptvcat.com/my_list/s/2fe57f2c57d4a318bb7f01ff12dce9b6.m3u8
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/P5YwxwPj/Screenshot-3.png" group-title="MUSIC",WANASAH
 https://shls-wanasah-prod-dub.shahid.net/out/v1/c84ef3128e564b74a6a796e8b6287de6/index_1.m3u8
-#EXTINF:0 tvg-id="ext" group-title="MUSIC",MALEO TV
-http://stream1.ninmedia.tv:1935/maleo/udp.stream_360p/playlist.m3u8
+
 #EXTINF:0 tvg-id="ext" group-title="MUSIC",AmoyHouseRelax
 http://tx2play1.douyucdn.cn:80/live/dyliveflv3/17732rtara_4000p.xs
 #EXTINF:0 tvg-id="ext" group-title="MUSIC",MolaHitsTV
@@ -690,17 +690,10 @@ https://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMCU-92/chunklist
 http://web.onair-radio.eu:1935/video/video/chunklist_w1235825277.m3u8
 #EXTINF:0 tvg-id="9XM.in" group-title="MUSIC",9XM
 http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="MUSIC",KARAOKE
-https://stirr.ott-channels.stingray.com/karaoke/master_1280x720_2000kbps.m3u8
-#EXTINF:0 tvg-id="ext" group-title="MUSIC",POP MUSIK
-http://stream1.ninmedia.tv:1935/popmusik/udp.stream/chunklist_w251378293.m3u8
+
 #EXTINF:0 tvg-id="ext" group-title="MUSIC",Vevo HipHop
 https://5dcc6a54d90e8c5dc4345c16-s-4.ssai.zype.com/5dcc6a54d90e8c5dc4345c16-s-4/manifest.m3u8
------------------------MUSIC-------------
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/kGXK0m4k/Screenshot-142.png" group-title="MUSIC",POP MUSIC
-http://stream1.ninmedia.tv:1935/popmusik/udp.stream_360p/chunklist_w2049420357.m3u8 
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/kGXK0m4k/Screenshot-142.png" group-title="MUSIC",MALEO
-http://stream1.ninmedia.tv:1935/maleo/udp.stream_360p/chunklist_w1165021502.m3u8 
+
 ------------------------------------
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://dusktill.masuk.web.id/img/channelv.png" group-title="MUSIC",Channel V https://liveanevia.mncnow.id/live/eds/ChannelV/sa_dash_vmx/ChannelV.mpd #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://dusktill.masuk.web.id/img/musictv.png" group-title="MUSIC",Music Channel https://liveanevia.mncnow.id/live/eds/MusicChannel/sa_dash_vmx/MusicChannel.mpd
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/kGXK0m4k/Screenshot-142.png" group-title="MUSIC", Afrobeats 
@@ -740,8 +733,6 @@ https://abr.de1se01.v2beat.live/playlist.m3u8
 https://ocko-live.ssl.cdn.cra.cz/channels/ocko/playlist.m3u8
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/kGXK0m4k/Screenshot-142.png" group-title="MUSIC",9XM
 http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/index.m3u8
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/kGXK0m4k/Screenshot-142.png" group-title="MUSIC",POP MUSIC
-http://stream1.ninmedia.tv:1935/popmusik/udp.stream_360p/playlist.m3u8
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/kGXK0m4k/Screenshot-142.png" group-title="MUSIC",CHANNEL V
 https://livecdn.fptplay.net/foxlive/channelvhd_hls.smil/chunklist_b2500000.m3u8 
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/kGXK0m4k/Screenshot-142.png" group-title="MUSIC",ONE
