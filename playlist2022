@@ -128,7 +128,7 @@ https://alfa.kugo.id/playout/maleo.stream/chunklist.m3u8
 #EXTINF:-1 tvg-id="Max2U.id" tvg-logo="https://i.imgur.com/ywQCT0C.png" group-title="Lokal",Max2U (720p)
 https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(a255dd49-dc2a-464b-8623-6ef4556dff11)/index.m3u8
 #EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/af.xml.gz,https://iptv-org.github.io/epg/guides/ar.xml.gz,https://iptv-org.github.io/epg/guides/az.xml.gz,https://iptv-org.github.io/epg/guides/be.xml.gz,https://iptv-org.github.io/epg/guides/bn.xml.gz,https://iptv-org.github.io/epg/guides/hu.xml.gz,https://iptv-org.github.io/epg/guides/id.xml.gz,https://iptv-org.github.io/epg/guides/it.xml.gz"
-#EXTINF:-1 tvg-id="ADiTV.id" tvg-logo="https://upload.wikimedia.org/wikipedia/id/5/59/ADiTV_Jogja.png" group-title="Undefined",ADiTV (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="ADiTV.id" tvg-logo="https://upload.wikimedia.org/wikipedia/id/5/59/ADiTV_Jogja.png" group-title="Lokal",ADiTV (720p) [Not 24/7]
 https://v2.siar.us/aditv/livestream/chunks.m3u8
 
 --------------------------------------------------------------------
