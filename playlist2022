@@ -211,7 +211,8 @@ http://118.98.229.118:1935/live/tve.stream/playlist.m3u8
 ---------------------------------MOVIES---------------------------------
 #EXTINF:-1 tvg-id="Thrill.hk" tvg-logo="https://i.imgur.com/isr5jto.png" group-title="Movies",Thrill (576p)
 http://210.210.155.37/qwr9ew/s/s34/index.m3u8
-
+#EXTINF:0 tvg-id="CelestialMovies.MACAN" tvg-name="Celestial Movies" tvg-logo="https://static.epg.best/id/CelestialMovies.id.png" group-title="Movies",Celestial Movies
+http://210.210.155.37/dr9445/h/h14/index.m3u8
 #EXTINF:-1 tvg-id="ZeeBioskop.id" tvg-logo="https://i.imgur.com/Xl7MJnd.png" group-title="Movies",Zee Bioskop (360p) [Geo-blocked]
 http://210.210.155.37/qwr9ew/s/s32/index.m3u8
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/P5YwxwPj/Screenshot-3.png" group-title="Movies",K Plus
