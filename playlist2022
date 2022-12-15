@@ -76,12 +76,12 @@ http://liveaneviadev.mncnow.id/live/eds/TVOne/sa_dash_vmx/TVOne.mpd
 https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(bd164a95-722d-40db-a596-687c8123f197)/manifest.mpd
 #EXTINF:-1  tvg-name="METRO TV 2" tvg-id="" tvg-logo="https://i.imgur.com/t4dBwSd.jpg" group-title="TV NASIONAL" :http-referrer="",METRO TV 2
 http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="KompasTV.id" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/7a/KOMPAS_TV_%282017%29.png" group-title="Lokal",Kompas TV (720p)
+#EXTINF:-1 tvg-id="KompasTV.id" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/7a/KOMPAS_TV_%282017%29.png" group-title="TV NASIONAL",Kompas TV (720p)
 https://live-kg.jixie.media/live/kompastv_lhd.m3u8
 https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(41869351-4a9c-4e57-b54b-8cf5dfc919e1)/manifest.mpd
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/J7XR1rf4/KOMPASTV.png" group-title="Lokal",KOMPAS TV
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/J7XR1rf4/KOMPASTV.png" group-title="TV NASIONAL",KOMPAS TV
 https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(dc9040ad-a4e1-4d08-883c-a65542b69602)/index.m3u8?token=bukuantv
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/J7XR1rf4/KOMPASTV.png" group-title="Lokal",KOMPAS TV
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/J7XR1rf4/KOMPASTV.png" group-title="TV NASIONAL",KOMPAS TV
 https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(dc9040ad-a4e1-4d08-883c-a65542b69602)/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YzM0NDA0MTItMGYyMC0zNGQ0LTliMjMtNDY4MjE1ZjA5NmZj
@@ -108,8 +108,8 @@ https://liveaneviadev.mncnow.id/live/eds/RTV/sa_dash_vmx/RTV.mpd
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_kamiselaluada_b384000_sleng.m3u8
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/23pJ6LKd/CNNID.png" group-title="TV NASIONAL",CNN
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
-#EXTINF:0 tvg-country="ID" tvg-logo="https://m3u-editor.com/storage/channel-logos/07cd9d90-3cc5-11ea-9aa8-0b5bd3ba261d/92697/14040323.png" group-title="Lokal",BeritaSatu
-#EXTINF:0 tvg-country="ID" tvg-logo="https://m3u-editor.com/storage/channel-logos/07cd9d90-3cc5-11ea-9aa8-0b5bd3ba261d/92697/14040323.png" group-title="Lokal",BeritaSatu
+#EXTINF:0 tvg-country="ID" tvg-logo="https://m3u-editor.com/storage/channel-logos/07cd9d90-3cc5-11ea-9aa8-0b5bd3ba261d/92697/14040323.png" group-title="TV NASIONAL",BeritaSatu
+#EXTINF:0 tvg-country="ID" tvg-logo="https://m3u-editor.com/storage/channel-logos/07cd9d90-3cc5-11ea-9aa8-0b5bd3ba261d/92697/14040323.png" group-title="TV NASIONAL",BeritaSatu
 https://b1news.beritasatumedia.com/Beritasatu/B1News_1280x720.m3u8?checkedby:iptvcat.com
 
 #EXTINF:-1 tvg-id="CNBCIndonesia.id" tvg-logo="https://i.postimg.cc/bN8WKk18/CNBC-Indonesia.png" group-title="TV NASIONAL", CNBC Indonesia
@@ -170,6 +170,9 @@ https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
 https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/master.m3u8
 #EXTINF:-1 tvg-id="CNBCIndonesia.id" tvg-logo="https://i.postimg.cc/bN8WKk18/CNBC-Indonesia.png" group-title="TV NASIONAL", CNBC Indonesia backup
 https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_b384000_sleng.m3u8
+
+----------------------------------------------------------
+
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/P5YwxwPj/Screenshot-3.png" group-title="Lokal",ATVLI
 https://wowza.convergen.co/atvli/atvli.stream/playlist.m3u8
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/P5YwxwPj/Screenshot-3.png" group-title="Lokal", Elshinta
@@ -265,11 +268,8 @@ https://5bf7b725107e5.streamlock.net/tv9/tv9/playlist.m3u8
 #EXTINF:-1 tvg-id="TVEdukasi.id" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/92/TV_Edukasi_Baru.png/512px-TV_Edukasi_Baru.png" group-title="Lokal",TV Edukasi (576p)
 http://118.98.229.118:1935/live/tve.stream/playlist.m3u8
 
-
--------------------------------------------------------------
-
-
 ---------------------------------MOVIES---------------------------------
+
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0" group-title="Film",KIX
 http://rr1.dens.tv/h/h07/index.m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0" group-title="Film",K+
