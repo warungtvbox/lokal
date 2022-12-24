@@ -3,7 +3,7 @@
 http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINASIONAL)/Stream(04)/index.m3u8
 #EXTINF:0 tvg-country="ID" tvg-logo="https://i.imgur.com/RIwYxS9.png" group-title="Lokal",ID | TVRI Kanal 3,TVRI Kanal 3
 http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI3)/Stream(03)/index.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 tvg-ID="" tvg-name="TVRI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/1200px-TVRILogo2019.svg.png" group-title="TV NASIONAL",TVRI SPORT
+#EXTINF:-1 tvg-ID="" tvg-name="TVRI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/1200px-TVRILogo2019.svg.png" group-title="Lokal",TVRI SPORT
 http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
@@ -75,7 +75,7 @@ http://liveaneviadev.mncnow.id/live/eds/TVOne/sa_dash_vmx/TVOne.mpd
 https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(bd164a95-722d-40db-a596-687c8123f197)/manifest.mpd
 #EXTINF:-1  tvg-name="METRO TV 2" tvg-id="" tvg-logo="https://i.imgur.com/t4dBwSd.jpg" group-title="Lokal" :http-referrer="",METRO TV 2
 http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="KompasTV.id" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/7a/KOMPAS_TV_%282017%29.png" group-title="TV NASIONAL",Kompas TV (720p)
+#EXTINF:-1 tvg-id="KompasTV.id" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/7a/KOMPAS_TV_%282017%29.png" group-title="Lokal",Kompas TV (720p)
 https://live-kg.jixie.media/live/kompastv_lhd.m3u8
 https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(41869351-4a9c-4e57-b54b-8cf5dfc919e1)/manifest.mpd
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/J7XR1rf4/KOMPASTV.png" group-title="Lokal",KOMPAS TV
@@ -269,8 +269,6 @@ http://118.98.229.118:1935/live/tve.stream/playlist.m3u8
 ------------------------------------------------------------------
 
 #EXTM3U
-#EXTINF:-1  tvg-name="# #  INFO UPDATE" tvg-id="" tvg-logo="https://i.imgur.com/pM7FFIw.jpg" group-title="WORLD CUP 2022" :http-referrer="",# #  INFO UPDATE
-https://ia601407.us.archive.org/9/items/update_playlist/update.mp4?cnt=0
 #EXTINF:-1  tvg-name="WC 01" tvg-id="" tvg-logo="https://i.imgur.com/I3yWDTY.jpg" group-title="WORLD CUP 2022" :http-referrer="",WC 01
 http://cdn.xcore.ca:80/lXt3MaocUu/JQBEtoTQsR/27
 #EXTINF:-1  tvg-name="WC 02" tvg-id="" tvg-logo="https://i.imgur.com/I3yWDTY.jpg" group-title="WORLD CUP 2022" :http-referrer="",WC 02
@@ -293,54 +291,11 @@ http://playhdnew85.xyz:8080/geriHiOeu4sekxxxxx211/geriHiOeu4/369
 http://playhdnew85.xyz:8080/geriHiOeu4sekxxxxx211/geriHiOeu4/368
 #EXTINF:-1  tvg-name="WC 11" tvg-id="" tvg-logo="https://i.imgur.com/I3yWDTY.jpg" group-title="WORLD CUP 2022" :http-referrer="",WC 11
 http://cdn.xcore.ca:80/lXt3MaocUu/JQBEtoTQsR/142
-#EXTINF:-1  tvg-name="WC 12" tvg-id="" tvg-logo="https://i.imgur.com/I3yWDTY.jpg" group-title="WORLD CUP 2022" :http-referrer="",WC 12
-
-#EXTINF:-1  tvg-name="WC 13" tvg-id="" tvg-logo="https://i.imgur.com/I3yWDTY.jpg" group-title="WORLD CUP 2022" :http-referrer="",WC 13
-
-#EXTINF:-1  tvg-name="WC 14" tvg-id="" tvg-logo="https://i.imgur.com/I3yWDTY.jpg" group-title="WORLD CUP 2022" :http-referrer="",WC 14
-
-#EXTINF:-1  tvg-name="WC 15" tvg-id="" tvg-logo="https://i.imgur.com/I3yWDTY.jpg" group-title="WORLD CUP 2022" :http-referrer="",WC 15
-
-#EXTINF:-1  tvg-name="WC 16" tvg-id="" tvg-logo="https://i.imgur.com/I3yWDTY.jpg" group-title="WORLD CUP 2022" :http-referrer="",WC 16
-
-#EXTINF:-1  tvg-name="WC 17" tvg-id="" tvg-logo="https://i.imgur.com/I3yWDTY.jpg" group-title="WORLD CUP 2022" :http-referrer="",WC 17
-
-#EXTINF:-1  tvg-name="WC 18" tvg-id="" tvg-logo="https://i.imgur.com/I3yWDTY.jpg" group-title="WORLD CUP 2022" :http-referrer="",WC 18
-
-#EXTINF:-1  tvg-name="WC 19" tvg-id="" tvg-logo="https://i.imgur.com/I3yWDTY.jpg" group-title="WORLD CUP 2022" :http-referrer="",WC 19
-
-#EXTINF:-1  tvg-name="WC 20" tvg-id="" tvg-logo="https://i.imgur.com/I3yWDTY.jpg" group-title="WORLD CUP 2022" :http-referrer="",WC 20
-
-#EXTINF:-1  tvg-name="WC 21" tvg-id="" tvg-logo="https://i.imgur.com/I3yWDTY.jpg" group-title="WORLD CUP 2022" :http-referrer="",WC 21
 
 
-
-http://cdn.xcore.ca:80/lXt3MaocUu/JQBEtoTQsR/51
 
 ---------------------------------MOVIES---------------------------------
 
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0" group-title="Film",KIX
-http://rr1.dens.tv/h/h07/index.m3u8
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0" group-title="Film",K+
-http://rr.dens.tv/h/h08/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0" group-title="Film",My Cinema
-http://rr.dens.tv/h/h192/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0" group-title="Film",My Cinema Asia
-http://rr.dens.tv/h/h193/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0" group-title="Film",My Cinema Europe
-http://rr.dens.tv/h/h18/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0" group-title="Film",My Family Channel
-http://rr.dens.tv/h/h194/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0" group-title="Film",Rock Entertainment
-http://rr1.dens.tv/h/h16/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0" group-title="Film",Rock Extreme
-http://rr1.dens.tv/h/h15/index.m3u8
 
 ==============================================================
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -431,6 +386,29 @@ https://liveaneviadev.mncnow.id/live/eds/WarnerTV/sa_dash_vmx/WarnerTV.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1  tvg-name="ZEE BIOSKOP" tvg-id="" tvg-logo="https://i.imgur.com/jdeyXB5.jpg" group-title="Film" :http-referrer="",ZEE BIOSKOP
 https://liveaneviadev.mncnow.id/live/eds/ZeeBIOSKOP/sa_dash_vmx/ZeeBIOSKOP.mpd
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0" group-title="Film",KIX
+http://rr1.dens.tv/h/h07/index.m3u8
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0" group-title="Film",K+
+http://rr.dens.tv/h/h08/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0" group-title="Film",My Cinema
+http://rr.dens.tv/h/h192/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0" group-title="Film",My Cinema Asia
+http://rr.dens.tv/h/h193/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0" group-title="Film",My Cinema Europe
+http://rr.dens.tv/h/h18/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0" group-title="Film",My Family Channel
+http://rr.dens.tv/h/h194/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0" group-title="Film",Rock Entertainment
+http://rr1.dens.tv/h/h16/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0" group-title="Film",Rock Extreme
+http://rr1.dens.tv/h/h15/index.m3u8
+
 ---------------------------------------------------------------
 ======== VoD FILM 2022 ========
 
