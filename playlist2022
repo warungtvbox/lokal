@@ -275,35 +275,6 @@ https://5bf7b725107e5.streamlock.net/tv9/tv9/playlist.m3u8
 #EXTINF:-1 tvg-id="TVEdukasi.id" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/92/TV_Edukasi_Baru.png/512px-TV_Edukasi_Baru.png" group-title="Lokal",TV Edukasi (576p)
 http://118.98.229.118:1935/live/tve.stream/playlist.m3u8
 
-
-------------------------------------------------------------------
-
-#EXTM3U
-#EXTINF:-1  tvg-name="WC 01" tvg-id="" tvg-logo="https://i.imgur.com/I3yWDTY.jpg" group-title="WORLD CUP 2022" :http-referrer="",WC 01
-http://cdn.xcore.ca:80/lXt3MaocUu/JQBEtoTQsR/27
-#EXTINF:-1  tvg-name="WC 02" tvg-id="" tvg-logo="https://i.imgur.com/I3yWDTY.jpg" group-title="WORLD CUP 2022" :http-referrer="",WC 02
-http://2015.surf:8080/qwiyJT4YBH/lBcCDVscVm/331
-#EXTINF:-1  tvg-name="WC 03" tvg-id="" tvg-logo="https://i.imgur.com/I3yWDTY.jpg" group-title="WORLD CUP 2022" :http-referrer="",WC 03
-http://2015.surf:8080/qwiyJT4YBH/lBcCDVscVm/572
-#EXTINF:-1  tvg-name="WC 04" tvg-id="" tvg-logo="https://i.imgur.com/I3yWDTY.jpg" group-title="WORLD CUP 2022" :http-referrer="",WC 04
-http://platin4k.eu:80/eagleiptv/SsFAljPDDi/3334
-#EXTINF:-1  tvg-name="WC 05" tvg-id="" tvg-logo="https://i.imgur.com/I3yWDTY.jpg" group-title="WORLD CUP 2022" :http-referrer="",WC 05
-http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/16
-#EXTINF:-1  tvg-name="WC 06" tvg-id="" tvg-logo="https://i.imgur.com/I3yWDTY.jpg" group-title="WORLD CUP 2022" :http-referrer="",WC 06
-http://appfactory.group:8080/qwiyJT4YBH/lBcCDVscVm/43852
-#EXTINF:-1  tvg-name="WC 07" tvg-id="" tvg-logo="https://i.imgur.com/I3yWDTY.jpg" group-title="WORLD CUP 2022" :http-referrer="",WC 07
-http://darkteam.vip:25461/live/arabiclocal/3092e9120dn/2151.ts
-#EXTINF:-1  tvg-name="WC 08" tvg-id="" tvg-logo="https://i.imgur.com/I3yWDTY.jpg" group-title="WORLD CUP 2022" :http-referrer="",WC 08
-http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/29359
-#EXTINF:-1  tvg-name="WC 09" tvg-id="" tvg-logo="https://i.imgur.com/I3yWDTY.jpg" group-title="WORLD CUP 2022" :http-referrer="",WC 09
-http://playhdnew85.xyz:8080/geriHiOeu4sekxxxxx211/geriHiOeu4/369
-#EXTINF:-1  tvg-name="WC 10" tvg-id="" tvg-logo="https://i.imgur.com/I3yWDTY.jpg" group-title="WORLD CUP 2022" :http-referrer="",WC 10
-http://playhdnew85.xyz:8080/geriHiOeu4sekxxxxx211/geriHiOeu4/368
-#EXTINF:-1  tvg-name="WC 11" tvg-id="" tvg-logo="https://i.imgur.com/I3yWDTY.jpg" group-title="WORLD CUP 2022" :http-referrer="",WC 11
-http://cdn.xcore.ca:80/lXt3MaocUu/JQBEtoTQsR/142
-
-
-
 ---------------------------------MOVIES---------------------------------
 
 
