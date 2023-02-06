@@ -1430,10 +1430,21 @@ http://118.97.50.107/Content/HLS/Live/Channel(TVRIYOGYAKARTA)/index.m3u8
 
 ---------------------------------
 
-
+#EXTINF:0 tvg-country="FR" tvg-logo="https://i.ibb.co/sCN7q6G/download.png" group-title="TV SPORTS",BEIN SPORTS 1
+http://flysilo.top:8080/live/8031659300659217/8611659300659217/8298.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="FR" tvg-logo="https://i.ibb.co/sCN7q6G/download.png" group-title="TV SPORTS",BEIN SPORTS 2
+http://flysilo.top:8080/live/8031659300659217/8611659300659217/8299.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AR" tvg-logo="https://i.ibb.co/sCN7q6G/download.png" group-title="TV SPORTS",BEIN SPORTS 3
+http://flysilo.top:8080/live/8031659300659217/8611659300659217/25108.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AR" tvg-logo="https://i.ibb.co/sCN7q6G/download.png" group-title="TV SPORTS",BEIN SPORTS 4
+http://flysilo.top:8080/live/8031659300659217/8611659300659217/25110.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AR" tvg-logo="https://i.ibb.co/sCN7q6G/download.png" group-title="TV SPORTS",BEIN SPORTS 5
+http://flysilo.top:8080/live/8031659300659217/8611659300659217/25109.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="ES" tvg-logo="https://i.ibb.co/sCN7q6G/download.png" group-title="TV SPORTS",BEIN SPORTS ESPANA
+http://flysilo.top:8080/live/8031659300659217/8611659300659217/24040.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="FR" tvg-logo="https://i.ibb.co/sCN7q6G/download.png" group-title="TV SPORTS"BEIN SPORT MAX 5
 http://flysilo.top:8080/live/8031659300659217/8611659300659217/8302.ts?checkedby:iptvcat.com
-#EXTINF:-1 group-title="TV SPORT" tvg-id="astrosupersport4.my" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_ASSP1.png",Astro SuperSports 4
+#EXTINF:-1 group-title="TV SPORTS" tvg-id="astrosupersport4.my" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_ASSP1.png",Astro SuperSports 4
 http://skylogic.site:8080/Houngst20001/XHK3BBKK4V8R8A20EQ/157558
 #EXTINF:-1 group-title="TV SPORTS" tvg-id="astrosupersport.my" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_ASSP1.png",Astro SuperSports 1
 http://skylogic.site:8080/Houngst20001/XHK3BBKK4V8R8A20EQ/146068
@@ -1477,6 +1488,14 @@ https://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.smil/index.m3u
 https://edge.taghtia.com/sa/9.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="AF" tvg-logo="https://www.lyngsat.com/logo/tv/kk/ksa-sports-2-sa.png" group-title="TV SPORTS",KSA Sports 2 (1080p) [Not 24/7]
 https://edge.taghtia.com/sa/10.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BH" tvg-logo="https://www.lyngsat.com/logo/tv/kk/ksa-sports-1-sa.png" group-title="TV SPORTS",KSA Sports 1 (1080p) [Not 24/7]
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.aloula.sa/live/ksa-sports1&checkedby:iptvcat.com
+
+
+
+
+
+
 --------------------------------ENTERTAINMENT-------------------------------------------
 
 #EXTINF:0 tvg-id="ext" group-title="ENTERTAINMENT",DIGIONE MAXSTREAM
