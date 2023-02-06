@@ -14,7 +14,7 @@ https://geocities.ws/ariev7xx/moji.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/P5YwxwPj/Screenshot-3.png" group-title="Lokal",ANTV
-http://210.210.155.35/qwr9ew/s/s07/02.m3u8
+https://geocities.ws/ariev7xx/antv.m3u8
 #EXTINF:-1  tvg-name="ANTV 2" tvg-id="" tvg-logo="https://i.imgur.com/4B6BECK.jpg" group-title="Lokal" :http-referrer="",ANTV 2
 http://210.210.155.35:80/qwr9ew/s/s07/01.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -22,7 +22,7 @@ http://210.210.155.35:80/qwr9ew/s/s07/01.m3u8
 #EXTINF:-1  tvg-name="ANTV" tvg-id="" tvg-logo="https://i.postimg.cc/P5YwxwPj/Screenshot-3.png" group-title="Lokal" :http-referrer="",ANTV
 http://liveaneviadev.mncnow.id/live/eds/ANTV/sa_dash_vmx/ANTV.mpd
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/P5YwxwPj/Screenshot-3.png" group-title="Lokal",Indosiar
-https://list.iptvcat.com/my_list/s/c9c62007c7ff6929e38a68fc8127216b.m3u8
+https://geocities.ws/ariev7xx/indosiar.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/P5YwxwPj/Screenshot-3.png" group-title="Lokal",Indosiar backup
 http://rr2.dens.tv/s/s04/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/P5YwxwPj/Screenshot-3.png " group-title="Lokal",TRANS TV
