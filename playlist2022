@@ -1194,11 +1194,11 @@ http://23.226.71.76/kn3lPeeBYGh9aSU1w3ezBd4Izw7rxjzIkg6zzO8M4a7eO9XXxNCvGiuxWEXs
 -------------------------------------------------------------------
 ---------------------------------MOVIES---------------------------------
 
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/P5YwxwPj/Screenshot-3.png" group-title="MOVIES",My Family Channel (1080p) [Geo-blocked]
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0" group-title="Movies",My Family Chan
 http://210.210.155.37/uq2663/h/h194/index.m3u8
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/P5YwxwPj/Screenshot-3.png" group-title="MOVIES",My Cinema Asia (1080p) [Geo-blocked]
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0" group-title="Movies",My Cinema Asia
 http://210.210.155.37/uq2663/h/h193/index.m3u8
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/P5YwxwPj/Screenshot-3.png" group-title="MOVIES",MY CINEMA
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0" group-title="Movies",MY CINEMA
 http://210.210.155.37/uq2663/h/h192/index.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/P5YwxwPj/Screenshot-3.png" group-title="MOVIES",ROCK ENTERTAINMENT
 http://210.210.155.35/dr9445/h/h16/01.m3u8
@@ -1210,7 +1210,7 @@ http://45.126.83.51/qwr9ew/s/s32/01.m3u8
 http://rr1.dens.tv/h/h14/index.m3u8
 #EXTINF:0 tvg-country="UN" tvg-logo="https://i.imgur.com/isr5jto.png" group-title="MOVIES",Thrill (576p)
 http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/157580
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/P5YwxwPj/Screenshot-3.png" group-title="MOVIES",K+
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0" group-title="Movies",K+
 http://210.210.155.37/uq2663/h/h08/index.m3u8
 
 
