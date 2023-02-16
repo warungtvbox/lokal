@@ -365,6 +365,8 @@ http://rr1.dens.tv/h/h14/index.m3u8
 http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/157580
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0" group-title="Movies",K+
 http://210.210.155.37/uq2663/h/h08/index.m3u8
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0" group-title="Movies",K+
+http://rr.dens.tv/h/h08/index.m3u8
 -------------------------------------kids------------------
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
