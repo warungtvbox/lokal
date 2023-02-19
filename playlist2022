@@ -66,7 +66,7 @@ http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/165058
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:0 tvg-id="MNCSports.id" tvg-name=" MNC Sport" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_102.jpg" group-title="Lokal",MNC Sports 1 HD
-https://anevia114.mncnow.id/live/eds/MNCSports-HD/sa_dash_vmx/MNCSports-HD.mpd
+https://anv-livechannel-cdn.mncnow.id/live/eds/MNCSports-HD/sa_dash_vmx/MNCSports-HD.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:0 tvg-id="MNCSports.id" tvg-name=" MNC Sport" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_102.jpg" group-title="Lokal",MNC Sports 2 HD
