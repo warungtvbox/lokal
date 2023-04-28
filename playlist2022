@@ -19,7 +19,7 @@ https://newanv-live-cdn.mncnow.id/live/eds/ANTV/sa_dash_vmx/ANTV.mpd
 #EXTINF:-1  tvg-name="ANTV 2" tvg-id="" tvg-logo="https://i.imgur.com/4B6BECK.jpg" group-title="Lokal" :http-referrer="",ANTV 2
 http://210.210.155.35:80/qwr9ew/s/s07/01.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/P5YwxwPj/Screenshot-3.png" group-title="Lokal",Indosiar backup
-http://rr2.dens.tv/s/s04/index.m3u8
+http://210.210.155.35:80/qwr9ew/s/s04/01.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net:443/?deviceId=NDljZWY3MGUtM2I0Ni0zODQyLTk3ZjItMDI0MWFjOTA4ODc1
 #EXTINF:-1 group-title="Lokal" tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0",Trans TV
