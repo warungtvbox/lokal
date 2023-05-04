@@ -130,7 +130,7 @@ https://av-live-cdn.mncnow.id/live/eds/NetTV-HD/sa_dash_vmx/NetTV-HD.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 tvg-id="RTV.MACAN" tvg-name="RTV =>1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_vjWrCLS7f4KsdCrDKXDcn7gDAZHyaoxj9A&s" group-title="Lokal",RTV
-https://av-live-cdn.mncnow.id/live/eds/RTV/sa_dash_vmx/RTV.mpd
+https://newanv-live-cdn.mncnow.id/live/eds/RTV/sa_dash_vmx/RTV.mpd
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/23pJ6LKd/CNNID.png" group-title="Lokal",CNN
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_kamiselaluada_b384000_sleng.m3u8
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/23pJ6LKd/CNNID.png" group-title="Lokal",CNN
@@ -192,7 +192,6 @@ https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(d2f582be-366c-4
 #EXTINF:0 tvg-id="ext" group-title="Lokal",MTA TV
 https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(b3673fde-4acd-4f1d-95a5-a204d62545ac)/manifest.mpd
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/kGXK0m4k/Screenshot-142.png" group-title="Lokal",BBS TV
-https://b1english.beritasatumedia.com/Beritasatu/B1English_1280x720.m3u8
 http://103.119.54.246:8080/hls/bbstv.m3u8
 #EXTINF:-1 tvg-id="SemarangTV.id" tvg-logo="https://upload.wikimedia.org/wikipedia/id/3/3c/Cakra-semarang-tv.png" group-title="Lokal",Semarang TV (720p)
 http://116.254.112.74/hls/cakralive.m3u8
