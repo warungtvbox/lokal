@@ -1,11 +1,11 @@
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
-#EXTINF:-1 group-title="TV Indonesia" tvg-logo="https://i.postimg.cc/P5YwxwPj/Screenshot-3.png",Vision Prime
+#EXTINF:-1 group-title="Lokal" tvg-logo="https://i.postimg.cc/P5YwxwPj/Screenshot-3.png",Vision Prime
 https://nyanv-live-cdn.mncnow.id/live/eds/VisionPrime/sa_dash_vmx/VisionPrime.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
-#EXTINF:-1 group-title="TV Indonesia" tvg-logo="https://i.postimg.cc/P5YwxwPj/Screenshot-3.png",OK TV
+#EXTINF:-1 group-title="Lokal" tvg-logo="https://i.postimg.cc/P5YwxwPj/Screenshot-3.png",OK TV
 https://nyanv-live-cdn.mncnow.id/live/eds/OKTV/sa_dash_vmx/OKTV.mpd
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/P5YwxwPj/Screenshot-3.png" group-title="Lokal",TVRI
 http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINASIONAL)/Stream(04)/index.m3u8
@@ -983,105 +983,124 @@ http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch31)/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/P5YwxwPj/Screenshot-3.png" group-title="Pengetahuan & Alam",Da Vinci
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch371)/index.m3u8
 
-KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
-EXTINF:-1 group-title="Pengetahuan & Alam" tvg-logo="https://i.postimg.cc/P5YwxwPj/Screenshot-3.png",Animal Planet
-#https://nyanv-live-cdn.mncnow.id/live/eds/AnimalPlanet/sa_dash_vmx/AnimalPlanet.mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
+#EXTINF:-1 group-title="Pengetahuan & Alam" tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0",Animal Planet
+https://nyanv-live-cdn.mncnow.id/live/eds/AnimalPlanet/sa_dash_vmx/AnimalPlanet.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
-EXTINF:-1 group-title="Pengetahuan & Alam" tvg-logo="https://i.postimg.cc/P5YwxwPj/Screenshot-3.png",BBC Earth
+#EXTINF:-1 group-title="Pengetahuan & Alam" tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0",BBC Earth
 https://nyanv-live-cdn.mncnow.id/live/eds/BBCEarth-HD/sa_dash_vmx/BBCEarth-HD.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
-EXTINF:-1 group-title="Pengetahuan & Alam" tvg-logo="https://i.postimg.cc/P5YwxwPj/Screenshot-3.png",Besmart
+#EXTINF:-1 group-title="Pengetahuan & Alam" tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0",Besmart
 https://nyanv-live-cdn.mncnow.id/live/eds/BeSmart/sa_dash_vmx/BeSmart.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
-EXTINF:-1 group-title="Pengetahuan & Alam" tvg-logo="https://i.postimg.cc/P5YwxwPj/Screenshot-3.png",CGTN Documentary
+#EXTINF:-1 group-title="Pengetahuan & Alam" tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0",CGTN Documentary
 https://nyanv-live-cdn.mncnow.id/live/eds/CGTN_Doc/sa_dash_vmx/CGTN_Doc.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
-EXTINF:-1 group-title="Pengetahuan & Alam" tvg-logo="https://i.postimg.cc/P5YwxwPj/Screenshot-3.png",Crime + Investigation
+#EXTINF:-1 group-title="Pengetahuan & Alam" tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0",Crime + Investigation
 https://nyanv-live-cdn.mncnow.id/live/eds/CrimeInvestigation/sa_dash_vmx/CrimeInvestigation.mpd
 
-KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
-EXTINF:-1 group-title="Pengetahuan & Alam" tvg-logo="https://i.postimg.cc/P5YwxwPj/Screenshot-3.png",Discovery Channel
-#https://nyanv-live-cdn.mncnow.id/live/eds/Discovery/sa_dash_vmx/Discovery.mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
+#EXTINF:-1 group-title="Pengetahuan & Alam" tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0",Discovery Channel
+https://nyanv-live-cdn.mncnow.id/live/eds/Discovery/sa_dash_vmx/Discovery.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmM,History
-EXTINF:-1 group-title="Pengetahuan & Alam" tvg-logo="https://i.postimg.cc/P5YwxwPj/Screenshot-3.png"History
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
+#EXTINF:-1 group-title="Pengetahuan & Alam" tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0",History
 https://nyanv-live-cdn.mncnow.id/live/eds/History/sa_dash_vmx/History.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
-EXTINF:-1 group-title="Pengetahuan & Alam" tvg-logo="https://i.postimg.cc/P5YwxwPj/Screenshot-3.png",National Geographic
+#EXTINF:-1 group-title="Pengetahuan & Alam" tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0",National Geographic
 https://nyanv-live-cdn.mncnow.id/live/eds/NatGeoChannel/sa_dash_vmx/NatGeoChannel.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
-EXTINF:-1 group-title="Pengetahuan & Alam" tvg-logo="https://i.postimg.cc/P5YwxwPj/Screenshot-3.png",National Geographic Wild
+#EXTINF:-1 group-title="Pengetahuan & Alam" tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0",National Geographic Wild
 https://nyanv-live-cdn.mncnow.id/live/eds/NatGeoWild/sa_dash_vmx/NatGeoWild.mpd
 
-KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
-EXTINF:-1 group-title="Pengetahuan & Alam" tvg-logo="https://i.postimg.cc/P5YwxwPj/Screenshot-3.png",HGTV Asia
-#https://nyanv-live-cdn.mncnow.id/live/eds/HGTV/sa_dash_vmx/HGTV.mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
+#EXTINF:-1 group-title="Pengetahuan & Alam" tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0",HGTV Asia
+https://nyanv-live-cdn.mncnow.id/live/eds/HGTV/sa_dash_vmx/HGTV.mpd
 
-EXTINF:-1 group-title="Pengetahuan & Alam" tvg-logo="https://i.postimg.cc/P5YwxwPj/Screenshot-3.png", Smithsonian Channel
+#EXTINF:-1 group-title="Pengetahuan & Alam" tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0", Smithsonian Channel
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f21ea08007a49000762d349/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-EXTINF:-1 group-title="Pengetahuan & Alam" tvg-logo="https://i.postimg.cc/P5YwxwPj/Screenshot-3.png", Samsung Wild Life
+#EXTINF:-1 group-title="Pengetahuan & Alam" tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0", Samsung Wild Life
 https://d1vp12yk4i8ou5.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/WildLife2-prod/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai=SSSLIVE
 
-EXTINF:-1 group-title="Pengetahuan & Alam" tvg-logo="https://i.postimg.cc/P5YwxwPj/Screenshot-3.png", Love Nature
+#EXTINF:-1 group-title="Pengetahuan & Alam" tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0", Love Nature
 https://d18dyiwu97wm6q.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/LoveNature4K2-prod/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai=SSSLIVE
 
-EXTINF:-1 group-title="Pengetahuan & Alam" tvg-logo="https://i.postimg.cc/P5YwxwPj/Screenshot-3.png", InWonder
+#EXTINF:-1 group-title="Pengetahuan & Alam" tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0", InWonder
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00861-terninternation-inwonderus-samsungus/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
 
-EXTINF:-1 group-title="Pengetahuan & Alam" tvg-logo="https://i.postimg.cc/P5YwxwPj/Screenshot-3.png", Magellan TV Now
+#EXTINF:-1 group-title="Pengetahuan & Alam" tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0", Skills + Thrills
+https://f2886f2b044a4d2d91d501260e0ba14c.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_SkillsAndThrills/playlist.m3u8?ads.wurl_channel=590&ads.wurl_name=SkillsAndThrills&ads.us_privacy=1YNY&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
+
+#EXTINF:-1 group-title="Pengetahuan & Alam" tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0", Magellan TV Now
 https://96f6ab4a7f3c434699b8502a36d670fc.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_MagellanTV/playlist.m3u8?ads.wurl_channel=304&ads.wurl_name=MagellanTV&ads.us_privacy=1---&ads.psid=62274240-07e7-5d94-8dc8-ef68cf19e175&ads.targetopt=0&ads.plex_token=XeztDN3mRuKJPvR9KKni&ads.plex_id=5f5132e262fe160040f26bf2&ads.ua=okhttp%2F4.9.0&ads.app_bundle=com.plexapp.android&ads.app_store_url=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.plexapp.android&ads.gdpr=0&ads.consent=0&ads.device_type=handset&ads.device_id_type=
 
-EXTINF:-1 group-title="Pengetahuan & Alam" tvg-logo="https://i.postimg.cc/P5YwxwPj/Screenshot-3.png", Magellan TV Now
+#EXTINF:-1 group-title="Pengetahuan & Alam" tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0", Magellan TV Now
 https://6ad725dc59bb4e5c99db85fb2607a3f7.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_MagellanTV/playlist.m3u8?ads.us_privacy=1YNY&ads.wurl_channel=304&ads.wurl_name=MagellanTV&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
-EXTINF:-1 group-title="Pengetahuan & Alam" tvg-logo="https://i.postimg.cc/P5YwxwPj/Screenshot-3.png", Vice
+
+#EXTINF:-1 group-title="Pengetahuan & Alam" tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0", Vice
 https://d2do1g43aq7264.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/Vice-prod/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai=SSSLIVE
-EXTINF:-1 group-title="Pengetahuan & Alam" tvg-logo="https://i.postimg.cc/P5YwxwPj/Screenshot-3.png", WildEarth
+
+#EXTINF:-1 group-title="Pengetahuan & Alam" tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0", WildEarth
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-60d4edddb2fdec002c141135.m3u8?X-Plex-Client-Identifier=4f10a11d0159055e-com-plexapp-android&X-Plex-Client-Platform=Android&X-Plex-Token=XeztDN3mRuKJPvR9KKni
-EXTINF:-1 group-title="Pengetahuan & Alam" tvg-logo="https://i.postimg.cc/P5YwxwPj/Screenshot-3.png", Documentary+
+
+#EXTINF:-1 group-title="Pengetahuan & Alam" tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0", Documentary+
 https://d2gplwl9ws0syl.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-a6rg0sjciai0q-ssai-prd/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
-EXTINF:-1 group-title="Pengetahuan & Alam" tvg-logo="https://i.postimg.cc/P5YwxwPj/Screenshot-3.png", Xplore
+
+#EXTINF:-1 group-title="Pengetahuan & Alam" tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0", Xplore
 https://d1h0pre5juliql.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-h9yybm20pnqb8-ssai-prd/amgxplore/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai=SSSLIVE
-EXTINF:-1 group-title="Pengetahuan & Alam" tvg-logo="https://i.postimg.cc/P5YwxwPj/Screenshot-3.png", WeatherSpy
+
+#EXTINF:-1 group-title="Pengetahuan & Alam" tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0", WeatherSpy
 https://7eeb372ee2224dbf9138691d0f5d218b.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_WeatherSpy/playlist.m3u8?ads.wurl_channel=387&ads.wurl_name=WeatherSpy&ads.coppa=0&ads.us_privacy=1YNY&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
-EXTINF:-1 group-title="Pengetahuan & Alam" tvg-logo="https://i.postimg.cc/P5YwxwPj/Screenshot-3.png", Pluto TV History
+
+#EXTINF:-1 group-title="Pengetahuan & Alam" tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0", Pluto TV History
 https://i.mjh.nz/PlutoTV/5d4af1803e7983b391d73b13-alt.m3u8
-EXTINF:-1 group-title="Pengetahuan & Alam" tvg-logo="https://i.postimg.cc/P5YwxwPj/Screenshot-3.png", Pluto TV Adventure
+
+#EXTINF:-1 group-title="Pengetahuan & Alam" tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0", Pluto TV Adventure
 https://i.mjh.nz/PlutoTV/623464d7185bef0007e337c0-alt.m3u8
-EXTINF:-1 group-title="Pengetahuan & Alam" tvg-logo="https://i.postimg.cc/P5YwxwPj/Screenshot-3.png", Pluto TV Space
+
+#EXTINF:-1 group-title="Pengetahuan & Alam" tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0", Pluto TV Space
 https://i.mjh.nz/PlutoTV/5dbc2f98777f2e0009934ae7-alt.m3u8
-EXTINF:-1 group-title="Pengetahuan & Alam" tvg-logo="https://i.postimg.cc/P5YwxwPj/Screenshot-3.png", Pluto TV Science
+
+#EXTINF:-1 group-title="Pengetahuan & Alam" tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0", Pluto TV Science
 https://i.mjh.nz/PlutoTV/563a970aa1a1f7fe7c9daad7-alt.m3u8
-EXTINF:-1 group-title="Pengetahuan & Alam" tvg-logo="https://i.postimg.cc/P5YwxwPj/Screenshot-3.png", Nature Time
+
+#EXTINF:-1 group-title="Pengetahuan & Alam" tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0", Nature Time
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00090-blueantllc-lovenatureau-samsungnz/playlist.m3u8
-EXTINF:-1 group-title="Pengetahuan & Alam" tvg-logo="https://i.postimg.cc/P5YwxwPj/Screenshot-3.png", HistoryHit
+
+#EXTINF:-1 group-title="Pengetahuan & Alam" tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0", History Hit
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00426-littledotstudio-timelinenz-samsungnz/playlist.m3u8
-EXTINF:-1 group-title="Pengetahuan & Alam" tvg-logo="https://i.postimg.cc/P5YwxwPj/Screenshot-3.png", Real Wild
+
+#EXTINF:-1 group-title="Pengetahuan & Alam" tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0", Real Wild
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00426-littledotstudio-realwildnz-samsungnz/playlist.m3u8
-EXTINF:-1 group-title="Pengetahuan & Alam" tvg-logo="https://i.postimg.cc/P5YwxwPj/Screenshot-3.png", Outdoor Channel
+
+#EXTINF:-1 group-title="Pengetahuan & Alam" tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0", Outdoor Channel
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00718-outdoorchannela-outdoortvnz-samsungnz/playlist.m3u8
-EXTINF:-1 group-title="Pengetahuan & Alam" tvg-logo="https://i.postimg.cc/P5YwxwPj/Screenshot-3.png", Global Trekker
-http://edge.linknetott.swiftserve.com/channelgroup4/cg434production/ch366/02.m3u8
-EXTINF:-1 group-title="Pengetahuan & Alam" tvg-logo="https://i.postimg.cc/P5YwxwPj/Screenshot-3.png", Earth TV The World Live 24/7
-#https://devds.site/api/youlive.m3u8?v=b-PyEswUenE
-EXTINF:-1 group-title="Pengetahuan & Alam" tvg-logo="https://i.postimg.cc/P5YwxwPj/Screenshot-3.png", Earth TV The World Live Showcase 24/7
-#https://devds.site/api/youlive.m3u8?v=NpeZcVgHlcI
+
+#EXTINF:-1 group-title="Pengetahuan & Alam" tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0", Earth TV The World Live 24/7
+https://devds.site/api/youlive.m3u8?v=b-PyEswUenE
+
+#EXTINF:-1 group-title="Pengetahuan & Alam" tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0", Earth TV The World Live Showcase 24/7
+https://devds.site/api/youlive.m3u8?v=NpeZcVgHlcI
+
+
+
 
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -1097,14 +1116,10 @@ http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch354)/index.m3u
 
 #EXTINF:-1 group-title="Hiburan & Gaya Hidup" tvg-logo="https://i.postimg.cc/P5YwxwPj/Screenshot-3.png", TLC
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch35)/index.m3u8
-
-
-
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZW
 #EXTINF:-1 group-title="Hiburan & Gaya Hidup" tvg-logo="https://i.postimg.cc/P5YwxwPj/Screenshot-3.png",Lifestyle & Fashion
 https://nyanv-live-cdn.mncnow.id/live/eds/LifeStyleFashion/sa_dash_vmx/LifeStyleFashion.mpd
-
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
 #EXTINF:-1 group-title="Hiburan & Gaya Hidup" tvg-logo="https://i.postimg.cc/P5YwxwPj/Screenshot-3.png",MNC Entertainment
@@ -1164,8 +1179,6 @@ https://dzgc9z8yuogwk.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a
 https://da48ygj8xribp.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-nqz4iiv4surws-ssai-prd/hls-harvester2-1293-prod-eucentral1/eu-central-1/cc-nqz4iiv4surws/master.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
 ===========================================================================================
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/P5YwxwPj/Screenshot-3.png" group-title="Berita Internasional", Update Playlist Terbaru
-https://dl.dropboxusercontent.com/s/7lovt761n44ueza/VID_20220526221756.mp4?dl=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
