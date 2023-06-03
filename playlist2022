@@ -618,716 +618,598 @@ http://210.210.155.37/uq2663/h/h08/index.m3u8
 
 ====================================================================
 
-#EXTINF:-1 group-title="Movies & Hiburan 2" tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0", K-Stories By CJ ENM
+#EXTINF:-1 group-title="Movies & Hiburan" tvg-logo="https://i.postimg.cc/P5YwxwPj/Screenshot-3.png", K-Stories By CJ ENM
 https://d50a1g0nh14ou.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/CJ-ENM-prod/e91c6419_2e45_4f6c_a646_b912658d73b8/hls/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
-
-#EXTINF:-1 group-title="Movies & Hiburan 2" tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0", NEW KMOVIES
+#EXTINF:-1 group-title="Movies & Hiburan" tvg-logo="https://i.postimg.cc/P5YwxwPj/Screenshot-3.png", NEW KMOVIES
 https://bd281c27a16f4a7fb4a88260378e8082.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_NewMovies/playlist.m3u8?ads.wurl_channel=618&ads.wurl_name=NewMovies&ads.us_privacy=1YNY&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
-
-#EXTINF:-1 group-title="Movies & Hiburan 2" tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0", MovieSphere
+#EXTINF:-1 group-title="Movies & Hiburan" tvg-logo="https://i.postimg.cc/P5YwxwPj/Screenshot-3.png", MovieSphere
 https://samsunguk-moviesphereuk-samsung-uk-s7xaa.amagi.tv/playlist/samsunguk-moviesphereuk-samsung-uk/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.tc_string=%7BTC_STRING%7D&ads.coppa=0
-
-#EXTINF:-1 group-title="Movies & Hiburan 2" tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0", MovieSphere By LIONSGATE
+#EXTINF:-1 group-title="Movies & Hiburan" tvg-logo="https://i.postimg.cc/P5YwxwPj/Screenshot-3.png", MovieSphere By LIONSGATE
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/samsungus-moviesphere-samsung-samsungus/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
-
-#EXTINF:-1 group-title="Movies & Hiburan 2" tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0", MovieSphere By LIONSGATE
+#EXTINF:-1 group-title="Movies & Hiburan" tvg-logo="https://i.postimg.cc/P5YwxwPj/Screenshot-3.png", MovieSphere By LIONSGATE
 https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,MovieSphere.m3u8
-
-#EXTINF:-1 group-title="Movies & Hiburan 2" tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0", The Walking Dead Universe
+#EXTINF:-1 group-title="Movies & Hiburan" tvg-logo="https://i.postimg.cc/P5YwxwPj/Screenshot-3.png", The Walking Dead Universe
 https://22985209144b4ff78289fbb19f55e93e.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Plex_TWDUniverseExperience/playlist.m3u8?ads.wurl_channel=565&ads.wurl_name=TWDUniverseExperience&ads.coppa=0&ads.us_privacy=1---&ads.psid=62274240-07e7-5d94-8dc8-ef68cf19e175&ads.targetopt=0&ads.plex_token=sQN_f5E2o3f4xpcEPue3&ads.plex_id=5fc705ff2f220e002d5e6bce&ads.ua=okhttp%2F4.9.0&ads.app_bundle=com.plexapp.android&ads.app_store_url=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.plexapp.android&ads.gdpr=0&ads.consent=0&ads.device_type=handset&ads.device_id_type=
-
-EXTINF:-1 group-title="Movies & Hiburan 2" tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0", The Walking Dead Universe 2
-#https://645c5b3f342a4329a847a557fbe77b05.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_TWDUniverseTV14/playlist.m3u8?ads.wurl_channel=844&ads.wurl_name=TWDUniverseTV14&ads.coppa=0&ads.us_privacy=1YNY&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
-
-#EXTINF:-1 group-title="Movies & Hiburan 2" tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0", AMC Thrillers
-https://436f59579436473e8168284cac5d725f.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_RushByAMC/playlist.m3u8?ads.wurl_channel=476&ads.wurl_name=RushByAMC&ads.us_privacy=1---&ads.psid=62274240-07e7-5d94-8dc8-ef68cf19e175&ads.targetopt=0&ads.plex_token=sQN_f5E2o3f4xpcEPue3&ads.plex_id=5fc705e2a2236e002d69f36d&ads.ua=okhttp%2F4.9.0&ads.app_bundle=com.plexapp.android&ads.app_store_url=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.plexapp.android&ads.gdpr=0&ads.consent=0&ads.device_type=handset&ads.device_id_type=
-#https://bit.ly/3DVMI2j
-
-#EXTINF:-1 group-title="Movies & Hiburan 2" tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0", Stories by AMC
-https://5def33c73f084e11a19ca77697d6b413.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_AMCPresents/playlist.m3u8?ads.wurl_channel=474&ads.wurl_name=AMCPresents&ads.us_privacy=1---&ads.psid=62274240-07e7-5d94-8dc8-ef68cf19e175&ads.targetopt=0&ads.plex_token=sQN_f5E2o3f4xpcEPue3&ads.plex_id=5fc705e2a2236e002d69f3ba&ads.ua=okhttp%2F4.9.0&ads.app_bundle=com.plexapp.android&ads.app_store_url=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.plexapp.android&ads.gdpr=0&ads.consent=0&ads.device_type=handset&ads.device_id_type=
-#https://bit.ly/3SRLf1h
-
-#EXTINF:-1 group-title="Movies & Hiburan 2" tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0", 24 Hour Free Movies
+#EXTINF:-1 group-title="Movies & Hiburan" tvg-logo="https://i.postimg.cc/P5YwxwPj/Screenshot-3.png", 24 Hour Free Movies
 https://d15690s323oesy.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/UDU-Plex2/145.m3u8?ads.plex_token=sQN_f5E2o3f4xpcEPue3&ads.channel_Id=5fd115bab7ef8d002dcf181d&ads.did=62274240-07e7-5d94-8dc8-ef68cf19e175&ads.partnerChannel=muxip.24hourmovies&ads.dnt=0&ads.app_bundle=com.plexapp.android&ads.app_name=plex&ads.app_domain=app.plex.tv&ads.app_store_url=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.plexapp.android&ads.channel_name=24hourmovies&ads.us_privacy=1---&ads.gdpr=0&ads.consent=0
-#https://bit.ly/3dHN7dQ
-
-#EXTINF:-1 group-title="Movies & Hiburan 2" tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0", Galxy TV
+#EXTINF:-1 group-title="Movies & Hiburan" tvg-logo="https://i.postimg.cc/P5YwxwPj/Screenshot-3.png", Galxy TV
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-621672e42c2627c068e73ad8.m3u8?X-Plex-Client-Identifier=4f10a11d0159055e-com-plexapp-android&X-Plex-Client-Platform=Android&X-Plex-Token=ngiGKoEb44-shV7k85SB
-
-#EXTINF:-1 group-title="Movies & Hiburan 2" tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0", IFC Films Picks
-https://423a4f21fb8d45a4a7e4bd304a14e2f0.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_IFCFilmsPicks/playlist.m3u8?ads.wurl_channel=563&ads.wurl_name=IFCFilmsPicks&ads.us_privacy=1---&ads.psid=62274240-07e7-5d94-8dc8-ef68cf19e175&ads.targetopt=0&ads.plex_token=sQN_f5E2o3f4xpcEPue3&ads.plex_id=5fc705eb052f6f002ef46057&ads.ua=okhttp%2F4.9.0&ads.app_bundle=com.plexapp.android&ads.app_store_url=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.plexapp.android&ads.gdpr=0&ads.consent=0&ads.device_type=handset&ads.device_id_type=
-#https://bit.ly/3LLOMf4
-
-#EXTINF:-1 group-title="Movies & Hiburan 2" tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0", AsianCrush
-https://dc447fbd44e44d33b66b90c1eaaefec1.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_AsianCrush/playlist.m3u8?ads.wurl_channel=269&ads.wurl_name=AsianCrush&ads.us_privacy=1---&ads.psid=62274240-07e7-5d94-8dc8-ef68cf19e175&ads.targetopt=0&ads.plex_token=sQN_f5E2o3f4xpcEPue3&ads.plex_id=5eea605474085f0040ddc767&ads.ua=okhttp%2F4.9.0&ads.app_bundle=com.plexapp.android&ads.app_store_url=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.plexapp.android&ads.gdpr=0&ads.consent=0&ads.device_type=handset&ads.device_id_type=
-#https://bit.ly/3DVAp5P
-
-#EXTINF:-1 group-title="Movies & Hiburan 2" tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0", Dark Matter TV
-https://amg00434-tricoasttvllc-darkmatter-plex-a0u9r.amagi.tv/playlist/amg00434-tricoasttvllc-darkmatter-plex/playlist.m3u8?us_privacy=1---&did=62274240-07e7-5d94-8dc8-ef68cf19e175&dnt=0&X-Plex-Token=JoNYGj1bF5swTq531QQg&channelId=5eea605674085f0040ddc7a6&ads.us_privacy=1---&ads.did=62274240-07e7-5d94-8dc8-ef68cf19e175&ads.dnt=0&ads.X-Plex-Token=JoNYGj1bF5swTq531QQg&ads.channelId=5eea605674085f0040ddc7a6
-https://dcicealhbcymw.cloudfront.net/strm/link/darkmatter.m3u8
-
-#EXTINF:-1 group-title="Movies & Hiburan 2" tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0", Watch it SCREAM
+#EXTINF:-1 group-title="Movies & Hiburan" tvg-logo="https://i.postimg.cc/P5YwxwPj/Screenshot-3.png", Watch it SCREAM
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=2257&live=1&avod=1&site_page=__PAGEURL_ESC__&site_name=Watchit%20Scream%21&hls_marker=1&cb=__CACHE_BUSTER__&ip=__CLIENT_IP__&ua=__USER_AGENT__&player_height=__HEIGHT__&player_width=__WIDTH__&is_lat=__LIMIT_AD_TRACKING__
-
-#EXTINF:-1 group-title="Movies & Hiburan 2" tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0", Watch it SCREAM
+#EXTINF:-1 group-title="Movies & Hiburan" tvg-logo="https://i.postimg.cc/P5YwxwPj/Screenshot-3.png", Watch it SCREAM
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-621671d05abdd3d5556a1baf.m3u8?X-Plex-Client-Identifier=4f10a11d0159055e-com-plexapp-android&X-Plex-Client-Platform=Android&X-Plex-Token=VrfsQATxN1fP6dzkXEfV
-
-#EXTINF:-1 group-title="Movies & Hiburan 2" tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0", KBS Drama
+#EXTINF:-1 group-title="Movies & Hiburan" tvg-logo="https://i.postimg.cc/P5YwxwPj/Screenshot-3.png", KBS Drama
 http://ye23.vip/z7z8/2021/kbs2020.php?id=5
-
-#EXTINF:-1 group-title="Movies & Hiburan 2" tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0", MyTime Movie Network
+#EXTINF:-1 group-title="Movies & Hiburan" tvg-logo="https://i.postimg.cc/P5YwxwPj/Screenshot-3.png", MyTime Movie Network
 https://appletree-mytimeuk-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-mytime-uk-rakuten/CDN/master.m3u8
-
-#EXTINF:-1 group-title="Movies & Hiburan 2" tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0", Gravitas Movies
+#EXTINF:-1 group-title="Movies & Hiburan" tvg-logo="https://i.postimg.cc/P5YwxwPj/Screenshot-3.png", Gravitas Movies
 https://cba5182b39c145c2b96ecc5c3f72e41a.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_GravitasMovies/playlist.m3u8?ads.wurl_channel=154&ads.wurl_name=GravitasMovies&ads.us_privacy=1---&ads.psid=62274240-07e7-5d94-8dc8-ef68cf19e175&ads.targetopt=0&ads.plex_token=b9tDdN13sTu4tKHzb-xN&ads.plex_id=5efe1de7e0b3f5003f5d9f8e&ads.ua=okhttp/4.9.0&ads.app_bundle=com.plexapp.android&ads.app_store_url=https://play.google.com/store/apps/details?id=com.plexapp.android&ads.gdpr=0&ads.consent=0&ads.device_type=handset&ads.device_id_type=
-
-#EXTINF:-1 group-title="Movies & Hiburan 2" tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0", Hi-Yah
+#EXTINF:-1 group-title="Movies & Hiburan" tvg-logo="https://i.postimg.cc/P5YwxwPj/Screenshot-3.png, Hi-Yah
 https://linear-59.frequency.stream/dist/localnow/59/hls/master/playlist.m3u8
-
-#EXTINF:-1 group-title="Movies & Hiburan 2" tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0", New Movies
+#EXTINF:-1 group-title="Movies & Hiburan" tvg-logo="https://i.postimg.cc/P5YwxwPj/Screenshot-3.png", New Movies
 https://ads.its-newid.net/api/manifest.m3u8?tp=samsung_tvplus&channel_name=newmovies&channel_id=newid_013&apikey=b97c7a7d0c82424bb607e141ef215779&auth=ef4722f8-0f04540c-5195b5f1-d5b74e3a&ads.live=%5BCONTENT_LIVE%5D&ads.device_did=%7BPSID%7D&ads.ifa=%5BIFA%5D&ads.ifatype=%5BIFA_TYPE%5D&ads.lat=%5BLMT%5D&ads.donotsell=%5BDNS%5D&ads.ip=%5BIP%5D&ads.gdpr=%5BGDPR%5D&ads.gdprconsent=%5BGDPR_CONSENT%5D&ads.country=%5BCOUNTRY%5D&ads.us_privacy=%5BUS_PRIVACY%5D&ads.appstoreurl=%5BAPP_STOREURL%5D&ads.bundleid=%5BAPP_BUNDLE%5D&ads.app.name=%7BAPP_NAME%7D&ads.appversion=%5BAPP_VERSION%5D&ads.devicetype=%5BDEVICE_TYPE%5D&ads.devicemake=%5BDEVICE_MAKE%5D&ads.devicemodel=%5BDEVICE_MODEL%5D&ads.targetad=%5BTARGETAD_ALLOWED%5D&ads.content_title=%5BPROGRAM_TITLE%5D&ads.content_series=%5BSERIES_TITLE%5D&ads.content_season=%5BSEASON_TITLE%5D&ads.content_episode=%5BEPISODE_NO%5D&ads.content_length=%5BCONTENT_LENGTH%5D&ads.device.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
-
-#EXTINF:-1 group-title="Movies & Hiburan 2" tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0", ScreamBox TV
+#EXTINF:-1 group-title="Movies & Hiburan" tvg-logo="https://i.postimg.cc/P5YwxwPj/Screenshot-3.png", ScreamBox TV
 https://bloodydisgusting-localnow.cinedigm.com/playlist.m3u8
-
-#EXTINF:-1 group-title="Movies & Hiburan 2" tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0", Alter
+#EXTINF:-1 group-title="Movies & Hiburan" tvg-logo="https://i.postimg.cc/P5YwxwPj/Screenshot-3.png", Alter
 https://d2a5daycfw06m9.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-4tpex1gnbjekk-prod/amg-gunpowder-alter/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai=SSSLIVE
-
-#EXTINF:-1 group-title="Movies & Hiburan 2" tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0", Alter
+#EXTINF:-1 group-title="Movies & Hiburan" tvg-logo="https://i.postimg.cc/P5YwxwPj/Screenshot-3.png", Alter
 https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Alter.m3u8
-
-#EXTINF:-1 group-title="Movies & Hiburan 2" tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0", Adrenaline Rush
+#EXTINF:-1 group-title="Movies & Hiburan" tvg-logo="https://i.postimg.cc/P5YwxwPj/Screenshot-3.png", Adrenaline Rush
 https://linear-133.frequency.stream/dist/localnow/133/hls/master/playlist.m3u8
-
-#EXTINF:-1 group-title="Movies & Hiburan 2" tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0", Crackle
+#EXTINF:-1 group-title="Movies & Hiburan" tvg-logo="https://i.postimg.cc/P5YwxwPj/Screenshot-3.png", Crackle
 https://amg00540-crackleplusllc-crackle-localnow-ujykb.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 group-title="Movies & Hiburan 2" tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0", Horror 24/7
+#EXTINF:-1 group-title="Movies & Hiburan" tvg-logo="https://i.postimg.cc/P5YwxwPj/Screenshot-3.png", Horror 24/7
 https://d2poaftv7vl6fy.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-6sd5tbxf0p3kk-ssai-prd/amgholidaymovie/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai=SSSLIVE
-
-#EXTINF:-1 group-title="Movies & Hiburan 2" tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0", Horror Machine
+#EXTINF:-1 group-title="Movies & Hiburan" tvg-logo="https://i.postimg.cc/P5YwxwPj/Screenshot-3.png", Horror Machine
 https://linear-82.frequency.stream/dist/localnow/82/hls/master/playlist.m3u8
-
-#EXTINF:-1 group-title="Movies & Hiburan 2" tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0", Horror TV
+#EXTINF:-1 group-title="Movies & Hiburan" tvg-logo="https://i.postimg.cc/P5YwxwPj/Screenshot-3.png", Horror TV
 https://horror-tv-local-now.evrideo.tv/ccccf7f5-d10c-46b1-bd10-fdd3a184a958_1000014577_HLS/master.m3u8
-
-#EXTINF:-1 group-title="Movies & Hiburan 2" tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0", Popcorn Flix
+#EXTINF:-1 group-title="Movies & Hiburan" tvg-logo="https://i.postimg.cc/P5YwxwPj/Screenshot-3.png", Popcorn Flix
 https://amg00540-crackleplusllc-popcornflix-localnow-vln1v.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 group-title="Movies & Hiburan 2" tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0", Movies of The Week
+#EXTINF:-1 group-title="Movies & Hiburan" tvg-logo="https://i.postimg.cc/P5YwxwPj/Screenshot-3.png", Movies of The Week
 https://linear-236.frequency.stream/dist/localnow/236/hls/master/playlist.m3u8
-
-#EXTINF:-1 group-title="Movies & Hiburan 2" tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0", LN 21st Century Cinema
+#EXTINF:-1 group-title="Movies & Hiburan" tvg-logo="https://i.postimg.cc/P5YwxwPj/Screenshot-3.png", LN 21st Century Cinema
 https://linear-455.frequency.stream/dist/localnow/455/hls/master/playlist.m3u8
-
-#EXTINF:-1 group-title="Movies & Hiburan 2" tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0", LN 80s & 90s Rewind
+#EXTINF:-1 group-title="Movies & Hiburan" tvg-logo="https://i.postimg.cc/P5YwxwPj/Screenshot-3.png", LN 80s & 90s Rewind
 https://linear-456.frequency.stream/dist/localnow/456/hls/master/playlist.m3u8
-
-#EXTINF:-1 group-title="Movies & Hiburan 2" tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0", Kung Fu Movies
+#EXTINF:-1 group-title="Movies & Hiburan" tvg-logo="https://i.postimg.cc/P5YwxwPj/Screenshot-3.png", Kung Fu Movies
 https://d3e900fnvjyq99.cloudfront.net/d/XUU229YVT9R4U3TK0SQC/hls3/now_-1m_15s/m.m3u8?ads.vast_id=657330
-
-#EXTINF:-1 group-title="Movies & Hiburan 2" tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0", Free Movies Plus
+#EXTINF:-1 group-title="Movies & Hiburan" tvg-logo="https://i.postimg.cc/P5YwxwPj/Screenshot-3.png", Free Movies Plus
 https://ottstudio-freemoviesplus-1-us.vidaa.wurl.tv/playlist.m3u8
-
-#EXTINF:-1 group-title="Movies & Hiburan 2" tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0", COMET
+#EXTINF:-1 group-title="Movies & Hiburan" tvg-logo="https://i.postimg.cc/P5YwxwPj/Screenshot-3.png", COMET
 http://content.uplynk.com/channel/3e45c6b5354a40f787e0b2aadb0f5d6a.m3u8
-
-#EXTINF:-1 group-title="Movies & Hiburan 2" tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0", CHARGE!
+#EXTINF:-1 group-title="Movies & Hiburan" tvg-logo="https://i.postimg.cc/P5YwxwPj/Screenshot-3.png", CHARGE!
 http://content.uplynk.com/channel/37eb732888614810b512fdd82604244e.m3u8
-
-#EXTINF:-1 group-title="Movies & Hiburan 2" tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0", FRIGHTFLIX
+#EXTINF:-1 group-title="Movies & Hiburan" tvg-logo="https://i.postimg.cc/P5YwxwPj/Screenshot-3.png", FRIGHTFLIX
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=2253&live=1&avod=1&site_page=__PAGEURL_ESC__&site_name=Frightflix&hls_marker=1&cb=__CACHE_BUSTER__&ip=__CLIENT_IP__&ua=__USER_AGENT__&player_height=__HEIGHT__&player_width=__WIDTH__&is_lat=__LIMIT_AD_TRACKING__
-
-#EXTINF:-1 group-title="Movies & Hiburan 2" tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0", Red Box Free Movies
+#EXTINF:-1 group-title="Movies & Hiburan" tvg-logo="https://i.postimg.cc/P5YwxwPj/Screenshot-3.png", Red Box Free Movies
 https://spotlight-redbox.amagi.tv/hls/amagi_hls_data_redboxAAA-spotlight/CDN/playlist.m3u8
-
-#EXTINF:-1 group-title="Movies & Hiburan 2" tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0", Red Box Movies Romance
+#EXTINF:-1 group-title="Movies & Hiburan" tvg-logo="https://i.postimg.cc/P5YwxwPj/Screenshot-3.png", Red Box Movies Romance
 https://redbox-holiday-lg.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 group-title="Movies & Hiburan 2" tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0", Red Box Movies War & Westerns
+#EXTINF:-1 group-title="Movies & Hiburan" tvg-logo="https://i.postimg.cc/P5YwxwPj/Screenshot-3.png", Red Box Movies War & Westerns
 https://redbox-warandwesterns-lg.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 group-title="Movies & Hiburan 2" tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0", ION
+#EXTINF:-1 group-title="Movies & Hiburan" tvg-logo="https://i.postimg.cc/P5YwxwPj/Screenshot-3.png", ION
 https://22efc0415b994402907c019895d9f1de.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Samsung_ION/playlist.m3u8?ads.wurl_channel=1116&ads.wurl_name=ION&ads.coppa=0&ads.us_privacy=1YNY&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
-
-#EXTINF:-1 group-title="Movies & Hiburan 2" tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0", ION
+#EXTINF:-1 group-title="Movies & Hiburan" tvg-logo="https://i.postimg.cc/P5YwxwPj/Screenshot-3.png", ION
 https://scripps-ion-1-us.lg.wurl.tv/playlist.m3u8
-
-#EXTINF:-1 group-title="Movies & Hiburan 2" tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0", ION PLUS
+#EXTINF:-1 group-title="Movies & Hiburan" tvg-logo="https://i.postimg.cc/P5YwxwPj/Screenshot-3.png", ION PLUS
 https://ea2f4b54cd2d457290e6c34468dffb10.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_IonPlus/playlist.m3u8?ads.wurl_channel=378&ads.wurl_name=IonPlus&ads.us_privacy=1YNY&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
-
-#EXTINF:-1 group-title="Movies & Hiburan 2" tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0", ION PLUS
+#EXTINF:-1 group-title="Movies & Hiburan" tvg-logo="https://i.postimg.cc/P5YwxwPj/Screenshot-3.png", ION PLUS
 https://ion-ion-plus-1-us.lg.wurl.tv/playlist.m3u8
-
-#EXTINF:-1 group-title="Movies & Hiburan 2" tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0", Movies 4 Free
+#EXTINF:-1 group-title="Movies & Hiburan" tvg-logo="https://i.postimg.cc/P5YwxwPj/Screenshot-3.png", Movies 4 Free
 https://movies4free-lg.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 group-title="Movies & Hiburan 2" tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0", The Movie Hub
+#EXTINF:-1 group-title="Movies & Hiburan" tvg-logo="https://i.postimg.cc/P5YwxwPj/Screenshot-3.png", The Movie Hub
 https://dje6yassknq8t.cloudfront.net/playlist.m3u8
-
-#EXTINF:-1 group-title="Movies & Hiburan 2" tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0", Movie Favorites by Lifetime
+#EXTINF:-1 group-title="Movies & Hiburan" tvg-logo="https://i.postimg.cc/P5YwxwPj/Screenshot-3.png", Movie Favorites by Lifetime
 https://f5b9bc01fe7743cca70b3f58a7e1273a.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/Samsung_MovieFavoritesbyLifetime/playlist.m3u8?ads.wurl_channel=999&ads.wurl_name=MovieFavoritesbyLifetime&ads.coppa=0&ads.us_privacy=1YNY&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
-
-#EXTINF:-1 group-title="Movies & Hiburan 2" tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0", Moviedome
+#EXTINF:-1 group-title="Movies & Hiburan" tvg-logo="https://i.postimg.cc/P5YwxwPj/Screenshot-3.png", Moviedome
 https://amg00771-kochfilmsgerman-moviedomeuk-samsunguk-ua2if.amagi.tv/playlist/amg00771-kochfilmsgerman-moviedomeuk-samsunguk/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.tc_string=%7BTC_STRING%7D&ads.coppa=0
-
-#EXTINF:-1 group-title="Movies & Hiburan 2" tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0", POPFLIX
+#EXTINF:-1 group-title="Movies & Hiburan" tvg-logo="https://i.postimg.cc/P5YwxwPj/Screenshot-3.png", POPFLIX
 https://af4689b464b143c89c08aab63ce4718d.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Samsung-gb_Popflix/playlist.m3u8?ads.wurl_channel=1068&ads.wurl_name=Popflix&ads.coppa=0&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
-
-#EXTINF:-1 group-title="Movies & Hiburan 2" tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0", Film Stream
+#EXTINF:-1 group-title="Movies & Hiburan" tvg-logo="https://i.postimg.cc/P5YwxwPj/Screenshot-3.png", Film Stream
 https://1d508cb028524796ae97266f16331b51.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-in_Filmstream/playlist.m3u8?ads.wurl_channel=422&ads.wurl_name=Filmstream&ads.coppa=0&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
-
-#EXTINF:-1 group-title="Movies & Hiburan 2" tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0", Midnight Pulp
+#EXTINF:-1 group-title="Movies & Hiburan" tvg-logo="https://i.postimg.cc/P5YwxwPj/Screenshot-3.png", Midnight Pulp
 https://9c59d528776940fc9817c9571867375a.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_MidnightPulp-1/playlist.m3u8?ads.wurl_channel=678&ads.wurl_name=MidnightPulp&ads.us_privacy=1YNY&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
-
-#EXTINF:-1 group-title="Movies & Hiburan 2" tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0", ElectricNow
+#EXTINF:-1 group-title="Movies & Hiburan" tvg-logo="https://i.postimg.cc/P5YwxwPj/Screenshot-3.png", ElectricNow
 https://dm1y3xxivi9lk.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-icxyqeotf73n4-prod/elec/en/elec_en.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai=SSSLIVE
-
-EXTINF:-1 group-title="Movies & Hiburan 2" tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0", Action Hollywood Movies
-#https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-actionhollywood-samsungnz/playlist.m3u8
-
-EXTINF:-1 group-title="Movies & Hiburan 2" tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0", CineView
-#https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-rialto-samsungnz/playlist.m3u8
 
 ========================================================================
 
 
-#EXTINF:-1 group-title="Movies & Hiburan 3 (Horror, Terror, & Thriller)" tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0", Pluto TV Horror
+
+#EXTINF:-1 group-title="Movies & Hiburan" tvg-logo="https://i.postimg.cc/P5YwxwPj/Screenshot-3.png", Pluto TV Horror
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/569546031a619b8f07ce6e25/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 group-title="Movies & Hiburan 3 (Horror, Terror, & Thriller)" tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0", Pluto TV Terror
+
+#EXTINF:-1 group-title="Movies & Hiburan" tvg-logo="https://i.postimg.cc/P5YwxwPj/Screenshot-3.png", Pluto TV Terror
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5c6dc88fcd232425a6e0f06e/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 group-title="Movies & Hiburan 3 (Horror, Terror, & Thriller)" tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0", Pluto TV Thriller
+
+#EXTINF:-1 group-title="Movies & Hiburan" tvg-logo="https://i.postimg.cc/P5YwxwPj/Screenshot-3.png", Pluto TV Thriller
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5b4e69e08291147bd04a9fd7/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 group-title="Movies & Hiburan 3 (Horror, Terror, & Thriller)" tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0", Pluto TV Cult Films
+
+#EXTINF:-1 group-title="Movies & Hiburan" tvg-logo="https://i.postimg.cc/P5YwxwPj/Screenshot-3.png", Pluto TV Cult Films
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5c665db3e6c01b72c4977bc2/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 group-title="Movies & Hiburan 3 (Horror, Terror, & Thriller)" tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0", AMC Thrillers
+
+#EXTINF:-1 group-title="Movies & Hiburan" tvg-logo="https://i.postimg.cc/P5YwxwPj/Screenshot-3.png", AMC Thrillers
 https://436f59579436473e8168284cac5d725f.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_RushByAMC/playlist.m3u8?ads.wurl_channel=476&ads.wurl_name=RushByAMC&ads.us_privacy=1---&ads.psid=62274240-07e7-5d94-8dc8-ef68cf19e175&ads.targetopt=0&ads.plex_token=sQN_f5E2o3f4xpcEPue3&ads.plex_id=5fc705e2a2236e002d69f36d&ads.ua=okhttp%2F4.9.0&ads.app_bundle=com.plexapp.android&ads.app_store_url=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.plexapp.android&ads.gdpr=0&ads.consent=0&ads.device_type=handset&ads.device_id_type=
-#EXTINF:-1 group-title="Movies & Hiburan 3 (Horror, Terror, & Thriller)" tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0", The Walking Dead Universe
+
+#EXTINF:-1 group-title="Movies & Hiburan" tvg-logo="https://i.postimg.cc/P5YwxwPj/Screenshot-3.png", The Walking Dead Universe
 https://22985209144b4ff78289fbb19f55e93e.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Plex_TWDUniverseExperience/playlist.m3u8?ads.wurl_channel=565&ads.wurl_name=TWDUniverseExperience&ads.coppa=0&ads.us_privacy=1---&ads.psid=62274240-07e7-5d94-8dc8-ef68cf19e175&ads.targetopt=0&ads.plex_token=sQN_f5E2o3f4xpcEPue3&ads.plex_id=5fc705ff2f220e002d5e6bce&ads.ua=okhttp%2F4.9.0&ads.app_bundle=com.plexapp.android&ads.app_store_url=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.plexapp.android&ads.gdpr=0&ads.consent=0&ads.device_type=handset&ads.device_id_type=
 
-#EXTINF:-1 group-title="Movies & Hiburan 3 (Horror, Terror, & Thriller)" tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0", Dark Matter TV
+#EXTINF:-1 group-title="Movies & Hiburan" tvg-logo="https://i.postimg.cc/P5YwxwPj/Screenshot-3.png", Dark Matter TV
 https://amg00434-tricoasttvllc-darkmatter-plex-a0u9r.amagi.tv/playlist/amg00434-tricoasttvllc-darkmatter-plex/playlist.m3u8?us_privacy=1---&did=62274240-07e7-5d94-8dc8-ef68cf19e175&dnt=0&X-Plex-Token=JoNYGj1bF5swTq531QQg&channelId=5eea605674085f0040ddc7a6&ads.us_privacy=1---&ads.did=62274240-07e7-5d94-8dc8-ef68cf19e175&ads.dnt=0&ads.X-Plex-Token=JoNYGj1bF5swTq531QQg&ads.channelId=5eea605674085f0040ddc7a6
 https://dcicealhbcymw.cloudfront.net/strm/link/darkmatter.m3u8
 
-#EXTINF:-1 group-title="Movies & Hiburan 3 (Horror, Terror, & Thriller)" tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0", Alter
+#EXTINF:-1 group-title="Movies & Hiburan" tvg-logo="https://i.postimg.cc/P5YwxwPj/Screenshot-3.png", Alter
 https://d2a5daycfw06m9.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-4tpex1gnbjekk-prod/amg-gunpowder-alter/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai=SSSLIVE
 
-#EXTINF:-1 group-title="Movies & Hiburan 3 (Horror, Terror, & Thriller)" tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0", Alter
+#EXTINF:-1 group-title="Movies & Hiburan" tvg-logo="https://i.postimg.cc/P5YwxwPj/Screenshot-3.png", Alter
 https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Alter.m3u8
 
-#EXTINF:-1 group-title="Movies & Hiburan 3 (Horror, Terror, & Thriller)" tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0", Watch It Scream
+
+#EXTINF:-1 group-title="Movies & Hiburan" tvg-logo="https://i.postimg.cc/P5YwxwPj/Screenshot-3.png", Watch It Scream
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=2257&live=1&avod=1&site_page=__PAGEURL_ESC__&site_name=Watchit%20Scream%21&hls_marker=1&cb=__CACHE_BUSTER__&ip=__CLIENT_IP__&ua=__USER_AGENT__&player_height=__HEIGHT__&player_width=__WIDTH__&is_lat=__LIMIT_AD_TRACKING__
 
-#EXTINF:-1 group-title="Movies & Hiburan 3 (Horror, Terror, & Thriller)" tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0", Watch It Scream
+
+#EXTINF:-1 group-title="Movies & Hiburan" tvg-logo="https://i.postimg.cc/P5YwxwPj/Screenshot-3.png", Watch It Scream
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-621671d05abdd3d5556a1baf.m3u8?X-Plex-Client-Identifier=4f10a11d0159055e-com-plexapp-android&X-Plex-Client-Platform=Android&X-Plex-Token=VrfsQATxN1fP6dzkXEfV
 
-#EXTINF:-1 group-title="Movies & Hiburan 3 (Horror, Terror, & Thriller)" tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0", ScreamBox TV
+
+#EXTINF:-1 group-title="Movies & Hiburan" tvg-logo="https://i.postimg.cc/P5YwxwPj/Screenshot-3.png", ScreamBox TV
 https://bloodydisgusting-localnow.cinedigm.com/playlist.m3u8
 
-#EXTINF:-1 group-title="Movies & Hiburan 3 (Horror, Terror, & Thriller)" tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0", Horror 24/7
+
+#EXTINF:-1 group-title="Movies & Hiburan" tvg-logo="https://i.postimg.cc/P5YwxwPj/Screenshot-3.png", Horror 24/7
 https://d2poaftv7vl6fy.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-6sd5tbxf0p3kk-ssai-prd/amgholidaymovie/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai=SSSLIVE
 
-#EXTINF:-1 group-title="Movies & Hiburan 3 (Horror, Terror, & Thriller)" tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0", Horror Machine
+
+#EXTINF:-1 group-title="Movies & Hiburan" tvg-logo="https://i.postimg.cc/P5YwxwPj/Screenshot-3.png", Horror Machine
 https://linear-82.frequency.stream/dist/localnow/82/hls/master/playlist.m3u8
 
-#EXTINF:-1 group-title="Movies & Hiburan 3 (Horror, Terror, & Thriller)" tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0", Horror TV
+
+#EXTINF:-1 group-title="Movies & Hiburan" tvg-logo="https://i.postimg.cc/P5YwxwPj/Screenshot-3.png", Horror TV
 https://horror-tv-local-now.evrideo.tv/ccccf7f5-d10c-46b1-bd10-fdd3a184a958_1000014577_HLS/master.m3u8
 
-#EXTINF:-1 group-title="Movies & Hiburan 3 (Horror, Terror, & Thriller)" tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0", Rakuten TV Thriller
+
+#EXTINF:-1 group-title="Movies & Hiburan" tvg-logo="https://i.postimg.cc/P5YwxwPj/Screenshot-3.png", Rakuten TV Thriller
 https://002933288fed459bbb7fe5e82562c3e2.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-gb_RakutenThriller/playlist.m3u8
 
 
 =======================================================================
 
 
-#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0" group-title="Rakuten TV Movies", Rakuten TV Action Movies
+#EXTINF:-1 group-title="Movies & Hiburan" tvg-logo="https://i.postimg.cc/P5YwxwPj/Screenshot-3.png", Rakuten TV Action Movies
 https://8f72400044c842498436abd352ba487b.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-gb_RakutenActionMovies/playlist.m3u8
 
-#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0" group-title="Rakuten TV Movies", Rakuten TV British Films
+#EXTINF:-1 group-title="Movies & Hiburan" tvg-logo="https://i.postimg.cc/P5YwxwPj/Screenshot-3.png", Rakuten TV British Films
 https://e1c61ff393ae4a4d93f1f12e3fdae43d.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-gb_Local/playlist.m3u8
 
-#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0" group-title="Rakuten TV Movies", Rakuten TV Comedy Movies
+#EXTINF:-1 group-title="Movies & Hiburan" tvg-logo="https://i.postimg.cc/P5YwxwPj/Screenshot-3.png", Rakuten TV Comedy Movies
 https://3b860eeb37fb4f4fa78a0848dd060893.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-gb_RakutenComedyMovies/playlist.m3u8
 
-#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0" group-title="Rakuten TV Movies", Rakuten TV Drama Movies
+
+#EXTINF:-1 group-title="Movies & Hiburan" tvg-logo="https://i.postimg.cc/P5YwxwPj/Screenshot-3.png", Rakuten TV Drama Movies
 https://db44ab650bce44a59112e74420f2af4e.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-gb_RakutenTVShows/playlist.m3u8
 
-#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0" group-title="Rakuten TV Movies",Rakuten TV Top Movies
+
+#EXTINF:-1 group-title="Movies & Hiburan" tvg-logo="https://i.postimg.cc/P5YwxwPj/Screenshot-3.png",Rakuten TV Top Movies
 https://16464fe910f94d65ab9b9255101d7fc7.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-gb_TopFree/playlist.m3u8
 
-#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0" group-title="Rakuten TV Movies", Rakuten TV Romance Movies
+
+#EXTINF:-1 group-title="Movies & Hiburan" tvg-logo="https://i.postimg.cc/P5YwxwPj/Screenshot-3.png", Rakuten TV Romance Movies
 https://f5804858608b4fb7a9a831a7b2572a79.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-gb_RakutenRomance/playlist.m3u8
 
-#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0" group-title="Rakuten TV Movies", Rakuten TV Thrillers Movies
+
+#EXTINF:-1 group-title="Movies & Hiburan" tvg-logo="https://i.postimg.cc/P5YwxwPj/Screenshot-3.png", Rakuten TV Thrillers Movies
 https://002933288fed459bbb7fe5e82562c3e2.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-gb_RakutenThriller/playlist.m3u8
 
-#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0" group-title="Rakuten TV Movies", Rakuten TV Family
+
+#EXTINF:-1 group-title="Movies & Hiburan" tvg-logo="https://i.postimg.cc/P5YwxwPj/Screenshot-3.png", Rakuten TV Family
 https://e7934a8802cc472f957e8cb4adb933e4.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-gb_RakutenFamily/playlist.m3u8
 
 ======================================================================
 
-#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0" group-title="Pluto TV Movies & Series",Pluto TV Action
+
+#EXTINF:-1 group-title="Movies & Hiburan" tvg-logo="https://i.postimg.cc/P5YwxwPj/Screenshot-3.png",Pluto TV Action
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/561d7d484dc7c8770484914a/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0" group-title="Pluto TV Movies & Series",Pluto TV Horror
+#EXTINF:-1 group-title="Movies & Hiburan" tvg-logo="https://i.postimg.cc/P5YwxwPj/Screenshot-3.png",Pluto TV Horror
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/569546031a619b8f07ce6e25/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-
-#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0" group-title="Pluto TV Movies & Series",Flicks of Fury
+#EXTINF:-1 group-title="Movies & Hiburan" tvg-logo="https://i.postimg.cc/P5YwxwPj/Screenshot-3.png",Flicks of Fury
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/58e55b14ad8e9c364d55f717/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0" group-title="Pluto TV Movies & Series",The Asylum
+#EXTINF:-1 group-title="Movies & Hiburan" tvg-logo="https://i.postimg.cc/P5YwxwPj/Screenshot-3.png",The Asylum
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/591105034c1806b47438342c/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0" group-title="Pluto TV Movies & Series",Pluto TV Comedy
+#EXTINF:-1 group-title="Movies & Hiburan" tvg-logo="https://i.postimg.cc/P5YwxwPj/Screenshot-3.png",Pluto TV Comedy
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5a4d3a00ad95e4718ae8d8db/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0" group-title="Pluto TV Movies & Series",Pluto TV Romance
+#EXTINF:-1 group-title="Movies & Hiburan" tvg-logo="https://i.postimg.cc/P5YwxwPj/Screenshot-3.png",Pluto TV Romance
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5a66795ef91fef2c7031c599/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0" group-title="Pluto TV Movies & Series",Pluto TV Thrillers
+#EXTINF:-1 group-title="Movies & Hiburan" tvg-logo="https://i.postimg.cc/P5YwxwPj/Screenshot-3.png",Pluto TV Thrillers
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5b4e69e08291147bd04a9fd7/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0" group-title="Pluto TV Movies & Series",Pluto TV Drama
+#EXTINF:-1 group-title="Movies & Hiburan" tvg-logo="https://i.postimg.cc/P5YwxwPj/Screenshot-3.png",Pluto TV Drama
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5b4e92e4694c027be6ecece1/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0" group-title="Pluto TV Movies & Series",Pluto TV Fantastic
+#EXTINF:-1 group-title="Movies & Hiburan" tvg-logo="https://i.postimg.cc/P5YwxwPj/Screenshot-3.png",Pluto TV Fantastic
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5b64a245a202b3337f09e51d/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0" group-title="Pluto TV Movies & Series",Pluto TV Cult Films
+#EXTINF:-1 group-title="Movies & Hiburan" tvg-logo="https://i.postimg.cc/P5YwxwPj/Screenshot-3.png",Pluto TV Cult Films
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5c665db3e6c01b72c4977bc2/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0" group-title="Pluto TV Movies & Series",Pluto TV Terror
+#EXTINF:-1 group-title="Movies & Hiburan" tvg-logo="https://i.postimg.cc/P5YwxwPj/Screenshot-3.png",Pluto TV Terror
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5c6dc88fcd232425a6e0f06e/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0" group-title="Pluto TV Movies & Series", Pluto TV Reaction
+#EXTINF:-1 group-title="Movies & Hiburan" tvg-logo="https://i.postimg.cc/P5YwxwPj/Screenshot-3.png", Pluto TV Reaction
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/617b37b361e0fd0008cfd8c5/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0" group-title="Pluto TV Movies & Series", Pluto TV Staff Picks
+#EXTINF:-1 group-title="Movies & Hiburan" tvg-logo="https://i.postimg.cc/P5YwxwPj/Screenshot-3.png", Pluto TV Staff Picks
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f4d863b98b41000076cd061/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0" group-title="Pluto TV Movies & Series", Pluto TV Crime Movies
+#EXTINF:-1 group-title="Movies & Hiburan" tvg-logo="https://i.postimg.cc/P5YwxwPj/Screenshot-3.png", Pluto TV Crime Movies
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f4d8594eb979c0007706de7/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-
-#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0" group-title="Pluto TV Movies & Series", Pluto TV Love Stories
+#EXTINF:-1 group-title="Movies & Hiburan" tvg-logo="https://i.postimg.cc/P5YwxwPj/Screenshot-3.png", Pluto TV Love Stories
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f15e181520cfa000771ce79/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0" group-title="Pluto TV Movies & Series", Pluto TV Suspense
+#EXTINF:-1 group-title="Movies & Hiburan" tvg-logo="https://i.postimg.cc/P5YwxwPj/Screenshot-3.png", Pluto TV Suspense
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f15e281b0b8840007324b55/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0" group-title="Pluto TV Movies & Series", Pluto TV Sci-Fi
+#EXTINF:-1 group-title="Movies & Hiburan" tvg-logo="https://i.postimg.cc/P5YwxwPj/Screenshot-3.png", Pluto TV Sci-Fi
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5b4fc274694c027be6ed3eea/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0" group-title="Pluto TV Movies & Series", 70s Cinema
+#EXTINF:-1 group-title="Movies & Hiburan" tvg-logo="https://i.postimg.cc/P5YwxwPj/Screenshot-3.png", 70s Cinema
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f4d878d3d19b30007d2e782/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0" group-title="Pluto TV Movies & Series", 80s Rewind
+#EXTINF:-1 group-title="Movies & Hiburan" tvg-logo="https://i.postimg.cc/P5YwxwPj/Screenshot-3.png", 80s Rewind
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ca525b650be2571e3943c63/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0" group-title="Pluto TV Movies & Series", 90s Throwback
+#EXTINF:-1 group-title="Movies & Hiburan" tvg-logo="https://i.postimg.cc/P5YwxwPj/Screenshot-3.png", 90s Throwback
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f4d86f519358a00072b978e/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0" group-title="Pluto TV Movies & Series", OOs Replay
+#EXTINF:-1 group-title="Movies & Hiburan" tvg-logo="https://i.postimg.cc/P5YwxwPj/Screenshot-3.png", OOs Replay
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/62ba60f059624e000781c436/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0" group-title="Pluto TV Movies & Series", Pluto TV Movies
+#EXTINF:-1 group-title="Movies & Hiburan" tvg-logo="https://i.postimg.cc/P5YwxwPj/Screenshot-3.png", Pluto TV Movies
 https://i.mjh.nz/PlutoTV/5ad8d3a31b95267e225e4e09-alt.m3u8
-
-#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0" group-title="Pluto TV Movies & Series", Paramount Movie Channel
+#EXTINF:-1 group-title="Movies & Hiburan" tvg-logo="https://i.postimg.cc/P5YwxwPj/Screenshot-3.png", Paramount Movie Channel
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5cb0cae7a461406ffe3f5213/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-
-#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0" group-title="Pluto TV Movies & Series", Paramount+ Picks
+#EXTINF:-1 group-title="Movies & Hiburan" tvg-logo="https://i.postimg.cc/P5YwxwPj/Screenshot-3.png", Paramount+ Picks
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ff8c708653d080007361b14/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0" group-title="Pluto TV Movies & Series", TV Land Drama
+#EXTINF:-1 group-title="Movies & Hiburan" tvg-logo="https://i.postimg.cc/P5YwxwPj/Screenshot-3.png", TV Land Drama
 http://service-stitcher-ipv4.clusters.pluto.tv/v1/stitch/embed/hls/channel/612fea0e970e6f00083be56b/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&embedPartner=samsung-tvplus
 
-#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0" group-title="Pluto TV Movies & Series", Classic TV Drama
+#EXTINF:-1 group-title="Movies & Hiburan" tvg-logo="https://i.postimg.cc/P5YwxwPj/Screenshot-3.png", Classic TV Drama
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f15e3cccf49290007053c67/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-
-#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0" group-title="Pluto TV Movies & Series", Hallmark Movies & More
+#EXTINF:-1 group-title="Movies & Hiburan" tvg-logo="https://i.postimg.cc/P5YwxwPj/Screenshot-3.png", Hallmark Movies & More
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/628e685ba3811100070551a8/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-
-#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0" group-title="Pluto TV Movies & Series", SHOWTIME Select
+#EXTINF:-1 group-title="Movies & Hiburan" tvg-logo="https://i.postimg.cc/P5YwxwPj/Screenshot-3.png", SHOWTIME Select
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f988934a507de00075d9ae7/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-
-EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0" group-title="Pluto TV Movies & Series", Slightly Off IFC
+#EXTINF:-1 group-title="Movies & Hiburan" tvg-logo="https://i.postimg.cc/P5YwxwPj/Screenshot-3.png", Slightly Off IFC
 #http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5e82547b6b3df60007fec2b5/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0" group-title="Pluto TV Movies & Series", Fuse Beat
+#EXTINF:-1 group-title="Movies & Hiburan" tvg-logo="https://i.postimg.cc/P5YwxwPj/Screenshot-3.png", Fuse Beat
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6176fddda3a6160007f60433/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-
-#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0" group-title="Pluto TV Movies & Series", Serial Mission: Impossible
+#EXTINF:-1 group-title="Movies & Hiburan" tvg-logo="https://i.postimg.cc/P5YwxwPj/Screenshot-3.png", Serial Mission: Impossible
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f77977bd924d80007eee60c/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-
-#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0" group-title="Pluto TV Movies & Series", More TV Drama
+#EXTINF:-1 group-title="Movies & Hiburan" tvg-logo="https://i.postimg.cc/P5YwxwPj/Screenshot-3.png", More TV Drama
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/613260e4bdb71c00070d63fa/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0" group-title="Pluto TV Movies & Series", Pluto TV K-Drama
+#EXTINF:-1 group-title="Movies & Hiburan" tvg-logo="https://i.postimg.cc/P5YwxwPj/Screenshot-3.png", Pluto TV K-Drama
 https://i.mjh.nz/PlutoTV/62ac54bda1c8650007e9d1c4-alt.m3u8
 
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0" group-title="Pluto TV Hiburan", Update Playlist Terbaru
-https://dl.dropboxusercontent.com/s/7lovt761n44ueza/VID_20220526221756.mp4?dl=0
 
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0" group-title="Pluto TV Hiburan", Always Funny Videos
+#EXTINF:-1 group-title="Movies & Hiburan" tvg-logo="https://i.postimg.cc/P5YwxwPj/Screenshot-3.png", Always Funny Videos
 https://d2hnz12weo628w.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/AFV2-prod/samsung.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
 
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0" group-title="Pluto TV Hiburan", FailArmy
+#EXTINF:-1 group-title="Movies & Hiburan" tvg-logo="https://i.postimg.cc/P5YwxwPj/Screenshot-3.png", FailArmy
 https://2383afee096b4dc499922dcf79ba9cfa.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_FailArmy/playlist.m3u8?ads.wurl_channel=89&ads.wurl_name=FailArmy&ads.us_privacy=1YNY&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
 
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0" group-title="Pluto TV Hiburan", Gordon Ramsay's Hell's Kitchen
+#EXTINF:-1 group-title="Movies & Hiburan" tvg-logo="https://i.postimg.cc/P5YwxwPj/Screenshot-3.png", Gordon Ramsay's Hell's Kitchen
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5b4e99f4423e067bd6df6903/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0" group-title="Pluto TV Hiburan", Iron Chef
+#EXTINF:-1 group-title="Movies & Hiburan" tvg-logo="https://i.postimg.cc/P5YwxwPj/Screenshot-3.png", Iron Chef
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6148c756ce8091000748d113/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0" group-title="Pluto TV Hiburan", Just For Laughs
+#EXTINF:-1 group-title="Movies & Hiburan" tvg-logo="https://i.postimg.cc/P5YwxwPj/Screenshot-3.png", Just For Laughs
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60d32888e31a0300073d9f08/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0" group-title="Pluto TV Hiburan", Pimp My Ride
+#EXTINF:-1 group-title="Movies & Hiburan" tvg-logo="https://i.postimg.cc/P5YwxwPj/Screenshot-3.png", Pimp My Ride
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/619243059541940007d1ff86/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0" group-title="Pluto TV Hiburan", Pranks
+#EXTINF:-1 group-title="Movies & Hiburan" tvg-logo="https://i.postimg.cc/P5YwxwPj/Screenshot-3.png", Pranks
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60f86f539f03cd00070c503a/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0" group-title="Pluto TV Hiburan", Punk'd
+#EXTINF:-1 group-title="Movies & Hiburan" tvg-logo="https://i.postimg.cc/P5YwxwPj/Screenshot-3.png", Punk'd
 https://i.mjh.nz/PlutoTV/63fe249f49839300086d4888-alt.m3u8
-
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0" group-title="Pluto TV Hiburan", Fear Factor
+#EXTINF:-1 group-title="Movies & Hiburan" tvg-logo="https://i.postimg.cc/P5YwxwPj/Screenshot-3.png", Fear Factor
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/588128d17d64bc0d0f385c34/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0" group-title="Pluto TV Hiburan", Pluto TV Vs.
+#EXTINF:-1 group-title="Movies & Hiburan" tvg-logo="https://i.postimg.cc/P5YwxwPj/Screenshot-3.png", Pluto TV Vs.
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/603fde9026ecbf0007752c2c/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0" group-title="Pluto TV Hiburan", The Amazing Race
+#EXTINF:-1 group-title="Movies & Hiburan" tvg-logo="https://i.postimg.cc/P5YwxwPj/Screenshot-3.png", The Amazing Race
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f21e8a6e2f12b000755afdb/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0" group-title="Pluto TV Hiburan", Skills + Thrills
+#EXTINF:-1 group-title="Movies & Hiburan" tvg-logo="https://i.postimg.cc/P5YwxwPj/Screenshot-3.png", Skills + Thrills
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6000a6f4c3f8550008fc9b91/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0" group-title="Pluto TV Crime", Update Playlist Terbaru
-https://dl.dropboxusercontent.com/s/7lovt761n44ueza/VID_20220526221756.mp4?dl=0
-
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0" group-title="Pluto TV Crime", COPS
+#EXTINF:-1 group-title="Movies & Hiburan" tvg-logo="https://i.postimg.cc/P5YwxwPj/Screenshot-3.png", COPS
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5e1f7e089f23700009d66303/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0" group-title="Pluto TV Crime", Cold Case Files
+#EXTINF:-1 group-title="Movies & Hiburan" tvg-logo="https://i.postimg.cc/P5YwxwPj/Screenshot-3.png", Cold Case Files
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5c37d6712de254456f7ec340/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0" group-title="Pluto TV Crime", CSI
+#EXTINF:-1 group-title="Movies & Hiburan" tvg-logo="https://i.postimg.cc/P5YwxwPj/Screenshot-3.png", CSI
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5efbd29e4aa26700076c0d06/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0" group-title="Pluto TV Crime", CSI Miami
+#EXTINF:-1 group-title="Movies & Hiburan" tvg-logo="https://i.postimg.cc/P5YwxwPj/Screenshot-3.png", CSI Miami
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/62f54c11b3af68000702c304/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0" group-title="Pluto TV Crime", CSI NY
+#EXTINF:-1 group-title="Movies & Hiburan" tvg-logo="https://i.postimg.cc/P5YwxwPj/Screenshot-3.png", CSI NY
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/62f54c6439183b000769fb8f/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0" group-title="Pluto TV Crime", Blue Bloods
+#EXTINF:-1 group-title="Movies & Hiburan" tvg-logo="https://i.postimg.cc/P5YwxwPj/Screenshot-3.png", Blue Bloods
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/61b3b8c645b45d0007a9bb8d/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0" group-title="Pluto TV Crime", Crime 360
+#EXTINF:-1 group-title="Movies & Hiburan" tvg-logo="https://i.postimg.cc/P5YwxwPj/Screenshot-3.png", Crime 360
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6000a5a9e767980007b497ca/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0" group-title="Pluto TV Crime", BritBox Mysteries
+#EXTINF:-1 group-title="Movies & Hiburan" tvg-logo="https://i.postimg.cc/P5YwxwPj/Screenshot-3.png", BritBox Mysteries
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60f5d389985a0c0007357304/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0" group-title="Pluto TV Crime", Forensic Files
+#EXTINF:-1 group-title="Movies & Hiburan" tvg-logo="https://i.postimg.cc/P5YwxwPj/Screenshot-3.png", Forensic Files
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5bb1af6a268cae539bcedb0a/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0" group-title="Pluto TV Crime", 48 Hours
+#EXTINF:-1 group-title="Movies & Hiburan" tvg-logo="https://i.postimg.cc/P5YwxwPj/Screenshot-3.png", 48 Hours
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6176f39e709f160007ec61c3/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0" group-title="Pluto TV Crime", Midsomer Murders
+#EXTINF:-1 group-title="Movies & Hiburan" tvg-logo="https://i.postimg.cc/P5YwxwPj/Screenshot-3.png", Midsomer Murders
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5cbf6a868a1bce4a3d52a5e9/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0" group-title="Pluto TV Crime", Pluto Crime Drama
+#EXTINF:-1 group-title="Movies & Hiburan" tvg-logo="https://i.postimg.cc/P5YwxwPj/Screenshot-3.png", Pluto Crime Drama
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f31fd1b4c510e00071c3103/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0" group-title="Pluto TV Crime", Pluto TV True Crime
+#EXTINF:-1 group-title="Movies & Hiburan" tvg-logo="https://i.postimg.cc/P5YwxwPj/Screenshot-3.png", Pluto TV True Crime
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5812be1c249444e05d09cc50/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0" group-title="Pluto TV Crime", The New Detectives
+#EXTINF:-1 group-title="Movies & Hiburan" tvg-logo="https://i.postimg.cc/P5YwxwPj/Screenshot-3.png", The New Detectives
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5aea40b35126c2157123aa64/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0" group-title="Pluto TV Crime", Unsolved Mysteries
+#EXTINF:-1 group-title="Movies & Hiburan" tvg-logo="https://i.postimg.cc/P5YwxwPj/Screenshot-3.png", Unsolved Mysteries
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5b4e96a0423e067bd6df6901/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
 ======================================================================
 
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0" group-title="Pengetahuan & Alam", Update Playlist Terbaru
-https://dl.dropboxusercontent.com/s/7lovt761n44ueza/VID_20220526221756.mp4?dl=0
 
-EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0" group-title="Pengetahuan & Alam", Bisnet Adventure 4K
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/P5YwxwPj/Screenshot-3.png" group-title="Pengetahuan & Alam", Bisnet Adventure 4K
 http://livestream.biznetvideo.net/biznet_adventure/smil:adventure.smil/playlist.m3u8
 
-#EXTINF:-1 group-title="Pengetahuan & Alam" tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0", Discovery Asia
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/P5YwxwPj/Screenshot-3.png" group-title="Pengetahuan & Alam", Discovery Asia
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch302)/index.m3u8
 
-#EXTINF:-1 group-title="Pengetahuan & Alam" tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0", Discovery Channel
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/P5YwxwPj/Screenshot-3.png" group-title="Pengetahuan & Alam", Discovery Channel
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch29)/index.m3u8
 
-#EXTINF:-1 group-title="Pengetahuan & Alam" tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0", Animal Planet
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/P5YwxwPj/Screenshot-3.png" group-title="Pengetahuan & Alam", Animal Planet
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch31)/index.m3u8
 
-#EXTINF:-1 group-title="Pengetahuan & Alam" tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0",Da Vinci
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/P5YwxwPj/Screenshot-3.png" group-title="Pengetahuan & Alam",Da Vinci
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch371)/index.m3u8
 
 KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
-EXTINF:-1 group-title="Pengetahuan & Alam" tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0",Animal Planet
+EXTINF:-1 group-title="Pengetahuan & Alam" tvg-logo="https://i.postimg.cc/P5YwxwPj/Screenshot-3.png",Animal Planet
 #https://nyanv-live-cdn.mncnow.id/live/eds/AnimalPlanet/sa_dash_vmx/AnimalPlanet.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
-#EXTINF:-1 group-title="Pengetahuan & Alam" tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0",BBC Earth
+EXTINF:-1 group-title="Pengetahuan & Alam" tvg-logo="https://i.postimg.cc/P5YwxwPj/Screenshot-3.png",BBC Earth
 https://nyanv-live-cdn.mncnow.id/live/eds/BBCEarth-HD/sa_dash_vmx/BBCEarth-HD.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
-#EXTINF:-1 group-title="Pengetahuan & Alam" tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0",Besmart
+EXTINF:-1 group-title="Pengetahuan & Alam" tvg-logo="https://i.postimg.cc/P5YwxwPj/Screenshot-3.png",Besmart
 https://nyanv-live-cdn.mncnow.id/live/eds/BeSmart/sa_dash_vmx/BeSmart.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
-#EXTINF:-1 group-title="Pengetahuan & Alam" tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0",CGTN Documentary
+EXTINF:-1 group-title="Pengetahuan & Alam" tvg-logo="https://i.postimg.cc/P5YwxwPj/Screenshot-3.png",CGTN Documentary
 https://nyanv-live-cdn.mncnow.id/live/eds/CGTN_Doc/sa_dash_vmx/CGTN_Doc.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
-#EXTINF:-1 group-title="Pengetahuan & Alam" tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0",Crime + Investigation
+EXTINF:-1 group-title="Pengetahuan & Alam" tvg-logo="https://i.postimg.cc/P5YwxwPj/Screenshot-3.png",Crime + Investigation
 https://nyanv-live-cdn.mncnow.id/live/eds/CrimeInvestigation/sa_dash_vmx/CrimeInvestigation.mpd
 
 KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
-EXTINF:-1 group-title="Pengetahuan & Alam" tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0",Discovery Channel
+EXTINF:-1 group-title="Pengetahuan & Alam" tvg-logo="https://i.postimg.cc/P5YwxwPj/Screenshot-3.png",Discovery Channel
 #https://nyanv-live-cdn.mncnow.id/live/eds/Discovery/sa_dash_vmx/Discovery.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
-#EXTINF:-1 group-title="Pengetahuan & Alam" tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0",History
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmM,History
+EXTINF:-1 group-title="Pengetahuan & Alam" tvg-logo="https://i.postimg.cc/P5YwxwPj/Screenshot-3.png"History
 https://nyanv-live-cdn.mncnow.id/live/eds/History/sa_dash_vmx/History.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
-#EXTINF:-1 group-title="Pengetahuan & Alam" tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0",National Geographic
+EXTINF:-1 group-title="Pengetahuan & Alam" tvg-logo="https://i.postimg.cc/P5YwxwPj/Screenshot-3.png",National Geographic
 https://nyanv-live-cdn.mncnow.id/live/eds/NatGeoChannel/sa_dash_vmx/NatGeoChannel.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
-#EXTINF:-1 group-title="Pengetahuan & Alam" tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0",National Geographic Wild
+EXTINF:-1 group-title="Pengetahuan & Alam" tvg-logo="https://i.postimg.cc/P5YwxwPj/Screenshot-3.png",National Geographic Wild
 https://nyanv-live-cdn.mncnow.id/live/eds/NatGeoWild/sa_dash_vmx/NatGeoWild.mpd
 
 KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
-EXTINF:-1 group-title="Pengetahuan & Alam" tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0",HGTV Asia
+EXTINF:-1 group-title="Pengetahuan & Alam" tvg-logo="https://i.postimg.cc/P5YwxwPj/Screenshot-3.png",HGTV Asia
 #https://nyanv-live-cdn.mncnow.id/live/eds/HGTV/sa_dash_vmx/HGTV.mpd
 
-#EXTINF:-1 group-title="Pengetahuan & Alam" tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0", Smithsonian Channel
+EXTINF:-1 group-title="Pengetahuan & Alam" tvg-logo="https://i.postimg.cc/P5YwxwPj/Screenshot-3.png", Smithsonian Channel
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f21ea08007a49000762d349/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-#EXTINF:-1 group-title="Pengetahuan & Alam" tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0", Samsung Wild Life
+EXTINF:-1 group-title="Pengetahuan & Alam" tvg-logo="https://i.postimg.cc/P5YwxwPj/Screenshot-3.png", Samsung Wild Life
 https://d1vp12yk4i8ou5.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/WildLife2-prod/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai=SSSLIVE
 
-#EXTINF:-1 group-title="Pengetahuan & Alam" tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0", Love Nature
+EXTINF:-1 group-title="Pengetahuan & Alam" tvg-logo="https://i.postimg.cc/P5YwxwPj/Screenshot-3.png", Love Nature
 https://d18dyiwu97wm6q.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/LoveNature4K2-prod/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai=SSSLIVE
 
-#EXTINF:-1 group-title="Pengetahuan & Alam" tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0", InWonder
+EXTINF:-1 group-title="Pengetahuan & Alam" tvg-logo="https://i.postimg.cc/P5YwxwPj/Screenshot-3.png", InWonder
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00861-terninternation-inwonderus-samsungus/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
 
-#EXTINF:-1 group-title="Pengetahuan & Alam" tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0", Magellan TV Now
+EXTINF:-1 group-title="Pengetahuan & Alam" tvg-logo="https://i.postimg.cc/P5YwxwPj/Screenshot-3.png", Magellan TV Now
 https://96f6ab4a7f3c434699b8502a36d670fc.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_MagellanTV/playlist.m3u8?ads.wurl_channel=304&ads.wurl_name=MagellanTV&ads.us_privacy=1---&ads.psid=62274240-07e7-5d94-8dc8-ef68cf19e175&ads.targetopt=0&ads.plex_token=XeztDN3mRuKJPvR9KKni&ads.plex_id=5f5132e262fe160040f26bf2&ads.ua=okhttp%2F4.9.0&ads.app_bundle=com.plexapp.android&ads.app_store_url=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.plexapp.android&ads.gdpr=0&ads.consent=0&ads.device_type=handset&ads.device_id_type=
 
-#EXTINF:-1 group-title="Pengetahuan & Alam" tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0", Magellan TV Now
+EXTINF:-1 group-title="Pengetahuan & Alam" tvg-logo="https://i.postimg.cc/P5YwxwPj/Screenshot-3.png", Magellan TV Now
 https://6ad725dc59bb4e5c99db85fb2607a3f7.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_MagellanTV/playlist.m3u8?ads.us_privacy=1YNY&ads.wurl_channel=304&ads.wurl_name=MagellanTV&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
-
-#EXTINF:-1 group-title="Pengetahuan & Alam" tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0", Vice
+EXTINF:-1 group-title="Pengetahuan & Alam" tvg-logo="https://i.postimg.cc/P5YwxwPj/Screenshot-3.png", Vice
 https://d2do1g43aq7264.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/Vice-prod/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai=SSSLIVE
-
-#EXTINF:-1 group-title="Pengetahuan & Alam" tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0", WildEarth
+EXTINF:-1 group-title="Pengetahuan & Alam" tvg-logo="https://i.postimg.cc/P5YwxwPj/Screenshot-3.png", WildEarth
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-60d4edddb2fdec002c141135.m3u8?X-Plex-Client-Identifier=4f10a11d0159055e-com-plexapp-android&X-Plex-Client-Platform=Android&X-Plex-Token=XeztDN3mRuKJPvR9KKni
-
-#EXTINF:-1 group-title="Pengetahuan & Alam" tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0", Documentary+
+EXTINF:-1 group-title="Pengetahuan & Alam" tvg-logo="https://i.postimg.cc/P5YwxwPj/Screenshot-3.png", Documentary+
 https://d2gplwl9ws0syl.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-a6rg0sjciai0q-ssai-prd/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
-
-#EXTINF:-1 group-title="Pengetahuan & Alam" tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0", Xplore
+EXTINF:-1 group-title="Pengetahuan & Alam" tvg-logo="https://i.postimg.cc/P5YwxwPj/Screenshot-3.png", Xplore
 https://d1h0pre5juliql.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-h9yybm20pnqb8-ssai-prd/amgxplore/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai=SSSLIVE
-
-#EXTINF:-1 group-title="Pengetahuan & Alam" tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0", WeatherSpy
+EXTINF:-1 group-title="Pengetahuan & Alam" tvg-logo="https://i.postimg.cc/P5YwxwPj/Screenshot-3.png", WeatherSpy
 https://7eeb372ee2224dbf9138691d0f5d218b.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_WeatherSpy/playlist.m3u8?ads.wurl_channel=387&ads.wurl_name=WeatherSpy&ads.coppa=0&ads.us_privacy=1YNY&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
-
-#EXTINF:-1 group-title="Pengetahuan & Alam" tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0", Pluto TV History
+EXTINF:-1 group-title="Pengetahuan & Alam" tvg-logo="https://i.postimg.cc/P5YwxwPj/Screenshot-3.png", Pluto TV History
 https://i.mjh.nz/PlutoTV/5d4af1803e7983b391d73b13-alt.m3u8
-
-#EXTINF:-1 group-title="Pengetahuan & Alam" tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0", Pluto TV Adventure
+EXTINF:-1 group-title="Pengetahuan & Alam" tvg-logo="https://i.postimg.cc/P5YwxwPj/Screenshot-3.png", Pluto TV Adventure
 https://i.mjh.nz/PlutoTV/623464d7185bef0007e337c0-alt.m3u8
-
-#EXTINF:-1 group-title="Pengetahuan & Alam" tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0", Pluto TV Space
+EXTINF:-1 group-title="Pengetahuan & Alam" tvg-logo="https://i.postimg.cc/P5YwxwPj/Screenshot-3.png", Pluto TV Space
 https://i.mjh.nz/PlutoTV/5dbc2f98777f2e0009934ae7-alt.m3u8
-
-#EXTINF:-1 group-title="Pengetahuan & Alam" tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0", Pluto TV Science
+EXTINF:-1 group-title="Pengetahuan & Alam" tvg-logo="https://i.postimg.cc/P5YwxwPj/Screenshot-3.png", Pluto TV Science
 https://i.mjh.nz/PlutoTV/563a970aa1a1f7fe7c9daad7-alt.m3u8
-
-#EXTINF:-1 group-title="Pengetahuan & Alam" tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0", Nature Time
+EXTINF:-1 group-title="Pengetahuan & Alam" tvg-logo="https://i.postimg.cc/P5YwxwPj/Screenshot-3.png", Nature Time
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00090-blueantllc-lovenatureau-samsungnz/playlist.m3u8
-
-#EXTINF:-1 group-title="Pengetahuan & Alam" tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0", HistoryHit
+EXTINF:-1 group-title="Pengetahuan & Alam" tvg-logo="https://i.postimg.cc/P5YwxwPj/Screenshot-3.png", HistoryHit
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00426-littledotstudio-timelinenz-samsungnz/playlist.m3u8
-
-#EXTINF:-1 group-title="Pengetahuan & Alam" tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0", Real Wild
+EXTINF:-1 group-title="Pengetahuan & Alam" tvg-logo="https://i.postimg.cc/P5YwxwPj/Screenshot-3.png", Real Wild
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00426-littledotstudio-realwildnz-samsungnz/playlist.m3u8
-
-#EXTINF:-1 group-title="Pengetahuan & Alam" tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0", Outdoor Channel
+EXTINF:-1 group-title="Pengetahuan & Alam" tvg-logo="https://i.postimg.cc/P5YwxwPj/Screenshot-3.png", Outdoor Channel
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00718-outdoorchannela-outdoortvnz-samsungnz/playlist.m3u8
-
-#EXTINF:-1 group-title="Pengetahuan & Alam" tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0", Global Trekker
+EXTINF:-1 group-title="Pengetahuan & Alam" tvg-logo="https://i.postimg.cc/P5YwxwPj/Screenshot-3.png", Global Trekker
 http://edge.linknetott.swiftserve.com/channelgroup4/cg434production/ch366/02.m3u8
-
-EXTINF:-1 group-title="Pengetahuan & Alam" tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0", Earth TV The World Live 24/7
+EXTINF:-1 group-title="Pengetahuan & Alam" tvg-logo="https://i.postimg.cc/P5YwxwPj/Screenshot-3.png", Earth TV The World Live 24/7
 #https://devds.site/api/youlive.m3u8?v=b-PyEswUenE
-
-EXTINF:-1 group-title="Pengetahuan & Alam" tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0", Earth TV The World Live Showcase 24/7
+EXTINF:-1 group-title="Pengetahuan & Alam" tvg-logo="https://i.postimg.cc/P5YwxwPj/Screenshot-3.png", Earth TV The World Live Showcase 24/7
 #https://devds.site/api/youlive.m3u8?v=NpeZcVgHlcI
 
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0" group-title="Hiburan & Gaya Hidup", Update Playlist Terbaru
-https://dl.dropboxusercontent.com/s/7lovt761n44ueza/VID_20220526221756.mp4?dl=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
-#EXTINF:-1 group-title="Hiburan & Gaya Hidup" tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0",Arirang World
+#EXTINF:-1 group-title="Hiburan & Gaya Hidup" tvg-logo="https://i.postimg.cc/P5YwxwPj/Screenshot-3.png",Arirang World
 https://nyanv-live-cdn.mncnow.id/live/eds/Arirang/sa_dash_vmx/Arirang.mpd
-
-#EXTINF:-1 group-title="Hiburan & Gaya Hidup" tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0", AFN (Asian Food Network)
+#EXTINF:-1 group-title="Hiburan & Gaya Hidup" tvg-logo="https://i.postimg.cc/P5YwxwPj/Screenshot-3.png", AFN (Asian Food Network)
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch76)/index.m3u8
-
-#EXTINF:-1 group-title="Hiburan & Gaya Hidup" tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0", Citra Drama
+#EXTINF:-1 group-title="Hiburan & Gaya Hidup" tvg-logo="https://i.postimg.cc/P5YwxwPj/Screenshot-3.png", Citra Drama
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch378)/index.m3u8
-
-#EXTINF:-1 group-title="Hiburan & Gaya Hidup" tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0", HGTV
+#EXTINF:-1 group-title="Hiburan & Gaya Hidup" tvg-logo="https://i.postimg.cc/P5YwxwPj/Screenshot-3.png", HGTV
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch354)/index.m3u8
 
-#EXTINF:-1 group-title="Hiburan & Gaya Hidup" tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0", TLC
+#EXTINF:-1 group-title="Hiburan & Gaya Hidup" tvg-logo="https://i.postimg.cc/P5YwxwPj/Screenshot-3.png", TLC
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch35)/index.m3u8
 
 
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
-#EXTINF:-1 group-title="Hiburan & Gaya Hidup" tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0",Lifestyle & Fashion
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZW
+#EXTINF:-1 group-title="Hiburan & Gaya Hidup" tvg-logo="https://i.postimg.cc/P5YwxwPj/Screenshot-3.png",Lifestyle & Fashion
 https://nyanv-live-cdn.mncnow.id/live/eds/LifeStyleFashion/sa_dash_vmx/LifeStyleFashion.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
-#EXTINF:-1 group-title="Hiburan & Gaya Hidup" tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0",MNC Entertainment
+#EXTINF:-1 group-title="Hiburan & Gaya Hidup" tvg-logo="https://i.postimg.cc/P5YwxwPj/Screenshot-3.png",MNC Entertainment
 https://nyanv-live-cdn.mncnow.id/live/eds/MNCEntertainment/sa_dash_vmx/MNCEntertainment.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
-#EXTINF:-1 group-title="Hiburan & Gaya Hidup" tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0",MNC Infotainment
+#EXTINF:-1 group-title="Hiburan & Gaya Hidup" tvg-logo="https://i.postimg.cc/P5YwxwPj/Screenshot-3.png",MNC Infotainment
 https://nyanv-live-cdn.mncnow.id/live/eds/MNCInfotainment/sa_dash_vmx/MNCInfotainment.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
-#EXTINF:-1 group-title="Hiburan & Gaya Hidup" tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0",OK TV
+#EXTINF:-1 group-title="Hiburan & Gaya Hidup" tvg-logo="https://i.postimg.cc/P5YwxwPj/Screenshot-3.png",OK TV
 https://nyanv-live-cdn.mncnow.id/live/eds/OKTV/sa_dash_vmx/OKTV.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
-#EXTINF:-1 group-title="Hiburan & Gaya Hidup" tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0",Dragon TV
+#EXTINF:-1 group-title="Hiburan & Gaya Hidup" tvg-logo="https://i.postimg.cc/P5YwxwPj/Screenshot-3.png",Dragon TV
 https://nyanv-live-cdn.mncnow.id/live/eds/ShanghaiDragonTV/sa_dash_vmx/ShanghaiDragonTV.mpd
 
 KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
-EXTINF:-1 group-title="Hiburan & Gaya Hidup" tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0",TLC
+#EXTINF:-1 group-title="Hiburan & Gaya Hidup" tvg-logo="https://i.postimg.cc/P5YwxwPj/Screenshot-3.png",TLC
 #https://nyanv-live-cdn.mncnow.id/live/eds/TLC/sa_dash_vmx/TLC.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
-#EXTINF:-1 group-title="Hiburan & Gaya Hidup" tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0",Vision Prime
+#EXTINF:-1 group-title="Hiburan & Gaya Hidup" tvg-logo="https://i.postimg.cc/P5YwxwPj/Screenshot-3.png",Vision Prime
 https://nyanv-live-cdn.mncnow.id/live/eds/VisionPrime/sa_dash_vmx/VisionPrime.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
-#EXTINF:-1 group-title="Hiburan & Gaya Hidup" tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0",Xing Kong TV
+#EXTINF:-1 group-title="Hiburan & Gaya Hidup" tvg-logo="https://i.postimg.cc/P5YwxwPj/Screenshot-3.png",Xing Kong TV
 https://nyanv-live-cdn.mncnow.id/live/eds/XingKongTV/sa_dash_vmx/XingKongTV.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
-#EXTINF:-1 group-title="Hiburan & Gaya Hidup" tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0", Hunan TV
+#EXTINF:-1 group-title="Hiburan & Gaya Hidup" tvg-logo="https://i.postimg.cc/P5YwxwPj/Screenshot-3.png", Hunan TV
 https://nyanv-live-cdn.mncnow.id/live/eds/HunanTV/sa_dash_vmx/HunanTV.mpd
-
-#EXTINF:-1 group-title="Hiburan & Gaya Hidup" tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0", Dens Life & Style
+#EXTINF:-1 group-title="Hiburan & Gaya Hidup" tvg-logo="https://i.postimg.cc/P5YwxwPj/Screenshot-3.png", Dens Life & Style
 http://210.210.155.37/x6bnqe/s/s65/index2.m3u8
-
-EXTINF:-1 group-title="Hiburan & Gaya Hidup" tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0", B. Lifestyle
+#EXTINF:-1 group-title="Hiburan & Gaya Hidup" tvg-logo="https://i.postimg.cc/P5YwxwPj/Screenshot-3.png", B. Lifestyle
 #http://livestream.biznetvideo.net/biznet_lifestyle/smil:lifestyle.smil/playlist.m3u8?bizkeylivestarttime=0&bizkeyliveendtime=0&bizkeyliveCustomParameter=myParameter&bizkeylivehash=jgDKPclcGdZfvrIDxfMdpT7v_srMWCbubntGo9cCYWpcBBQalMlLQxHswm43PbVR
-
-#EXTINF:-1 group-title="Hiburan & Gaya Hidup" tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0", Global Trekker
+#EXTINF:-1 group-title="Hiburan & Gaya Hidup" tvg-logo="https://i.postimg.cc/P5YwxwPj/Screenshot-3.png", Global Trekker
 http://edge.linknetott.swiftserve.com/channelgroup4/cg434production/ch366/02.m3u8
-
-#EXTINF:-1 group-title="Hiburan & Gaya Hidup" tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0", Hell's Kitchen
+#EXTINF:-1 group-title="Hiburan & Gaya Hidup" tvg-logo="https://i.postimg.cc/P5YwxwPj/Screenshot-3.png", Hell's Kitchen
 https://dvzueir2lg0o6.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/HellsKitchen-prod/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai=SSSLIVE
-
-#EXTINF:-1 group-title="Hiburan & Gaya Hidup" tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0", Kitchen Nightmares
+#EXTINF:-1 group-title="Hiburan & Gaya Hidup" tvg-logo="https://i.postimg.cc/P5YwxwPj/Screenshot-3.png", Kitchen Nightmares
 https://d12hafsmzbqmzo.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/KitchenNightmare2-prod/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai=SSSLIVE
-
-#EXTINF:-1 group-title="Hiburan & Gaya Hidup" tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0", Vice
+#EXTINF:-1 group-title="Hiburan & Gaya Hidup" tvg-logo="https://i.postimg.cc/P5YwxwPj/Screenshot-3.png", Vice
 https://d2do1g43aq7264.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/Vice-prod/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai=SSSLIVE
-
-#EXTINF:-1 group-title="Hiburan & Gaya Hidup" tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0", Top Gear
+#EXTINF:-1 group-title="Hiburan & Gaya Hidup" tvg-logo="https://i.postimg.cc/P5YwxwPj/Screenshot-3.png", Top Gear
 https://d3mpi5qa5otpo5.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-i0am1w3cs6gml-ssai-prd/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai=SSSLIVE
-
-#EXTINF:-1 group-title="Hiburan & Gaya Hidup" tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0", American Idol
+#EXTINF:-1 group-title="Hiburan & Gaya Hidup" tvg-logo="https://i.postimg.cc/P5YwxwPj/Screenshot-3.png", American Idol
 https://dzgc9z8yuogwk.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-9owhs89zh85fa-ssai-prd/hls-harvester2-1293-prod-eucentral1/eu-central-1/cc-9owhs89zh85fa/master.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
-
-#EXTINF:-1 group-title="Hiburan & Gaya Hidup" tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0", America's Got Talent
+#EXTINF:-1 group-title="Hiburan & Gaya Hidup" tvg-logo="https://i.postimg.cc/P5YwxwPj/Screenshot-3.png", America's Got Talent
 https://da48ygj8xribp.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-nqz4iiv4surws-ssai-prd/hls-harvester2-1293-prod-eucentral1/eu-central-1/cc-nqz4iiv4surws/master.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
+===========================================================================================
 
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0" group-title="Berita Internasional", Update Playlist Terbaru
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/P5YwxwPj/Screenshot-3.png" group-title="Berita Internasional", Update Playlist Terbaru
 https://dl.dropboxusercontent.com/s/7lovt761n44ueza/VID_20220526221756.mp4?dl=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
-#EXTINF:-1 group-title="Berita Internasional" tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0",ABC Australia
+#EXTINF:-1 group-title="Berita Internasional" tvg-logo="https://i.postimg.cc/P5YwxwPj/Screenshot-3.png",ABC Australia
 https://nyanv-live-cdn.mncnow.id/live/eds/AustraliaPlus/sa_dash_vmx/AustraliaPlus.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
-#EXTINF:-1 group-title="Berita Internasional" tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0",Aljazeera English
+#EXTINF:-1 group-title="Berita Internasional" tvg-logo="https://i.postimg.cc/P5YwxwPj/Screenshot-3.png",Aljazeera English
 https://nyanv-live-cdn.mncnow.id/live/eds/AlJazeeraInternational/sa_dash_vmx/AlJazeeraInternational.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
-#EXTINF:-1 group-title="Berita Internasional" tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0",BBC World News Asia Pacific
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRm
+#EXTINF:-1 group-title="Berita Internasional" tvg-logo="https://i.postimg.cc/P5YwxwPj/Screenshot-3.png",BBC World News Asia Pacific
 https://nyanv-live-cdn.mncnow.id/live/eds/BBCWorldNews/sa_dash_vmx/BBCWorldNews.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
-#EXTINF:-1 group-title="Berita Internasional" tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0",CGTN
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRm
+#EXTINF:-1 group-title="Berita Internasional" tvg-logo="https://i.postimg.cc/P5YwxwPj/Screenshot-3.png",CGTN
 https://nyanv-live-cdn.mncnow.id/live/eds/CGTN/sa_dash_vmx/CGTN.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
-#EXTINF:-1 group-title="Berita Internasional" tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0",CNA
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxM
+#EXTINF:-1 group-title="Berita Internasional" tvg-logo="https://i.postimg.cc/P5YwxwPj/Screenshot-3.png",CNA
 https://nyanv-live-cdn.mncnow.id/live/eds/ChannelNewsAsia/sa_dash_vmx/ChannelNewsAsia.mpd
 
 KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
-#EXTINF:-1 group-title="Berita Internasional" tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0",CNN International Asia Pacific
+#EXTINF:-1 group-title="Berita Internasional" tvg-logo="https://i.postimg.cc/P5YwxwPj/Screenshot-3.png",CNN International Asia Pacific
 #https://nyanv-live-cdn.mncnow.id/live/eds/CNNInternational/sa_dash_vmx/CNNInternational.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
-#EXTINF:-1 group-title="Berita Internasional" tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0",DW English
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxM
+#EXTINF:-1 group-title="Berita Internasional" tvg-logo="https://i.postimg.cc/P5YwxwPj/Screenshot-3.png",DW English
 https://nyanv-live-cdn.mncnow.id/live/eds/DW/sa_dash_vmx/DW.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
-#EXTINF:-1 group-title="Berita Internasional" tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0",EuroNews English
+#EXTINF:-1 group-title="Berita Internasional" tvg-logo="https://i.postimg.cc/P5YwxwPj/Screenshot-3.png",EuroNews English
 https://nyanv-live-cdn.mncnow.id/live/eds/EuroNews/sa_dash_vmx/EuroNews.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
-#EXTINF:-1 group-title="Berita Internasional" tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0",Fox News Channel
+#EXTINF:-1 group-title="Berita Internasional" tvg-logo="https://i.postimg.cc/P5YwxwPj/Screenshot-3.png",Fox News Channel
 https://nyanv-live-cdn.mncnow.id/live/eds/FoxNews/sa_dash_vmx/FoxNews.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -1337,27 +1219,27 @@ https://nyanv-live-cdn.mncnow.id/live/eds/France24/sa_dash_vmx/France24.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
-#EXTINF:-1 group-title="Berita Internasional" tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0",NHK World Japan
+#EXTINF:-1 group-title="Berita Internasional" tvg-logo="https://i.postimg.cc/P5YwxwPj/Screenshot-3.png",NHK World Japan
 https://nyanv-live-cdn.mncnow.id/live/eds/NHKWorldTV/sa_dash_vmx/NHKWorldTV.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
-#EXTINF:-1 group-title="Berita Internasional" tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0",NHK World Premium
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGI
+#EXTINF:-1 group-title="Berita Internasional" tvg-logo="https://i.postimg.cc/P5YwxwPj/Screenshot-3.png",NHK World Premium
 https://nyanv-live-cdn.mncnow.id/live/eds/NHKWorldPremium/sa_dash_vmx/NHKWorldPremium.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
-#EXTINF:-1 group-title="Berita Internasional" tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0",RT English
+#EXTINF:-1 group-title="Berita Internasional" tvg-logo="https://i.postimg.cc/P5YwxwPj/Screenshot-3.png",RT English
 https://nyanv-live-cdn.mncnow.id/live/eds/RTEnglish/sa_dash_vmx/RTEnglish.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
-#EXTINF:-1 group-title="Berita Internasional" tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0",TRT World
+#EXTINF:-1 group-title="Berita Internasional" tvg-logo="https://i.postimg.cc/P5YwxwPj/Screenshot-3.png",TRT World
 https://nyanv-live-cdn.mncnow.id/live/eds/TRTWorld/sa_dash_vmx/TRTWorld.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
-#EXTINF:-1 group-title="Berita Internasional" tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0",TV5 Monde Asie
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxM
+#EXTINF:-1 group-title="Berita Internasional" tvg-logo="https://i.postimg.cc/P5YwxwPj/Screenshot-3.png",TV5 Monde Asie
 https://nyanv-live-cdn.mncnow.id/live/eds/TV5/sa_dash_vmx/TV5.mpd
 
 ======================================================================
@@ -1502,49 +1384,6 @@ https://h1.intechmedia.net/intech/ch16.m3u8
 
 
 
--------------------------------------NEWS--------------------------------------------
-
-
-
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/P5YwxwPj/Screenshot-3.png" group-title="News",ALJAZERA
-http://210.210.155.37/qwr9ew/s/s16/index.m3u8
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 tvg-id="AljazeeraEnglish.qa" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUvPqgdeNV5irnOvk-NvJk_wDwqCXc51y6tL4OMgk&s=0" group-title="News",AL JAZEERA English
-https://newanv-live-cdn.mncnow.id/live/eds/AlJazeeraInternational/sa_dash_vmx/AlJazeeraInternational.mpd
-#EXTINF:0 tvg-id="ext" group-title="NEWS",NHK World Japan
-https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp-en/index_1M.m3u8
-#EXTINF:0 tvg-id="ext" group-title="NEWS",Jakarta globe
-http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsenglish/chunklist_b356000.m3u8
-#EXTINF:0 tvg-id="AljazeeraEng.il" group-title="NEWS",Al Jazeera
-https://live-hls-web-aje.getaj.net/AJE/02.m3u8
-https://liveprodapnortheast.global.ssl.fastly.net/ap1/Channel-APTVqvs-AWS-tokyo-1/Source-APTVqvs-1000-1_live.m3u8
-#EXTINF:0 tvg-id="ext" group-title="NEWS",SEA TODAY
-https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(9ce3f094-4044-467e-84b7-b684a49571d5)/manifest.mpd
-#EXTINF:0 tvg-id="CGTN.cn" group-title="NEWS",CGTN
-https://news.cgtn.com/resource/live/english/cgtn-news.m3u8
-#EXTINF:0 tvg-id="ABCNews.al" group-title="NEWS",ABC News
-https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8
-#EXTINF:0 tvg-id="arirang-en" group-title="NEWS",Arirang
-http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="NEWS",CNBC Asia
-https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebLinux/amagi_hls_data_xumo1212A-xumo-nbcnewsnow/CDN/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="NEWS",Channel News Asia
-https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_3.m3u8
-#EXTINF:0 tvg-id="CGTN.cn" group-title="NEWS",CGTN
-https://live.cgtn.com/1000/prog_index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="NEWS",港台電視32
-https://www.rthk.hk/feeds/dtt/rthktv32_https.m3u8
-#EXTINF:0 tvg-id="DW.al" group-title="NEWS",DW
-https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
-#EXTINF:0 tvg-id="TRTWorld.uk" group-title="NEWS",TRT World
-https://tv-trtworld.live.trt.com.tr/master_720.m3u8
-#EXTINF:0 tvg-id="ext" group-title="NEWS",AfricaNews
-https://rakuten-africanews-1-dk.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="NEWS",BeritaSatu World
-https://b1world.beritasatumedia.com/Beritasatu/B1World_1280x720.m3u8?aux=eroz_brebes.m3u8
-#EXTINF:0 tvg-id="ext" group-title="NEWS",TVRI
-http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINASIONAL)/Stream(03)/index.m3u8
 
 
 
@@ -1809,25 +1648,6 @@ http://live.wmncdn.net/cinevoice/508a8ec9dfdb9c61df9823aac272b719.sdp/mono.m3u8
 http://live.agmediachandigarh.com/booglebollywood/774e3ea9f3fa9bcdac47f445b83b6653.sdp/index.m3u8
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/kGXK0m4k/Screenshot-142.png" group-title="MUSIC",JPUNJABI
 http://159.203.9.134/hls/jhanjar_music/jhanjar_music.m3u8
-===================================KNOWLEDGE===============================
-
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 tvg-id="CrimePlusInvestigationAsia.us" tvg-name="Crime Investigation" tvg-logo="https://i.ibb.co/3F4xMrj/hdr.png" group-title="Knowledge",Crime Investigation
-https://av-live-cdn.mncnow.id/live/eds/CrimeInvestigation/sa_dash_vmx/CrimeInvestigation.mpd
-#EXTINF:-1 group-title="KNOWLEDGE" tvg-logo="https://i.postimg.cc/wTsw-FydW/bisnet-adventure-4k.png", Bisnet Adventure 4K
-http://livestream.biznetvideo.net/biznet_adventure/smil:adventure.smil/playlist.m3u8
-#EXTINF:-1 group-title="KNOWLEDGE" tvg-logo="https://i.postimg.cc/W4L4dn04/discovery-asia.png",DISCOVERY ASIA 
-https://vips-livecdn.fptplay.net/hda2/discoveryasia_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/tgZ9JgHL/love-nature-4k.png" group-title="KNOWLEDGE",LOVE NATURE 
-https://bamus-eng-roku.amagi.tv/playlist404p.m3u8KNOWLEDGE
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/GpYKFDW5/OUTSIDE-TV.png" group-title="KNOWLEDGE",OUTSIDE TV
-https://outsidetvplus-stirr.amagi.tv/playlistR720P.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/pLmqd4qx/PEOPLE-ARE-AWESOME.png" group-title="KNOWLEDGE",PEOPLE ARE AWESOME
-https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWindows/amagi_hls_data_xumo1212A-redboxpeopleareawesome/CDN/1280x720_5000000/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/RVfC96Dm/SMITHSONIAN.png" group-title="KNOWLEDGE", Smithsonian Channel 
-https://smithsonianaus-samsungau.amagi.tv/playlist720p.m3u8?checkedby:iptvcat.com
 
 ----------------------------------------------SPORT --------------------
 
