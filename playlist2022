@@ -622,10 +622,11 @@ http://rr1.dens.tv/h/h16/index.m3u8
 http://210.210.155.35/dr9445/h/h16/01.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/P5YwxwPj/Screenshot-3.png" group-title="Movies",ROCK EXTREM
 http://45.126.83.51/dr9445/h/h15/01.m3u8
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/P5YwxwPj/Screenshot-3.png" group-title="Movies",ZEE BIOSKOP
-http://45.126.83.51/qwr9ew/s/s32/01.m3u8
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/P5YwxwPj/Screenshot-3.png" group-title="Movies",CELESTIAL MOVIES
-http://rr1.dens.tv/h/h14/index.m3u8
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
+#EXTINF:-1 group-title="Movies & Hiburan" tvg-logo="https://i.postimg.cc/P5YwxwPj/Screenshot-3.png",Lifetime
+https://nyanv-live-cdn.mncnow.id/live/eds/Lifetime/sa_dash_vmx/Lifetime.mpd
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/P5YwxwPj/Screenshot-3.png" group-title="Movies",K+
 http://210.210.155.37/uq2663/h/h08/index.m3u8
 
