@@ -261,10 +261,7 @@ EXTINF:-1 group-title="Anak² & Kartun" tvg-logo="https://i.postimg.cc/P5YwxwPj/
 #https://nyanv-live-cdn.mncnow.id/live/eds/Boomerang/sa_dash_vmx/Boomerang.mpd
 #EXTINF:-1 group-title="Anak² & Kartun" tvg-logo="https://i.postimg.cc/P5YwxwPj/Screenshot-3.png", Cartoon Network
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch103)/index.m3u8
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
-#EXTINF:-1 group-title="Anak² & Kartun" tvg-logo="https://i.postimg.cc/P5YwxwPj/Screenshot-3.png", DreamWorks
-https://nyanv-live-cdn.mncnow.id/live/eds/CartoonNetwork/sa_dash_vmx/CartoonNetwork.mpd
+
 #EXTINF:-1 group-title="Anak² & Kartun" tvg-logo="https://i.postimg.cc/P5YwxwPj/Screenshot-3.png", DreamWorks
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch374)/index.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
