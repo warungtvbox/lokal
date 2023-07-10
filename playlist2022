@@ -117,8 +117,6 @@ http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/playlist.m3u8
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net:443/?deviceId=NDljZWY3MGUtM2I0Ni0zODQyLTk3ZjItMDI0MWFjOTA4ODc1
 #EXTINF:-1 group-title="Lokal" tvg-logo="https://i.postimg.cc/P5YwxwPj/Screenshot-3.png",Kompas TV
 https://newanv-live-cdn.mncnow.id/live/eds/KompasTV/sa_dash_vmx/KompasTV.mpd
-#EXTINF:-1 tvg-id="KompasTV.id" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/7a/KOMPAS_TV_%282017%29.png" group-title="Lokal",Kompas TV (720p)
-https://live-kg.jixie.media/live/kompastv_lhd.m3u8
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/J7XR1rf4/KOMPASTV.png" group-title="Lokal",KOMPAS TV
 https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(dc9040ad-a4e1-4d08-883c-a65542b69602)/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -1589,14 +1587,6 @@ http://159.203.9.134/hls/jhanjar_music/jhanjar_music.m3u8
 https://1621590671.rsc.cdn77.org/HLS/BILLIARDTV_SCTE.m3u8
 #EXTINF:-1 tvg-id="ext" group-title="Sports",SKY NEWS EXTRA 1
 https://skynewsau-live.akamaized.net/hls/live/2002689/skynewsau-extra1/master.m3u8
-#EXTINF:-1 group-title="Sports" tvg-id="astrosupersport4.my" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_ASSP1.png",Astro SuperSports 4
-http://skylogic.site:8080/Houngst20001/XHK3BBKK4V8R8A20EQ/157558
-#EXTINF:-1 group-title="Sports" tvg-id="astrosupersport.my" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_ASSP1.png",Astro SuperSports 1
-http://skylogic.site:8080/Houngst20001/XHK3BBKK4V8R8A20EQ/146068
-#EXTINF:-1 group-title="Sports" tvg-id="astroarena2.my" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/72/Astro_Arena.png",Astro Arena 2
-http://skylogic.site:8080/Houngst20001/XHK3BBKK4V8R8A20EQ/157565
-#EXTINF:-1 group-title="Sports" tvg-id="astroarena.my" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/72/Astro_Arena.png",Astro Arena
-http://skylogic.site:8080/Houngst20001/XHK3BBKK4V8R8A20EQ/157485
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/VvfnNP7v/Unifi-TV-Logo.png",Unifi Sports 1
 https://unifi-live05.secureswiftcontent.com/UnifiHD/live11.mpd
 #EXTINF:-1 group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ea/Ad_sport_1.png",ABU DHABI SPORTS 1
