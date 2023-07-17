@@ -485,13 +485,7 @@ http://37.49.230.42:8080/iptvepic4/DzbGTtATy4DzmK8c/165082
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/582b49165511b164bcca3bc14a8c5b6d.png" group-title="MOVIES",  Citra Bioskop
 http://37.49.230.42:8080/iptvepic4/DzbGTtATy4DzmK8c/298519
 
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#EXTHTTP:{"dt-custom-data": "eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://gausahcopybesokilang.satvb.workers.dev/
-#EXTINF:-1 group-title="Movies" tvg-logo="https://i.postimg.cc/P5YwxwPj/Screenshot-3.png", Cinemax
-https://cdnjkt2.transvision.co.id:1001/live/master/1/4028c6856c3db2cc016cdbfc4a1934bf/manifest.mpd
+
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/P5YwxwPj/Screenshot-3.png" group-title="Movies", GEM
 http://edge.linknetott.swiftserve.com/channelgroup3/cg311production/ch3400/02.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/P5YwxwPj/Screenshot-3.png" group-title="Movies", Citra Bioskop
@@ -499,45 +493,11 @@ http://edge.linknetott.swiftserve.com/channelgroup4/cg435production/ch376/02.m3u
 
 #EXTINF:-1 group-title="Movies" tvg-logo="https://i.postimg.cc/P5YwxwPj/Screenshot-3.png", Sony Pix
 https://dai.google.com/linear/hls/event/x7rXWd2ERZ2tvyQWPmO1HA/master.m3u8
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#EXTHTTP:{"dt-custom-data": "eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://gausahcopybesokilang.satvb.workers.dev/
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/P5YwxwPj/Screenshot-3.png" group-title="Movies", Bioskop Indonesia
-https://cdnjkt2.transvision.co.id:1001/live/master/4/4028c6856fd0d66d0170341bf1000905/manifest.mpd
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/P5YwxwPj/Screenshot-3.png" group-title="Movies", Golden Horse Cinema 金马影院
-http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
+
 #EXTINF:-1 group-title="Movies" tvg-logo="https://i.postimg.cc/P5YwxwPj/Screenshot-3.png", Paramount Network
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch309)/index.m3u8
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#EXTHTTP:{"dt-custom-data": "eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://gausahcopybesokilang.satvb.workers.dev/
-#EXTINF:-1 group-title="Movies" tvg-logo="https://i.postimg.cc/P5YwxwPj/Screenshot-3.png", HBO Signature
-https://cdnjkt2.transvision.co.id:1001/live/master/3/4028c6856c3db2cc016d0552e0ca37a2/manifest.mpd
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#EXTHTTP:{"dt-custom-data": "eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://gausahcopybesokilang.satvb.workers.dev/
-#EXTINF:-1 group-title="Movies" tvg-logo="https://i.postimg.cc/P5YwxwPj/Screenshot-3.png", HBO Hits
-https://cdnjkt2.transvision.co.id:1001/live/master/4/4028c6856c3db2cc016d054fbf67379f/manifest.mpd
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#EXTHTTP:{"dt-custom-data": "eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://gausahcopybesokilang.satvb.workers.dev/
-#EXTINF:-1 group-title="Movies" tvg-logo="https://i.postimg.cc/P5YwxwPj/Screenshot-3.png", HBO Family
-https://cdnjkt2.transvision.co.id:1001/live/master/4/4028c6856c3db2cc016d055927fe37a4/manifest.mpd
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#EXTHTTP:{"dt-custom-data": "eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://gausahcopybesokilang.satvb.workers.dev/
-#EXTINF:-1 group-title="Movies" tvg-logo="https://i.postimg.cc/P5YwxwPj/Screenshot-3.png", HBO
-https://cdnjkt2.transvision.co.id:1001/live/master/3/4028c6856b6088c3016b87d64b970b53/manifest.mpd
+
+
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net:443/?deviceId=NDljZWY3MGUtM2I0Ni0zODQyLTk3ZjItMDI0MWFjOTA4ODc1
 #EXTINF:-1 group-title="Movies" tvg-logo="https://i.postimg.cc/P5YwxwPj/Screenshot-3.png",Indonesia Movie Channels
@@ -1314,32 +1274,138 @@ https://api-ott.estv.co/loggingmediaurlpassthrough/a.m3u8?version=12&id=12&partn
 ===================================================================
 
 
-
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/P5YwxwPj/Screenshot-3.png" group-title="TV Malaysia", TV1
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/584608e7b0eb904734396e6cc6831811.png" group-title="MALAYSIA", Astro Prima
+http://37.49.230.42:8080/Streamteam5723/257KBV6fXGrQMKLV/157467
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-08/28fc1cfc2e9b5b2ba64f6bf5bcaa357d.png" group-title="MALAYSIA", Astro Oasis
+http://37.49.230.42:8080/Streamteam5723/257KBV6fXGrQMKLV/157489
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/e976949486bc089b9dec986e9a860ff8.png" group-title="MALAYSIA", Astro Awani
+http://37.49.230.42:8080/Streamteam5723/257KBV6fXGrQMKLV/157478
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/edc8a9c38c820781eb4785f4e5ee89ca.png" group-title="MALAYSIA", Astro Cricket
+http://37.49.230.42:8080/Streamteam5723/257KBV6fXGrQMKLV/157565
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-04/f9cbb250de1822306dc0b7e9cdd23c9a.png" group-title="MALAYSIA", Astro Arena
+http://37.49.230.42:8080/Streamteam5723/257KBV6fXGrQMKLV/157485
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/P5YwxwPj/Screenshot-3.png" group-title="MALAYSIA", TV1
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/playlist.m3u8?id=1
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/P5YwxwPj/Screenshot-3.png" group-title="TV Malaysia", TV2
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/P5YwxwPj/Screenshot-3.png" group-title="MALAYSIA", TV2
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/playlist.m3u8?id=2
-#EXTINF:-1 group-title="TV Malaysia" ch-number="103" tvg-id="103" tvg-chno="103" tvg-logo="https://i.postimg.cc/P5YwxwPj/Screenshot-3.png",TV3
+#EXTINF:-1 group-title="MALAYSIA" ch-number="103" tvg-id="103" tvg-chno="103" tvg-logo="https://i.postimg.cc/P5YwxwPj/Screenshot-3.png",TV3
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3afe30ee4ea24a67fe5a2ef06e83db0b:27a2f71d87bf5eb105af096fb6605d97
 https://unifi-live01.secureswiftcontent.com/UnifiHD/live03.mpd
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/P5YwxwPj/Screenshot-3.png" group-title="TV Malaysia", TV6
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/P5YwxwPj/Screenshot-3.png" group-title="MALAYSIA", TV6
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/playlist.m3u8?id=6
 #EXTINF:-1 group-title="TV Malaysia" ch-number="109" tvg-id="109" tvg-chno="109" tvg-logo="https://i.postimg.cc/P5YwxwPj/Screenshot-3.png",TV9
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://run.mocky.io/v3/ffd0e2a2-f9e4-4159-ac8a-c0dd385def5e
 https://unifi-live09.secureswiftcontent.com/UnifiHD/live09.mpd
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/P5YwxwPj/Screenshot-3.png" group-title="TV Malaysia", OKeY
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/P5YwxwPj/Screenshot-3.png" group-title="MALAYSIA", OKeY
 https://d25tgymtnqzu8s.cloudfront.net/smil:okey/playlist.m3u8?id=3
 #EXTINF:-1 group-title="TV Malaysia" ch-number="111" tvg-id="111" tvg-chno="111" tvg-logo="https://i.postimg.cc/P5YwxwPj/Screenshot-3.png", Sukan RTM
 https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/chunklist_b1296000_slENG.m3u8?id=4
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/P5YwxwPj/Screenshot-3.png" group-title="TV Malaysia", Berita RTM
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/P5YwxwPj/Screenshot-3.png" group-title="MALAYSIA", Berita RTM
 https://d25tgymtnqzu8s.cloudfront.net/smil:berita/playlist.m3u8?id=5
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/P5YwxwPj/Screenshot-3.png" group-title="TV Malaysia", BERNAMA TV
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/P5YwxwPj/Screenshot-3.png" group-title="MALAYSIA", BERNAMA TV
 https://raw.githubusercontent.com/digitaldotmy/YoutubeLive/main/BERNAMATV.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/P5YwxwPj/Screenshot-3.png" group-title="TV Malaysia", Unifi Sports 1
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/P5YwxwPj/Screenshot-3.png" group-title="MALAYSIA", Unifi Sports 1
 https://unifi-live05.secureswiftcontent.com/UnifiHD/live11.mpd
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/98eeb75a39995d2c6ab45fb716af8310.png" group-title="MALAYSIA", Astro Ria
+http://37.49.230.42:8080/Streamteam5723/257KBV6fXGrQMKLV/158347
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/56d8756215a55bb4bc650428934f45d4.png" group-title="MALAYSIA", Astro SuperSport
+http://37.49.230.42:8080/Streamteam5723/257KBV6fXGrQMKLV/146068
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/601d9900ec857fb5c10762208e18f474.png" group-title="MALAYSIA", Astro SuperSport 2
+http://37.49.230.42:8080/Streamteam5723/257KBV6fXGrQMKLV/157556
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/c450e8241eb19fdbc99b78c96be08c2d.png" group-title="MALAYSIA", Astro SuperSport 3
+http://37.49.230.42:8080/Streamteam5723/257KBV6fXGrQMKLV/157557
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/a24abde2dc683d551ebfae1f0820315c.png" group-title="MALAYSIA", Astro SuperSport 4
+http://37.49.230.42:8080/Streamteam5723/257KBV6fXGrQMKLV/157558
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-02/480daf2471d76a0819242a59da7005f9.png" group-title="MALAYSIA", Astro SuperSport 5
+http://37.49.230.42:8080/Streamteam5723/257KBV6fXGrQMKLV/287792
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-08/bb06ccbe93af0e4d72aad4c77c5cb4c6.png" group-title="MALAYSIA", Astro Vaanavil
+http://37.49.230.42:8080/Streamteam5723/257KBV6fXGrQMKLV/201163
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/fa7dae21ca0a660204573e4d010232ab.png" group-title="MALAYSIA", Astro Xiao Tai Yang
+http://37.49.230.42:8080/Streamteam5723/257KBV6fXGrQMKLV/201164
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/2d7d739d57aa860159c36df8c746c779.png" group-title="MALAYSIA", AXN
+http://37.49.230.42:8080/Streamteam5723/257KBV6fXGrQMKLV/157542
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-12/c23b25dd57cbcc578a72dda7e35fdf08.png" group-title="MALAYSIA", BBC Earth
+http://37.49.230.42:8080/Streamteam5723/257KBV6fXGrQMKLV/171979
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-12/661d6fd8993dd9aaf43e249d036e9eb3.jpg" group-title="MALAYSIA", beIN Sports
+http://37.49.230.42:8080/Streamteam5723/257KBV6fXGrQMKLV/157561
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/602e805f1abfd464565db600ffd3f028.png" group-title="MALAYSIA", Bloomberg TV
+http://37.49.230.42:8080/Streamteam5723/257KBV6fXGrQMKLV/157533
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-11/515d63ff66edb49dc64a03093e9f6fd2.png" group-title="MALAYSIA", Boomerang
+http://37.49.230.42:8080/Streamteam5723/257KBV6fXGrQMKLV/171955
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/51e29412b2a80c8afa779e56b99dccdd.png" group-title="MALAYSIA", Celestial Movies
+http://37.49.230.42:8080/Streamteam5723/257KBV6fXGrQMKLV/174687
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-08/ad7a1e1bb94a07f128ce21def6a0adc3.png" group-title="MALAYSIA", Crime+ Investigation
+http://37.49.230.42:8080/Streamteam5723/257KBV6fXGrQMKLV/157554
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-02/838a78d02f3d18a23b94402dd8420a2b.png" group-title="MALAYSIA", Discovery Science
+http://37.49.230.42:8080/Streamteam5723/257KBV6fXGrQMKLV/157530
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/d0e9f7b4beedf023994c4d1937b97aca.png" group-title="MALAYSIA", Discovery World
+http://37.49.230.42:8080/Streamteam5723/257KBV6fXGrQMKLV/157528
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-12/451dbdd3fbdd722d2ca3c1b4ba7ada36.png" group-title="MALAYSIA", Disney XD
+http://37.49.230.42:8080/Streamteam5723/257KBV6fXGrQMKLV/157544
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/32a4269c4918eeef41af63deb0f43083.png" group-title="MALAYSIA", FOX SPORTS 2
+http://37.49.230.42:8080/Streamteam5723/257KBV6fXGrQMKLV/157488
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/dd5b9bef97274c22a06f1f088d34936a.png" group-title="MALAYSIA", HGTV Asia
+http://37.49.230.42:8080/Streamteam5723/257KBV6fXGrQMKLV/157553
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/25ab65a39a10d628b5c9319b423b6497.png" group-title="MALAYSIA", Hits
+http://37.49.230.42:8080/Streamteam5723/257KBV6fXGrQMKLV/157545
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/652a9e2547c9b24a6a2b0eb16b43a1f1.png" group-title="MALAYSIA", HITS Movies
+http://37.49.230.42:8080/Streamteam5723/257KBV6fXGrQMKLV/157477
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-10/98ac421179bbfd4dc8f4f4640667e35b.png" group-title="MALAYSIA", Local Now Family Flix
+http://37.49.230.42:8080/Streamteam5723/257KBV6fXGrQMKLV/296889
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-11/92307ca79c909c2f7881199792c74c0b.png" group-title="MALAYSIA", Nick Jr
+http://37.49.230.42:8080/Streamteam5723/257KBV6fXGrQMKLV/157546
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-12/9e4e07f643b9d102a246aba95fd763ef.png" group-title="MALAYSIA", NTV 7
+http://37.49.230.42:8080/Streamteam5723/257KBV6fXGrQMKLV/174695
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-07/709e30cbe3d7b9710f54e41156389475.jpg" group-title="MALAYSIA", RTM TV 1
+http://37.49.230.42:8080/Streamteam5723/257KBV6fXGrQMKLV/158357
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-08/4d495580f894286e82e1f9ee33d2874b.png" group-title="MALAYSIA", RTM TV 2
+http://37.49.230.42:8080/Streamteam5723/257KBV6fXGrQMKLV/158355
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-08/7c4b2443678d05d7f2032e5519eec970.png" group-title="MALAYSIA", TV 3
+http://37.49.230.42:8080/Streamteam5723/257KBV6fXGrQMKLV/158360
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-08/cc8d0ca33c66e7808f8704134494f9f2.png" group-title="MALAYSIA", TV 9
+http://37.49.230.42:8080/Streamteam5723/257KBV6fXGrQMKLV/171953
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/6565f78da7926feade32fc9651446d1e.png" group-title="MALAYSIA", TV Alhijrah
+http://37.49.230.42:8080/Streamteam5723/257KBV6fXGrQMKLV/157491
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-01/66ac88e17edd3d12e424a58a3a9b1d45.png" group-title="MALAYSIA", TVN Movies
+http://37.49.230.42:8080/Streamteam5723/257KBV6fXGrQMKLV/297499
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/ab95d8e974bb7f697b1dd79c7ac0f765.png" group-title="MALAYSIA", Warner TV
+http://37.49.230.42:8080/Streamteam5723/257KBV6fXGrQMKLV/157550
+
+
+
 
 ==================================================================
 
