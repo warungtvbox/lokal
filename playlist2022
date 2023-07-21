@@ -397,7 +397,7 @@ http://37.49.230.42:8080/Streamteam5723/257KBV6fXGrQMKLV/298527
 http://37.49.230.42:8080/Streamteam5723/257KBV6fXGrQMKLV/298528
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/P5YwxwPj/Screenshot-3.png" group-title="Movies",Etv Bioskop 4
 http://37.49.230.42:8080/Streamteam5723/257KBV6fXGrQMKLV/298529
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Movies", FLIK
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/P5YwxwPj/Screenshot-3.png" group-title="Movies", FLIK
 http://37.49.230.42:8080/Streamteam5723/257KBV6fXGrQMKLV/165095
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/dddbae34f8fafd015e5221a02075ad19.png" group-title="Movies",  Galaxy
 http://37.49.230.42:8080/Streamteam5723/257KBV6fXGrQMKLV/264773
