@@ -395,6 +395,8 @@ http://37.49.230.42:8080/Streamteam5723/257KBV6fXGrQMKLV/298526
 http://37.49.230.42:8080/Streamteam5723/257KBV6fXGrQMKLV/298527
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Movies",  Etv Bioskop 03
 http://37.49.230.42:8080/Streamteam5723/257KBV6fXGrQMKLV/298528
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/P5YwxwPj/Screenshot-3.png" group-title="Movies",Etv Bioskop 4
+http://37.49.230.42:8080/Streamteam5723/257KBV6fXGrQMKLV/298529
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Movies", FLIK
 http://37.49.230.42:8080/Streamteam5723/257KBV6fXGrQMKLV/165095
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/dddbae34f8fafd015e5221a02075ad19.png" group-title="Movies",  Galaxy
@@ -1661,7 +1663,7 @@ https://skynewsau-live.akamaized.net/hls/live/2002689/skynewsau-extra1/master.m3
 https://unifi-live05.secureswiftcontent.com/UnifiHD/live11.mpd
 #EXTINF:-1 group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ea/Ad_sport_1.png",ABU DHABI SPORTS 1
 https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8   
-#EXTINF:-1 group-title="" tvg-logo="https://www.pngkit.com/png/full/972-9721216_1-tvg-id-tvg-name-tvg-logo-https.png",ABU DHABI SPORTS 2
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/P5YwxwPj/Screenshot-3.png" group-title="Sports",ABU DHABI SPORTS 2
 https://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://www.pdfreestyle.com/wp-content/uploads/2019/01/Dubai-Sports-Channel-Logo.png",DUBAI SPORTS 1
 https://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.smil/chunklist_b1600000.m3u8
