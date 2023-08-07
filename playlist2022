@@ -1,3 +1,7 @@
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://yang-nyuri-bintitan.openwindows037.workers.dev/
+#EXTINF:-1 group-title="Movies & Hiburan" tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0", HBO
+https://cdnjkt2.transvision.co.id:1001/live/master/3/4028c6856b6088c3016b87d64b970b53/manifest.mpd
 #EXTINF:-1 group-title="Lokal" tvg-logo="https://i.postimg.cc/P5YwxwPj/Screenshot-3.png", Citra Drama
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch378)/index.m3u8
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/kGXK0m4k/Screenshot-142.png" group-title="Lokal",GARUDA TV
