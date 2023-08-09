@@ -1,13 +1,9 @@
 #EXTM3U
-#EXTINF:-1 group-title="Lokal" tvg-logo="https://i.postimg.cc/zDTc0k2z/warung-tvbox-logo-1.png", Citra Drama
+#EXTINF:-1 group-title="Lokal" tvg-logo="https://i.postimg.cc/HLpM1Tdv/Screenshot-3.png", Citra Drama
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch378)/index.m3u8
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/kGXK0m4k/Screenshot-142.png" group-title="Lokal",GARUDA TV
-http://103.119.54.246:8080/hls/bbstv.m3u8
-#EXTINF:0 tvg-id="JTV" tvg-name="JTV" tvg-url="http://www.useetv.com" tvg-logo="http://dusktill.masuk.web.id/img/jtv.png" group-title="Lokal",JTV
-https://av-live-cdn.mncnow.id/live/eds/JTV/sa_dash_vmx/JTV.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
-#EXTINF:-1 group-title="Lokal" tvg-logo="https://i.postimg.cc/P5YwxwPj/Screenshot-3.png",Vision Prime
+#EXTINF:-1 group-title="Lokal" tvg-logo="https://i.postimg.cc/HLpM1Tdv/Screenshot-3.png",Vision Prime
 https://nyanv-live-cdn.mncnow.id/live/eds/VisionPrime/sa_dash_vmx/VisionPrime.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
