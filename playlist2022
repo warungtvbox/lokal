@@ -928,14 +928,7 @@ https://nyanv-live-cdn.mncnow.id/live/eds/HunanTV/sa_dash_vmx/HunanTV.mpd
 #EXTINF:-1 group-title="Hiburan & Gaya Hidup" tvg-logo="https://i.postimg.cc/P5YwxwPj/Screenshot-3.png", Global Trekker
 http://edge.linknetott.swiftserve.com/channelgroup4/cg434production/ch366/02.m3u8
 
-https://d2do1g43aq7264.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/Vice-prod/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai=SSSLIVE
-#EXTINF:-1 group-title="Hiburan & Gaya Hidup" tvg-logo="https://i.postimg.cc/P5YwxwPj/Screenshot-3.png", Top Gear
-https://d3mpi5qa5otpo5.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-i0am1w3cs6gml-ssai-prd/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai=SSSLIVE
-#EXTINF:-1 group-title="Hiburan & Gaya Hidup" tvg-logo="https://i.postimg.cc/P5YwxwPj/Screenshot-3.png", American Idol
-https://dzgc9z8yuogwk.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-9owhs89zh85fa-ssai-prd/hls-harvester2-1293-prod-eucentral1/eu-central-1/cc-9owhs89zh85fa/master.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
-#EXTINF:-1 group-title="Hiburan & Gaya Hidup" tvg-logo="https://i.postimg.cc/P5YwxwPj/Screenshot-3.png", America's Got Talent
-https://da48ygj8xribp.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-nqz4iiv4surws-ssai-prd/hls-harvester2-1293-prod-eucentral1/eu-central-1/cc-nqz4iiv4surws/master.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
-===========================================================================================
+
 
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
