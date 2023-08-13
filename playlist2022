@@ -372,37 +372,31 @@ http://edge.linknetott.swiftserve.com/channelgroup4/cg435production/ch376/02.m3u
 https://dai.google.com/linear/hls/event/x7rXWd2ERZ2tvyQWPmO1HA/master.m3u8
 #EXTINF:-1 group-title="Movies" tvg-logo="https://i.postimg.cc/d18L9D3X/warung-tvbox.png", Paramount Network
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch309)/index.m3u8
-
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
 #EXTINF:0 tvg-id="ext" group-title="Movies" tvg-logo="https://i.postimg.cc/d18L9D3X/warung-tvbox.png", Cinemachi HD
 https://nyanv-live-cdn.mncnow.id/live/eds/Cinemachi-HD/sa_dash_vmx/Cinemachi-HD.mpd
 #https://punya.mammothtv.my.id/vision/cinemachi.mpd
-
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
 #EXTINF:0 tvg-id="ext" group-title="Movies" tvg-logo="https://i.postimg.cc/d18L9D3X/warung-tvbox.png", Cinemachi Action HD
 https://nyanv-live-cdn.mncnow.id/live/eds/Cinemachi-Action/sa_dash_vmx/Cinemachi-Action.mpd
 #https://punya.mammothtv.my.id/vision/cinemachi-action.mpd
-
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
 #EXTINF:-1 tvg-id="Cinemachi.id" group-title="Movies" tvg-logo="https://i.postimg.cc/d18L9D3X/warung-tvbox.png",Cinemachi Kids HD
 https://nyanv-live-cdn.mncnow.id/live/eds/Cinemachi-Kids-HD/sa_dash_vmx/Cinemachi-Kids-HD.mpd
 #https://punya.mammothtv.my.id/vision/cinemachi-kids.mpd
-
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
 #EXTINF:-1 tvg-id="Cinemachi.id" group-title="Movies" tvg-logo="https://i.postimg.cc/d18L9D3X/warung-tvbox.png",Cinemachi Max HD
 https://nyanv-live-cdn.mncnow.id/live/eds/Cinemachi-Max-HD/sa_dash_vmx/Cinemachi-Max-HD.mpd
 #https://punya.mammothtv.my.id/vision/cinemachi-max.mpd
-
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
 #EXTINF:-1 tvg-id="Cinemachi.id" group-title="Movies" tvg-logo="https://i.postimg.cc/d18L9D3X/warung-tvbox.png",Cinemachi Xtra HD
 https://nyanv-live-cdn.mncnow.id/live/eds/Cinemachi-Xtra-HD/sa_dash_vmx/Cinemachi-Xtra-HD.mpd
 #https://punya.mammothtv.my.id/vision/cinemachi-xtra.mpd
-
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -410,7 +404,6 @@ https://nyanv-live-cdn.mncnow.id/live/eds/Cinemachi-Xtra-HD/sa_dash_vmx/Cinemach
 #KODIPROP:inputstream.adaptive.license_key=https://lic.drmtoday.com/license-proxy-widevine/cenc/?specConform=true
 #EXTINF:-1 group-title="Movies" tvg-logo="https://thumbs.gfycat.com/AthleticViciousGodwit-max-1mb.gif", HBO (OTT Navigator)
 https://cdnjkt2.transvision.co.id:1001/live/master/3/4028c6856b6088c3016b87d64b970b53/manifest.mpd
-
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://yang-nyuri-bintitan.openwindows037.workers.dev/
 #EXTINF:-1 group-title="Movies" tvg-logo="https://thumbs.gfycat.com/AthleticViciousGodwit-max-1mb.gif", HBO
@@ -443,7 +436,6 @@ https://cdnjkt2.transvision.co.id:1001/live/master/3/4028c6856c3db2cc016d0552e0c
 #KODIPROP:inputstream.adaptive.license_key=https://lic.drmtoday.com/license-proxy-widevine/cenc/?specConform=true
 #EXTINF:-1 group-title="Movies" tvg-logo="https://i.postimg.cc/d18L9D3X/warung-tvbox.png", Cinemax (OTT Navigator)
 https://cdnjkt2.transvision.co.id:1001/live/master/1/4028c6856c3db2cc016cdbfc4a1934bf/manifest.mpd
-
 #EXTINF:-1 tvg-id="hbohd.MACAN" tvg-logo="https://thumbs.gfycat.com/AthleticViciousGodwit-max-1mb.gif" group-title="Movies",HBO ID
 http://37.49.230.42:8080/live/iptvepic4/DzbGTtATy4DzmK8c/197972.ts
 #EXTINF:-1 tvg-id="cinemax.MACAN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Cinemax.svg/2560px-Cinemax.svg.png" group-title="Movies",HBO CINEMAX ID HD
@@ -597,10 +589,6 @@ http://37.49.230.42:8080/iptvepic4/DzbGTtATy4DzmK8c/165082
 
 ====================================================================
 
-#EXTINF:-1 group-title="Movies & Hiburan" tvg-logo="https://i.postimg.cc/d18L9D3X/warung-tvbox.png", K-Stories By CJ ENM
-https://d50a1g0nh14ou.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/CJ-ENM-prod/e91c6419_2e45_4f6c_a646_b912658d73b8/hls/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
-#EXTINF:-1 group-title="Movies & Hiburan" tvg-logo="https://i.postimg.cc/d18L9D3X/warung-tvbox.png", NEW KMOVIES
-https://bd281c27a16f4a7fb4a88260378e8082.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_NewMovies/playlist.m3u8?ads.wurl_channel=618&ads.wurl_name=NewMovies&ads.us_privacy=1YNY&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
 #EXTINF:-1 group-title="Movies & Hiburan" tvg-logo="https://i.postimg.cc/d18L9D3X/warung-tvbox.png", MovieSphere
 https://samsunguk-moviesphereuk-samsung-uk-s7xaa.amagi.tv/playlist/samsunguk-moviesphereuk-samsung-uk/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.tc_string=%7BTC_STRING%7D&ads.coppa=0
 #EXTINF:-1 group-title="Movies & Hiburan" tvg-logo="https://i.postimg.cc/d18L9D3X/warung-tvbox.png", MovieSphere By LIONSGATE
@@ -609,11 +597,7 @@ https://cdn-ue1-prod.tsv2.amagi.tv/linear/samsungus-moviesphere-samsung-samsungu
 https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,MovieSphere.m3u8
 #EXTINF:-1 group-title="Movies & Hiburan" tvg-logo="https://i.postimg.cc/d18L9D3X/warung-tvbox.png", The Walking Dead Universe
 https://22985209144b4ff78289fbb19f55e93e.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Plex_TWDUniverseExperience/playlist.m3u8?ads.wurl_channel=565&ads.wurl_name=TWDUniverseExperience&ads.coppa=0&ads.us_privacy=1---&ads.psid=62274240-07e7-5d94-8dc8-ef68cf19e175&ads.targetopt=0&ads.plex_token=sQN_f5E2o3f4xpcEPue3&ads.plex_id=5fc705ff2f220e002d5e6bce&ads.ua=okhttp%2F4.9.0&ads.app_bundle=com.plexapp.android&ads.app_store_url=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.plexapp.android&ads.gdpr=0&ads.consent=0&ads.device_type=handset&ads.device_id_type=
-#EXTINF:-1 group-title="Movies & Hiburan" tvg-logo="https://i.postimg.cc/d18L9D3X/warung-tvbox.png", 24 Hour Free Movies
-https://d15690s323oesy.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/UDU-Plex2/145.m3u8?ads.plex_token=sQN_f5E2o3f4xpcEPue3&ads.channel_Id=5fd115bab7ef8d002dcf181d&ads.did=62274240-07e7-5d94-8dc8-ef68cf19e175&ads.partnerChannel=muxip.24hourmovies&ads.dnt=0&ads.app_bundle=com.plexapp.android&ads.app_name=plex&ads.app_domain=app.plex.tv&ads.app_store_url=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.plexapp.android&ads.channel_name=24hourmovies&ads.us_privacy=1---&ads.gdpr=0&ads.consent=0
-#EXTINF:-1 group-title="Movies & Hiburan" tvg-logo="https://i.postimg.cc/d18L9D3X/warung-tvbox.png", Galxy TV
-https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-621672e42c2627c068e73ad8.m3u8?X-Plex-Client-Identifier=4f10a11d0159055e-com-plexapp-android&X-Plex-Client-Platform=Android&X-Plex-Token=ngiGKoEb44-shV7k85SB
-#EXTINF:-1 group-title="Movies & Hiburan" tvg-logo="https://i.postimg.cc/d18L9D3X/warung-tvbox.png", Watch it SCREAM
+
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=2257&live=1&avod=1&site_page=__PAGEURL_ESC__&site_name=Watchit%20Scream%21&hls_marker=1&cb=__CACHE_BUSTER__&ip=__CLIENT_IP__&ua=__USER_AGENT__&player_height=__HEIGHT__&player_width=__WIDTH__&is_lat=__LIMIT_AD_TRACKING__
 #EXTINF:-1 group-title="Movies & Hiburan" tvg-logo="https://i.postimg.cc/d18L9D3X/warung-tvbox.png", Watch it SCREAM
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-621671d05abdd3d5556a1baf.m3u8?X-Plex-Client-Identifier=4f10a11d0159055e-com-plexapp-android&X-Plex-Client-Platform=Android&X-Plex-Token=VrfsQATxN1fP6dzkXEfV
@@ -625,20 +609,12 @@ https://appletree-mytimeuk-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-mytime-
 https://cba5182b39c145c2b96ecc5c3f72e41a.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_GravitasMovies/playlist.m3u8?ads.wurl_channel=154&ads.wurl_name=GravitasMovies&ads.us_privacy=1---&ads.psid=62274240-07e7-5d94-8dc8-ef68cf19e175&ads.targetopt=0&ads.plex_token=b9tDdN13sTu4tKHzb-xN&ads.plex_id=5efe1de7e0b3f5003f5d9f8e&ads.ua=okhttp/4.9.0&ads.app_bundle=com.plexapp.android&ads.app_store_url=https://play.google.com/store/apps/details?id=com.plexapp.android&ads.gdpr=0&ads.consent=0&ads.device_type=handset&ads.device_id_type=
 #EXTINF:-1 group-title="Movies & Hiburan" tvg-logo="https://i.postimg.cc/d18L9D3X/warung-tvbox.png", Hi-Yah
 https://linear-59.frequency.stream/dist/localnow/59/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="Movies & Hiburan" tvg-logo="https://i.postimg.cc/d18L9D3X/warung-tvbox.png", New Movies
-https://ads.its-newid.net/api/manifest.m3u8?tp=samsung_tvplus&channel_name=newmovies&channel_id=newid_013&apikey=b97c7a7d0c82424bb607e141ef215779&auth=ef4722f8-0f04540c-5195b5f1-d5b74e3a&ads.live=%5BCONTENT_LIVE%5D&ads.device_did=%7BPSID%7D&ads.ifa=%5BIFA%5D&ads.ifatype=%5BIFA_TYPE%5D&ads.lat=%5BLMT%5D&ads.donotsell=%5BDNS%5D&ads.ip=%5BIP%5D&ads.gdpr=%5BGDPR%5D&ads.gdprconsent=%5BGDPR_CONSENT%5D&ads.country=%5BCOUNTRY%5D&ads.us_privacy=%5BUS_PRIVACY%5D&ads.appstoreurl=%5BAPP_STOREURL%5D&ads.bundleid=%5BAPP_BUNDLE%5D&ads.app.name=%7BAPP_NAME%7D&ads.appversion=%5BAPP_VERSION%5D&ads.devicetype=%5BDEVICE_TYPE%5D&ads.devicemake=%5BDEVICE_MAKE%5D&ads.devicemodel=%5BDEVICE_MODEL%5D&ads.targetad=%5BTARGETAD_ALLOWED%5D&ads.content_title=%5BPROGRAM_TITLE%5D&ads.content_series=%5BSERIES_TITLE%5D&ads.content_season=%5BSEASON_TITLE%5D&ads.content_episode=%5BEPISODE_NO%5D&ads.content_length=%5BCONTENT_LENGTH%5D&ads.device.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
-#EXTINF:-1 group-title="Movies & Hiburan" tvg-logo="https://i.postimg.cc/d18L9D3X/warung-tvbox.png", ScreamBox TV
-https://bloodydisgusting-localnow.cinedigm.com/playlist.m3u8
-#EXTINF:-1 group-title="Movies & Hiburan" tvg-logo="https://i.postimg.cc/d18L9D3X/warung-tvbox.png", Alter
-https://d2a5daycfw06m9.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-4tpex1gnbjekk-prod/amg-gunpowder-alter/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai=SSSLIVE
 #EXTINF:-1 group-title="Movies & Hiburan" tvg-logo="https://i.postimg.cc/d18L9D3X/warung-tvbox.png", Alter
 https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Alter.m3u8
 #EXTINF:-1 group-title="Movies & Hiburan" tvg-logo="https://i.postimg.cc/d18L9D3X/warung-tvbox.png", Adrenaline Rush
 https://linear-133.frequency.stream/dist/localnow/133/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="Movies & Hiburan" tvg-logo="https://i.postimg.cc/d18L9D3X/warung-tvbox.png", Crackle
 https://amg00540-crackleplusllc-crackle-localnow-ujykb.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="Movies & Hiburan" tvg-logo="https://i.postimg.cc/d18L9D3X/warung-tvbox.png", Horror 24/7
-https://d2poaftv7vl6fy.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-6sd5tbxf0p3kk-ssai-prd/amgholidaymovie/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai=SSSLIVE
 #EXTINF:-1 group-title="Movies & Hiburan" tvg-logo="https://i.postimg.cc/d18L9D3X/warung-tvbox.png", Horror Machine
 https://linear-82.frequency.stream/dist/localnow/82/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="Movies & Hiburan" tvg-logo="https://i.postimg.cc/d18L9D3X/warung-tvbox.png", Horror TV
@@ -667,30 +643,13 @@ https://spotlight-redbox.amagi.tv/hls/amagi_hls_data_redboxAAA-spotlight/CDN/pla
 https://redbox-holiday-lg.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="Movies & Hiburan" tvg-logo="https://i.postimg.cc/d18L9D3X/warung-tvbox.png", Red Box Movies War & Westerns
 https://redbox-warandwesterns-lg.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="Movies & Hiburan" tvg-logo="https://i.postimg.cc/d18L9D3X/warung-tvbox.png", ION
-https://22efc0415b994402907c019895d9f1de.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Samsung_ION/playlist.m3u8?ads.wurl_channel=1116&ads.wurl_name=ION&ads.coppa=0&ads.us_privacy=1YNY&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
+
 #EXTINF:-1 group-title="Movies & Hiburan" tvg-logo="https://i.postimg.cc/d18L9D3X/warung-tvbox.png", ION
 https://scripps-ion-1-us.lg.wurl.tv/playlist.m3u8
-#EXTINF:-1 group-title="Movies & Hiburan" tvg-logo="https://i.postimg.cc/d18L9D3X/warung-tvbox.png", ION PLUS
-https://ea2f4b54cd2d457290e6c34468dffb10.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_IonPlus/playlist.m3u8?ads.wurl_channel=378&ads.wurl_name=IonPlus&ads.us_privacy=1YNY&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
 #EXTINF:-1 group-title="Movies & Hiburan" tvg-logo=""https://i.postimg.cc/d18L9D3X/warung-tvbox.png, ION PLUS
 https://ion-ion-plus-1-us.lg.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="Movies & Hiburan" tvg-logo="https://i.postimg.cc/d18L9D3X/warung-tvbox.png", Movies 4 Free
 https://movies4free-lg.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="Movies & Hiburan" tvg-logo="https://i.postimg.cc/d18L9D3X/warung-tvbox.png", The Movie Hub
-https://dje6yassknq8t.cloudfront.net/playlist.m3u8
-#EXTINF:-1 group-title="Movies & Hiburan" tvg-logo="https://i.postimg.cc/d18L9D3X/warung-tvbox.png", Movie Favorites by Lifetime
-https://f5b9bc01fe7743cca70b3f58a7e1273a.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/Samsung_MovieFavoritesbyLifetime/playlist.m3u8?ads.wurl_channel=999&ads.wurl_name=MovieFavoritesbyLifetime&ads.coppa=0&ads.us_privacy=1YNY&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
-#EXTINF:-1 group-title="Movies & Hiburan" tvg-logo="https://i.postimg.cc/d18L9D3X/warung-tvbox.png", Moviedome
-https://amg00771-kochfilmsgerman-moviedomeuk-samsunguk-ua2if.am", POPFLIX
-https://af4689b464b143c89c08aab63ce4718d.mediatailor.us-easagi.tv/playlist/amg00771-kochfilmsgerman-moviedomeuk-samsunguk/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.tc_string=%7BTC_STRING%7D&ads.coppa=0
-SID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
-#EXTINF:-1 group-title="Movies & Hiburan" tvg-logo="https://i.postimg.cc/d18L9D3X/warung-tvbox.png", Film Stream
-https://1d508cb028524796ae97266f16331b51.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-in_Filmstream/playlist.m3u8?ads.wurl_channel=422&ads.wurl_name=Filmstream&ads.coppa=0&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
-#EXTINF:-1 group-title="Movies & Hiburan" tvg-logo="https://i.postimg.cc/d18L9D3X/warung-tvbox.png", Midnight Pulp
-https://9c59d528776940fc9817c9571867375a.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_MidnightPulp-1/playlist.m3u8?ads.wurl_channel=678&ads.wurl_name=MidnightPulp&ads.us_privacy=1YNY&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
-#EXTINF:-1 group-title="Movies & Hiburan" tvg-logo="https://i.postimg.cc/d18L9D3X/warung-tvbox.png", ElectricNow
-https://dm1y3xxivi9lk.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-icxyqeotf73n4-prod/elec/en/elec_en.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai=SSSLIVE
 #EXTINF:-1 group-title="Movies & Hiburan" tvg-logo="https://i.postimg.cc/d18L9D3X/warung-tvbox.png", Pluto TV Horror
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/569546031a619b8f07ce6e25/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 group-title="Movies & Hiburan" tvg-logo="https://i.postimg.cc/d18L9D3X/warung-tvbox.png", Pluto TV Terror
@@ -706,18 +665,13 @@ https://22985209144b4ff78289fbb19f55e93e.mediatailor.us-east-1.amazonaws.com/v1/
 #EXTINF:-1 group-title="Movies & Hiburan" tvg-logo="https://i.postimg.cc/d18L9D3X/warung-tvbox.png", Dark Matter TV
 https://amg00434-tricoasttvllc-darkmatter-plex-a0u9r.amagi.tv/playlist/amg00434-tricoasttvllc-darkmatter-plex/playlist.m3u8?us_privacy=1---&did=62274240-07e7-5d94-8dc8-ef68cf19e175&dnt=0&X-Plex-Token=JoNYGj1bF5swTq531QQg&channelId=5eea605674085f0040ddc7a6&ads.us_privacy=1---&ads.did=62274240-07e7-5d94-8dc8-ef68cf19e175&ads.dnt=0&ads.X-Plex-Token=JoNYGj1bF5swTq531QQg&ads.channelId=5eea605674085f0040ddc7a6
 https://dcicealhbcymw.cloudfront.net/strm/link/darkmatter.m3u8
-#EXTINF:-1 group-title="Movies & Hiburan" tvg-logo="https://i.postimg.cc/d18L9D3X/warung-tvbox.png", Alter
-https://d2a5daycfw06m9.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-4tpex1gnbjekk-prod/amg-gunpowder-alter/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai=SSSLIVE
-#EXTINF:-1 group-title="Movies & Hiburan" tvg-logo="https://i.postimg.cc/d18L9D3X/warung-tvbox.png", Alter
+x.png", Alter
 https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Alter.m3u8
 #EXTINF:-1 group-title="Movies & Hiburan" tvg-logo="https://i.postimg.cc/d18L9D3X/warung-tvbox.png", Watch It Scream
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=2257&live=1&avod=1&site_page=__PAGEURL_ESC__&site_name=Watchit%20Scream%21&hls_marker=1&cb=__CACHE_BUSTER__&ip=__CLIENT_IP__&ua=__USER_AGENT__&player_height=__HEIGHT__&player_width=__WIDTH__&is_lat=__LIMIT_AD_TRACKING__
 #EXTINF:-1 group-title="Movies & Hiburan" tvg-logo="https://i.postimg.cc/d18L9D3X/warung-tvbox.png", Watch It Scream
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-621671d05abdd3d5556a1baf.m3u8?X-Plex-Client-Identifier=4f10a11d0159055e-com-plexapp-android&X-Plex-Client-Platform=Android&X-Plex-Token=VrfsQATxN1fP6dzkXEfV
-#EXTINF:-1 group-title="Movies & Hiburan" tvg-logo="https://i.postimg.cc/d18L9D3X/warung-tvbox.png", ScreamBox TV
-https://bloodydisgusting-localnow.cinedigm.com/playlist.m3u8
-#EXTINF:-1 group-title="Movies & Hiburan" tvg-logo="https://i.postimg.cc/d18L9D3X/warung-tvbox.png", Horror 24/7
-https://d2poaftv7vl6fy.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-6sd5tbxf0p3kk-ssai-prd/amgholidaymovie/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai=SSSLIVE
+
 #EXTINF:-1 group-title="Movies & Hiburan" tvg-logo="https://i.postimg.cc/d18L9D3X/warung-tvbox.png", Horror Machine
 https://linear-82.frequency.stream/dist/localnow/82/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="Movies & Hiburan" tvg-logo="https://i.postimg.cc/d18L9D3X/warung-tvbox.png", Horror TV
@@ -806,10 +760,7 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f77977bd924d80007eee6
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/613260e4bdb71c00070d63fa/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 group-title="Movies & Hiburan" tvg-logo="https://i.postimg.cc/P5YwxwPj/Screenshot-3.png", Pluto TV K-Drama
 https://i.mjh.nz/PlutoTV/62ac54bda1c8650007e9d1c4-alt.m3u8
-#EXTINF:-1 group-title="Movies & Hiburan" tvg-logo="https://i.postimg.cc/P5YwxwPj/Screenshot-3.png", Always Funny Videos
-https://d2hnz12weo628w.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/AFV2-prod/samsung.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
-#EXTINF:-1 group-title="Movies & Hiburan" tvg-logo="https://i.postimg.cc/P5YwxwPj/Screenshot-3.png", FailArmy
-https://2383afee096b4dc499922dcf79ba9cfa.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_FailArmy/playlist.m3u8?ads.wurl_channel=89&ads.wurl_name=FailArmy&ads.us_privacy=1YNY&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
+
 #EXTINF:-1 group-title="Movies & Hiburan" tvg-logo="https://i.postimg.cc/P5YwxwPj/Screenshot-3.png", Gordon Ramsay's Hell's Kitchen
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5b4e99f4423e067bd6df6903/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 group-title="Movies & Hiburan" tvg-logo="https://i.postimg.cc/P5YwxwPj/Screenshot-3.png", Iron Chef
@@ -824,8 +775,7 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60f86f539f03cd00070c50
 https://i.mjh.nz/PlutoTV/63fe249f49839300086d4888-alt.m3u8
 #EXTINF:-1 group-title="Movies & Hiburan" tvg-logo="https://i.postimg.cc/P5YwxwPj/Screenshot-3.png", Fear Factor
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/588128d17d64bc0d0f385c34/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 group-title="Movies & Hiburan" tvg-logo="https://i.postimg.cc/P5YwxwPj/Screenshot-3.png", Pluto TV Vs.
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/603fde9026ecbf0007752c2c/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
 #EXTINF:-1 group-title="Movies & Hiburan" tvg-logo="https://i.postimg.cc/P5YwxwPj/Screenshot-3.png", The Amazing Race
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f21e8a6e2f12b000755afdb/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 group-title="Movies & Hiburan" tvg-logo="https://i.postimg.cc/P5YwxwPj/Screenshot-3.png", Skills + Thrills
@@ -846,15 +796,8 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/61b3b8c645b45d0007a9bb
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6000a5a9e767980007b497ca/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 group-title="Movies & Hiburan" tvg-logo="https://i.postimg.cc/P5YwxwPj/Screenshot-3.png", BritBox Mysteries
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60f5d389985a0c0007357304/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 group-title="Movies & Hiburan" tvg-logo="https://i.postimg.cc/P5YwxwPj/Screenshot-3.png", Forensic Files
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5bb1af6a268cae539bcedb0a/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 group-title="Movies & Hiburan" tvg-logo="https://i.postimg.cc/P5YwxwPj/Screenshot-3.png", 48 Hours
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6176f39e709f160007ec61c3/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 group-title="Movies & Hiburan" tvg-logo="https://i.postimg.cc/P5YwxwPj/Screenshot-3.png", Midsomer Murders
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5cbf6a868a1bce4a3d52a5e9/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 group-title="Movies & Hiburan" tvg-logo="https://i.postimg.cc/P5YwxwPj/Screenshot-3.png", Pluto Crime Drama
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f31fd1b4c510e00071c3103/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 group-title="Movies & Hiburan" tvg-logo="https://i.postimg.cc/P5YwxwPj/Screenshot-3.png", Pluto TV True Crime
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5812be1c249444e05d09cc50/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 group-title="Movies & Hiburan" tvg-logo="https://i.postimg.cc/P5YwxwPj/Screenshot-3.png", The New Detectives
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5aea40b35126c2157123aa64/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
