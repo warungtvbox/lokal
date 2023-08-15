@@ -737,139 +737,139 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/62ba60f059624e000781c4
 https://i.mjh.nz/PlutoTV/5ad8d3a31b95267e225e4e09-alt.m3u8
 #EXTINF:-1 group-title="Movies & Hiburan" tvg-logo="https://i.postimg.cc/d18L9D3X/warung-tvbox.png", Paramount Movie Channel
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5cb0cae7a461406ffe3f5213/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 group-title="Movies & Hiburan" tvg-logo="https://i.postimg.cc/P5YwxwPj/Screenshot-3.png", Paramount+ Picks
+#EXTINF:-1 group-title="Movies & Hiburan" tvg-logo="https://i.postimg.cc/d18L9D3X/warung-tvbox.png", Paramount+ Picks
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ff8c708653d080007361b14/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 group-title="Movies & Hiburan" tvg-logo="https://i.postimg.cc/P5YwxwPj/Screenshot-3.png", TV Land Drama
+#EXTINF:-1 group-title="Movies & Hiburan" tvg-logo="https://i.postimg.cc/d18L9D3X/warung-tvbox.png", TV Land Drama
 http://service-stitcher-ipv4.clusters.pluto.tv/v1/stitch/embed/hls/channel/612fea0e970e6f00083be56b/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&embedPartner=samsung-tvplus
-#EXTINF:-1 group-title="Movies & Hiburan" tvg-logo="https://i.postimg.cc/P5YwxwPj/Screenshot-3.png", Classic TV Drama
+#EXTINF:-1 group-title="Movies & Hiburan" tvg-logo="https://i.postimg.cc/d18L9D3X/warung-tvbox.png", Classic TV Drama
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f15e3cccf49290007053c67/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 group-title="Movies & Hiburan" tvg-logo="https://i.postimg.cc/P5YwxwPj/Screenshot-3.png", Hallmark Movies & More
+#EXTINF:-1 group-title="Movies & Hiburan" tvg-logo="https://i.postimg.cc/d18L9D3X/warung-tvbox.png", Hallmark Movies & More
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/628e685ba3811100070551a8/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 group-title="Movies & Hiburan" tvg-logo="https://i.postimg.cc/P5YwxwPj/Screenshot-3.png", SHOWTIME Select
+#EXTINF:-1 group-title="Movies & Hiburan" tvg-logo="https://i.postimg.cc/d18L9D3X/warung-tvbox.png", SHOWTIME Select
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f988934a507de00075d9ae7/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 group-title="Movies & Hiburan" tvg-logo="https://i.postimg.cc/P5YwxwPj/Screenshot-3.png", Slightly Off IFC
+#EXTINF:-1 group-title="Movies & Hiburan" tvg-logo="https://i.postimg.cc/d18L9D3X/warung-tvbox.png", Slightly Off IFC
 #http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5e82547b6b3df60007fec2b5/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-\#EXTINF:-1 group-title="Movies & Hiburan" tvg-logo="https://i.postimg.cc/P5YwxwPj/Screenshot-3.png", Fuse Beat
+\#EXTINF:-1 group-title="Movies & Hiburan" tvg-logo="https://i.postimg.cc/d18L9D3X/warung-tvbox.png", Fuse Beat
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6176fddda3a6160007f60433/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 group-title="Movies & Hiburan" tvg-logo="https://i.postimg.cc/P5YwxwPj/Screenshot-3.png", Serial Mission: Impossible
+#EXTINF:-1 group-title="Movies & Hiburan" tvg-logo="https://i.postimg.cc/d18L9D3X/warung-tvbox.png", Serial Mission: Impossible
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f77977bd924d80007eee60c/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 group-title="Movies & Hiburan" tvg-logo="https://i.postimg.cc/P5YwxwPj/Screenshot-3.png", More TV Drama
+#EXTINF:-1 group-title="Movies & Hiburan" tvg-logo="https://i.postimg.cc/d18L9D3X/warung-tvbox.png", More TV Drama
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/613260e4bdb71c00070d63fa/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 group-title="Movies & Hiburan" tvg-logo="https://i.postimg.cc/P5YwxwPj/Screenshot-3.png", Pluto TV K-Drama
+#EXTINF:-1 group-title="Movies & Hiburan" tvg-logo="https://i.postimg.cc/d18L9D3X/warung-tvbox.png", Pluto TV K-Drama
 https://i.mjh.nz/PlutoTV/62ac54bda1c8650007e9d1c4-alt.m3u8
 
-#EXTINF:-1 group-title="Movies & Hiburan" tvg-logo="https://i.postimg.cc/P5YwxwPj/Screenshot-3.png", Gordon Ramsay's Hell's Kitchen
+#EXTINF:-1 group-title="Movies & Hiburan" tvg-logo="https://i.postimg.cc/d18L9D3X/warung-tvbox.png", Gordon Ramsay's Hell's Kitchen
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5b4e99f4423e067bd6df6903/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 group-title="Movies & Hiburan" tvg-logo="https://i.postimg.cc/P5YwxwPj/Screenshot-3.png", Iron Chef
+#EXTINF:-1 group-title="Movies & Hiburan" tvg-logo="https://i.postimg.cc/d18L9D3X/warung-tvbox.png", Iron Chef
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6148c756ce8091000748d113/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 group-title="Movies & Hiburan" tvg-logo="https://i.postimg.cc/P5YwxwPj/Screenshot-3.png", Just For Laughs
+#EXTINF:-1 group-title="Movies & Hiburan" tvg-logo="https://i.postimg.cc/d18L9D3X/warung-tvbox.png", Just For Laughs
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60d32888e31a0300073d9f08/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 group-title="Movies & Hiburan" tvg-logo="https://i.postimg.cc/P5YwxwPj/Screenshot-3.png", Pimp My Ride
+#EXTINF:-1 group-title="Movies & Hiburan" tvg-logo="https://i.postimg.cc/d18L9D3X/warung-tvbox.png", Pimp My Ride
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/619243059541940007d1ff86/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 group-title="Movies & Hiburan" tvg-logo="https://i.postimg.cc/P5YwxwPj/Screenshot-3.png", Pranks
+#EXTINF:-1 group-title="Movies & Hiburan" tvg-logo="https://i.postimg.cc/d18L9D3X/warung-tvbox.png", Pranks
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60f86f539f03cd00070c503a/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 group-title="Movies & Hiburan" tvg-logo="https://i.postimg.cc/P5YwxwPj/Screenshot-3.png", Punk'd
+#EXTINF:-1 group-title="Movies & Hiburan" tvg-logo="https://i.postimg.cc/d18L9D3X/warung-tvbox.png", Punk'd
 https://i.mjh.nz/PlutoTV/63fe249f49839300086d4888-alt.m3u8
-#EXTINF:-1 group-title="Movies & Hiburan" tvg-logo="https://i.postimg.cc/P5YwxwPj/Screenshot-3.png", Fear Factor
+#EXTINF:-1 group-title="Movies & Hiburan" tvg-logo="https://i.postimg.cc/d18L9D3X/warung-tvbox.png", Fear Factor
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/588128d17d64bc0d0f385c34/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-#EXTINF:-1 group-title="Movies & Hiburan" tvg-logo="https://i.postimg.cc/P5YwxwPj/Screenshot-3.png", The Amazing Race
+#EXTINF:-1 group-title="Movies & Hiburan" tvg-logo="https://i.postimg.cc/d18L9D3X/warung-tvbox.png", The Amazing Race
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f21e8a6e2f12b000755afdb/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 group-title="Movies & Hiburan" tvg-logo="https://i.postimg.cc/P5YwxwPj/Screenshot-3.png", Skills + Thrills
+#EXTINF:-1 group-title="Movies & Hiburan" tvg-logo="https://i.postimg.cc/d18L9D3X/warung-tvbox.png", Skills + Thrills
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6000a6f4c3f8550008fc9b91/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 group-title="Movies & Hiburan" tvg-logo="https://i.postimg.cc/P5YwxwPj/Screenshot-3.png", COPS
+#EXTINF:-1 group-title="Movies & Hiburan" tvg-logo="https://i.postimg.cc/d18L9D3X/warung-tvbox.png", COPS
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5e1f7e089f23700009d66303/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 group-title="Movies & Hiburan" tvg-logo="https://i.postimg.cc/P5YwxwPj/Screenshot-3.png", Cold Case Files
+#EXTINF:-1 group-title="Movies & Hiburan" tvg-logo="https://i.postimg.cc/d18L9D3X/warung-tvbox.png", Cold Case Files
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5c37d6712de254456f7ec340/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 group-title="Movies & Hiburan" tvg-logo="https://i.postimg.cc/P5YwxwPj/Screenshot-3.png", CSI
+#EXTINF:-1 group-title="Movies & Hiburan" tvg-logo="https://i.postimg.cc/d18L9D3X/warung-tvbox.png", CSI
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5efbd29e4aa26700076c0d06/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 group-title="Movies & Hiburan" tvg-logo="https://i.postimg.cc/P5YwxwPj/Screenshot-3.png", CSI Miami
+#EXTINF:-1 group-title="Movies & Hiburan" tvg-logo="https://i.postimg.cc/d18L9D3X/warung-tvbox.png", CSI Miami
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/62f54c11b3af68000702c304/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 group-title="Movies & Hiburan" tvg-logo="https://i.postimg.cc/P5YwxwPj/Screenshot-3.png", CSI NY
+#EXTINF:-1 group-title="Movies & Hiburan" tvg-logo="https://i.postimg.cc/d18L9D3X/warung-tvbox.png", CSI NY
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/62f54c6439183b000769fb8f/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 group-title="Movies & Hiburan" tvg-logo="https://i.postimg.cc/P5YwxwPj/Screenshot-3.png", Blue Bloods
+#EXTINF:-1 group-title="Movies & Hiburan" tvg-logo="https://i.postimg.cc/d18L9D3X/warung-tvbox.png", Blue Bloods
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/61b3b8c645b45d0007a9bb8d/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 group-title="Movies & Hiburan" tvg-logo="https://i.postimg.cc/P5YwxwPj/Screenshot-3.png", Crime 360
+#EXTINF:-1 group-title="Movies & Hiburan" tvg-logo="https://i.postimg.cc/d18L9D3X/warung-tvbox.png", Crime 360
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6000a5a9e767980007b497ca/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 group-title="Movies & Hiburan" tvg-logo="https://i.postimg.cc/P5YwxwPj/Screenshot-3.png", BritBox Mysteries
+#EXTINF:-1 group-title="Movies & Hiburan" tvg-logo="https://i.postimg.cc/d18L9D3X/warung-tvbox.png", BritBox Mysteries
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60f5d389985a0c0007357304/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 group-title="Movies & Hiburan" tvg-logo="https://i.postimg.cc/P5YwxwPj/Screenshot-3.png", Midsomer Murders
+#EXTINF:-1 group-title="Movies & Hiburan" tvg-logo="https://i.postimg.cc/d18L9D3X/warung-tvbox.png", Midsomer Murders
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5cbf6a868a1bce4a3d52a5e9/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5812be1c249444e05d09cc50/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 group-title="Movies & Hiburan" tvg-logo="https://i.postimg.cc/P5YwxwPj/Screenshot-3.png", The New Detectives
+#EXTINF:-1 group-title="Movies & Hiburan" tvg-logo="https://i.postimg.cc/d18L9D3X/warung-tvbox.png", The New Detectives
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5aea40b35126c2157123aa64/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 group-title="Movies & Hiburan" tvg-logo="https://i.postimg.cc/P5YwxwPj/Screenshot-3.png", Unsolved Mysteries
+#EXTINF:-1 group-title="Movies & Hiburan" tvg-logo=""https://i.postimg.cc/d18L9D3X/warung-tvbox.png, Unsolved Mysteries
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5b4e96a0423e067bd6df6901/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
 ======================================================================
 
 
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/P5YwxwPj/Screenshot-3.png" group-title="Pengetahuan & Alam", Bisnet Adventure 4K
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d18L9D3X/warung-tvbox.png" group-title="Pengetahuan & Alam", Bisnet Adventure 4K
 http://livestream.biznetvideo.net/biznet_adventure/smil:adventure.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/P5YwxwPj/Screenshot-3.png" group-title="Pengetahuan & Alam", Discovery Asia
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d18L9D3X/warung-tvbox.png" group-title="Pengetahuan & Alam", Discovery Asia
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch302)/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/P5YwxwPj/Screenshot-3.png" group-title="Pengetahuan & Alam", Discovery Channel
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d18L9D3X/warung-tvbox.png" group-title="Pengetahuan & Alam", Discovery Channel
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch29)/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/P5YwxwPj/Screenshot-3.png" group-title="Pengetahuan & Alam", Animal Planet
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d18L9D3X/warung-tvbox.png" group-title="Pengetahuan & Alam", Animal Planet
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch31)/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/P5YwxwPj/Screenshot-3.png" group-title="Pengetahuan & Alam",Da Vinci
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d18L9D3X/warung-tvbox.png" group-title="Pengetahuan & Alam",Da Vinci
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch371)/index.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
-#EXTINF:-1 group-title="Pengetahuan & Alam" tvg-logo="https://i.postimg.cc/P5YwxwPj/Screenshot-3.png",BBC Earth
+#EXTINF:-1 group-title="Pengetahuan & Alam" tvg-logo="https://i.postimg.cc/d18L9D3X/warung-tvbox.png",BBC Earth
 https://nyanv-live-cdn.mncnow.id/live/eds/BBCEarth-HD/sa_dash_vmx/BBCEarth-HD.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
-#EXTINF:-1 group-title="Pengetahuan & Alam" tvg-logo="https://i.postimg.cc/P5YwxwPj/Screenshot-3.png",Besmart
+#EXTINF:-1 group-title="Pengetahuan & Alam" tvg-logo="https://i.postimg.cc/d18L9D3X/warung-tvbox.png",Besmart
 https://nyanv-live-cdn.mncnow.id/live/eds/BeSmart/sa_dash_vmx/BeSmart.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
-#EXTINF:-1 group-title="Pengetahuan & Alam" tvg-logo="https://i.postimg.cc/P5YwxwPj/Screenshot-3.png",CGTN Documentary
+#EXTINF:-1 group-title="Pengetahuan & Alam" tvg-logo="https://i.postimg.cc/d18L9D3X/warung-tvbox.png",CGTN Documentary
 https://nyanv-live-cdn.mncnow.id/live/eds/CGTN_Doc/sa_dash_vmx/CGTN_Doc.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
-#EXTINF:-1 group-title="Pengetahuan & Alam" tvg-logo="https://i.postimg.cc/P5YwxwPj/Screenshot-3.png",Crime + Investigation
+#EXTINF:-1 group-title="Pengetahuan & Alam" tvg-logo="https://i.postimg.cc/d18L9D3X/warung-tvbox.png",Crime + Investigation
 https://nyanv-live-cdn.mncnow.id/live/eds/CrimeInvestigation/sa_dash_vmx/CrimeInvestigation.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
-#EXTINF:-1 group-title="Pengetahuan & Alam" tvg-logo="https://i.postimg.cc/P5YwxwPj/Screenshot-3.png",History
+#EXTINF:-1 group-title="Pengetahuan & Alam" tvg-logo="https://i.postimg.cc/d18L9D3X/warung-tvbox.png",History
 https://nyanv-live-cdn.mncnow.id/live/eds/History/sa_dash_vmx/History.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
-#EXTINF:-1 group-title="Pengetahuan & Alam" tvg-logo="https://i.postimg.cc/P5YwxwPj/Screenshot-3.png",National Geographic
+#EXTINF:-1 group-title="Pengetahuan & Alam" tvg-logo="https://i.postimg.cc/d18L9D3X/warung-tvbox.png",National Geographic
 https://nyanv-live-cdn.mncnow.id/live/eds/NatGeoChannel/sa_dash_vmx/NatGeoChannel.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
-#EXTINF:-1 group-title="Pengetahuan & Alam" tvg-logo="https://i.postimg.cc/P5YwxwPj/Screenshot-3.png",National Geographic Wild
+#EXTINF:-1 group-title="Pengetahuan & Alam" tvg-logo="https://i.postimg.cc/d18L9D3X/warung-tvbox.png",National Geographic Wild
 https://nyanv-live-cdn.mncnow.id/live/eds/NatGeoWild/sa_dash_vmx/NatGeoWild.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
-#EXTINF:-1 group-title="Pengetahuan & Alam" tvg-logo="https://i.postimg.cc/P5YwxwPj/Screenshot-3.png",HGTV Asia
+#EXTINF:-1 group-title="Pengetahuan & Alam" tvg-logo="https://i.postimg.cc/d18L9D3X/warung-tvbox.png",HGTV Asia
 https://nyanv-live-cdn.mncnow.id/live/eds/HGTV/sa_dash_vmx/HGTV.mpd
-#EXTINF:-1 group-title="Pengetahuan & Alam" tvg-logo="https://i.postimg.cc/P5YwxwPj/Screenshot-3.png", Smithsonian Channel
+#EXTINF:-1 group-title="Pengetahuan & Alam" tvg-logo="https://i.postimg.cc/d18L9D3X/warung-tvbox.png", Smithsonian Channel
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f21ea08007a49000762d349/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 group-title="Pengetahuan & Alam" tvg-logo="https://i.postimg.cc/P5YwxwPj/Screenshot-3.png", Magellan TV Now
+#EXTINF:-1 group-title="Pengetahuan & Alam" tvg-logo="https://i.postimg.cc/d18L9D3X/warung-tvbox.png", Magellan TV Now
 https://96f6ab4a7f3c434699b8502a36d670fc.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_MagellanTV/playlist.m3u8?ads.wurl_channel=304&ads.wurl_name=MagellanTV&ads.us_privacy=1---&ads.psid=62274240-07e7-5d94-8dc8-ef68cf19e175&ads.targetopt=0&ads.plex_token=XeztDN3mRuKJPvR9KKni&ads.plex_id=5f5132e262fe160040f26bf2&ads.ua=okhttp%2F4.9.0&ads.app_bundle=com.plexapp.android&ads.app_store_url=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.plexapp.android&ads.gdpr=0&ads.consent=0&ads.device_type=handset&ads.device_id_type=
-#EXTINF:-1 group-title="Pengetahuan & Alam" tvg-logo="https://i.postimg.cc/P5YwxwPj/Screenshot-3.png", WildEarth
+#EXTINF:-1 group-title="Pengetahuan & Alam" tvg-logo="https://i.postimg.cc/d18L9D3X/warung-tvbox.png", WildEarth
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-60d4edddb2fdec002c141135.m3u8?X-Plex-Client-Identifier=4f10a11d0159055e-com-plexapp-android&X-Plex-Client-Platform=Android&X-Plex-Token=XeztDN3mRuKJPvR9KKni
 
-#EXTINF:-1 group-title="Pengetahuan & Alam" tvg-logo="https://i.postimg.cc/P5YwxwPj/Screenshot-3.png", Pluto TV History
+#EXTINF:-1 group-title="Pengetahuan & Alam" tvg-logo="https://i.postimg.cc/d18L9D3X/warung-tvbox.png", Pluto TV History
 https://i.mjh.nz/PlutoTV/5d4af1803e7983b391d73b13-alt.m3u8
-#EXTINF:-1 group-title="Pengetahuan & Alam" tvg-logo="https://i.postimg.cc/P5YwxwPj/Screenshot-3.png", Pluto TV Adventure
+#EXTINF:-1 group-title="Pengetahuan & Alam" tvg-logo="https://i.postimg.cc/d18L9D3X/warung-tvbox.png", Pluto TV Adventure
 https://i.mjh.nz/PlutoTV/623464d7185bef0007e337c0-alt.m3u8
-#EXTINF:-1 group-title="Pengetahuan & Alam" tvg-logo="https://i.postimg.cc/P5YwxwPj/Screenshot-3.png", Pluto TV Space
+#EXTINF:-1 group-title="Pengetahuan & Alam" tvg-logo="https://i.postimg.cc/d18L9D3X/warung-tvbox.png", Pluto TV Space
 https://i.mjh.nz/PlutoTV/5dbc2f98777f2e0009934ae7-alt.m3u8
-#EXTINF:-1 group-title="Pengetahuan & Alam" tvg-logo="https://i.postimg.cc/P5YwxwPj/Screenshot-3.png", Pluto TV Science
+#EXTINF:-1 group-title="Pengetahuan & Alam" tvg-logo="https://i.postimg.cc/d18L9D3X/warung-tvbox.png", Pluto TV Science
 https://i.mjh.nz/PlutoTV/563a970aa1a1f7fe7c9daad7-alt.m3u8
-#EXTINF:-1 group-title="Pengetahuan & Alam" tvg-logo="https://i.postimg.cc/P5YwxwPj/Screenshot-3.png", Nature Time
+#EXTINF:-1 group-title="Pengetahuan & Alam" tvg-logo="https://i.postimg.cc/d18L9D3X/warung-tvbox.png", Nature Time
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00090-blueantllc-lovenatureau-samsungnz/playlist.m3u8
-#EXTINF:-1 group-title="Pengetahuan & Alam" tvg-logo="https://i.postimg.cc/P5YwxwPj/Screenshot-3.png", History Hit
+#EXTINF:-1 group-title="Pengetahuan & Alam" tvg-logo="https://i.postimg.cc/d18L9D3X/warung-tvbox.png", History Hit
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00426-littledotstudio-timelinenz-samsungnz/playlist.m3u8
-#EXTINF:-1 group-title="Pengetahuan & Alam" tvg-logo="https://i.postimg.cc/P5YwxwPj/Screenshot-3.png", Real Wild
+#EXTINF:-1 group-title="Pengetahuan & Alam" tvg-logo="https://i.postimg.cc/d18L9D3X/warung-tvbox.png", Real Wild
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00426-littledotstudio-realwildnz-samsungnz/playlist.m3u8
-#EXTINF:-1 group-title="Pengetahuan & Alam" tvg-logo="https://i.postimg.cc/P5YwxwPj/Screenshot-3.png", Outdoor Channel
+#EXTINF:-1 group-title="Pengetahuan & Alam" tvg-logo="https://i.postimg.cc/d18L9D3X/warung-tvbox.png", Outdoor Channel
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00718-outdoorchannela-outdoortvnz-samsungnz/playlist.m3u8
 =====================================================================================================
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
