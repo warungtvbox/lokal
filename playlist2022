@@ -1,6 +1,5 @@
 #EXTM3U
-#EXTINF:-1 group-title="Lokal" tvg-logo="https://i.postimg.cc/d18L9D3X/warung-tvbox.png", MENTARI TV
-http://37.49.229.56:8080/stadnik/6a627b52a9/298546
+
 #EXTINF:-1 group-title="Lokal" tvg-logo="https://i.postimg.cc/d18L9D3X/warung-tvbox.png", Citra Drama
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch378)/index.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -17,7 +16,6 @@ https://nyanv-live-cdn.mncnow.id/live/eds/OKTV/sa_dash_vmx/OKTV.mpd
 https://nyanv-live-cdn.mncnow.id/live/eds/PemersatuBangsa/sa_dash_vmx/PemersatuBangsa.mpd
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d18L9D3X/warung-tvbox.png" group-title="Lokal",TVRI Nasional
 http://rr2.dens.tv/s/s11/index.m3u8
-
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/d18L9D3X/warung-tvbox.png" group-title="Lokal",MAGNA TV
 https://edge.medcom.id/live-edge/smil:magna.smil/chunklist_w757574110_b2692000_sleng.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d18L9D3X/warung-tvbox.png" group-title="Lokal", Magna Chanel
@@ -365,26 +363,7 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60f74ba51c82ac000776c6
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/637e55347427a40007fac703/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
 -------------------------- MOVIES ---------------------------
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/d18L9D3X/warung-tvbox.png" group-title="Movies", Etv Bioskop
-http://aflaxtv.xyz:8080/Vladisergeevic/7eef2c4388/298526
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/d18L9D3X/warung-tvbox.png" group-title="Movies", Etv Bioskop 2
-http://aflaxtv.xyz:8080/Vladisergeevic/7eef2c4388/298527
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/d18L9D3X/warung-tvbox.png" group-title="Movies", Etv Bioskop 4
-http://aflaxtv.xyz:8080/Vladisergeevic/7eef2c4388/298529
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/d18L9D3X/warung-tvbox.png" group-title="Movies", FLIK
-http://aflaxtv.xyz:8080/Vladisergeevic/7eef2c4388/165095
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/d18L9D3X/warung-tvbox.png" group-title="Movies", HBO
-http://aflaxtv.xyz:8080/Vladisergeevic/7eef2c4388/197972
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/d18L9D3X/warung-tvbox.png" group-title="Movies", HBO Extreme
-http://208.115.225.174:14165
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/d18L9D3X/warung-tvbox.png" group-title="Movies",HBO Family
-http://aflaxtv.xyz:8080/Vladisergeevic/7eef2c4388/197055
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/d18L9D3X/warung-tvbox.png" group-title="Movies", HBO Hits
-http://aflaxtv.xyz:8080/Vladisergeevic/7eef2c4388/196480
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/d18L9D3X/warung-tvbox.png" group-title="Movies", HBO Signature
-http://aflaxtv.xyz:8080/Vladisergeevic/7eef2c4388/221948
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/d18L9D3X/warung-tvbox.png" group-title="Movies", Citra Bioskop
-http://37.49.230.42:8080/iptvepic4/DzbGTtATy4DzmK8c/298519
+
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/d18L9D3X/warung-tvbox.png" group-title="Movies", GEM
 http://edge.linknetott.swiftserve.com/channelgroup3/cg311production/ch3400/02.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/d18L9D3X/warung-tvbox.png" group-title="Movies", Citra Bioskop
@@ -422,7 +401,7 @@ https://nyanv-live-cdn.mncnow.id/live/eds/Cinemachi-Xtra-HD/sa_dash_vmx/Cinemach
 #EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net:443/?deviceId=NDljZWY3MGUtM2I0Ni0zODQyLTk3ZjItMDI0MWFjOTA4ODc1
 #EXTINF:-1 group-title="Movies" tvg-logo="https://thumbs.gfycat.com/AthleticViciousGodwit-max-1mb.gif", HBO (OTT Navigator)
 https://cdnjkt2.transvision.co.id:1001/live/master/3/4028c6856b6088c3016b87d64b970b53/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
