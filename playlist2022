@@ -11,6 +11,9 @@ https://nyanv-live-cdn.mncnow.id/live/eds/VisionPrime/sa_dash_vmx/VisionPrime.mp
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
 #EXTINF:-1 group-title="Lokal" tvg-logo="https://i.postimg.cc/d18L9D3X/warung-tvbox.png",OK TV
 https://nyanv-live-cdn.mncnow.id/live/eds/OKTV/sa_dash_vmx/OKTV.mpd
+
+#EXTINF:-1 group-title="Lokal" tvg-logo="https://i.postimg.cc/ZRPgmXWY/Sindo-News-TV.png", Sindo News TV
+http://kuchini.site:8080/bigboss/dF2SUPPUwzmZ8prS/299485
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
 #EXTINF:-1 group-title="Lokal" tvg-logo="https://i.postimg.cc/d18L9D3X/warung-tvbox.png",TVRI Nasional
@@ -870,62 +873,62 @@ https://nyanv-live-cdn.mncnow.id/live/eds/AlJazeeraInternational/sa_dash_vmx/AlJ
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRm
 #EXTINF:-1 group-title="Berita Internasional" tvg-logo="https://i.postimg.cc/P5YwxwPj/Screenshot-3.png",CGTN
-https://nyanv-live-cdn.mncnow.id/live/eds/CGTN/sa_dash_vmx/CGTN.mpd
+https://newanv-live-cdn.mncnow.id/live/eds/CGTN/sa_dash_vmx/CGTN.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxM
 #EXTINF:-1 group-title="Berita Internasional" tvg-logo="https://i.postimg.cc/P5YwxwPj/Screenshot-3.png",CNA
-https://nyanv-live-cdn.mncnow.id/live/eds/ChannelNewsAsia/sa_dash_vmx/ChannelNewsAsia.mpd
+https://newanv-live-cdn.mncnow.id/live/eds/ChannelNewsAsia/sa_dash_vmx/ChannelNewsAsia.mpd
 
 KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
 #EXTINF:-1 group-title="Berita Internasional" tvg-logo="https://i.postimg.cc/P5YwxwPj/Screenshot-3.png",CNN International Asia Pacific
-#https://nyanv-live-cdn.mncnow.id/live/eds/CNNInternational/sa_dash_vmx/CNNInternational.mpd
+https://newanv-live-cdn.mncnow.id/live/eds/CNNInternational/sa_dash_vmx/CNNInternational.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxM
 #EXTINF:-1 group-title="Berita Internasional" tvg-logo="https://i.postimg.cc/P5YwxwPj/Screenshot-3.png",DW English
-https://nyanv-live-cdn.mncnow.id/live/eds/DW/sa_dash_vmx/DW.mpd
+https://newanv-live-cdn.mncnow.id/live/eds/DW/sa_dash_vmx/DW.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
 #EXTINF:-1 group-title="Berita Internasional" tvg-logo="https://i.postimg.cc/P5YwxwPj/Screenshot-3.png",EuroNews English
-https://nyanv-live-cdn.mncnow.id/live/eds/EuroNews/sa_dash_vmx/EuroNews.mpd
+https://newanv-live-cdn.mncnow.id/live/eds/EuroNews/sa_dash_vmx/EuroNews.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
 #EXTINF:-1 group-title="Berita Internasional" tvg-logo="https://i.postimg.cc/P5YwxwPj/Screenshot-3.png",Fox News Channel
-https://nyanv-live-cdn.mncnow.id/live/eds/FoxNews/sa_dash_vmx/FoxNews.mpd
+/live/eds/FoxNews/sa_dash_vmx/FoxNews.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
 #EXTINF:-1 group-title="Berita Internasional" tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0",France 24 English
-https://nyanv-live-cdn.mncnow.id/live/eds/France24/sa_dash_vmx/France24.mpd
+https://newanv-live-cdn.mncnow.id/live/eds/France24/sa_dash_vmx/France24.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
 #EXTINF:-1 group-title="Berita Internasional" tvg-logo="https://i.postimg.cc/P5YwxwPj/Screenshot-3.png",NHK World Japan
-https://nyanv-live-cdn.mncnow.id/live/eds/NHKWorldTV/sa_dash_vmx/NHKWorldTV.mpd
+https://newanv-live-cdn.mncnow.id/live/eds/NHKWorldTV/sa_dash_vmx/NHKWorldTV.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
 #EXTINF:-1 group-title="Berita Internasional" tvg-logo="https://i.postimg.cc/P5YwxwPj/Screenshot-3.png",NHK World Premium
-https://nyanv-live-cdn.mncnow.id/live/eds/NHKWorldPremium/sa_dash_vmx/NHKWorldPremium.mpd
+https://newanv-live-cdn.mncnow.id/live/eds/NHKWorldPremium/sa_dash_vmx/NHKWorldPremium.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
 #EXTINF:-1 group-title="Berita Internasional" tvg-logo="https://i.postimg.cc/P5YwxwPj/Screenshot-3.png",RT English
-https://nyanv-live-cdn.mncnow.id/live/eds/RTEnglish/sa_dash_vmx/RTEnglish.mpd
+https://newanv-live-cdn.mncnow.id/live/eds/RTEnglish/sa_dash_vmx/RTEnglish.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
 #EXTINF:-1 group-title="Berita Internasional" tvg-logo="https://i.postimg.cc/P5YwxwPj/Screenshot-3.png",TRT World
-https://nyanv-live-cdn.mncnow.id/live/eds/TRTWorld/sa_dash_vmx/TRTWorld.mpd
+https://newanv-live-cdn.mncnow.id/live/eds/TRTWorld/sa_dash_vmx/TRTWorld.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
 #EXTINF:-1 group-title="Berita Internasional" tvg-logo="https://i.postimg.cc/P5YwxwPj/Screenshot-3.png",TV5 Monde Asie
-https://nyanv-live-cdn.mncnow.id/live/eds/TV5/sa_dash_vmx/TV5.mpd
+https://newanv-live-cdn.mncnow.id/live/eds/TV5/sa_dash_vmx/TV5.mpd
 
 ======================================================================
 
