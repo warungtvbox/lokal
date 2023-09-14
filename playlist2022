@@ -162,8 +162,7 @@ EXTINF:-1 tvg-logo="https://images.useetv.com/logo_nusantaratv_big.png?v=1.1" gr
 https://nusantaratv.siar.us/nusantaratv/live/playlist.m3u8
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/d18L9D3X/warung-tvbox.png" group-title="Lokal",LIFE STILE
 http://210.210.155.37/x6bnqe/s/s65/index2.m3u8
-#EXTINF:-1 tvg-id="Max2U.id" tvg-logo="https://i.imgur.com/ywQCT0C.png" group-title="Lokal",Max2U (720p)
-https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(a255dd49-dc2a-464b-8623-6ef4556dff11)/index.m3u8
+
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/d18L9D3X/warung-tvbox.png" group-title="Lokal",USEE PRIME
 https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(18564c27-ff44-4d62-9fab-dcb417fcb93f)/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -181,8 +180,6 @@ https://kbtv.akamaized.net/hls/live/2031188/kanalbuya/2.m3u8
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/d18L9D3X/warung-tvbox.png" group-title="Lokal",UGTV
 https://cdn.gunadarma.ac.id/streams/ugtv/ingestugtv.m3u8
 https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(173d0198-bcba-4a48-ae2b-1b2f5a147824)/manifest.mpd
-#EXTINF:0 tvg-id="ext" group-title="Lokal",The Indonesia Channel
-https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(20baf7aa-fd51-480f-87b3-dc4198090e86)/manifest.mpd
 #EXTINF:0 tvg-id="ext" group-title="Lokal",DIGIONE MAXSTREAM
 https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(d2f582be-366c-4cce-9476-1b524dc854e9)/index.m3u8
 https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(d2f582be-366c-4cce-9476-1b524dc854e9)/manifest.mpd
@@ -262,21 +259,9 @@ https://nyanv-live-cdn.mncnow.id/live/eds/NickJr-HDD/sa_dash_vmx/NickJr-HDD.mpd
 https://nyanv-live-cdn.mncnow.id/live/eds/Nickelodeon/sa_dash_vmx/Nickelodeon.mpd
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/P5YwxwPj/Screenshot-3.png" group-title="Anak² & Kartun",B. Kids
 http://livestream.biznetvideo.net/biznet_kids/smil:kids.smil/chunklist_w417362857_b2256000_slen_tkYml6a2V5bGl2ZXN0YXJ0dGltZT0wJmJpemtleWxpdmVlbmR0aW1lPTAmYml6a2V5bGl2ZUN1c3RvbVBhcmFtZXRlcj1teVBhcmFtZXRlciZiaXprZXlsaXZlaGFzaD1xQXJpMU0yeHVfTUFsbkh3VlJ0T3MyNGxSOFlfSFNEaWpOMkNSTmdoaWZVbGxoWXFRU0Rsa2QwcUU4Q2tad3hD.m3u8
-#EXTINF:-1 group-title="Anak² & Kartun" tvg-logo="https://i.postimg.cc/d18L9D3X/warung-tvbox.png", LEGO TOONS
-https://stitcheraws.unreel.me/wse-node02.powr.com/live/5bf22549d5eeee0f5a4094ba/playlist.m3u8
-
 #EXTINF:-1 group-title="Anak² & Kartun" tvg-logo="https://i.postimg.cc/d18L9D3X/warung-tvbox.png", HappyKids
 https://cae65e8f5df44be1b3332d9ba0574138.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-eu_HappyKidsTV-1/playlist.m3u8
-#EXTINF:-1 group-title="Anak² & Kartun" tvg-logo="https://i.postimg.cc/d18L9D3X/warung-tvbox.png", HappyKids Junior
-https://happykidsjunior-vizio.amagi.tv/playlist480p.m3u8
-#EXTINF:-1 group-title="Anak² & Kartun" tvg-logo="https://i.postimg.cc/d18L9D3X/warung-tvbox.png", KidsFlix
-https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=50
-https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=50&live=1&app_bundle=com.plexapp.android&did=62274240-07e7-5d94-8dc8-ef68cf19e175&app_domain=app.plex.tv&app_name=plex&h=&w=&content_title=ngiGKoEb44-shV7k85SB&content_series=5eea605574085f0040ddc797&custom4=plex&gdpr=0&device_make=&device_model=&coppa=1&us_privacy=1---&custom_6=ngiGKoEb44-shV7k85SB&custom_7=5eea605574085f0040ddc797&is_lat=0
-#EXTINF:-1 group-title="Anak² & Kartun" tvg-logo="https://i.postimg.cc/d18L9D3X/warung-tvbox.png", Toon Googles
-https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=59&live=1&app_bundle=com.plexapp.android&did=62274240-07e7-5d94-8dc8-ef68cf19e175&app_domain=app.plex.tv&app_name=plex&h=&w=&content_title=XeztDN3mRuKJPvR9KKni&content_series=5f170d60b898490041b49359&custom4=plex&gdpr=0&device_make=&device_model=&coppa=1&us_privacy=1---&custom_6=XeztDN3mRuKJPvR9KKni&custom_7=5f170d60b898490041b49359&is_lat=0
-#https://d1eg24xrsfr6kv.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-b4b1bzxkt1uzo-prod/tg/tg/tg.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&coppa=1
-#EXTINF:-1 group-title="Anak² & Kartun" tvg-logo="https://i.postimg.cc/d18L9D3X/warung-tvbox.png", Toon Googles Junior
-https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=61&live=1&app_bundle=com.plexapp.android&did=62274240-07e7-5d94-8dc8-ef68cf19e175&app_domain=app.plex.tv&app_name=plex&h=&w=&content_title=XeztDN3mRuKJPvR9KKni&content_series=5f170d64b898490041b4938f&custom4=plex&gdpr=0&device_make=&device_model=&coppa=1&us_privacy=1---&custom_6=XeztDN3mRuKJPvR9KKni&custom_7=5f170d64b898490041b4938f&is_lat=0
+
 #EXTINF:-1 group-title="Anak² & Kartun" tvg-logo="https://i.postimg.cc/d18L9D3X/warung-tvbox.png", Moonbug Kids
 https://moonbug-rokuus.amagi.tv/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.postimg.cc/d18L9D3X/warung-tvbox.png" group-title="Anak² & Kartun", Kids Pang TV
@@ -869,7 +854,7 @@ https://nyanv-live-cdn.mncnow.id/live/eds/HunanTV/sa_dash_vmx/HunanTV.mpd
 http://edge.linknetott.swiftserve.com/channelgroup4/cg434production/ch366/02.m3u8
 
 
-
+================== NEWS =============================
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
@@ -880,10 +865,7 @@ https://nyanv-live-cdn.mncnow.id/live/eds/AustraliaPlus/sa_dash_vmx/AustraliaPlu
 #EXTINF:-1 group-title="Berita Internasional" tvg-logo="https://i.postimg.cc/P5YwxwPj/Screenshot-3.png",Aljazeera English
 https://nyanv-live-cdn.mncnow.id/live/eds/AlJazeeraInternational/sa_dash_vmx/AlJazeeraInternational.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRm
-#EXTINF:-1 group-title="Berita Internasional" tvg-logo="https://i.postimg.cc/P5YwxwPj/Screenshot-3.png",BBC World News Asia Pacific
-https://nyanv-live-cdn.mncnow.id/live/eds/BBCWorldNews/sa_dash_vmx/BBCWorldNews.mpd
+
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRm
