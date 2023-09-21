@@ -2,7 +2,7 @@
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/TbdcPzp/mncnews.jpg" group-title="BERITA",Mnc News 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/TbdcPzp/mncnews.jpg" group-title="Lokal",Mnc News 
 https://anevia115.mncnow.id/live/eds/MNCnews-HDD/sa_dash_vmx/MNCnews-HDD.mpd 
 
 #EXTINF:-1 group-title="Lokal" tvg-logo="https://i.postimg.cc/LsmDFhF7/Mentari-TV.png", MENTARI TV
