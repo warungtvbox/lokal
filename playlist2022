@@ -1,8 +1,10 @@
 #EXTM3U
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
-#EXTINF:-1 group-title="Lokal" tvg-logo="https://dl.dropbox.com/s/q5mv0t380x30uli/PngItem_528991-picsay.png",RCTI
-https://newanv-live-cdn.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/TbdcPzp/mncnews.jpg" group-title="BERITA",Mnc News 
+https://anevia115.mncnow.id/live/eds/MNCnews-HDD/sa_dash_vmx/MNCnews-HDD.mpd 
+
 #EXTINF:-1 group-title="Lokal" tvg-logo="https://i.postimg.cc/LsmDFhF7/Mentari-TV.png", MENTARI TV
 http://37.49.229.56:8080/stadnik/6a627b52a9/298546
 #EXTINF:-1 group-title="Lokal" tvg-logo="https://i.postimg.cc/d18L9D3X/warung-tvbox.png", Citra Drama
