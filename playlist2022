@@ -322,6 +322,8 @@ http://edge.linknetott.swiftserve.com/channelgroup4/cg435production/ch376/02.m3u
 https://dai.google.com/linear/hls/event/x7rXWd2ERZ2tvyQWPmO1HA/master.m3u8
 #EXTINF:-1 group-title="Movies" tvg-logo="https://i.postimg.cc/d18L9D3X/warung-tvbox.png", Paramount Network
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch309)/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://images.useetv.com/logo_paramount_ver1.png" group-title="Movies",Paramount (F*)
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/paramount.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
 #EXTINF:0 tvg-id="ext" group-title="Movies" tvg-logo="https://i.postimg.cc/d18L9D3X/warung-tvbox.png", Cinemachi HD
@@ -346,7 +348,12 @@ https://nyanv-live-cdn.mncnow.id/live/eds/Cinemachi-Max-HD/sa_dash_vmx/Cinemachi
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
 #EXTINF:-1 tvg-id="Cinemachi.id" group-title="Movies" tvg-logo="https://i.postimg.cc/d18L9D3X/warung-tvbox.png",Cinemachi Xtra HD
 https://nyanv-live-cdn.mncnow.id/live/eds/Cinemachi-Xtra-HD/sa_dash_vmx/Cinemachi-Xtra-HD.mpd
-
+#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_blueant_small.png" group-title="Movies",Rock Entertainment (F*)
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/rockentertainment.m3u8
+#EXTINF:-1 tvg-logo="https://playtv.unifi.com.my:7048/CPS/images/universal/film/logo/202109/20210902/20210902163927011u1k.png" group-title="Movies",ROCK Entertainment (Unifi)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/mewatch/rockentertainment
+https://aqfadtv.xyz/live/mewatch/rockentertainment/index.mpd
 #EXTINF:-1 tvg-id="hbohd.MACAN" tvg-logo="https://thumbs.gfycat.com/AthleticViciousGodwit-max-1mb.gif" group-title="Movies",HBO ID
 http://37.49.230.42:8080/live/iptvepic4/DzbGTtATy4DzmK8c/197972.ts
 #EXTINF:-1 tvg-id="cinemax.MACAN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Cinemax.svg/2560px-Cinemax.svg.png" group-title="Movies",HBO CINEMAX ID HD
@@ -370,7 +377,8 @@ https://newanv-live-cdn.mncnow.id/live/eds/IndonesiaMovieChannels-HD/sa_dash_vmx
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net:443/?deviceId=NDljZWY3MGUtM2I0Ni0zODQyLTk3ZjItMDI0MWFjOTA4ODc1
 #EXTINF:-1 group-title="Movies" tvg-logo="https://i.postimg.cc/d18L9D3X/warung-tvbox.png",AXN
-https://newanv-live-cdn.mncnow.id/live/eds/AXN/sa_dash_vmx/AXN.mpd
+#https://newanv-live-cdn.mncnow.id/live/eds/AXN/sa_dash_vmx/AXN.mpd
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/axn.m3u8
 #EXTINF:-1 group-title="Movies" tvg-logo="https://i.postimg.cc/d18L9D3X/warung-tvbox.png",KIX
 http://37.49.229.56:8080/stadnik/6a627b52a9/165068
 http://iptvtree.net:8080/resplice/BiD8iEiMv7js1OUL/165068
@@ -378,24 +386,12 @@ http://iptvtree.net:8080/resplice/BiD8iEiMv7js1OUL/165068
 http://37.49.229.56:8080/stadnik/6a627b52a9/165065
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net:443/?deviceId=NDljZWY3MGUtM2I0Ni0zODQyLTk3ZjItMDI0MWFjOTA4ODc1
-#EXTINF:-1 group-title="Movies" tvg-logo="https://i.postimg.cc/d18L9D3X/warung-tvbox.png",Celestial Classic Movies
-https://newanv-live-cdn.mncnow.id/live/eds/CelestialClassic/sa_dash_vmx/CelestialClassic.mpd
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net:443/?deviceId=NDljZWY3MGUtM2I0Ni0zODQyLTk3ZjItMDI0MWFjOTA4ODc1
-#EXTINF:-1 group-title="Movies" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_22.png",Celestial Classic Movies
-https://newanv-live-cdn.mncnow.id/live/eds/CelestialClassic/sa_dash_vmx/CelestialClassic.mpd
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net:443/?deviceId=NDljZWY3MGUtM2I0Ni0zODQyLTk3ZjItMDI0MWFjOTA4ODc1
-#EXTINF:-1 group-title="Movies" tvg-logo="https://www.mncvision.id/userfiles/image/channel/celestial.png",Celestial Movies
-https://newanv-live-cdn.mncnow.id/live/eds/CelestialMovie/sa_dash_vmx/CelestialMovie.mpd
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net:443/?deviceId=NDljZWY3MGUtM2I0Ni0zODQyLTk3ZjItMDI0MWFjOTA4ODc1
 #EXTINF:-1 group-title="Movies" tvg-logo="https://i.postimg.cc/d18L9D3X/warung-tvbox.png",CinemaWorld
-https://newanv-live-cdn.mncnow.id/live/eds/CinemaWorld/sa_dash_vmx/CinemaWorld.mpd
+#https://newanv-live-cdn.mncnow.id/live/eds/CinemaWorld/sa_dash_vmx/CinemaWorld.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net:443/?deviceId=NDljZWY3MGUtM2I0Ni0zODQyLTk3ZjItMDI0MWFjOTA4ODc1
 #EXTINF:-1 group-title="Movies" tvg-logo="https://i.postimg.cc/d18L9D3X/warung-tvbox.png",FMN
-https://newanv-live-cdn.mncnow.id/live/eds/FMN/sa_dash_vmx/FMN.mpd
+#https://newanv-live-cdn.mncnow.id/live/eds/FMN/sa_dash_vmx/FMN.mpd
 #EXTINF:-1 group-title="Movies" tvg-logo="https://i.postimg.cc/d18L9D3X/warung-tvbox.png", HBO
 http://aflaxtv.xyz:8080/Vladisergeevic/7eef2c4388/197972
 #EXTINF:-1 group-title="Movies" tvg-logo="https://i.postimg.cc/d18L9D3X/warung-tvbox.png", HBO Extreme
@@ -415,41 +411,29 @@ https://newanv-live-cdn.mncnow.id/live/eds/FMN/sa_dash_vmx/FMN.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net:443/?deviceId=NDljZWY3MGUtM2I0Ni0zODQyLTk3ZjItMDI0MWFjOTA4ODc1
 #EXTINF:-1 group-title="Movies" tvg-logo="https://i.postimg.cc/d18L9D3X/warung-tvbox.png",HITS
-https://newanv-live-cdn.mncnow.id/live/eds/HITS/sa_dash_vmx/HITS.mpd
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/hits.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://cinemaxp.openwindow040.workers.dev
+#EXTINF:-1 group-title="Movies" tvg-id="hitsnow" tvg-url="" tvg-logo="https://i.imgur.com/uB76Ft0.png",Hits Now
+http://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(bd35274e-60ca-4ea7-91a5-38cc444c1b80)/manifest.mpd
+#EXTINF:-1 group-title="Movies" tvg-logo="https://i.postimg.cc/d18L9D3X/warung-tvbox.png",SONY MAX
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/sonymax.m3u8
+#EXTINF: -1 tvg-logo="" group-title="Movies",Sony TV (F*)
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/sonytv.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net:443/?deviceId=NDljZWY3MGUtM2I0Ni0zODQyLTk3ZjItMDI0MWFjOTA4ODc1
-#EXTINF:-1 group-title="Movies" tvg-logo="https://i.postimg.cc/d18L9D3X/warung-tvbox.png",HITS Movies
-https://newanv-live-cdn.mncnow.id/live/eds/HitsMovies/sa_dash_vmx/HitsMovies.mpd
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net:443/?deviceId=NDljZWY3MGUtM2I0Ni0zODQyLTk3ZjItMDI0MWFjOTA4ODc1
-#EXTINF:-1 group-title="Movies" tvg-logo="https://i.postimg.cc/d18L9D3X/warung-tvbox.png",KIX
-https://newanv-live-cdn.mncnow.id/live/eds/KIX/sa_dash_vmx/KIX.mpd
-
+#KODIPROP:inputstream.adaptive.license_key=https://cinemaxp.openwindow040.workers.dev
+#EXTINF:-1 group-title="Movies" tvg-id="hitsnow" tvg-url="" tvg-logo="https://i.imgur.com/uB76Ft0.png",Hits Now
+http://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(bd35274e-60ca-4ea7-91a5-38cc444c1b80)/manifest.mpd
 #EXTINF:-1 tvg-id="KPlus.MACAN" tvg-name="Kplus" tvg-logo="https://i.ibb.co/smpNq8Z/xgnf.png" group-title="Movies",K+
 http://210.210.155.35/uq2663/h/h08/01.m3u8?fluxustv.m3u8
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net:443/?deviceId=NDljZWY3MGUtM2I0Ni0zODQyLTk3ZjItMDI0MWFjOTA4ODc1
-#EXTINF:-1 group-title="Movies" tvg-logo="https://i.postimg.cc/d18L9D3X/warung-tvbox.png",Thrill
-https://newanv-live-cdn.mncnow.id/live/eds/Thrill/sa_dash_vmx/Thrill.mpd
+
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net:443/?deviceId=NDljZWY3MGUtM2I0Ni0zODQyLTk3ZjItMDI0MWFjOTA4ODc1
 #EXTINF:-1 group-title="Movies" tvg-logo="https://i.postimg.cc/d18L9D3X/warung-tvbox.png",TVN
-https://newanv-live-cdn.mncnow.id/live/eds/tvN/sa_dash_vmx/tvN.mpd
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh
-#EXTINF:-1 group-title="Movies" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_0.png",TVN Premium
-https://newanv-live-cdn.mncnow.id/live/eds/tvN/sa_dash_vmx/tvN.mpd
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/d18L9D3X/warung-tvbox.png" group-title="Movies",TVN
-http://rr1.dens.tv/h/h20/index.m3u8
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net:443/?deviceId=NDljZWY3MGUtM2I0Ni0zODQyLTk3ZjItMDI0MWFjOTA4ODc1
-#EXTINF:-1 group-title="Movies" tvg-logo="https://i.postimg.cc/d18L9D3X/warung-tvbox.png",TVN Movies
-https://newanv-live-cdn.mncnow.id/live/eds/tvNMovies/sa_dash_vmx/tvNMovies.mpd
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh
-#EXTINF:-1 group-title="Movies" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_109.png",TVN Movies
-https://newanv-live-cdn.mncnow.id/live/eds/tvNMovies/sa_dash_vmx/tvNMovies.mpd
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/tvn.m3u8
+
+
+
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh
