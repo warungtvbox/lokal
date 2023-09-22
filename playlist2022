@@ -190,7 +190,7 @@ http://103.255.15.222:1935/tv/jitv_720p/playlist.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh
 #EXTINF:0 tvg-id="JakTV" tvg-name="JakTV" tvg-url="http://www.useetv.com" tvg-logo="https://i.postimg.cc/d18L9D3X/warung-tvbox.png" group-title="Lokal",JAKTV
-https://newanv-live-cdn.mncnow.id/live/eds/JakTV/sa_dash_vmx/JakTV.mpd
+https://nxanv-live-cdn.mncnow.id/live/eds/JakTV/sa_dash_vmx/JakTV.mpd
 
 #EXTINF:-1 group-title="Lokal",Batu TV (576p) [Not 24/7]
 http://117.103.69.219:8080/live/streaming/index.m3u8
@@ -373,6 +373,7 @@ https://newanv-live-cdn.mncnow.id/live/eds/IndonesiaMovieChannels-HD/sa_dash_vmx
 https://newanv-live-cdn.mncnow.id/live/eds/AXN/sa_dash_vmx/AXN.mpd
 #EXTINF:-1 group-title="Movies" tvg-logo="https://i.postimg.cc/d18L9D3X/warung-tvbox.png",KIX
 http://37.49.229.56:8080/stadnik/6a627b52a9/165068
+http://iptvtree.net:8080/resplice/BiD8iEiMv7js1OUL/165068
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/d18L9D3X/warung-tvbox.png" group-title="Movies",CELESIAL MOVIES
 http://37.49.229.56:8080/stadnik/6a627b52a9/165065
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
