@@ -39,8 +39,7 @@ http://37.49.229.56:8080/stadnik/6a627b52a9/298550
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net:443/?deviceId=NDljZWY3MGUtM2I0Ni0zODQyLTk3ZjItMDI0MWFjOTA4ODc1
 #EXTINF:-1 group-title="Lokal" tvg-logo="https://i.postimg.cc/d18L9D3X/warung-tvbox.png",ANTV
-#https://newanv-live-cdn.mncnow.id/live/eds/ANTV/sa_dash_vmx/ANTV.mpd
-https://kusnadipepenk.github.io/campeign/antv.m3u8
+http://tvkuonline.my.id:25461/riyad/riyad/17
 #EXTINF:-1  tvg-name="ANTV 2" tvg-id="" tvg-logo="https://i.postimg.cc/d18L9D3X/warung-tvbox.png" group-title="Lokal" :http-referrer="",ANTV 2
 http://210.210.155.35:80/qwr9ew/s/s07/01.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/d18L9D3X/warung-tvbox.png" group-title="Lokal",Indosiar backup
@@ -66,6 +65,10 @@ https://nyanv-live-cdn.mncnow.id/live/eds/MNCInfotainment/sa_dash_vmx/MNCInfotai
 #EXTINF:-1 group-title="Lokal" tvg-logo="https://i.postimg.cc/d18L9D3X/warung-tvbox.png",MNC TV
 #https://newanv-live-cdn.mncnow.id/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd
 http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/165054
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net:443/?deviceId=NDljZWY3MGUtM2I0Ni0zODQyLTk3ZjItMDI0MWFjOTA4ODc1
+#EXTINF:-1 group-title="Lokal" tvg-logo="https://i.postimg.cc/d18L9D3X/warung-tvbox.png",MNC TV
+http://tvkuonline.my.id:25461/riyad/riyad/23
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh
 #EXTINF:-1 group-title="Lokal" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_86.png",MNC Entertainment
