@@ -82,7 +82,8 @@ http://tvkuonline.my.id:25461/riyad/riyad/23
 #EXTINF:-1  tvg-name="MNC NEWS" tvg-id="" tvg-logo="https://i.postimg.cc/d18L9D3X/warung-tvbox.png" group-title="Lokal" :http-referrer="",MNC NEWS
 #https://anevia114.mncnow.id/live/eds/MNCnews-HDD/sa_dash_vmx/MNCnews-HDD.mpd
 #EXTINF:-1 group-title="Lokal" tvg-logo="https://i.postimg.cc/d18L9D3X/warung-tvbox.png", RCTI
-#http://nyanv-live-cdn.mncnow.id/live/eds/rcti-2/sa_hls/rcti-2.m3u8
+http://103.150.197.226:25461/live/kalingga/VLRBY9PXuR/3365.m3u8
+#EXTINF:-1 group-title="Lokal" tvg-logo="https://i.postimg.cc/d18L9D3X/warung-tvbox.png", RCTI
 http://tvkuonline.my.id:25461/riyad/riyad/08
 
 http://37.49.230.42:8080/resplice/BiD8iEiMv7js1OUL/162141
@@ -336,7 +337,7 @@ http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/298564
 #EXTINF:-1 tvg-id="" tvg-logo="https://images.useetv.com/logo_paramount_ver1.png" group-title="Movies",Paramount (F*)
 https://raw.githubusercontent.com/mimipipi22/lalajo/main/paramount.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/d18L9D3X/warung-tvbox.png" group-title="Movies",,Warner TV (A*)
-http://aflaxtv.xyz:8080/kingtveuex/lAEPMRIE4jqjMamv/157550
+#http://aflaxtv.xyz:8080/kingtveuex/lAEPMRIE4jqjMamv/157550
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
 #EXTINF:0 tvg-id="ext" group-title="Movies" tvg-logo="https://i.postimg.cc/d18L9D3X/warung-tvbox.png", Cinemachi HD
