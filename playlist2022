@@ -1,7 +1,7 @@
 #EXTM3U
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz 
-#KODI#EXTINF:-1 group-title="NASIONAL" tvg-id="mnctv.id" tvg-logo"https://i.ibb.co/px7Sbrx/mnctv.jpg",MNCTV
+#KODI#EXTINF:-1 group-title="Lokal" tvg-id="mnctv.id" tvg-logo"https://i.ibb.co/px7Sbrx/mnctv.jpg",MNCTV
 https://nyanv-live-cdn.mncnow.id/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd
 #EXTINF:-1 group-title="Lokal" tvg-logo="https://i.postimg.cc/d18L9D3X/warung-tvbox.png",SPORTSTARS
 http://aflaxtv.xyz:8080/0613bffd/d7f0406c7a/157589
