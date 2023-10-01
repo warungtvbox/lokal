@@ -1,10 +1,6 @@
 #EXTM3U
 #EXTINF:-1 group-title="Lokal" tvg-logo="https://i.postimg.cc/d18L9D3X/warung-tvbox.png",ANTARA
 https://cdn09jtedge.indihometv.com/dvr/139/antara/manifest.mpd
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net:443/?deviceId=NDljZWY3MGUtM2I0Ni0zODQyLTk3ZjItMDI0MWFjOTA4ODc1
-#EXTINF:-1 group-title="Lokal" tvg-logo="https://i.postimg.cc/d18L9D3X/warung-tvbox.png",MNC TV
-https://nyanv-live-cdn.mncnow.id/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd
 #EXTINF:-1 group-title="Lokal" tvg-logo="https://i.postimg.cc/d18L9D3X/warung-tvbox.png",SPORTSTARS
 http://aflaxtv.xyz:8080/0613bffd/d7f0406c7a/157589
 #EXTINF:-1 group-title="Lokal" tvg-logo="https://i.postimg.cc/d18L9D3X/warung-tvbox.png",SPORTSTARS2  HD
@@ -78,11 +74,6 @@ https://nyanv-live-cdn.mncnow.id/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd
 #EXTINF:-1 group-title="Lokal" tvg-logo="https://i.postimg.cc/d18L9D3X/warung-tvbox.png",MNC TV
 #https://newanv-live-cdn.mncnow.id/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd
 http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/165054
-http://aflaxtv.xyz:8080/0613bffd/d7f0406c7a/165054
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net:443/?deviceId=NDljZWY3MGUtM2I0Ni0zODQyLTk3ZjItMDI0MWFjOTA4ODc1
-#EXTINF:-1 group-title="Lokal" tvg-logo="https://i.postimg.cc/d18L9D3X/warung-tvbox.png",MNC TV
-http://tvkuonline.my.id:25461/riyad/riyad/23
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh
 #EXTINF:-1 group-title="Lokal" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_86.png",MNC Entertainment
@@ -95,8 +86,6 @@ https://nyanv-live-cdn.mncnow.id/live/eds/MNCnews-HDD/sa_dash_vmx/MNCnews-HDD.mp
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net:443/?deviceId=NDljZWY3MGUtM2I0Ni0zODQyLTk3ZjItMDI0MWFjOTA4ODc1
 #EXTINF:-1 group-title="Lokal" tvg-logo="https://i.postimg.cc/d18L9D3X/warung-tvbox.png",rcti
 https://nyanv-live-cdn.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
-#EXTINF:-1 group-title="Lokal" tvg-logo="https://i.postimg.cc/d18L9D3X/warung-tvbox.png", RCTI
-http://103.150.197.226:25461/live/kalingga/VLRBY9PXuR/3365.m3u8
 #EXTINF:-1 group-title="Lokal" tvg-logo="https://i.postimg.cc/d18L9D3X/warung-tvbox.png", RCTI
 http://tvkuonline.my.id:25461/riyad/riyad/08
 #EXTINF:-1 group-title="Lokal" tvg-logo="https://i.postimg.cc/d18L9D3X/warung-tvbox.png", sctv
