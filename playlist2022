@@ -1,4 +1,4 @@
-/*-#EXTM3U
+#EXTM3U
 #EXTINF:-1 group-title="Lokal" tvg-logo="https://i.postimg.cc/d18L9D3X/warung-tvbox.png",ANTARA
 https://cdn09jtedge.indihometv.com/dvr/139/antara/manifest.mpd
 #EXTINF:-1 group-title="Lokal" tvg-logo="https://i.postimg.cc/d18L9D3X/warung-tvbox.png",INSERT-*/
@@ -843,22 +843,105 @@ http://edge.linknetott.swiftserve.com/channelgroup4/cg434production/ch366/02.m3u
 
 
 ================== NEWS =============================
-#EXTINF:-1 group-title="Pengetahuan & Alam" tvg-logo="https://i.postimg.cc/d18L9D3X/warung-tvbox.png",NHK JAPAN
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/298560
-#EXTINF:-1 group-title="News" tvg-logo="https://i.postimg.cc/jd31RHSf/CNBC-Indonesia.png", CNBC Asia
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
+#EXTINF:-1 group-title="News" tvg-logo="https://i.postimg.cc/d18L9D3X/warung-tvbox.png"",Arirang World
+https://nyanv-live-cdn.mncnow.id/live/eds/Arirang/sa_dash_vmx/Arirang.mpd
+#EXTINF:-1 group-title="News" tvg-logo="https://i.postimg.cc/d18L9D3X/warung-tvbox.png"", CNBC Asia
 http://sdtv.shifty23.com:2082/live/eltruje_133105/hMe00mkj/306366.ts
-#EXTINF:-1 group-title="News" tvg-logo="https://i.postimg.cc/qqNQDYHv/iNews.png", iNews
+#EXTINF:-1 group-title="News" tvg-logo="https://i.postimg.cc/d18L9D3X/warung-tvbox.png"", iNews
 http://37.49.229.56:8080/Vladisergeevic/7eef2c4388/157579
-#EXTINF:-1 group-title="News" tvg-logo="https://i.postimg.cc/KjCf6Nmr/Kompas-TV.png", Kompas TV
+#EXTINF:-1 group-title="News" tvg-logo="https://i.postimg.cc/d18L9D3X/warung-tvbox.png"", Kompas TV
 https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(dc9040ad-a4e1-4d08-883c-a65542b69602)/index.m3u8
-#EXTINF:-1 group-title="News" tvg-logo="https://i.postimg.cc/DybBqtcC/Metro-TV.png", Metro TV
+#EXTINF:-1 group-title="News" tvg-logo="https://i.postimg.cc/d18L9D3X/warung-tvbox.png"", Metro TV
 https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(bd164a95-722d-40db-a596-687c8123f197)/index.m3u8
-#EXTINF:-1 group-title="News" tvg-logo="https://i.postimg.cc/ZRPgmXWY/Sindo-News-TV.png", Sindo News TV
-http://kuchini.site:8080/bigboss/dF2SUPPUwzmZ8prS/299485
-#EXTINF:-1 group-title="News" tvg-logo="", NASA TV
+#EXTINF:-1 group-title="News" tvg-logo="https://i.postimg.cc/d18L9D3X/warung-tvbox.png"", NASA TV
 https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_700.m3u8
-#EXTINF:-1 group-title="News" tvg-logo="https://i.postimg.cc/3xF6vsKs/TVRI.jpg", TVRI
+#EXTINF:-1 group-title="News" tvg-logo="https://i.postimg.cc/d18L9D3X/warung-tvbox.png"", TVRI
 http://aflaxtv.xyz:8080/Vladisergeevic/7eef2c4388/162504
+#EXTINF:-1 group-title="News" tvg-id="News" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJ0J2Ys00_LEe8F53BSVV5CH2m3F5cyUsW2w&usqp=CAU",KBS World (F*)
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/kbsworld.m3u8
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
+#EXTINF:-1 group-title="News" tvg-logo="https://i.postimg.cc/d18L9D3X/warung-tvbox.png",ABC Australia Asia
+https://nyanv-live-cdn.mncnow.id/live/eds/AustraliaPlus/sa_dash_vmx/AustraliaPlus.mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
+#EXTINF:-1 group-title="News" tvg-logo="https://i.postimg.cc/d18L9D3X/warung-tvbox.png",TV5Monde Asie
+https://nyanv-live-cdn.mncnow.id/live/eds/TV5/sa_dash_vmx/TV5.mpd
+#EXTINF:-1 group-title="News" tvg-logo="https://i.postimg.cc/d18L9D3X/warung-tvbox.png",TV5Monde Asie
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/tv5mondeasie.m3u8
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
+#EXTINF:-1 group-title="News" tvg-logo="https://www.lyngsat.com/logo/tv/ss/star_xing_kong_hk.png",Xing Kong TV
+https://nyanv-live-cdn.mncnow.id/live/eds/XingKongTV/sa_dash_vmx/XingKongTV.mpd
+#EXTINF:-1 group-title="News" tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/main/logo%20fmx/Xing%20Kong%20Chinese%20SD-FirstMedia-Chl-206.jpg",Xing Kong TV (F*)
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/xingkong.m3u8
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
+#EXTINF:-1 group-title="News" tvg-logo="https://www.lyngsat.com/logo/tv/aa/anhui_tv_cn.png",Anhui TV
+https://nyanv-live-cdn.mncnow.id/live/eds/AnhuiTV/sa_dash_vmx/AnhuiTV.mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
+#EXTINF:-1 group-title="News" tvg-logo="https://www.lyngsat.com/logo/tv/hh/hunan_cn_tv.png",Hunan TV
+https://nyanv-live-cdn.mncnow.id/live/eds/HunanTV/sa_dash_vmx/HunanTV.mpd
+#EXTINF:-1 group-title="News" tvg-logo="https://www.firstmedia.com/files/logos/channels/4-ENTERTAINMENT/Hunan%20TV%20SD-FirstMedia-Chl-214.jpg",Hunan TV (F*)
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/hunan.m3u8
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
+#EXTINF:-1 group-title="News" tvg-logo="https://www.lyngsat.com/logo/tv/jj/jiangsu_tv.png",Jiangsu TV
+https://nyanv-live-cdn.mncnow.id/live/eds/JiangsuTV/sa_dash_vmx/JiangsuTV.mpd
+#EXTINF:-1 group-title="News" tvg-logo="https://www.firstmedia.com/files/logos/channels/4-ENTERTAINMENT/Jingsu%20TV%20SD-FirstMedia-Chl-216.jpg",Jiangsu TV (F*)
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/jiangsu.m3u8
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
+#EXTINF:-1 group-title="News" tvg-logo="https://www.lyngsat.com/logo/tv/dd/dragon-tv-cn.png",Dragon TV
+https://nyanv-live-cdn.mncnow.id/live/eds/ShanghaiDragonTV/sa_dash_vmx/ShanghaiDragonTV.mpd
+#EXTINF:-1 group-title="News" tvg-logo="https://www.firstmedia.com/files/logos/channels/4-ENTERTAINMENT/Dragon%20TV%20SD-FirstMedia-Chl-215.jpg",Dragon TV (F*)
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/dragon.m3u8
+#EXTINF:-1 group-title="News" tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/main/logo%20fmx/Zhejiang%20TV%20SD-FirstMedia-Chl-208.jpg",Zhejiang TV (F*)
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/zhejiang.m3u8
+#EXTINF:-1 group-title=" News"tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/main/logo%20fmx/TVBS%20Asia%20SD-FirstMedia-Chl-211.jpg",TVBS Asia (F*)
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/tvbsasia.m3u8
+#EXTINF:-1 group-title="News" tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/main/logo%20fmx/TVBS%20News%20SD-FirstMedia-Chl-212.jpg",TVBS News (F*)
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/tvbsnews.m3u8
+#EXTINF:-1 group-title="News" tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/main/logo%20fmx/TVB%20Xing%20He%20SD-FirstMedia-Chl-201.jpg",TVB Xing He (F*)
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/tvbxinghe.m3u8
+#EXTINF:-1 group-title="News" tvg-logo="https://i.postimg.cc/d18L9D3X/warung-tvbox.png",ABC West
+http://23.237.100.82:8000/ABC_WEST/manifest.m3u8
+#EXTINF:-1 group-title="News" tvg-logo="https://i.postimg.cc/d18L9D3X/warung-tvbox.png",BC América
+https://bcovlive-a.akamaihd.net/c9bf201b06694453bb29282f97191f58/us-east-1/6240731308001/playlist.m3u8
+https://bit.ly/3OxeRlC?/playlist.m3u8
+#EXTINF:-1 group-title="News" tvg-logo="https://i.postimg.cc/d18L9D3X/warung-tvbox.png",Rai 3ᴴᴰ
+https://bit.ly/3OyVjNs?/playlist.m3u8
+#EXTINF:-1 group-title="News" tvg-logo="https://i.postimg.cc/d18L9D3X/warung-tvbox.png",M6 Internacional
+https://bit.ly/3pQq2LG?/playlist.m3u8
+#EXTINF:-1 group-title="News" tvg-logo="https://i.postimg.cc/d18L9D3X/warung-tvbox.png",BBC América
+https://bcovlive-a.akamaihd.net/c9bf201b06694453bb29282f97191f58/us-east-1/6240731308001/playlist.m3u8
+#EXTINF:-1 group-title="News" tvg-logo="https://i.postimg.cc/d18L9D3X/warung-tvbox.png",IFC East (720p)
+https://bcovlive-a.akamaihd.net/045bd3b615254da880c3db79b2e42fd0/us-east-1/6240731308001/playlist.m3u8
+#EXTINF:-1 group-title="News" tvg-logo="https://i.postimg.cc/d18L9D3X/warung-tvbox.png",VMax (720p)
+https://bcovlive-a.akamaihd.net/474b6caf58f8407fb1d1cc1ef64f50ff/us-west-2/6058004209001/playlist_dvr.m3u8
+#EXTINF:-1 group-title="News" tvg-logo="https://i.postimg.cc/d18L9D3X/warung-tvbox.png",Télé-Québec (720p)
+https://bcovlive-a.akamaihd.net/575d86160eb143458d51f7ab187a4e68/us-east-1/6101674910001/playlist.m3u8
+#EXTINF:-1 group-title="News" tvg-logo="https://i.postimg.cc/d18L9D3X/warung-tvbox.png",I24 News Arabic (720p)
+https://bcovlive-a.akamaihd.net/773a2fa387914315ad11e6957cd54f6e/eu-central-1/5377161796001/playlist-all_dvr.m3u8
+#EXTINF:-1 group-title="News" tvg-logo="https://i.postimg.cc/d18L9D3X/warung-tvbox.png",Sundance East (720p)
+https://bcovlive-a.akamaihd.net/4d972ec6f41241f2b4286f8bdcc8dae9/us-east-1/6240731308001/playlist.m3u8
+#EXTINF:-1 group-title="News" tvg-logo="https://i.postimg.cc/d18L9D3X/warung-tvbox.png",Reelz Channel
+https://bcovlive-a.akamaihd.net/c733a9aa448a4a44a10c527c6f5bf7a4/us-east-1/5245389775001/playlist.m3u8
+#EXTINF:-1 group-title="News" tvg-logo="https://i.postimg.cc/d18L9D3X/warung-tvbox.png",i-Cable News Channel
+https://uc6.i-cable.com/live_freedirect/freehd209_h.live/playlist.m3u8
+#EXTINF:-1 group-title="News" tvg-logo="https://i.postimg.cc/d18L9D3X/warung-tvbox.png", KBS World HD
+https://wms4-kortv.akamaized.net/a_live/63719963/smil:20ch011.smil/playlist.m3u8
+https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/01.m3u8
+#EXTINF:-1 group-title="News" tvg-logo="https://i.postimg.cc/d18L9D3X/warung-tvbox.png",Dubai TV
+https://dmisxthvll.cdn.mgmlcdn.com/dubaitvht/smil:dubaitv.stream.smil/playlist.m3u8
+#EXTINF:-1 group-title="News" tvg-logo="https://i.postimg.cc/d18L9D3X/warung-tvbox.png",ERT World
+http://ert-live-bcbs15228.siliconweb.com/media/ert_world/ert_worldmedium.m3u8
+#EXTINF:-1 group-title="News" tvg-logo="https://i.postimg.cc/d18L9D3X/warung-tvbox.png",France 5
+http://69.64.57.208:8080/france5/playlist.m3u8 
+
 
 ======================================================================
 
