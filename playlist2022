@@ -235,7 +235,10 @@ http://103.255.15.222:1935/tv/jitv_720p/playlist.m3u8
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh
 #EXTINF:0 tvg-id="JakTV" tvg-name="JakTV" tvg-url="http://www.useetv.com" tvg-logo="https://i.postimg.cc/d18L9D3X/warung-tvbox.png" group-title="Lokal",JAKTV
 https://nxanv-live-cdn.mncnow.id/live/eds/JakTV/sa_dash_vmx/JakTV.mpd
-
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh
+#EXTINF:0 tvg-id="JakTV" tvg-name="JakTV" tvg-url="http://www.useetv.com" tvg-logo="https://i.postimg.cc/d18L9D3X/warung-tvbox.png" group-title="Lokal",JAKTV
+https://nyanv-live-cdn.mncnow.id/live/eds/JakTV/sa_dash_vmx/JakTV.mpd
 #EXTINF:-1 group-title="Lokal",Batu TV (576p) [Not 24/7]
 http://117.103.69.219:8080/live/streaming/index.m3u8
 http:#EXTINF:-1 group-title="Lokal",Fajar TV (240p) [Not 24/7]
@@ -247,10 +250,7 @@ https://h1.intechmedia.net/intech/ch51.m3u8
 https://e1.siar.us/badartv/live/chunks.m3u8
 
 --------------------------------------kids------------------
-#EXTINF:-1 group-title="Anak² & Kartun" tvg-logo="https://i.postimg.cc/d18L9D3X/warung-tvbox.png",MY KIDS
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/298556
-#EXTINF:-1 group-title="Anak² & Kartun" tvg-logo="https://i.postimg.cc/d18L9D3X/warung-tvbox.png",NICK JR
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/298561
+
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
 #EXTINF:-1 group-title="Anak² & Kartun" tvg-logo="https://i.postimg.cc/d18L9D3X/warung-tvbox.png",Baby TV Asia
@@ -828,6 +828,8 @@ https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00426-littledotstudio-realwildnz-
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00718-outdoorchannela-outdoortvnz-samsungnz/playlist.m3u8
 =====================================================================================================
 
+
+
 #EXTINF:-1 group-title="Hiburan & Gaya Hidup" tvg-logo="https://i.postimg.cc/P5YwxwPj/Screenshot-3.png", Dens Life & Style
 http://210.210.155.37/x6bnqe/s/s65/index2.m3u8
 #EXTINF:-1 group-title="Hiburan & Gaya Hidup" tvg-logo="https://i.postimg.cc/P5YwxwPj/Screenshot-3.png", AFN (Asian Food Network)
@@ -841,109 +843,232 @@ http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch35)/index.m3u8
 #EXTINF:-1 group-title="Hiburan & Gaya Hidup" tvg-logo="https://i.postimg.cc/P5YwxwPj/Screenshot-3.png", Global Trekker
 http://edge.linknetott.swiftserve.com/channelgroup4/cg434production/ch366/02.m3u8
 
+########################## NEWS ##########################
 
-================== NEWS =============================
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
-#EXTINF:-1 group-title="News" tvg-logo="https://i.postimg.cc/d18L9D3X/warung-tvbox.png"",Arirang World
+#EXTINF:-1 group-title="BERITA DAN HIBURAN INTERNATIONAL" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_332.jpg",BBC World News Asia Pacific
+https://nyanv-live-cdn.mncnow.id/live/eds/BBCWorldNews/sa_dash_vmx/BBCWorldNews.mpd
+
+#EXTINF:0 tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/BBC_World_News_2022_%28Boxed%29.svg/1200px-BBC_World_News_2022_%28Boxed%29.svg.png" group-title="BERITA DAN HIBURAN INTERNATIONAL",BBC News (U)
+https://unifi-live05.secureswiftcontent.com/UnifiHD/live28-1080FHD.m3u8
+
+#EXTINF:-1 group-title="BERITA DAN HIBURAN INTERNATIONAL" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_332.jpg",BBC World News (F*)
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/bbcworldnews.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
+#EXTINF:-1 group-title="BERITA DAN HIBURAN INTERNATIONAL" tvg-logo="https://www.mncvision.id/userfiles/image/channel/cnn_new.jpg",CNN International Asia Pacific
+https://nyanv-live-cdn.mncnow.id/live/eds/CNNInternational/sa_dash_vmx/CNNInternational.mpd
+
+#EXTINF:-1 tvg-id="CNNInternationalAsiaPacific.hk" tvg-logo="https://www.useetv.com/assets/images/channel/logo_cnninternational_big.png" group-title="BERITA DAN HIBURAN INTERNATIONAL",CNN International*
+https://cnn-cnninternational-1-eu.rakuten.wurl.tv/playlist.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
+#EXTINF:-1 group-title="BERITA DAN HIBURAN INTERNATIONAL" tvg-logo="https://www.mncvision.id/userfiles/image/channel/aljazeera.png",Aljazeera English
+https://nyanv-live-cdn.mncnow.id/live/eds/AlJazeeraInternational/sa_dash_vmx/AlJazeeraInternational.mpd
+
+#EXTINF:-1 group-title="BERITA DAN HIBURAN INTERNATIONAL" tvg-logo="https://www.mncvision.id/userfiles/image/channel/aljazeera.png",Aljazeera English (F*)
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/aljazeeraenglish.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
+#EXTINF:-1 group-title="BERITA DAN HIBURAN INTERNATIONAL" tvg-logo="https://www.lyngsat.com/logo/tv/ee/euronews_fr.png",EuroNews English
+https://nyanv-live-cdn.mncnow.id/live/eds/EuroNews/sa_dash_vmx/EuroNews.mpd
+
+#EXTINF:-1 group-title="BERITA DAN HIBURAN INTERNATIONAL" tvg-logo="https://www.lyngsat.com/logo/tv/ee/euronews_fr.png",EuroNews (F*)
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/euronews.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
+#EXTINF:-1 group-title="BERITA DAN HIBURAN INTERNATIONAL" tvg-logo="https://www.mncvision.id/userfiles/image/channel/fox_news_channel.png",Fox News Channel
+https://nyanv-live-cdn.mncnow.id/live/eds/FoxNews/sa_dash_vmx/FoxNews.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
+#EXTINF:-1 group-title="BERITA DAN HIBURAN INTERNATIONAL" tvg-logo="https://www.mncvision.id/userfiles/image/channel/france_150px.jpg",France 24 English
+https://nyanv-live-cdn.mncnow.id/live/eds/France24/sa_dash_vmx/France24.mpd
+
+#EXTINF:-1 group-title="BERITA DAN HIBURAN INTERNATIONAL" tvg-logo="https://www.mncvision.id/userfiles/image/channel/france_150px.jpg",France 24 (F*)
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/france24english.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
+#EXTINF:-1 group-title="BERITA DAN HIBURAN INTERNATIONAL" tvg-logo="https://www.lyngsat.com/logo/tv/rr/rt_ru_english.png",RT English
+https://nyanv-live-cdn.mncnow.id/live/eds/RTEnglish/sa_dash_vmx/RTEnglish.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
+#EXTINF:-1 group-title="BERITA DAN HIBURAN INTERNATIONAL" tvg-logo="https://www.lyngsat.com/logo/tv/tt/trt_world_tr.png",TRT World
+https://nyanv-live-cdn.mncnow.id/live/eds/TRTWorld/sa_dash_vmx/TRTWorld.mpd
+
+#EXTINF:-1 group-title="BERITA DAN HIBURAN INTERNATIONAL" tvg-logo="https://www.firstmedia.com/files/logos/channels/11-NEWS/TRT%20World%20SD-FirstMedia-Chl-240.jpg",TRT World
+https://tv-trtworld.live.trt.com.tr/master_720.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/ydxMLn71/Aljazeera.png" group-title="BERITA DAN HIBURAN INTERNATIONAL",Al Jazeera Arabic (F*)
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/aljazeeraarabic.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/ydxMLn71/Aljazeera.png" group-title="BERITA DAN HIBURAN INTERNATIONAL",Al Jazeera Arabic
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV14.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="BERITA DAN HIBURAN INTERNATIONAL" tvg-logo="", WION (World is One News)
+https://d1tdkdc0esjoxj.cloudfront.net/out/v1/f2054baeb8e94043bfc9c8cca2a0013d/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="BERITA DAN HIBURAN INTERNATIONAL" tvg-logo="https://i.imgur.com/nR0Mu2i.png", CCTV-4 (F*)
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/cctv4.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
+#EXTINF:-1 group-title="BERITA DAN HIBURAN INTERNATIONAL" tvg-logo="https://www.mncvision.id/userfiles/image/channel/bloomberg.png",Bloomberg TV Asia
+https://nyanv-live-cdn.mncnow.id/live/eds/Bloomberg/sa_dash_vmx/Bloomberg.mpd
+
+#EXTINF:-1 group-title="BERITA DAN HIBURAN INTERNATIONAL" tvg-logo="https://www.mncvision.id/userfiles/image/channel/bloomberg.png",Bloomberg TV Asia (F*)
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/bloomberg.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
+#EXTINF:-1 group-title="BERITA DAN HIBURAN INTERNATIONAL" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_353.png",CGTN
+https://nyanv-live-cdn.mncnow.id/live/eds/CGTN/sa_dash_vmx/CGTN.mpd
+
+#EXTINF:-1 group-title=""BERITA DAN HIBURAN INTERNATIONAL tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_353.png",CGTN (F*)
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/cgtn.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
+#EXTINF:-1 group-title="BERITA DAN HIBURAN INTERNATIONAL" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_330.png",CNA
+https://nyanv-live-cdn.mncnow.id/live/eds/ChannelNewsAsia/sa_dash_vmx/ChannelNewsAsia.mpd
+
+#EXTINF:-1 group-title="BERITA DAN HIBURAN INTERNATIONAL" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_330.png",CNA (F*)
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/channelnewsasia.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
+#EXTINF:-1 group-title="BERITA DAN HIBURAN INTERNATIONAL" tvg-logo="https://www.mncvision.id/userfiles/image/channel/cnbc.png",CNBC Asia-Pacific
+https://nyanv-live-cdn.mncnow.id/live/eds/CNBC/sa_dash_vmx/CNBC.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
+#EXTINF:-1 group-title="BERITA DAN HIBURAN INTERNATIONAL" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_357.png",DW English
+https://nyanv-live-cdn.mncnow.id/live/eds/DW/sa_dash_vmx/DW.mpd
+
+#EXTINF:-1 group-title="BERITA DAN HIBURAN INTERNATIONAL" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_357.png",DW English (F*)
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/dwenglish.m3u8
+
+#EXTINF:-1 group-title=""BERITA DAN HIBURAN INTERNATIONAL tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_357.png",DW Deutsch (F*)
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/dwdeutsch.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
+#EXTINF:-1 group-title="BERITA DAN HIBURAN INTERNATIONAL" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_355.jpeg",NHK World Japan
+https://nyanv-live-cdn.mncnow.id/live/eds/NHKWorldTV/sa_dash_vmx/NHKWorldTV.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
+#EXTINF:-1 group-title="BERITA DAN HIBURAN INTERNATIONAL" tvg-logo="https://www.mncvision.id/userfiles/image/channel/nhk_150.png",NHK World Premium
+https://nyanv-live-cdn.mncnow.id/live/eds/NHKWorldPremium/sa_dash_vmx/NHKWorldPremium.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/New_Logo_TVRI.png/800px-New_Logo_TVRI.png" group-title="BERITA DAN HIBURAN INTERNATIONAL",TVRI WORLD
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRI3)/index.m3u8?checkedby:iptvcat.com
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
+#EXTINF:-1 group-title="BERITA DAN HIBURAN INTERNATIONAL" tvg-logo="https://i.postimg.cc/d18L9D3X/warung-tvbox.png"",Arirang World
 https://nyanv-live-cdn.mncnow.id/live/eds/Arirang/sa_dash_vmx/Arirang.mpd
-#EXTINF:-1 group-title="News" tvg-logo="https://i.postimg.cc/d18L9D3X/warung-tvbox.png"", CNBC Asia
+#EXTINF:-1 group-title="BERITA DAN HIBURAN INTERNATIONAL" tvg-logo="https://i.postimg.cc/d18L9D3X/warung-tvbox.png"", CNBC Asia
 http://sdtv.shifty23.com:2082/live/eltruje_133105/hMe00mkj/306366.ts
-#EXTINF:-1 group-title="News" tvg-logo="https://i.postimg.cc/d18L9D3X/warung-tvbox.png"", iNews
-http://37.49.229.56:8080/Vladisergeevic/7eef2c4388/157579
-#EXTINF:-1 group-title="News" tvg-logo="https://i.postimg.cc/d18L9D3X/warung-tvbox.png"", Kompas TV
-https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(dc9040ad-a4e1-4d08-883c-a65542b69602)/index.m3u8
-#EXTINF:-1 group-title="News" tvg-logo="https://i.postimg.cc/d18L9D3X/warung-tvbox.png"", Metro TV
-https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(bd164a95-722d-40db-a596-687c8123f197)/index.m3u8
-#EXTINF:-1 group-title="News" tvg-logo="https://i.postimg.cc/d18L9D3X/warung-tvbox.png"", NASA TV
+#EXTINF:-1 group-title="BERITA DAN HIBURAN INTERNATIONAL" tvg-logo="https://i.postimg.cc/d18L9D3X/warung-tvbox.png", NASA TV
 https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_700.m3u8
-#EXTINF:-1 group-title="News" tvg-logo="https://i.postimg.cc/d18L9D3X/warung-tvbox.png"", TVRI
-http://aflaxtv.xyz:8080/Vladisergeevic/7eef2c4388/162504
-#EXTINF:-1 group-title="News" tvg-id="News" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJ0J2Ys00_LEe8F53BSVV5CH2m3F5cyUsW2w&usqp=CAU",KBS World (F*)
+#EXTINF:-1 group-title="BERITA DAN HIBURAN INTERNATIONAL" tvg-id="BERITA DAN HIBURAN INTERNATIONAL" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJ0J2Ys00_LEe8F53BSVV5CH2m3F5cyUsW2w&usqp=CAU",KBS World (F*)
 https://raw.githubusercontent.com/mimipipi22/lalajo/main/kbsworld.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
-#EXTINF:-1 group-title="News" tvg-logo="https://i.postimg.cc/d18L9D3X/warung-tvbox.png",ABC Australia Asia
+#EXTINF:-1 group-title="BERITA DAN HIBURAN INTERNATIONAL" tvg-logo="https://i.postimg.cc/d18L9D3X/warung-tvbox.png",ABC Australia Asia
 https://nyanv-live-cdn.mncnow.id/live/eds/AustraliaPlus/sa_dash_vmx/AustraliaPlus.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
-#EXTINF:-1 group-title="News" tvg-logo="https://i.postimg.cc/d18L9D3X/warung-tvbox.png",TV5Monde Asie
+#EXTINF:-1 group-title="BERITA DAN HIBURAN INTERNATIONAL" tvg-logo="https://i.postimg.cc/d18L9D3X/warung-tvbox.png",TV5Monde Asie
 https://nyanv-live-cdn.mncnow.id/live/eds/TV5/sa_dash_vmx/TV5.mpd
-#EXTINF:-1 group-title="News" tvg-logo="https://i.postimg.cc/d18L9D3X/warung-tvbox.png",TV5Monde Asie
+#EXTINF:-1 group-title="BERITA DAN HIBURAN INTERNATIONAL" tvg-logo="https://i.postimg.cc/d18L9D3X/warung-tvbox.png",TV5Monde Asie
 https://raw.githubusercontent.com/mimipipi22/lalajo/main/tv5mondeasie.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
-#EXTINF:-1 group-title="News" tvg-logo="https://www.lyngsat.com/logo/tv/ss/star_xing_kong_hk.png",Xing Kong TV
+#EXTINF:-1 group-title="BERITA DAN HIBURAN INTERNATIONAL" tvg-logo="https://www.lyngsat.com/logo/tv/ss/star_xing_kong_hk.png",Xing Kong TV
 https://nyanv-live-cdn.mncnow.id/live/eds/XingKongTV/sa_dash_vmx/XingKongTV.mpd
-#EXTINF:-1 group-title="News" tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/main/logo%20fmx/Xing%20Kong%20Chinese%20SD-FirstMedia-Chl-206.jpg",Xing Kong TV (F*)
+#EXTINF:-1 group-title="BERITA DAN HIBURAN INTERNATIONAL" tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/main/logo%20fmx/Xing%20Kong%20Chinese%20SD-FirstMedia-Chl-206.jpg",Xing Kong TV (F*)
 https://raw.githubusercontent.com/mimipipi22/lalajo/main/xingkong.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
-#EXTINF:-1 group-title="News" tvg-logo="https://www.lyngsat.com/logo/tv/aa/anhui_tv_cn.png",Anhui TV
+#EXTINF:-1 group-title="BERITA DAN HIBURAN INTERNATIONAL" tvg-logo="https://www.lyngsat.com/logo/tv/aa/anhui_tv_cn.png",Anhui TV
 https://nyanv-live-cdn.mncnow.id/live/eds/AnhuiTV/sa_dash_vmx/AnhuiTV.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
-#EXTINF:-1 group-title="News" tvg-logo="https://www.lyngsat.com/logo/tv/hh/hunan_cn_tv.png",Hunan TV
+#EXTINF:-1 group-title="BERITA DAN HIBURAN INTERNATIONAL" tvg-logo="https://www.lyngsat.com/logo/tv/hh/hunan_cn_tv.png",Hunan TV
 https://nyanv-live-cdn.mncnow.id/live/eds/HunanTV/sa_dash_vmx/HunanTV.mpd
-#EXTINF:-1 group-title="News" tvg-logo="https://www.firstmedia.com/files/logos/channels/4-ENTERTAINMENT/Hunan%20TV%20SD-FirstMedia-Chl-214.jpg",Hunan TV (F*)
+#EXTINF:-1 group-title="BERITA DAN HIBURAN INTERNATIONAL" tvg-logo="https://www.firstmedia.com/files/logos/channels/4-ENTERTAINMENT/Hunan%20TV%20SD-FirstMedia-Chl-214.jpg",Hunan TV (F*)
 https://raw.githubusercontent.com/mimipipi22/lalajo/main/hunan.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
-#EXTINF:-1 group-title="News" tvg-logo="https://www.lyngsat.com/logo/tv/jj/jiangsu_tv.png",Jiangsu TV
+#EXTINF:-1 group-title="BERITA DAN HIBURAN INTERNATIONAL" tvg-logo="https://www.lyngsat.com/logo/tv/jj/jiangsu_tv.png",Jiangsu TV
 https://nyanv-live-cdn.mncnow.id/live/eds/JiangsuTV/sa_dash_vmx/JiangsuTV.mpd
-#EXTINF:-1 group-title="News" tvg-logo="https://www.firstmedia.com/files/logos/channels/4-ENTERTAINMENT/Jingsu%20TV%20SD-FirstMedia-Chl-216.jpg",Jiangsu TV (F*)
+#EXTINF:-1 group-title="BERITA DAN HIBURAN INTERNATIONAL" tvg-logo="https://www.firstmedia.com/files/logos/channels/4-ENTERTAINMENT/Jingsu%20TV%20SD-FirstMedia-Chl-216.jpg",Jiangsu TV (F*)
 https://raw.githubusercontent.com/mimipipi22/lalajo/main/jiangsu.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
-#EXTINF:-1 group-title="News" tvg-logo="https://www.lyngsat.com/logo/tv/dd/dragon-tv-cn.png",Dragon TV
+#EXTINF:-1 group-title="BERITA DAN HIBURAN INTERNATIONAL" tvg-logo="https://www.lyngsat.com/logo/tv/dd/dragon-tv-cn.png",Dragon TV
 https://nyanv-live-cdn.mncnow.id/live/eds/ShanghaiDragonTV/sa_dash_vmx/ShanghaiDragonTV.mpd
-#EXTINF:-1 group-title="News" tvg-logo="https://www.firstmedia.com/files/logos/channels/4-ENTERTAINMENT/Dragon%20TV%20SD-FirstMedia-Chl-215.jpg",Dragon TV (F*)
+#EXTINF:-1 group-title="BERITA DAN HIBURAN INTERNATIONAL" tvg-logo="https://www.firstmedia.com/files/logos/channels/4-ENTERTAINMENT/Dragon%20TV%20SD-FirstMedia-Chl-215.jpg",Dragon TV (F*)
 https://raw.githubusercontent.com/mimipipi22/lalajo/main/dragon.m3u8
-#EXTINF:-1 group-title="News" tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/main/logo%20fmx/Zhejiang%20TV%20SD-FirstMedia-Chl-208.jpg",Zhejiang TV (F*)
+#EXTINF:-1 group-title="BERITA DAN HIBURAN INTERNATIONAL" tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/main/logo%20fmx/Zhejiang%20TV%20SD-FirstMedia-Chl-208.jpg",Zhejiang TV (F*)
 https://raw.githubusercontent.com/mimipipi22/lalajo/main/zhejiang.m3u8
-#EXTINF:-1 group-title=" News"tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/main/logo%20fmx/TVBS%20Asia%20SD-FirstMedia-Chl-211.jpg",TVBS Asia (F*)
+#EXTINF:-1 group-title="BERITA DAN HIBURAN INTERNATIONAL"tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/main/logo%20fmx/TVBS%20Asia%20SD-FirstMedia-Chl-211.jpg",TVBS Asia (F*)
 https://raw.githubusercontent.com/mimipipi22/lalajo/main/tvbsasia.m3u8
-#EXTINF:-1 group-title="News" tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/main/logo%20fmx/TVBS%20News%20SD-FirstMedia-Chl-212.jpg",TVBS News (F*)
+#EXTINF:-1 group-title="BERITA DAN HIBURAN INTERNATIONAL" tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/main/logo%20fmx/TVBS%20News%20SD-FirstMedia-Chl-212.jpg",TVBS News (F*)
 https://raw.githubusercontent.com/mimipipi22/lalajo/main/tvbsnews.m3u8
-#EXTINF:-1 group-title="News" tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/main/logo%20fmx/TVB%20Xing%20He%20SD-FirstMedia-Chl-201.jpg",TVB Xing He (F*)
+#EXTINF:-1 group-title="BERITA DAN HIBURAN INTERNATIONAL" tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/main/logo%20fmx/TVB%20Xing%20He%20SD-FirstMedia-Chl-201.jpg",TVB Xing He (F*)
 https://raw.githubusercontent.com/mimipipi22/lalajo/main/tvbxinghe.m3u8
-#EXTINF:-1 group-title="News" tvg-logo="https://i.postimg.cc/d18L9D3X/warung-tvbox.png",ABC West
+#EXTINF:-1 group-title="BERITA DAN HIBURAN INTERNATIONAL" tvg-logo="https://i.postimg.cc/d18L9D3X/warung-tvbox.png",ABC West
 http://23.237.100.82:8000/ABC_WEST/manifest.m3u8
-#EXTINF:-1 group-title="News" tvg-logo="https://i.postimg.cc/d18L9D3X/warung-tvbox.png",BC América
+#EXTINF:-1 group-title="BERITA DAN HIBURAN INTERNATIONAL" tvg-logo="https://i.postimg.cc/d18L9D3X/warung-tvbox.png",BC América
 https://bcovlive-a.akamaihd.net/c9bf201b06694453bb29282f97191f58/us-east-1/6240731308001/playlist.m3u8
 https://bit.ly/3OxeRlC?/playlist.m3u8
-#EXTINF:-1 group-title="News" tvg-logo="https://i.postimg.cc/d18L9D3X/warung-tvbox.png",Rai 3ᴴᴰ
+#EXTINF:-1 group-title="BERITA DAN HIBURAN INTERNATIONAL" tvg-logo="https://i.postimg.cc/d18L9D3X/warung-tvbox.png",Rai 3ᴴᴰ
 https://bit.ly/3OyVjNs?/playlist.m3u8
-#EXTINF:-1 group-title="News" tvg-logo="https://i.postimg.cc/d18L9D3X/warung-tvbox.png",M6 Internacional
+#EXTINF:-1 group-title="BERITA DAN HIBURAN INTERNATIONAL" tvg-logo="https://i.postimg.cc/d18L9D3X/warung-tvbox.png",M6 Internacional
 https://bit.ly/3pQq2LG?/playlist.m3u8
-#EXTINF:-1 group-title="News" tvg-logo="https://i.postimg.cc/d18L9D3X/warung-tvbox.png",BBC América
+#EXTINF:-1 group-title="BERITA DAN HIBURAN INTERNATIONAL" tvg-logo="https://i.postimg.cc/d18L9D3X/warung-tvbox.png",BBC América
 https://bcovlive-a.akamaihd.net/c9bf201b06694453bb29282f97191f58/us-east-1/6240731308001/playlist.m3u8
-#EXTINF:-1 group-title="News" tvg-logo="https://i.postimg.cc/d18L9D3X/warung-tvbox.png",IFC East (720p)
+#EXTINF:-1 group-title="BERITA DAN HIBURAN INTERNATIONAL" tvg-logo="https://i.postimg.cc/d18L9D3X/warung-tvbox.png",IFC East (720p)
 https://bcovlive-a.akamaihd.net/045bd3b615254da880c3db79b2e42fd0/us-east-1/6240731308001/playlist.m3u8
-#EXTINF:-1 group-title="News" tvg-logo="https://i.postimg.cc/d18L9D3X/warung-tvbox.png",VMax (720p)
+#EXTINF:-1 group-title="BERITA DAN HIBURAN INTERNATIONAL" tvg-logo="https://i.postimg.cc/d18L9D3X/warung-tvbox.png",VMax (720p)
 https://bcovlive-a.akamaihd.net/474b6caf58f8407fb1d1cc1ef64f50ff/us-west-2/6058004209001/playlist_dvr.m3u8
-#EXTINF:-1 group-title="News" tvg-logo="https://i.postimg.cc/d18L9D3X/warung-tvbox.png",Télé-Québec (720p)
+#EXTINF:-1 group-title="BERITA DAN HIBURAN INTERNATIONAL" tvg-logo="https://i.postimg.cc/d18L9D3X/warung-tvbox.png",Télé-Québec (720p)
 https://bcovlive-a.akamaihd.net/575d86160eb143458d51f7ab187a4e68/us-east-1/6101674910001/playlist.m3u8
-#EXTINF:-1 group-title="News" tvg-logo="https://i.postimg.cc/d18L9D3X/warung-tvbox.png",I24 News Arabic (720p)
+#EXTINF:-1 group-title="BERITA DAN HIBURAN INTERNATIONAL" tvg-logo="https://i.postimg.cc/d18L9D3X/warung-tvbox.png",I24 News Arabic (720p)
 https://bcovlive-a.akamaihd.net/773a2fa387914315ad11e6957cd54f6e/eu-central-1/5377161796001/playlist-all_dvr.m3u8
-#EXTINF:-1 group-title="News" tvg-logo="https://i.postimg.cc/d18L9D3X/warung-tvbox.png",Sundance East (720p)
+#EXTINF:-1 group-title="BERITA DAN HIBURAN INTERNATIONAL" tvg-logo="https://i.postimg.cc/d18L9D3X/warung-tvbox.png",Sundance East (720p)
 https://bcovlive-a.akamaihd.net/4d972ec6f41241f2b4286f8bdcc8dae9/us-east-1/6240731308001/playlist.m3u8
-#EXTINF:-1 group-title="News" tvg-logo="https://i.postimg.cc/d18L9D3X/warung-tvbox.png",Reelz Channel
+#EXTINF:-1 group-title="BERITA DAN HIBURAN INTERNATIONAL" tvg-logo="https://i.postimg.cc/d18L9D3X/warung-tvbox.png",Reelz Channel
 https://bcovlive-a.akamaihd.net/c733a9aa448a4a44a10c527c6f5bf7a4/us-east-1/5245389775001/playlist.m3u8
-#EXTINF:-1 group-title="News" tvg-logo="https://i.postimg.cc/d18L9D3X/warung-tvbox.png",i-Cable News Channel
+#EXTINF:-1 group-title="BERITA DAN HIBURAN INTERNATIONAL" tvg-logo="https://i.postimg.cc/d18L9D3X/warung-tvbox.png",i-Cable News Channel
 https://uc6.i-cable.com/live_freedirect/freehd209_h.live/playlist.m3u8
-#EXTINF:-1 group-title="News" tvg-logo="https://i.postimg.cc/d18L9D3X/warung-tvbox.png", KBS World HD
+#EXTINF:-1 group-title="BERITA DAN HIBURAN INTERNATIONAL" tvg-logo="https://i.postimg.cc/d18L9D3X/warung-tvbox.png", KBS World HD
 https://wms4-kortv.akamaized.net/a_live/63719963/smil:20ch011.smil/playlist.m3u8
 https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/01.m3u8
-#EXTINF:-1 group-title="News" tvg-logo="https://i.postimg.cc/d18L9D3X/warung-tvbox.png",Dubai TV
+#EXTINF:-1 group-title="BERITA DAN HIBURAN INTERNATIONAL" tvg-logo="https://i.postimg.cc/d18L9D3X/warung-tvbox.png",Dubai TV
 https://dmisxthvll.cdn.mgmlcdn.com/dubaitvht/smil:dubaitv.stream.smil/playlist.m3u8
-#EXTINF:-1 group-title="News" tvg-logo="https://i.postimg.cc/d18L9D3X/warung-tvbox.png",ERT World
+#EXTINF:-1 group-title="BERITA DAN HIBURAN INTERNATIONAL" tvg-logo="https://i.postimg.cc/d18L9D3X/warung-tvbox.png",ERT World
 http://ert-live-bcbs15228.siliconweb.com/media/ert_world/ert_worldmedium.m3u8
-#EXTINF:-1 group-title="News" tvg-logo="https://i.postimg.cc/d18L9D3X/warung-tvbox.png",France 5
+#EXTINF:-1 group-title="BERITA DAN HIBURAN INTERNATIONAL" tvg-logo="https://i.postimg.cc/d18L9D3X/warung-tvbox.png",France 5
 http://69.64.57.208:8080/france5/playlist.m3u8 
 
 
-======================================================================
+========================================================GAMING------------------------------------------
 
 
 #EXTINF:-1 group-title="Gaming" tvg-logo="https://i.postimg.cc/P5YwxwPj/Screenshot-3.png",DensPlay
