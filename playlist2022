@@ -949,7 +949,8 @@ https://api-ott.estv.co/loggingmediaurlpassthrough/a.m3u8?version=12&id=12&partn
 
 
 ===============================================MALAYSIA========================
-
+#EXTINF:-1 tvg-url="tvg-logo="https://i.imgur.com/vbV0KKG.jpg" group-title="MALAYSIA",ASTRO AWANI
+https://d2idp3hzkhjpih.cloudfront.net/out/v1/4b85d9c2bf97413eb0c9fd875599b837/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/P5YwxwPj/Screenshot-3.png" group-title="MALAYSIA", TV1
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/playlist.m3u8?id=1
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/P5YwxwPj/Screenshot-3.png" group-title="MALAYSIA", TV2
@@ -976,23 +977,14 @@ https://raw.githubusercontent.com/digitaldotmy/YoutubeLive/main/BERNAMATV.m3u8
 https://unifi-live05.secureswiftcontent.com/UnifiHD/live11.mpd
 
 
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-12/9e4e07f643b9d102a246aba95fd763ef.png" group-title="MALAYSIA", NTV 7
-http://37.49.230.42:8080/Streamteam5723/257KBV6fXGrQMKLV/174695
 
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-07/709e30cbe3d7b9710f54e41156389475.jpg" group-title="MALAYSIA", RTM TV 1
-http://37.49.230.42:8080/Streamteam5723/257KBV6fXGrQMKLV/158357
 
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-08/4d495580f894286e82e1f9ee33d2874b.png" group-title="MALAYSIA", RTM TV 2
-http://37.49.230.42:8080/Streamteam5723/257KBV6fXGrQMKLV/158355
 
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-08/7c4b2443678d05d7f2032e5519eec970.png" group-title="MALAYSIA", TV 3
-http://37.49.230.42:8080/Streamteam5723/257KBV6fXGrQMKLV/158360
 
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-08/cc8d0ca33c66e7808f8704134494f9f2.png" group-title="MALAYSIA", TV 9
-http://37.49.230.42:8080/Streamteam5723/257KBV6fXGrQMKLV/171953
 
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/6565f78da7926feade32fc9651446d1e.png" group-title="MALAYSIA", TV Alhijrah
-http://37.49.230.42:8080/Streamteam5723/257KBV6fXGrQMKLV/157491
+
+
+
 
 
 
