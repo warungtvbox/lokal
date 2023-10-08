@@ -1275,75 +1275,23 @@ http://live.wmncdn.net/cinevoice/508a8ec9dfdb9c61df9823aac272b719.sdp/mono.m3u8
 http://live.agmediachandigarh.com/booglebollywood/774e3ea9f3fa9bcdac47f445b83b6653.sdp/index.m3u8
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/kGXK0m4k/Screenshot-142.png" group-title="MUSIC",JPUNJABI
 http://159.203.9.134/hls/jhanjar_music/jhanjar_music.m3u8
----------------------------------------------BEIN SPORT---------------------------------
-
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/rv06nqr.png" group-title="TR➾ beIN SPORTS", beIN SPORTS FEED YAYIN mac saati aktif
-http://kzice.ddnsfree.com:8080/zorbeyli/bZBdAh3FyA62/12
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/rv06nqr.png" group-title="TR➾ beIN SPORTS", beIN SPORTS 1 FULL HD
-http://kzice.ddnsfree.com:8080/zorbeyli/bZBdAh3FyA62/5395
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/rv06nqr.png" group-title="TR➾ beIN SPORTS", beIN SPORTS 1 HD
-http://kzice.ddnsfree.com:8080/zorbeyli/bZBdAh3FyA62/8
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/rv06nqr.png" group-title="TR➾ beIN SPORTS", beIN SPORTS 1 QHD
-http://kzice.ddnsfree.com:8080/zorbeyli/bZBdAh3FyA62/5396
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/rv06nqr.png" group-title="TR➾ beIN SPORTS", beIN SPORTS 1 SD
-http://kzice.ddnsfree.com:8080/zorbeyli/bZBdAh3FyA62/9
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/rv06nqr.png" group-title="TR➾ beIN SPORTS", beIN SPORTS 1 MOBIL
-http://kzice.ddnsfree.com:8080/zorbeyli/bZBdAh3FyA62/11
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/rv06nqr.png" group-title="TR➾ beIN SPORTS", beIN SPORTS 1 480p
-http://kzice.ddnsfree.com:8080/zorbeyli/bZBdAh3FyA62/26
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/psl5ml0.png" group-title="TR➾ beIN SPORTS", beIN SPORTS 1 4K YUKSEK KALITE
-http://kzice.ddnsfree.com:8080/zorbeyli/bZBdAh3FyA62/7
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/brdtr31.png" group-title="TR➾ beIN SPORTS", beIN SPORTS 2 FHD
-http://kzice.ddnsfree.com:8080/zorbeyli/bZBdAh3FyA62/14
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/brdtr31.png" group-title="TR➾ beIN SPORTS", beIN SPORTS 2 HD
-http://kzice.ddnsfree.com:8080/zorbeyli/bZBdAh3FyA62/15
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/brdtr31.png" group-title="TR➾ beIN SPORTS", beIN SPORTS 2 SD
-http://kzice.ddnsfree.com:8080/zorbeyli/bZBdAh3FyA62/16
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/fzoed44.png" group-title="TR➾ beIN SPORTS", beIN SPORTS 3 FHD
-http://kzice.ddnsfree.com:8080/zorbeyli/bZBdAh3FyA62/17
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/fzoed44.png" group-title="TR➾ beIN SPORTS", beIN SPORTS 3 HD
-http://kzice.ddnsfree.com:8080/zorbeyli/bZBdAh3FyA62/18
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/fzoed44.png" group-title="TR➾ beIN SPORTS", beIN SPORTS 3 SD MOBIL
-http://kzice.ddnsfree.com:8080/zorbeyli/bZBdAh3FyA62/9237
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/ex5tbef.png" group-title="TR➾ beIN SPORTS", beIN SPORTS 4 FHD
-http://kzice.ddnsfree.com:8080/zorbeyli/bZBdAh3FyA62/19
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/ex5tbef.png" group-title="TR➾ beIN SPORTS", beIN SPORTS 4 HD
-http://kzice.ddnsfree.com:8080/zorbeyli/bZBdAh3FyA62/9238
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/phr7zzd.jpeg" group-title="TR➾ beIN SPORTS", beIN SPORTS 5 FHD
-http://kzice.ddnsfree.com:8080/zorbeyli/bZBdAh3FyA62/69216
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/phr7zzd.jpeg" group-title="TR➾ beIN SPORTS", beIN SPORTS 5 HD
-http://kzice.ddnsfree.com:8080/zorbeyli/bZBdAh3FyA62/69215
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/o47q2nl.png" group-title="TR➾ beIN SPORTS", beIN SPORTS MAX 1 FHD
-http://kzice.ddnsfree.com:8080/zorbeyli/bZBdAh3FyA62/20
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/o47q2nl.png" group-title="TR➾ beIN SPORTS", beIN SPORTS MAX 1 HD
-http://kzice.ddnsfree.com:8080/zorbeyli/bZBdAh3FyA62/9233
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/o47q2nl.png" group-title="TR➾ beIN SPORTS", beIN SPORTS MAX 1 Yedek
-http://kzice.ddnsfree.com:8080/zorbeyli/bZBdAh3FyA62/9234
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/nfi0vm0.png" group-title="TR➾ beIN SPORTS", beIN SPORTS MAX 2 FHD
-http://kzice.ddnsfree.com:8080/zorbeyli/bZBdAh3FyA62/21
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/nfi0vm0.png" group-title="TR➾ beIN SPORTS", beIN SPORTS MAX 2 HD
-http://kzice.ddnsfree.com:8080/zorbeyli/bZBdAh3FyA62/9235
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/nfi0vm0.png" group-title="TR➾ beIN SPORTS", beIN SPORTS MAX 2 Yedek
-http://kzice.ddnsfree.com:8080/zorbeyli/bZBdAh3FyA62/9236
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/5y4g6r9.png" group-title="TR➾ beIN SPORTS", beIN SPORTS HABER FHD
-http://kzice.ddnsfree.com:8080/zorbeyli/bZBdAh3FyA62/22
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/5y4g6r9.png" group-title="TR➾ beIN SPORTS", beIN SPORTS HABER HD
-http://kzice.ddnsfree.com:8080/zorbeyli/bZBdAh3FyA62/22358
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/tr/d/d8/BeIN_CONNECT_T%C3%BCrkiye_kurumsal_logo.png" group-title="TR➾ beIN SPORTS", BEINCONNET CANLI MAC HD -1
-http://kzice.ddnsfree.com:8080/zorbeyli/bZBdAh3FyA62/30561
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/tr/d/d8/BeIN_CONNECT_T%C3%BCrkiye_kurumsal_logo.png" group-title="TR➾ beIN SPORTS", BEINCONNET CANLI MAC HD -2
-http://kzice.ddnsfree.com:8080/zorbeyli/bZBdAh3FyA62/30562
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/tr/d/d8/BeIN_CONNECT_T%C3%BCrkiye_kurumsal_logo.png" group-title="TR➾ beIN SPORTS", BEINCONNET CANLI MAC HD -3
-http://kzice.ddnsfree.com:8080/zorbeyli/bZBdAh3FyA62/30563
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/tr/d/d8/BeIN_CONNECT_T%C3%BCrkiye_kurumsal_logo.png" group-title="TR➾ beIN SPORTS", BEINCONNET CANLI MAC HD -4
-http://kzice.ddnsfree.com:8080/zorbeyli/bZBdAh3FyA62/30564
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/tr/d/d8/BeIN_CONNECT_T%C3%BCrkiye_kurumsal_logo.png" group-title="TR➾ beIN SPORTS", BEINCONNET CANLI MAC HD -5
-http://kzice.ddnsfree.com:8080/zorbeyli/bZBdAh3FyA62/30565
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/tr/d/d8/BeIN_CONNECT_T%C3%BCrkiye_kurumsal_logo.png" group-title="TR➾ beIN SPORTS", BEINCONNET CANLI MAC HD -6
-http://kzice.ddnsfree.com:8080/zorbeyli/bZBdAh3FyA62/30566
 
 -------------------------------------SPORT----------------------------------------
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vbV0KKG.jpg" group-title="Sports", SPOTV1
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch329)/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vbV0KKG.jpg" group-title="Sports", SPOTV2
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch3300)/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vbV0KKG.jpg" group-title="Sports",  beIN SPORTS MAX 1 HD
+http://kzice.ddnsfree.com:8080/zorbeyli/bZBdAh3FyA62/9233
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vbV0KKG.jpg" group-title="Sports", beIN SPORTS MAX 2 HD
+http://kzice.ddnsfree.com:8080/zorbeyli/bZBdAh3FyA62/9235
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vbV0KKG.jpg" group-title="Sports", beIN SPORTS 1 FULL HD
+http://kzice.ddnsfree.com:8080/zorbeyli/bZBdAh3FyA62/5395
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vbV0KKG.jpg" group-title="Sports", beIN SPORTS 2 HD
+http://kzice.ddnsfree.com:8080/zorbeyli/bZBdAh3FyA62/15
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vbV0KKG.jpg" group-title="Sports",  beIN SPORTS 3 HD
+http://kzice.ddnsfree.com:8080/zorbeyli/bZBdAh3FyA62/18
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 tvg-id="ext" tvg-logo="https://i.ibb.co/XjjmZ8S/Bt3.png" group-title="Sports",Billiard TV
