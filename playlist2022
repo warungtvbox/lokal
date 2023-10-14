@@ -1,8 +1,10 @@
 #EXTM3U
+
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
-#EXTINF:-1 group-title="Lokal" tvg-logo="https://dl.dropbox.com/s/q5mv0t380x30uli/PngItem_528991-picsay.png",RCTI
-https://nyanv-live-cdn.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
+#EXTINF:-1 group-title="Lokal" tvg-logo="https://dl.dropbox.com/s/q5mv0t380x30uli/PngItem_528991-picsay.png",GTV
+#EXTVLCOPT:http-referrer=https://m.rctiplus.com/
+https://nyanv-live-cdn.mncnow.id/live/eds/GTV-HD/sa_dash_vmx/GTV-HD.mpd
 #EXTINF:-1 group-title="Lokal" tvg-logo="https://i.imgur.com/vbV0KKG.jpg",ANTARA
 https://cdn09jtedge.indihometv.com/dvr/139/antara/manifest.mpd
 #EXTINF:-1 group-title="Lokal" tvg-logo="https://i.imgur.com/vbV0KKG.jpg,INSERT
