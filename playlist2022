@@ -1299,6 +1299,16 @@ https://h1.intechmedia.net/intech/ch16.m3u8
 
 -------------------------------MUSIC----------------------
 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
+#EXTINF:-1 group-title="MUSIC"" tvg-logo="https://dl.dropbox.com/s/q5mv0t380x30uli/PngItem_528991-picsay.png",MTV 90s
+#EXTVLCOPT:http-referrer=https://m.rctiplus.com/
+http://nyanv-live-cdn.mncnow.id/live/eds/MNCShopSmart/sa_dash_vmx/MNCShopSmart.mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
+#EXTINF:-1 group-title="MUSIC"" tvg-logo="https://dl.dropbox.com/s/q5mv0t380x30uli/PngItem_528991-picsay.png",MTV Live
+#EXTVLCOPT:http-referrer=https://m.rctiplus.com/
+https://nyanv-live-cdn.mncnow.id/live/eds/BeSmart/sa_dash_vmx/BeSmart.mpd
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/P5YwxwPj/Screenshot-3.png" group-title="MUSIC",WANASAH
 https://shls-wanasah-prod-dub.shahid.net/out/v1/c84ef3128e564b74a6a796e8b6287de6/index_1.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
