@@ -25,6 +25,7 @@ https://cdn09jtedge.indihometv.com/dvr/139/antara/manifest.mpd
 http://gamsgo.cyou:8080/Vladisergeevic/7eef2c4388/264766
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/db1dfff49cbaffb6a323ce329f64a2f8.png" group-title="Lokal",Mentari TV*
 #http://tvnid.x10.mx/vidio/master-3.m3u8
+http://103.166.27.2:8112/play/a018/index.m3u8
 #EXTINF:-1 group-title="Lokal" tvg-logo="https://i.imgur.com/vbV0KKG.jpg", MENTARI TV
 #http://tvkuonline.my.id:25461/riyad/riyad/23
 http://103.166.27.2:8112/play/a018/index.m3u8
