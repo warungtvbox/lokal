@@ -296,16 +296,6 @@ https://h1.intechmedia.net/intech/ch51.m3u8
 https://e1.siar.us/badartv/live/chunks.m3u8
 
 --------------------------------------kids------------------
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
-#EXTINF:-1   tvg-logo="https://i.imgur.com/vbV0KKG.jpg" group-title="ANAK ANAK",Besmart
-#EXTVLCOPT:http-referrer=https://m.rctiplus.com/
-https://nyanv-live-cdn.mncnow.id/live/eds/BeSmart/sa_dash_vmx/BeSmart.mpd
-#EXTINF:-1   tvg-logo="https://i.imgur.com/vbV0KKG.jpg" group-title="ANAK ANAK",Cartoon Network
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch103)/index.m3u8
-#EXTINF:-1   tvg-logo="https://i.imgur.com/vbV0KKG.jpg" group-title="ANAK ANAK",DreamWorks
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch374)/index.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
 #EXTINF:-1   tvg-logo="https://i.imgur.com/vbV0KKG.jpg" group-title="ANAK ANAK",CBeebies
