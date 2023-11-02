@@ -419,36 +419,6 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60f74ba51c82ac000776c6
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/637e55347427a40007fac703/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
 -------------------------- MOVIES --------------------------
-#KODIPROP:inputstreamaddon=inputstream.adaptive #EXTHTTP:{"dt-custom-data": "eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="} 
-#KODIPROP:inputstream.adaptive.manifest_type=dash #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
-#KODIPROP:inputstream.adaptive.license_key=https://yang-nyuri-bintitan.openwindows037.workers.dev/ 
-#EXTVLCOPT:http-referrer=https://visionplus.id 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Vgj6V5D/hbo.png" tvg-id="HBO.id" tvg-name="HBO" group-title="Movies",HBO 
-http://208.115.225.174:14136
-#EXTINF:-1 tvg-id="https://i.imgur.com/vbV0KKG.jpg" group-title="Movies",HBO PLUS
-http://208.115.225.174:14152
-#KODIPROP:inputstreamaddon=inputstream.adaptive 
-#EXTHTTP:{"dt-custom-data": "eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="} 
-#KODIPROP:inputstream.adaptive.manifest_type=dash 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha #KODIPROP:inputstream.adaptive.license_key=https://yang-nyuri-bintitan.openwindows037.workers.dev/ 
-#EXTVLCOPT:http-referrer=https://visionplus.id 
-#EXTINF:0 group-title="Movies" tvg-logo="https://i.ibb.co/gM4dPCL/hbo2.jpg",HBO 2 
-http://208.115.225.174:14140 
-#KODIPROP:inputstreamaddon=inputstream.adaptive 
-#EXTHTTP:{"dt-custom-data": "eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="} 
-#KODIPROP:inputstream.adaptive.manifest_type=dash 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
-#KODIPROP:inputstream.adaptive.license_key=https://yang-nyuri-bintitan.openwindows037.workers.dev/ 
-#EXTVLCOPT:http-referrer=https://visionplus.id 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/ZzvqV00/hbofamily.png" tvg-id="HBOFamily.id" tvg-name="HBO Family" group-title="Movies",HBO Family 
-http://208.115.225.174:14144
-#EXTVLCOPT:http-referrer=https://visionplus.id 
-#EXTINF:0 group-title="Movies" tvg-logo="https://i.ibb.co/258SCqs/hboplus.jpg",Hbo Plus 
-http://208.115.225.174:14152 #EXTVLCOPT:http-referrer=https://visionplus.id #
-EXTINF:0 group-title="Movies" tvg-logo="https://i.ibb.co/Z2kKC3L/Hbo-Extrem.jpg",Hbo Extrem 
-http://208.115.225.174:14165
-#EXTVLCOPT:http-referrer=https://visionplus.id #EXTINF:0 group-title="Movies" tvg-logo="https://i.ibb.co/D1wm7Hr/wbtv.jpg",Warner
-Tv http://208.115.225.174:14132
 
 #EXTINF:-1 group-title="Movies" tvg-logo="https://i.imgur.com/vbV0KKG.jpg", Etv Bioskop
 http://premiumiptvmk.com:8080/EyQcvdQmdH/8dee970d45/298526
@@ -456,11 +426,10 @@ http://premiumiptvmk.com:8080/EyQcvdQmdH/8dee970d45/298526
 http://premiumiptvmk.com:8080/EyQcvdQmdH/8dee970d45/298528
 #EXTINF:-1 group-title="Movies" tvg-logo="https://i.imgur.com/vbV0KKG.jpg",HBO
 #https://nonton.site:8443/ekos/7483/26595
-http://208.115.225.174:14136
 #EXTINF:-1 tvg-id="https://i.imgur.com/vbV0KKG.jpg" group-title="Movies",HBO PLUS
 http://208.115.225.174:14152
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/43c918deb93b6cb276bc97bc3316d66a.png" group-title="Movies", ID: HBO Family
-https://nonton.site:8443/ekos/7483/26598
+#https://nonton.site:8443/ekos/7483/26598
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/00e312e6e408859a759d2cb679bf2f28.png" group-title="Movies", ID: HBO Hits
 #http://tvkuonline.my.id:25461/riyad/riyad/413
 #https://nonton.site:8443/ekos/7483/26596
@@ -469,7 +438,7 @@ https://nonton.site:8443/ekos/7483/26598
 #https://nonton.site:8443/ekos/7483/26597
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/42d29b03357fec1753cf970323f02e04.png" group-title="Movies", ID: Cinemax
 #http://tvkuonline.my.id:25461/riyad/riyad/424
-https://nonton.site:8443/ekos/7483/2156
+#https://nonton.site:8443/ekos/7483/2156
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
 #EXTINF:-1 group-title="Movies" tvg-logo="https://i.imgur.com/vbV0KKG.jpg",AXN
@@ -486,6 +455,8 @@ https://nyanv-live-cdn.mncnow.id/live/eds/CelestialMovie/sa_dash_vmx/CelestialMo
 #EXTVLCOPT:http-referrer=https://m.rctiplus.com/
 https://nyanv-live-cdn.mncnow.id/live/eds/CelestialClassic/sa_dash_vmx/CelestialClassic.mpd
 
+#EXTINF:0 group-title="Movies" tvg-logo="https://i.ibb.co/D1wm7Hr/wbtv.jpg",Warner 
+http://208.115.225.174:14132
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
