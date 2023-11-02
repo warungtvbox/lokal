@@ -30,7 +30,7 @@ http://103.166.27.2:8112/play/a018/index.m3u8
 #http://tvkuonline.my.id:25461/riyad/riyad/23
 http://103.166.27.2:8112/play/a018/index.m3u8
 #EXTINF:-1 group-title="Lokal" tvg-logo="https://i.imgur.com/vbV0KKG.jpg", Citra Drama
-#http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch378)/index.m3u8
+http://gamsgo.cyou:8080/Vladisergeevic/7eef2c4388/264748
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/vbV0KKG.jpg" group-title="Lokal",Citra Entertainment
 #https://raw.githubusercontent.com/mimipipi22/lalajo/main/citraentertainment.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -417,6 +417,8 @@ https://nonton.site:8443/ekos/7483/26596
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/b918a4f6087d1550bed78481f3fd878e.png" group-title="Movies", ID: HBO Signature
 #http://tvkuonline.my.id:25461/riyad/riyad/414
 https://nonton.site:8443/ekos/7483/26597
+#EXTINF:-1 tvg-id="https://i.imgur.com/vbV0KKG.jpg" group-title="Movies",HBO PLUS
+http://208.115.225.174:14152
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/42d29b03357fec1753cf970323f02e04.png" group-title="Movies", ID: Cinemax
 #http://tvkuonline.my.id:25461/riyad/riyad/424
 https://nonton.site:8443/ekos/7483/2156
