@@ -296,6 +296,37 @@ https://h1.intechmedia.net/intech/ch51.m3u8
 https://e1.siar.us/badartv/live/chunks.m3u8
 
 --------------------------------------kids------------------
+#EXTINF:-1   tvg-logo="https://i.imgur.com/vbV0KKG.jpg" group-title="ANAK ANAK",MENTARI
+https://iptvme.xyz/vid/hls.m3u8?id=8237
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz 
+#EXTVLCOPT:http-referrer=https://visionplus.id #EXTINF:-1 tvg-logo="https://i.ibb.co/9TX0hD7/duniaanak-1.jpg" group-title="ANAK ANAK", Dunia Anak 
+http://gamsgo.cyou:8080/Vladisergeevic/7eef2c4388/264753
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz 
+#EXTVLCOPT:http-referrer=https://visionplus.id 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/qChpbMB/babytv.jpg" group-title="ANAK ANAK",Baby Tv 
+##https://nyanv-live-cdn.mncnow.id/live/eds/BabyTV-NewHD/sa_dash_vmx/BabyTV-NewHD.mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz 
+#EXTVLCOPT:http-referrer=https://visionplus.id #EXTINF:-1 tvg-logo="https://i.ibb.co/Fg7nLBy/animax.jpg" group-title="ANAK ANAK",Animax 
+http://nyanv-live-cdn.mncnow.id/live/eds/Animax/sa_dash_vmx/Animax.mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh 
+#EXTVLCOPT:http-referrer=https://visionplus.id
+#EXTINF:-1 tvg-logo="https://i.ibb.co/y5KSqtD/indikids.jpg" group-title="ANAK ANAK",Indi Kids 
+https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(c99739b1-0748-4a2a-b586-2501837adf20)/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh 
+#EXTVLCOPT:http-referrer=https://visionplus.id 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/QKg92DB/nickolodion.jpg" group-title="ANAK ANAK",Nickelodion 
+https://nyanv-live-cdn.mncnow.id/live/eds/Nickelodeon/sa_dash_vmx/Nickelodeon.mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh 
+#EXTVLCOPT:http-referrer=https://visionplus.id 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/8KtYc3F/zoomoo.jpg" group-title="ANAK ANAK",Zoo Moo 
+https://nyanv-live-cdn.mncnow.id/live/eds/Boomerang/sa_dash_vmx/Boomerang.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
 #EXTINF:-1   tvg-logo="https://i.imgur.com/vbV0KKG.jpg" group-title="ANAK ANAK",CBeebies
@@ -307,10 +338,9 @@ https://nyanv-live-cdn.mncnow.id/live/eds/Cbeebies/sa_dash_vmx/Cbeebies.mpd
 #EXTVLCOPT:http-referrer=https://m.rctiplus.com/
 https://nyanv-live-cdn.mncnow.id/live/eds/KidsChannel/sa_dash_vmx/KidsChannel.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
-#EXTINF:-1   tvg-logo="https://i.imgur.com/vbV0KKG.jpg" group-title="ANAK ANAK",Miao Mi
-#EXTVLCOPT:http-referrer=https://m.rctiplus.com/
-https://nyanv-live-cdn.mncnow.id/live/eds/MiaoMi/sa_dash_vmx/MiaoMi.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/54dzWJm/biznet.jpg" group-title="ANAK ANAK", Biznet Kids 
+http://livestream.biznetvideo.net/biznet_kids/smil:kids.smil/chunklist_w417362857_b2256000_slen_tkYml6a2V5bGl2ZXN0YXJ0dGltZT0wJmJpemtleWxpdmVlbmR0aW1lPTAmYml6a2V5bGl2ZUN1c3RvbVBhcmFtZXRlcj1teVBhcmFtZXRlciZiaXprZXlsaXZlaGFzaD1xQXJpMU0yeHVfTUFsbkh3VlJ0T3MyNGxSOFlfSFNEaWpOMkNSTmdoaWZVbGxoWXFRU0Rsa2QwcUU4Q2tad3hD.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
 #EXTINF:-1   tvg-logo="https://i.imgur.com/vbV0KKG.jpg" group-title="ANAK ANAK",Nick Jr
@@ -337,11 +367,9 @@ https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00640-lydnetwork-tayo-xiaomi/playli
 #EXTVLCOPT:http-referrer=https://m.rctiplus.com/
 https://nyanv-live-cdn.mncnow.id/live/eds/Boomerang/sa_dash_vmx/Boomerang.mpd
 #EXTINF:0 tvg-logo="https://i.postimg.cc/d18L9D3X/warung-tvbox.png" group-title="ANAK ANAK", Zoo Moo
-https://amg01553-blueantmediaasi-zoomoonz-samsungnz-rdufn.amagi.tv/playlist/amg01553-blueantmediaasi-zoomoonz-samsungnz/playlist.m3u8
+#https://amg01553-blueantmediaasi-zoomoonz-samsungnz-rdufn.amagi.tv/playlist/amg01553-blueantmediaasi-zoomoonz-samsungnz/playlist.m3u8
 #EXTINF:-1   tvg-logo="https://i.imgur.com/vbV0KKG.jpg" group-title="ANAK ANAK", Horee!
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch375)/index.m3u8
-#EXTINF:-1 group-title="ANAK ANAK" tvg-logo="https://i.imgur.com/vbV0KKG.jpg",Cartoonito
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch372)/index.m3u8
+#http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch375)/index.m3u8
 
 ------------------------------------------------------------------------------------------------------------------------------
 
