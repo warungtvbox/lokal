@@ -700,14 +700,10 @@ https://stream-node2.rri.co.id/streaming/14/9214/rribandaacehpro1.mp3
 http://n02.radiojar.com/u7d8heq3bnzuv
 #EXTINF:0 tvg-logo="https://cdn.onlineradiobox.com/img/l/8/19108.v6.png" group-title="Radio",V RADIO
 http://202.147.199.100:8000/;stream.nsv
-#EXTINF:0 tvg-logo="https://i.imgur.com/VDOHWd0.png" group-title="Radio",Hitz FM
-https://s2.radio.co/s6929cb202/listen
 #EXTINF:0 tvg-logo="http://choos.wap.sh/images/radio/7054.jpg" group-title="Radio",Brava FM
 http://n07.radiojar.com/5k7t0rq3bnzuv.mp3?1613997585=&rj-tok=AAABd8nJ38EAguSD-Yi56JrhPA&rj-ttl=5
 #EXTINF:0 tvg-logo="http://choos.wap.sh/images/radio/7053.jpg" group-title="Radio",Hard Rock FM
 http://n09.radiojar.com/7csmg90fuqruv.mp3?1619243440=&rj-tok=AAABeQJ3Ru4AgeQosVWIZQa5rg&rj-ttl=5
-#EXTINF:0 tvg-logo="https://i.imgur.com/vOliZ6Z.png" group-title="Radio",Hard Rock FM Bandung
-http://stream.radiojar.com/fnex9bkswk8uv
 #EXTINF:0 tvg-logo="https://i.imgur.com/MmFTrZK.png" group-title="Radio",Hard Rock FM Surabaya
 http://stream.radiojar.com/yg8ne2v80k8uv
 #EXTINF:0 tvg-logo="https://i.imgur.com/BwULFUI.png" group-title="Radio",Hard Rock FM Bali
@@ -722,8 +718,6 @@ http://202.147.199.101:8000/;
 https://streamingv2.shoutcast.com/motion-jakarta
 #EXTINF:0 tvg-logo="http://choos.wap.sh/images/radio/7130.jpg" group-title="Radio",Female FM
 http://onlineradiobox.com/json/id/female/play
-#EXTINF:0 tvg-logo="http://choos.wap.sh/images/radio/7092.jpg" group-title="Radio",Delta FM
-https://stream.cloudmu.id/listen/delta/stream?icy=http
 #EXTINF:0 tvg-logo="http://choos.wap.sh/images/radio/7091.jpg" group-title="Radio",Bahana FM
 http://stream.bahanafm.co.id:8100/;
 #EXTINF:0 tvg-logo="https://i.imgur.com/Xs4j9YI.png" group-title="Radio",EBS FM
