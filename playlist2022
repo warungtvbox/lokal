@@ -304,8 +304,7 @@ https://e1.siar.us/badartv/live/chunks.m3u8
 
 --------------------------------------kids------------------
 #EXTINF:-1   tvg-logo="https://i.imgur.com/vbV0KKG.jpg" group-title="ANAK ANAK",MENTARI
-https://iptvme.xyz/vid/hls.m3u8?id=8237
-
+http://103.166.27.2:8112/play/a018/index.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz 
 #EXTVLCOPT:http-referrer=https://visionplus.id #EXTINF:-1 tvg-logo="https://i.ibb.co/9TX0hD7/duniaanak-1.jpg" group-title="ANAK ANAK", Dunia Anak 
@@ -642,26 +641,11 @@ https://nyanv-live-cdn.mncnow.id/live/eds/IndonesiaMovieChannels-HD/sa_dash_vmx/
 
 ---------------------------------------RADIO-----------------------------
 
-#EXTINF:-1 tvg-name="ZECK MUSIK musika" tvg-id="ZECK MUSIK musika" group-title="Radio" tvg-logo="https://i.ibb.co/BsY4Kxk/musica.jpg",Musica Fm 
-https://iptvme.xyz/vid/hls.m3u8?id=7619 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/WgN1VPs/prambors.jpg" group-title="Radio", Prambors Fm 
-https://iptvme.xyz/vid/hls.m3u8?id=7004 
+
 #EXTINF:0 tvg-logo="https://cdn-radiotime-logos.tunein.com/s289802d.png" group-title="Radio",Sonora Jakarta
 http://onlineradiobox.com/json/id/sonorajakarta/play
-#EXTINF:-1 tvg-logo="https://i.ibb.co/0Y046Y2/ardan.jpg" group-title="Radio", Ardan Fm
-https://iptvme.xyz/vid/hls.m3u8?id=7184 
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQR3oEMn4ckggDEZ7FEYhurTBEG1E8bXNYIdg&usqp=CAU" group-title="Radio",Smart FM Jakarta
 https://cast2.my-control-panel.com/proxy/radioso3/stream
-#EXTINF:-1 tvg-logo="https://i.ibb.co/hHsqWLG/iradio.jpg" group-title="Radio", Iradio Fm 
-https://iptvme.xyz/vid/hls.m3u8?id=7057 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/BfnJySM/delta.jpg" group-title="Radio", Delta Fm 
-https://iptvme.xyz/vid/hls.m3u8?id=7092 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/jwHfLzC/nagaswara.jpg" group-title="Radio", ,Nagaswara 
-https://iptvme.xyz/vid/hls.m3u8?id=8638 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/yRhbp3B/hotfm.jpg" group-title="Radio", Hot Fm 
-https://iptvme.xyz/vid/hls.m3u8?id=7448 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/m6JVmyK/imeldafm.jpg" group-title="Radio", Imelda Fm 
-https://iptvme.xyz/vid/hls.m3u8?id=7281
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQR3oEMn4ckggDEZ7FEYhurTBEG1E8bXNYIdg&usqp=CAU" group-title="Radio",Smart FM Surabaya
 https://cast3.asurahosting.com/proxy/radios23/stream
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQR3oEMn4ckggDEZ7FEYhurTBEG1E8bXNYIdg&usqp=CAU" group-title="Radio",Smart FM Medan
