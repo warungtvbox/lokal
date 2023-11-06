@@ -425,32 +425,28 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60f74ba51c82ac000776c6
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/637e55347427a40007fac703/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
 -------------------------- MOVIES --------------------------
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh
-#EXTINF:-1 group-title="Movies" tvg-logo="https://www.mncvision.id/userfiles/image/channel/hbo.png",HBO
-https://av-live-cdn.mncnow.id/live/eds/hbo-2/sa_dash_vmx/hbo-2.mpd
 #EXTINF:-1 group-title="Movies" tvg-logo="https://i.imgur.com/vbV0KKG.jpg", Etv Bioskop
-http://gamsgo.cyou:8080/cipo/TAd9YX7VLaxhjxXt/298526
+3http://gamsgo.cyou:8080/cipo/TAd9YX7VLaxhjxXt/298526
 #EXTINF:-1 group-title="Movies" tvg-logo="https://i.imgur.com/vbV0KKG.jpg", ETV BIOSKOP 2
-http://gamsgo.cyou:8080/cipo/TAd9YX7VLaxhjxXt/298527
+#http://gamsgo.cyou:8080/cipo/TAd9YX7VLaxhjxXt/298527
 #EXTINF:-1 group-title="Movies" tvg-logo="https://i.imgur.com/vbV0KKG.jpg", ETV BIOSKOP 3
-http://gamsgo.cyou:8080/cipo/TAd9YX7VLaxhjxXt/298528
+#http://gamsgo.cyou:8080/cipo/TAd9YX7VLaxhjxXt/298528
 #EXTINF:-1 group-title="Movies" tvg-logo="https://i.imgur.com/vbV0KKG.jpg", ETV BIOPSKOP 4
 
 #EXTINF:-1 group-title="Movies" tvg-logo="https://i.imgur.com/vbV0KKG.jpg",HBO
 #https://nonton.site:8443/ekos/7483/26595
-http://gamsgo.cyou:8080/cipo/TAd9YX7VLaxhjxXt/197972
+#http://gamsgo.cyou:8080/cipo/TAd9YX7VLaxhjxXt/197972
 #EXTINF:-1 tvg-id="https://i.imgur.com/vbV0KKG.jpg" group-title="Movies",HBO PLUS
 http://208.115.225.174:14152
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/43c918deb93b6cb276bc97bc3316d66a.png" group-title="Movies", ID: HBO Family
 #https://nonton.site:8443/ekos/7483/26598
-http://gamsgo.cyou:8080/cipo/TAd9YX7VLaxhjxXt/197055
+#http://gamsgo.cyou:8080/cipo/TAd9YX7VLaxhjxXt/197055
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/00e312e6e408859a759d2cb679bf2f28.png" group-title="Movies", ID: HBO Hits
-http://gamsgo.cyou:8080/cipo/TAd9YX7VLaxhjxXt/196480
+#http://gamsgo.cyou:8080/cipo/TAd9YX7VLaxhjxXt/196480
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/b918a4f6087d1550bed78481f3fd878e.png" group-title="Movies", ID: HBO Signature
-http://gamsgo.cyou:8080/cipo/TAd9YX7VLaxhjxXt/221948
+#http://gamsgo.cyou:8080/cipo/TAd9YX7VLaxhjxXt/221948
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/42d29b03357fec1753cf970323f02e04.png" group-title="Movies", ID: Cinemax
-http://gamsgo.cyou:8080/cipo/TAd9YX7VLaxhjxXt/298553
+#http://gamsgo.cyou:8080/cipo/TAd9YX7VLaxhjxXt/298553
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
 #EXTINF:-1 group-title="Movies" tvg-logo="https://i.imgur.com/vbV0KKG.jpg",AXN
