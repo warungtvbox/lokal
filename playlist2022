@@ -150,8 +150,7 @@ http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=683115&ex
 #https://raw.githubusercontent.com/mimipipi22/lalajo/main/sctv.m3u8
 #http://tvnid.x10.mx/vidio/master-1.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_sctv_small1.png?v=2.0.0.15" group-title="Lokal",SCTV
-#http://210.210.155.37/qwr9ew/s/s03/index.m3u8
-http://103.166.27.2:8112/play/a015/index.m3u8
+http://op-group1-swiftservehd-1.dens.tv/h/h217/02.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
 #EXTINF:-1 group-title="Lokal" tvg-logo="https://i.imgur.com/vbV0KKG.jpg", GTV
