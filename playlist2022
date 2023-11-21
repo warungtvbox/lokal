@@ -402,12 +402,14 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/637e55347427a40007fac7
 -------------------------- MOVIES --------------------------
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/512px-HBO_logo.svg.png" group-title="Movies", HBO
 #https://delivery.ksa.my.id/stream/hbo/playlist.m3u8?token=ym1wtrp&v=20200807
-http://208.115.225.174:14136
+#http://208.115.225.174:14136
+http://iptvtree.net:8080/87b43fb3/d8db7a3d96/197972
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/HBO_Family_Asia_logo.svg/512px-HBO_Family_Asia_logo.svg.png" group-title="Movies", HBO Family
 #https://delivery.ksa.my.id/stream/hbo_family/playlist.m3u8?token=ym1wtrp&v=20200807
 http://208.115.225.174:14144
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fc/HBOHits-ASIA.png" group-title="Movies", HBO Hits
 #https://delivery.ksa.my.id/stream/hbo_hits/playlist.m3u8?token=ym1wtrp&v=20200807
+http://iptvtree.net:8080/87b43fb3/d8db7a3d96/196480
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/HBO_Signature_Asia.png/512px-HBO_Signature_Asia.png" group-title="Movies", HBO Signature
 #https://delivery.ksa.my.id/stream/hbo_signature/playlist.m3u8?token=ym1wtrp&v=20200807
 http://iptvtree.net:8080/87b43fb3/d8db7a3d96/221948
