@@ -400,36 +400,7 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60f74ba51c82ac000776c6
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/637e55347427a40007fac703/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
 -------------------------- MOVIES --------------------------
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/512px-HBO_logo.svg.png" group-title="Movies", HBO
-#https://delivery.ksa.my.id/stream/hbo/playlist.m3u8?token=ym1wtrp&v=20200807
-#http://208.115.225.174:14136
-http://iptvtree.net:8080/87b43fb3/d8db7a3d96/197972
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/HBO_Family_Asia_logo.svg/512px-HBO_Family_Asia_logo.svg.png" group-title="Movies", HBO Family
-#https://delivery.ksa.my.id/stream/hbo_family/playlist.m3u8?token=ym1wtrp&v=20200807
-#http://208.115.225.174:14144
-http://iptvtree.net:8080/87b43fb3/d8db7a3d96/197055
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fc/HBOHits-ASIA.png" group-title="Movies", HBO Hits
-#https://delivery.ksa.my.id/stream/hbo_hits/playlist.m3u8?token=ym1wtrp&v=20200807
-http://iptvtree.net:8080/87b43fb3/d8db7a3d96/196480
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/HBO_Signature_Asia.png/512px-HBO_Signature_Asia.png" group-title="Movies", HBO Signature
-#https://delivery.ksa.my.id/stream/hbo_signature/playlist.m3u8?token=ym1wtrp&v=20200807
-http://iptvtree.net:8080/87b43fb3/d8db7a3d96/221948
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/611-cinemax.png" group-title="Movies", CINEMAX
-#https://delivery.ksa.my.id/stream/cinemax/playlist.m3u8?token=ym1wtrp&v=20200807
-http://iptvtree.net:8080/87b43fb3/d8db7a3d96/197964
 
-#EXTINF:-1 group-title="Movies" tvg-logo="https://i.imgur.com/vbV0KKG.jpg", Etv Bioskop
-#http://gamsgo.cyou:8080/cipo/TAd9YX7VLaxhjxXt/298526
-http://iptvtree.net:8080/87b43fb3/d8db7a3d96/298526
-#EXTINF:-1 group-title="Movies" tvg-logo="https://i.imgur.com/vbV0KKG.jpg", ETV BIOSKOP 2
-#http://gamsgo.cyou:8080/cipo/TAd9YX7VLaxhjxXt/298527
-http://iptvtree.net:8080/87b43fb3/d8db7a3d96/298527
-#EXTINF:-1 group-title="Movies" tvg-logo="https://i.imgur.com/vbV0KKG.jpg", ETV BIOSKOP 3
-#http://gamsgo.cyou:8080/cipo/TAd9YX7VLaxhjxXt/298528
-http://iptvtree.net:8080/87b43fb3/d8db7a3d96/298528
-#EXTINF:-1 group-title="Movies" tvg-logo="https://i.imgur.com/vbV0KKG.jpg", ETV BIOPSKOP 4
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-http://iptvtree.net:8080/87b43fb3/d8db7a3d96/298529
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
 #EXTINF:-1 tvg-id="" group-title="Movies" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_13.png",Galaxy
 https://mangga-live-cdn.mncnow.id/live/eds/Galaxy-HD/sa_dash_vmx/Galaxy-HD.mpd
@@ -650,7 +621,36 @@ https://nyanv-live-cdn.mncnow.id/live/eds/Paramount-HD/sa_dash_vmx/Paramount-HD.
 #EXTINF:-1 tvg-url="tvg-logo="https://i.imgur.com/vbV0KKG.jpg" group-title="Movies",Indonesia Movie Channels
 #EXTVLCOPT:http-referrer=https://m.rctiplus.com/
 https://nyanv-live-cdn.mncnow.id/live/eds/IndonesiaMovieChannels-HD/sa_dash_vmx/IndonesiaMovieChannels-HD.mpd
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/512px-HBO_logo.svg.png" group-title="Movies", HBO
+#https://delivery.ksa.my.id/stream/hbo/playlist.m3u8?token=ym1wtrp&v=20200807
+#http://208.115.225.174:14136
+http://iptvtree.net:8080/87b43fb3/d8db7a3d96/197972
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/HBO_Family_Asia_logo.svg/512px-HBO_Family_Asia_logo.svg.png" group-title="Movies", HBO Family
+#https://delivery.ksa.my.id/stream/hbo_family/playlist.m3u8?token=ym1wtrp&v=20200807
+#http://208.115.225.174:14144
+http://iptvtree.net:8080/87b43fb3/d8db7a3d96/197055
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fc/HBOHits-ASIA.png" group-title="Movies", HBO Hits
+#https://delivery.ksa.my.id/stream/hbo_hits/playlist.m3u8?token=ym1wtrp&v=20200807
+http://iptvtree.net:8080/87b43fb3/d8db7a3d96/196480
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/HBO_Signature_Asia.png/512px-HBO_Signature_Asia.png" group-title="Movies", HBO Signature
+#https://delivery.ksa.my.id/stream/hbo_signature/playlist.m3u8?token=ym1wtrp&v=20200807
+http://iptvtree.net:8080/87b43fb3/d8db7a3d96/221948
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/611-cinemax.png" group-title="Movies", CINEMAX
+#https://delivery.ksa.my.id/stream/cinemax/playlist.m3u8?token=ym1wtrp&v=20200807
+http://iptvtree.net:8080/87b43fb3/d8db7a3d96/197964
 
+#EXTINF:-1 group-title="Movies" tvg-logo="https://i.imgur.com/vbV0KKG.jpg", Etv Bioskop
+#http://gamsgo.cyou:8080/cipo/TAd9YX7VLaxhjxXt/298526
+http://iptvtree.net:8080/87b43fb3/d8db7a3d96/298526
+#EXTINF:-1 group-title="Movies" tvg-logo="https://i.imgur.com/vbV0KKG.jpg", ETV BIOSKOP 2
+#http://gamsgo.cyou:8080/cipo/TAd9YX7VLaxhjxXt/298527
+http://iptvtree.net:8080/87b43fb3/d8db7a3d96/298527
+#EXTINF:-1 group-title="Movies" tvg-logo="https://i.imgur.com/vbV0KKG.jpg", ETV BIOSKOP 3
+#http://gamsgo.cyou:8080/cipo/TAd9YX7VLaxhjxXt/298528
+http://iptvtree.net:8080/87b43fb3/d8db7a3d96/298528
+#EXTINF:-1 group-title="Movies" tvg-logo="https://i.imgur.com/vbV0KKG.jpg", ETV BIOPSKOP 4
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+http://iptvtree.net:8080/87b43fb3/d8db7a3d96/298529
 =============================VOD===========================
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPH8WAOpyxCg4OqOHq8Mb62Wwqg1uqdT0SQw&usqp=CAU" group-title="VOD 2023",AntMan & The Wasp Quantumania (2023) Cam
 https://1w61yw.bn.files.1drv.com/y4m8UXhfIG370pBt4WSO5h6IFOuvwmraw5Y0RwaCweWGDM2aPTzpQTSPqMLHDRUtHoU4KhyY2kMIHjAgtR0vIf9VSJsoL4qb1VW6wXfO4OseNzTwxS0kAcLGwfnDPx7PdY-NL_FdyhExR9XhTvP9LWxGkYIh1EdFc471BHVqCWBns-fEAofXBScelmm9QliwtKf50z1aHHnKJim_2iOayKLcw
