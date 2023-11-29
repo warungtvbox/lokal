@@ -400,8 +400,7 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60f74ba51c82ac000776c6
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/637e55347427a40007fac703/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
 -------------------------- MOVIES --------------------------
-#EXTINF:-1 tvg-id="hbohd.MACAN" tvg-logo="https://thumbs.gfycat.com/AthleticViciousGodwit-max-1mb.gif" group-title="Movies",HBO ID
-http://37.49.230.42:8080/live/iptvepic4/DzbGTtATy4DzmK8c/197972.ts
+
 
 #EXTINF:-1 tvg-logo="https://www.firstmedia.com/files/logos/channels/4-ENTERTAINMENT/KBS%20World%20SD-FirstMedia-Chl-244.jpg" group-title="Movies",KBS World
 https://raw.githubusercontent.com/mimipipi22/lalajo/main/kbsworld.m3u8
@@ -432,6 +431,14 @@ https://mangga-live-cdn.mncnow.id/live/eds/Galaxy-HD/sa_dash_vmx/Galaxy-HD.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
 #EXTINF:-1 tvg-id="" group-title="Movies" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_12.png",Galaxy Premium
 https://mangga-live-cdn.mncnow.id/live/eds/GalaxyPremium-HD/sa_dash_vmx/GalaxyPremium-HD.mpd
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/main/logo%20fmx/HBO%20SD-FirstMedia-Chl-285.jpg" group-title="Movies",HBO
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/hbo.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/main/logo%20fmx/HBO%20Family%20SD-FirstMedia-Chl-288.jpg" group-title="Movies",HBO Family
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/hbofamily.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/main/logo%20fmx/HBO%20Hits%20SD-FirstMedia-Chl-287.jpg" group-title="Movies",HBO Hits
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/hbohits.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/main/logo%20fmx/HBO%20Signature%20SD-FirstMedia-Chl-286.jpg" group-title="Movies",HBO Signature
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/hbosig.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
 #EXTINF:-1 tvg-id="" group-title="Movies" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_14.png",IMC
