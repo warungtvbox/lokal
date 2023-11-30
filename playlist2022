@@ -406,14 +406,6 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/637e55347427a40007fac7
 https://raw.githubusercontent.com/mimipipi22/lalajo/main/kbsworld.m3u8
 #EXTINF:-1 tvg-logo="https://www.firstmedia.com/files/logos/channels/4-ENTERTAINMENT/gem-sd.jpg" group-title="Movies",GEM
 https://raw.githubusercontent.com/mimipipi22/lalajo/main/gem.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/main/logo%20fmx/HBO%20SD-FirstMedia-Chl-285.jpg" group-title="Movies",HBO
-https://raw.githubusercontent.com/mimipipi22/lalajo/main/hbo.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/main/logo%20fmx/HBO%20Family%20SD-FirstMedia-Chl-288.jpg" group-title="Movies",HBO Family
-https://raw.githubusercontent.com/mimipipi22/lalajo/main/hbofamily.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/main/logo%20fmx/HBO%20Hits%20SD-FirstMedia-Chl-287.jpg" group-title="Movies",HBO Hits
-https://raw.githubusercontent.com/mimipipi22/lalajo/main/hbohits.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/main/logo%20fmx/HBO%20Signature%20SD-FirstMedia-Chl-286.jpg" group-title="Movies",HBO Signature
-https://raw.githubusercontent.com/mimipipi22/lalajo/main/hbosig.m3u8
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/42d29b03357fec1753cf970323f02e04.png" group-title="Movies",Cinemax
 https://raw.githubusercontent.com/mimipipi22/lalajo/main/cinemax.m3u8
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="Movies",Etv Bioskop
