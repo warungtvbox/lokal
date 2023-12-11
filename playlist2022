@@ -23,10 +23,10 @@ https://nyanv-live-cdn.mncnow.id/live/eds/LifeStyleFashion/sa_dash_vmx/LifeStyle
 
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/db1dfff49cbaffb6a323ce329f64a2f8.png" group-title="Lokal",Mentari TV*
 #http://tvnid.x10.mx/vidio/master-3.m3u8
-http://103.166.27.2:8112/play/a018/index.m3u8
+#http://103.166.27.2:8112/play/a018/index.m3u8
 #EXTINF:-1 group-title="Lokal" tvg-logo="https://i.imgur.com/vbV0KKG.jpg", MENTARI TV
 #http://tvkuonline.my.id:25461/riyad/riyad/23
-http://103.166.27.2:8112/play/a018/index.m3u8
+#http://103.166.27.2:8112/play/a018/index.m3u8
 #EXTINF:-1 group-title="Lokal" tvg-logo="https://i.imgur.com/vbV0KKG.jpg", Citra Drama
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch378%29/index.m3u8
 #EXTINF:-1 group-title="Lokal" tvg-logo="https://i.imgur.com/vbV0KKG.jpg",CITRA DANGDUT
@@ -55,7 +55,7 @@ https://raw.githubusercontent.com/mimipipi22/lalajo/main/garuda.m3u8
 #EXTVLCOPT:http-referrer=https://m.rctiplus.com/
 https://nyanv-live-cdn.mncnow.id/live/eds/PemersatuBangsa/sa_dash_vmx/PemersatuBangsa.mpd
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vbV0KKG.jpg" group-title="Lokal",TVRI SPORT
-https://list.iptvcat.com/my_list/s/d772fe82adec55951a269db14c9be6d7.m3u8
+#https://list.iptvcat.com/my_list/s/d772fe82adec55951a269db14c9be6d7.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vbV0KKG.jpg" group-title="Lokal",TVRI WORLD
 http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI3)/stream3/streamPlaylist.m3u8
 https://edge.medcom.id/live-edge/smil:magna.smil/playlist.m3u8
@@ -64,7 +64,7 @@ https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(85534711-b312-4e
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vbV0KKG.jpg" group-title="Lokal", Magna Chanel
 https://edge.medcom.id/live-edge/smil:magna.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vbV0KKG.jpg" group-title="Lokal", Moji
-http://103.166.27.2:8112/play/a017/index.m3u8
+#http://103.166.27.2:8112/play/a017/index.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Tbd8LXw/inspira.jpg" group-title="Lokal",Inspira Tv 
