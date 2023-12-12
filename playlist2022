@@ -20,10 +20,7 @@ https://nyanv-live-cdn.mncnow.id/live/eds/Soccer-2/sa_dash_vmx/Soccer-2.mpd
 #EXTVLCOPT:http-referrer=https://m.rctiplus.com/
 https://nyanv-live-cdn.mncnow.id/live/eds/LifeStyleFashion/sa_dash_vmx/LifeStyleFashion.mpd
 
-
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/db1dfff49cbaffb6a323ce329f64a2f8.png" group-title="Lokal",Mentari TV*
-#http://tvnid.x10.mx/vidio/master-3.m3u8
-#http://103.166.27.2:8112/play/a018/index.m3u8
+http://ogietv.biz.id:80/play/BLEoZfmtlxiswiraAopgc3Rte7qwJQ2WFEz9sHdATWI/ts%20
 #EXTINF:-1 group-title="Lokal" tvg-logo="https://i.imgur.com/vbV0KKG.jpg", MENTARI TV
 #http://tvkuonline.my.id:25461/riyad/riyad/23
 #http://103.166.27.2:8112/play/a018/index.m3u8
