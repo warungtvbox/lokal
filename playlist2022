@@ -399,13 +399,16 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60f74ba51c82ac000776c6
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/637e55347427a40007fac703/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
 -------------------------- MOVIES --------------------------
-
+#EXTINF:-1 tvg-id="DuniaSinema.my" tvg-name="Dunia Sinema" tvg-logo="https://i.postimg.cc/mDCCS0Rh/20230520-093534.jpg" group-title="Movies",Dunia Sinema
+https://unifi-live05.secureswiftcontent.com/UnifiHD/live27-1080FHD.m3u8
 #EXTINF:-1 tvg-logo="https://www.firstmedia.com/files/logos/channels/4-ENTERTAINMENT/KBS%20World%20SD-FirstMedia-Chl-244.jpg" group-title="Movies",KBS World
 https://raw.githubusercontent.com/mimipipi22/lalajo/main/kbsworld.m3u8
 #EXTINF:-1 tvg-logo="https://www.firstmedia.com/files/logos/channels/4-ENTERTAINMENT/gem-sd.jpg" group-title="Movies",GEM
 https://raw.githubusercontent.com/mimipipi22/lalajo/main/gem.m3u8
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/42d29b03357fec1753cf970323f02e04.png" group-title="Movies",Cinemax
 https://raw.githubusercontent.com/mimipipi22/lalajo/main/cinemax.m3u8
+#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_blueantextreme_ver1.png" group-title="Movies",Rock Action (F*)
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/rockaction.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vbV0KKG.jpg" group-title="Movies",ROCK Entertainment
 #http://rr1.dens.tv/h/h16/index.m3u8
 http://210.210.155.35/session/04d2e2b6-3130-11eb-b6b9-b82a72d63267/dr9445/h/h16/01.m3u8
