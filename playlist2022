@@ -408,17 +408,17 @@ https://raw.githubusercontent.com/mimipipi22/lalajo/main/kbsworld.m3u8
 #EXTINF:-1 tvg-logo="https://www.firstmedia.com/files/logos/channels/4-ENTERTAINMENT/gem-sd.jpg" group-title="Movies",GEM
 https://raw.githubusercontent.com/mimipipi22/lalajo/main/gem.m3u8
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/42d29b03357fec1753cf970323f02e04.png" group-title="Movies",Cinemax
-https://raw.githubusercontent.com/mimipipi22/lalajo/main/cinemax.m3u8
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/42d29b03357fec1753cf970323f02e04.png" group-title="Movies",Cinemax
 http://cheaptv.online:8080/stadnik2/7082341272/197964
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/800px-HBO_logo.svg.png" group-title="Movies", HBO 
 http://cheaptv.online:8080/stadnik2/7082341272/197972
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/HBO_Family_Asia_logo.svg/1200px-HBO_Family_Asia_logo.svg.png" group-title="Movies", HBO FAMILY 
-http://premiumiptvmk.com:8080/shaboy85/B3hLKkFsT7QXRE4PVcUCrx/197055
+#http://premiumiptvmk.com:8080/shaboy85/B3hLKkFsT7QXRE4PVcUCrx/197055
+http://cheaptv.online:8080/stadnik2/7082341272/197055
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fc/HBOHits-ASIA.png" group-title="Movies", HBO HITS 1
 http://cheaptv.online:8080/stadnik2/7082341272/196480
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/HBO_Signature_Asia.png" group-title="Movies", HBO SIGNATURE
-http://premiumiptvmk.com:8080/shaboy85/B3hLKkFsT7QXRE4PVcUCrx/221948
+#http://premiumiptvmk.com:8080/shaboy85/B3hLKkFsT7QXRE4PVcUCrx/221948
+http://cheaptv.online:8080/stadnik2/7082341272/221948
 #EXTINF:-1 tvg-logo="https://earntv.io/wp-content/uploads/2023/10/ETV__logo.png" group-title="Movies", ETV BIOSKOP 1 1
 http://cheaptv.online:8080/stadnik2/7082341272/298526
 #EXTINF:-1 tvg-logo="https://earntv.io/wp-content/uploads/2023/10/ETV__logo.png" group-title="Movies", ETV BIOSKOP 2 1
@@ -427,12 +427,14 @@ http://cheaptv.online:8080/stadnik2/7082341272/298527
 http://cheaptv.online:8080/stadnik2/7082341272/298528
 #EXTINF:-1 tvg-logo="https://earntv.io/wp-content/uploads/2023/10/ETV__logo.png" group-title="Movies", ETV BIOSKOP 4 1
 http://cheaptv.online:8080/stadnik2/7082341272/298529
-
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/e08e2ff4a5f2f8c6b281d41b443aa6e2.jpg" group-title="Movies", Warner TV
+http://cheaptv.online:8080/stadnik2/7082341272/157594
 #EXTINF:-1 tvg-logo="https://images.useetv.com/logo_blueantextreme_ver1.png" group-title="Movies",Rock Action (F*)
-https://raw.githubusercontent.com/mimipipi22/lalajo/main/rockaction.m3u8
+#https://raw.githubusercontent.com/mimipipi22/lalajo/main/rockaction.m3u8
+http://cheaptv.online:8080/stadnik2/7082341272/298490
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vbV0KKG.jpg" group-title="Movies",ROCK Entertainment
-#http://rr1.dens.tv/h/h16/index.m3u8
-http://210.210.155.35/session/04d2e2b6-3130-11eb-b6b9-b82a72d63267/dr9445/h/h16/01.m3u8
+#http://210.210.155.35/session/04d2e2b6-3130-11eb-b6b9-b82a72d63267/dr9445/h/h16/01.m3u8
+http://cheaptv.online:8080/stadnik2/7082341272/298565
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
 #EXTINF:-1 tvg-id="" group-title="Movies" tvg-logo="https://www.mncvision.id/userfiles/image/channel/celestial.png",Celestial Movies Indonesia
