@@ -63,9 +63,9 @@ https://edge.medcom.id/live-edge/smil:magna.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vbV0KKG.jpg" group-title="Lokal", Moji
 #http://103.166.27.2:8112/play/a017/index.m3u8
 #http://op-group1-swiftservehd-1.dens.tv/h/h210/02.m3u8
-https://raw.githubusercontent.com/mimipipi22/lalajo/main/moji.m3u8
+#https://raw.githubusercontent.com/mimipipi22/lalajo/main/moji.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vbV0KKG.jpg" group-title="Lokal", Moji
-http://cheaptv.online:8080/stadnik2/7082341272/298550
+#http://cheaptv.online:8080/stadnik2/7082341272/298550
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Tbd8LXw/inspira.jpg" group-title="Lokal",Inspira Tv 
