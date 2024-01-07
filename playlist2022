@@ -440,7 +440,7 @@ https://raw.githubusercontent.com/mimipipi22/lalajo/main/kbsworld.m3u8
 https://raw.githubusercontent.com/mimipipi22/lalajo/main/gem.m3u8
 
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/e08e2ff4a5f2f8c6b281d41b443aa6e2.jpg" group-title="Movies", Warner TV
-http://cheaptv.online:8080/stadnik2/7082341272/157594
+#http://cheaptv.online:8080/stadnik2/7082341272/157594
 #EXTINF:-1 tvg-logo="https://images.useetv.com/logo_blueantextreme_ver1.png" group-title="Movies",Rock Action (F*)
 https://raw.githubusercontent.com/mimipipi22/lalajo/main/rockaction.m3u8
 http://cheaptv.online:8080/stadnik2/7082341272/298490
