@@ -1,5 +1,6 @@
 #EXTM3U
-
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/02/Oxygen_TV_%282017_Logo%29.png" group-title="Lokal",Oxygen TV
+https://cdn3-reg2.mm.oxygen.id/hls/oxygentv-web/index.m3u8
 #EXTINF:-1 group-title="Lokal" tvg-id="mncsports.id" tvg-logo="https://upload.wikimedia.org/wikipedia/id/9/9e/MNCSports_%282020%29.png",MNC Sports 1
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
@@ -40,8 +41,6 @@ https://nyanv-live-cdn.mncnow.id/live/eds/VisionPrime/sa_dash_vmx/VisionPrime.mp
 #EXTINF:-1 group-title="Lokal" tvg-logo="https://i.imgur.com/vbV0KKG.jpg",OK TV
 #EXTVLCOPT:http-referrer=https://m.rctiplus.com/
 https://nyanv-live-cdn.mncnow.id/live/eds/OKTV/sa_dash_vmx/OKTV.mpd
-#EXTINF:-1 group-title="Lokal" tvg-logo="https://i.imgur.com/vbV0KKG.jpg",JAWA POS
-https://jawapostv.siar.us/jawapostv/live/playlist.m3u8
 #EXTINF:-1 group-title="Lokal" tvg-logo="https://i.imgur.com/vbV0KKG.jpg",Garuda TV
 https://raw.githubusercontent.com/mimipipi22/lalajo/main/garuda.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -60,7 +59,7 @@ https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(85534711-b312-4e
 https://edge.medcom.id/live-edge/smil:magna.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/SyXzvhs/Moji-hometv.jpg" group-title="Lokal", MOJI (Htv)
 #EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
-https://s.id/1YseN
+http://103.113.116.150:25461/mtm1/12345/15
 #EXTINF:-1 tvg-logo="https://i.ibb.co/SyXzvhs/Moji-hometv.jpg" group-title="lokal",MOJI (Indi)
 https://cdn08jtedge.indihometv.com/dassdvr/134/ochannel/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
@@ -400,6 +399,20 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60f74ba51c82ac000776c6
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/637e55347427a40007fac703/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
 -------------------------- MOVIES --------------------------
+#EXTINF:-1 tvg-logo="https://i.ibb.co/c8dS6nh/Sooka-Drama-Hebat.png" group-title="Movies",Drama Hebat 
+https://linearfast04.playback.sooka.my/v1/dash/7d6144f66f990e10fc667942d522b82f89ae5cd9/FAST_1_Ad/dash.mpd
+#EXTINF:-1 tvg-logo="https://i.ibb.co/BZPWVtf/Sooka-Filem-Mantap.png" group-title="Movies",Filem Mantap 
+https://linearfast04.playback.sooka.my/v1/dash/7d6144f66f990e10fc667942d522b82f89ae5cd9/FAST_2_Ad/dash.mpd
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Rb4301D/Sooka-Lawak-Sentral.png" group-title="Movies",Lawak Sentral 
+https://linearfast04.playback.sooka.my/v1/dash/7d6144f66f990e10fc667942d522b82f89ae5cd9/FAST_3_Ad/dash.mpd
+#EXTINF:-1 tvg-logo="https://i.ibb.co/3N7HbYG/Sooka-Drama-Hotpot.png" group-title="Movies",Drama HotPot 
+https://linearfast04.playback.sooka.my/v1/dash/7d6144f66f990e10fc667942d522b82f89ae5cd9/FAST_4_Ad/dash.mpd
+#EXTINF:-1 tvg-id="" tvg-name="IMC HD" tvg-logo="https://images.indihometv.com/logo_imc_small.png" group-title="Movies",IMC HD
+http://103.113.116.150:25461/mtm1/12345/21
+#EXTINF:-1 tvg-id="" tvg-name="FLIK HD" tvg-logo="https://images.indihometv.com/logo_flik_ver1.png" group-title="Movies",FLIK HD
+http://103.113.116.150:25461/mtm1/12345/22
+#EXTINF:-1 tvg-id="" tvg-name="BIOSKOP INDONESIA HD" tvg-logo="https://upload.wikimedia.org/wikipedia/id/a/a7/Bioskop_Indonesia_TV.png" group-title="Movies",BIOSKOP INDONESIA HD
+http://103.113.116.150:25461/mtm1/12345/23
 #EXTINF:-1 tvg-id="" tvg-name="WARNER HD" tvg-logo="https://images.indihometv.com/logo_warner_small.png" group-title="Movies",WARNER HD
 http://103.113.116.150:25461/mtm1/12345/24
 #EXTINF:-1 tvg-id="" tvg-name="HBO HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/220px-HBO_logo.png" group-title="Movies",HBO HD
@@ -408,6 +421,8 @@ http://103.113.116.150:25461/mtm1/12345/16
 http://103.113.116.150:25461/mtm1/12345/18
 #EXTINF:-1 tvg-id="" tvg-name="HBO HITS HD" tvg-logo="https://vmp-cms.telkomsel.com/sites/default/files/entry/0_dx9zvcn8/landscape_carousel_xxhdpi.jpg" group-title="Movies",HBO HITS HD
 http://103.113.116.150:25461/mtm1/12345/17
+#EXTINF:-1 tvg-id="" tvg-name="HBO FAMILY HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/HBO_Family_%282014%29.svg/125px-HBO_Family_%282014%29.png" group-title="Movies",HBO FAMILY HD
+http://103.113.116.150:25461/mtm1/12345/19
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #EXTHTTP:{"dt-custom-data": "eyJ1c2VySWQiOiJ4eHh4eHh4eC14eHh4LXh4eHgteHh4eC14eHh4eHh4eHh4eHgiLCJzZXNzaW9uSWQiOiJlSGg0ZUhoNGVIZ3RlSGg0ZUMxNGVIaDRMWGg0ZUhndGVIaDRlSGg0ZUhoNGVIaDRMR052YlM1dFlYaHpkSEpsWVcwc1JFRlRTRWhDVHpGRVVrMHNNVGt5TVRVME1qTTFNaXhoYm1SeWIybGtMREJmYTJWdmFtcHNZVFkiLCJtZXJjaGFudCI6InRlbGtvbXNlbCJ9"}
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -428,7 +443,7 @@ http://103.113.116.150:25461/mtm1/12345/17
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://lic.drmtoday.com/license-proxy-widevine/cenc/?specConform=true
 #EXTINF:0 tvg-id="HBO Family HD" tvg-url="http://bit.ly/maytvEPG" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/HBO_Family_Asia_logo.svg/1200px-HBO_Family_Asia_logo.svg.png" group-title="Movies", HBO Family - MAX
-https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(cec31cdd-d2ff-4c23-8a76-ad1c0ef025e2)/manifest.mpd
+#https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(cec31cdd-d2ff-4c23-8a76-ad1c0ef025e2)/manifest.mpd
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #EXTHTTP:{"dt-custom-data": "eyJ1c2VySWQiOiJ4eHh4eHh4eC14eHh4LXh4eHgteHh4eC14eHh4eHh4eHh4eHgiLCJzZXNzaW9uSWQiOiJlSGg0ZUhoNGVIZ3RlSGg0ZUMxNGVIaDRMWGg0ZUhndGVIaDRlSGg0ZUhoNGVIaDRMR052YlM1dFlYaHpkSEpsWVcwc1JFRlRTRU5KVGtWTlFWaEVVazBzTVRreU1UVTBNak0xTWl4aGJtUnliMmxrTERCZmEyVnZhbXBzWVRZIiwibWVyY2hhbnQiOiJ0ZWxrb21zZWwifQ"}
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -912,13 +927,6 @@ https://www.googleapis.com/drive/v3/files/1dc4y6bhfhS939gCzWlmT7rdStSMn6DD4?alt=
 https://www.googleapis.com/drive/v3/files/1o_A2i21pdtcUy-5DDP0P3QnIfnqJNskx?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
 #EXTINF:-1 tvg-logo="https://savefilm21.skin/wp-content/uploads/2023/07/gHkkHjygqfgLbC8ST3VTdGh2pwd.jpg" group-title="VOD MOVIE 2023",The Unseen 2023
 https://www.googleapis.com/drive/v3/files/1lcZHGWyuQuepauNz5ynm5o-2IggptVZD?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-
-
-
-
-
-
-
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPH8WAOpyxCg4OqOHq8Mb62Wwqg1uqdT0SQw&usqp=CAU" group-title="VOD MOVIE 2023",AntMan & The Wasp Quantumania (2023) Cam
 https://1w61yw.bn.files.1drv.com/y4m8UXhfIG370pBt4WSO5h6IFOuvwmraw5Y0RwaCweWGDM2aPTzpQTSPqMLHDRUtHoU4KhyY2kMIHjAgtR0vIf9VSJsoL4qb1VW6wXfO4OseNzTwxS0kAcLGwfnDPx7PdY-NL_FdyhExR9XhTvP9LWxGkYIh1EdFc471BHVqCWBns-fEAofXBScelmm9QliwtKf50z1aHHnKJim_2iOayKLcw
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfRbsXMGjwmRCkWJdIISWLpgdX4dWsKgP--A&usqp=CAU" group-title="VOD MOVIE 2023",Ambush (2023)
@@ -935,7 +943,6 @@ https://prgreg.sn.files.1drv.com/y4mGkwmdfDXemPikJVjbAJ2vWFh4DMsAjBl4j9VACsJKGpf
 https://os9rtq.bn.files.1drv.com/y4mp6OqS9_R25sCWGl5aBcVZ1dfPqGHMo8vCJ2N53b1CGoF0XuujIT92_sMajPd3BF5eoO1bufQYN7KWF2-2DfAZ3VpDnRzC7eFpwmalY-0j9j2dy-dkhiq7uHV-pRNRNGIwFotIRuMiaolMnTZhqwT-q3AoZi4j5--Y2jYQu5Vy5kngfr6-8OgDq8Hyut4pqs4sHUexysqR77ycQwyFJKmgw
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGuSOL-ZV4hd6OQPGSbJ6Qj9ulHxTvVN9YQg&usqp=CAU" group-title="VOD MOVIE 2023",House Party (2023)
 https://www.dropbox.com/s/k4ww0fi8co8wmtt/dzifp-housepart2023.mp4?dl=1
-
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnpMcvoZz8oeo7vUGCKh1TIKQbW09h0Hyc-Q&usqp=CAU" group-title="VOD MOVIE 2023",Jung-E (2023)
 https://v9jsrq.bn.files.1drv.com/y4mIzWm6ep4dLlpJl5yidqxs4KMCY7jn702X2KPd7KP3ssVrPk6oacEY3bes9PEPh56RH9S4VZsbqyZunuJgRdWNfNlK96O-MjjFDusSnfDlgqrvfspAYxdpyN-gzF_IrrskC8Jh-st-KhHJQHHp9UKqc69Nu5BjvrY7yQr2qsTBo7O0XpCIid055xcpoPYsbJYJWDQg6vRJr8oV2DjfUvXWw
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSz2r9G8oGoZwP7Dpp24tJsiDuayeotkh5ExQ&usqp=CAU" group-title="VOD MOVIE 2023",Legions (2023)
@@ -947,7 +954,6 @@ https://1uncpg.bn.files.1drv.com/y4mDH850VcBg2R2C5ivleS0mjjIP9zqdWTWbvHBKK5aeZnn
 #EXTINF:-1 tvg-logo="https://img7.cdn.cinoche.com/images/fe290c3d75e8a53c841f12edfe820b8a.jpg" group-title="VOD MOVIE 2023",Night Train (2023)
 https://www.dropbox.com/s/ctr2usfjv9bphwy/D21.FUN-Night-Train-2023-1674777782.mp4?dl=1
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMV0JnsaohDhYoE_aLMOI8zIyz7Uhr2Er48A&usqp=CAU" group-title="VOD MOVIE 2023",Panther Swat (2023)
-https://osqqqa.bn.files.1drv.com/y4mY-uslm7LZjbUzNqDXfKhvlMh35DY_RZlX2UNmil6xc8bSY4A73ayRknCknz0TPw92Tl5XK90enhqpIrQOjk-btqK0HXZO84jQ9P_dvNK1hMTCYYH26yyDHOtnpThvObAX-gzCJu091GsuZSzidURzn_A3KLy-W0wUWf_w-ilJnaqN3X7B2_hMvqB5lNgk633EksXk5SfwVrwqQs0JVLVrg
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1f/Peter_Pan_%26_Wendy_poster.png" group-title="VOD MOVIE 2023",Peterpan & Wendy (2023)
 https://www.dropbox.com/s/mg94zxkcfjoedvq/D21.FUN-Peter-Pan-Wendy-2023-1682681957.mp4?dl=1
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHylI1lWr_n86mgJ7EKj7AwKTrwZ78XH813g&usqp=CAU" group-title="VOD MOVIE 2023",Supercell (2023)
@@ -962,64 +968,41 @@ https://8kpldg.dm.files.1drv.com/y4mXK2VOY_h17-VDctu6u-iu5ghwJLJo-1IbvR3UdUITcDu
 https://d70ksg.bl.files.1drv.com/y4mIr9UBkryS4f2HBVTqu4f5dNCKq0nBd5NBNX1OS92SZHdY3xKnba3Vw85VKg0UOByEZVqUy4gn50wAnvivYVbdW3wVWTRD70X1Q4r-HMcoBIhdXvPwJy8u0xDcTLOETXB7c9NBd6hFyyTe5bwIPPJcwPbiTyMVTMulbiDZ-PHzT148F-hLpjlL3FqqOyYLYZdOFMC6K-QjhngUhtragV1rg
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8tQ3iY59mZUR2vwlW8NkBheBTlgd5Tu_jMg&usqp=CAU" group-title="VOD MOVIE 2023",The Ritual Killer (2023)
 https://rzwang.sn.files.1drv.com/y4mWM88yWuK8ZM-Uxp8O3OXlaLd1z1Yj371r2iiiHsfuN9bfvmcsYKCrGjFfybMT1ywIjznvgBADeAva2hMS2vfHGO4tyDDaNlg9LAmWaJn62OKog7kvtJwIZF3A5Am6tGICdJ6EwQ4dTgOdI5mTS8S2Bi6BnHxcVC7VJYu6YHlezJ3ODHkBFYO-kOMBcMuPd-HbqfYLSiRzhCg9qRLwMHoLA
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-lmPlqROh8byvjOs_nWpMMDX7_q3RIBsMTA&usqp=CAU" group-title="VOD MOVIE 2023",The Super Mario Bross Movie (2023)
-https://www.dropbox.com/s/jcq80k98w4al71r/driveid-160454-hdrip-1080-terbit21-com-the-super-mario-bros-movie-2023.mp4?dl=1
-#EXTINF:-1 tvg-logo="https://asianwiki.com/images/f/f1/Stolen_Identity_Korean_Movie-p1.jpg" group-title="VOD MOVIE 2023",Unlocked (2023)
-https://www.dropbox.com/s/50xasxs7dpqp892/dzifp-unlocked2023.mp4?dl=1
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEit5fixHp9gSvOReTJbcjbkGsAFPD5RqY-g&usqp=CAU" group-title="VOD MOVIE 2023",Unwelcome (2023)
 https://d71amw.bl.files.1drv.com/y4mZy-3nzCjN4rZVz5s8UvThmii2bL0aSpcnyfNvDI1iTnooezXNhDjtS4YfvPdvcOzYXbiWhkgWr1z835TPx6820ZQIPHGsBUHVjJrfiZ2Lgk0Xb5mWWKT1swvbOXLJ0BAYUXg_dNp7pypl2vGPMciolaQ6WynbqvR_YwwwWsg3wyst0wBbTbjbki6WM3suPhB-Phgw0Xm1YIwlR5fbvlo3Q
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqL8zEfnW61W5koZRS3UB6lTFa8bCY5AEjbg&usqp=CAU" group-title="VOD MOVIE 2023",We Have A Ghost (2023)
 https://os8ncq.bn.files.1drv.com/y4msw_INM7T5PYVeetJc4Yk5t78BXaBIjVgZ6LaxPaQ_KPjdetQN07WQMOwvKQAspuzoU5zuBHW0_IxQ6mjynZTo3bfEdUnOSFIxPtssgKda1hNi5xQa2mHya3JMiSRGJW9KtEKkDty3lWi2N3wneYfpEqmfOM6OsTyvMw9H8tsOqKDL1h9859iEQd_oGkl6C2jH1CpERhmqWDSXN2eKljXtw
-#EXTINF:-1 tvg-logo="http://pictures.my.id/images/mcu19.png" group-title="VOD MOVIE 2023",,Black Panther (2018)
-http://abf.filmbluray.id/gauugz2
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/t4fvpmmT/film-indo.jpg" group-title="VOD BIOSKOP INDO",Ada Hantu 2
-https://www.googleapis.com/drive/v3/files/164LWM_NfFZqxCfSbGtQ-Saq6h2EuifOD?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+============================================================================================================
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/t4fvpmmT/film-indo.jpg" group-title="VOD BIOSKOP INDO",Aku Lupa Aku Luka
 https://www.googleapis.com/drive/v3/files/19bQnNLIyybMbujHtsXr2xeiI-b2HNoZB?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/t4fvpmmT/film-indo.jpg" group-title="VOD BIOSKOP INDO",Alas Pati: Hutan Mati
 https://www.googleapis.com/drive/v3/files/1G98uOa7PYfDU85L8-s9g9l2Fc_0kYism?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/t4fvpmmT/film-indo.jpg" group-title="VOD BIOSKOP INDO",Bayi Gaib
-https://www.googleapis.com/drive/v3/files/1z0v27V9sLM8O7OrqYSEp906jHVd0PWzZ?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/t4fvpmmT/film-indo.jpg" group-title="VOD BIOSKOP INDO",Belenggu
 https://www.googleapis.com/drive/v3/files/1eGJ-9tT7_Xp8ulYNrPtbNagmGDCBfb0i?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/t4fvpmmT/film-indo.jpg" group-title="VOD BIOSKOP INDO",Ghost Writer 2
-https://www.googleapis.com/drive/v3/files/1pWUjQe4Ci4oDUjexU3gn6Eqr4Esyvy9g?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/t4fvpmmT/film-indo.jpg" group-title="VOD BIOSKOP INDO",Hompimpa
 https://www.googleapis.com/drive/v3/files/1dWxzlcnEAjpKkbCsgi8A7lsUTlb3e0FM?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/t4fvpmmT/film-indo.jpg" group-title="VOD BIOSKOP INDO",Iblis Dalam Kandungan
-https://www.googleapis.com/drive/v3/files/15qMU6WYK777KAm1R8yYtC_At81_QqS8j?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/t4fvpmmT/film-indo.jpg" group-title="VOD BIOSKOP INDO",Ikut Aku ke Neraka
 https://www.googleapis.com/drive/v3/files/1wbbNUEVWpfhxNsO805enjX4eQNRmKbyN?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/t4fvpmmT/film-indo.jpg" group-title="VOD BIOSKOP INDO",Inang
 https://www.googleapis.com/drive/v3/files/1t00ReoTNyh81mnlSKZfo3c4F7xFvxOKK?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/t4fvpmmT/film-indo.jpg" group-title="VOD BIOSKOP INDO",Jangan Sendirian
 https://www.googleapis.com/drive/v3/files/1WbDu0f9Si849LurfVac0RYE6dqoQKHbz?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/t4fvpmmT/film-indo.jpg" group-title="VOD BIOSKOP INDO",Kabut
 https://www.googleapis.com/drive/v3/files/1Tkdasl51whYeYlwXWRAQ-XoUtW-qGoOt?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/t4fvpmmT/film-indo.jpg" group-title="VOD BIOSKOP INDO",Kain Kafan Hitam
-https://www.googleapis.com/drive/v3/files/1sbPMgFuUBm_tC6ppgOawAYO4ozB5Pvt6?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+
+
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/t4fvpmmT/film-indo.jpg" group-title="VOD BIOSKOP INDO",Kamu Tidak Sendiri
-https://www.googleapis.com/drive/v3/files/1lRqQkhcotCpvKns1QQScK9kTo1XXh3Z9?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/t4fvpmmT/film-indo.jpg" group-title="VOD BIOSKOP INDO",Kuyang the Movie
-https://www.googleapis.com/drive/v3/files/1IRfViSK6vfXNcHKU2i7L4kTBeRp8k203?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/t4fvpmmT/film-indo.jpg" group-title="VOD BIOSKOP INDO",Makmum
-https://www.googleapis.com/drive/v3/files/1D_EKnGSUPx9RYov0Ac9aqSjCKcDT8nE-?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/t4fvpmmT/film-indo.jpg" group-title="VOD BIOSKOP INDO",Menjelang Magrib
 https://www.googleapis.com/drive/v3/files/1DRC9yXAmzCudZIjptTTWU_X_9_OlMLF5?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
