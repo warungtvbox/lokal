@@ -400,6 +400,14 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/637e55347427a40007fac7
 
 
 
+#EXTINF:-1 tvg-id="HBO HD" tvg-url="" tvg-logo="https://e7.pngegg.com/pngimages/476/791/png-clipart-hbo-now-hbo-go-television-hbo-latino-others-text-logo.png" group-title="Movies",HBO 1
+http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/197972
+#EXTINF:-1 tvg-id="HBO Hits HD" tvg-url="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fc/HBOHits-ASIA.png" group-title="Movies",HBO Hits 1
+http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/196480
+#EXTINF:-1 tvg-id="HBO Family HD" tvg-url="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/HBO_Family_Asia_logo.svg/1200px-HBO_Family_Asia_logo.svg.png" group-title="Movies"HBO Family 1
+http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/197055
+#EXTINF:-1 tvg-id="HBO Signature HD" tvg-url="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/HBO_Signature_Asia.png" group-title="Movies",HBO Signature 1
+http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/221948
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTVLCOPT:http-referrer=https://m.rctiplus.com/
