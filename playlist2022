@@ -24,7 +24,7 @@ https://nyanv-live-cdn.mncnow.id/live/eds/Soccer-2/sa_dash_vmx/Soccer-2.mpd
 #EXTVLCOPT:http-referrer=https://m.rctiplus.com/
 https://nyanv-live-cdn.mncnow.id/live/eds/LifeStyleFashion/sa_dash_vmx/LifeStyleFashion.mpd
 #EXTINF:-1 group-title="Lokal" tvg-logo="https://i.imgur.com/vbV0KKG.jpg", MENTARI TV
-#http://103.113.116.150:25461/mtm1/12345/25
+http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/298546
 #EXTINF:-1 group-title="Lokal" tvg-logo="https://i.imgur.com/vbV0KKG.jpg", Citra Drama
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch378%29/index.m3u8
 #EXTINF:-1 group-title="Lokal" tvg-logo="https://i.imgur.com/vbV0KKG.jpg",CITRA DANGDUT
@@ -412,7 +412,7 @@ http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/221948
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTVLCOPT:http-referrer=https://m.rctiplus.com/
 #EXTINF:0 tvg-id="HBO HD" tvg-url="http://bit.ly/maytvEPG" tvg-logo="https://e7.pngegg.com/pngimages/476/791/png-clipart-hbo-now-hbo-go-television-hbo-latino-others-text-logo.png" group-title="Movies", HBO - MAX
-#https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(92c7b96a-33fc-4899-a032-50ae0fbc9257)/manifest.mpd
+https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(92c7b96a-33fc-4899-a032-50ae0fbc9257)/manifest.mpd
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #EXTHTTP:{"dt-custom-data": "eyJ1c2VySWQiOiJ4eHh4eHh4eC14eHh4LXh4eHgteHh4eC14eHh4eHh4eHh4eHgiLCJzZXNzaW9uSWQiOiJlSGg0ZUhoNGVIZ3RlSGg0ZUMxNGVIaDRMWGg0ZUhndGVIaDRlSGg0ZUhoNGVIaDRMR052YlM1dFlYaHpkSEpsWVcwc1JFRlRTRU5KVGtWTlFWaEVVazBzTVRreU1UVTBNak0xTWl4aGJtUnliMmxrTERCZmEyVnZhbXBzWVRZIiwibWVyY2hhbnQiOiJ0ZWxrb21zZWwifQ"}
 #KODIPROP:inputstream.adaptive.manifest_type=dash
