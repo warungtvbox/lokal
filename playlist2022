@@ -350,20 +350,20 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/637e55347427a40007fac7
 
 
 #EXTINF:-1 tvg-id="HBO HD" tvg-url="" tvg-logo="https://e7.pngegg.com/pngimages/476/791/png-clipart-hbo-now-hbo-go-television-hbo-latino-others-text-logo.png" group-title="Movies",HBO 1
-#http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/197972
-http://103.113.116.150:25461/mtm1/12345/12
+http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/197972
+#http://103.113.116.150:25461/mtm1/12345/12
 #EXTINF:-1 tvg-id="HBO Hits HD" tvg-url="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fc/HBOHits-ASIA.png" group-title="Movies",HBO Hits 1
-#http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/196480
-http://103.113.116.150:25461/mtm1/12345/13
+http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/196480
+#http://103.113.116.150:25461/mtm1/12345/13
 #EXTINF:-1 tvg-id="HBO Family HD" tvg-url="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/HBO_Family_Asia_logo.svg/1200px-HBO_Family_Asia_logo.svg.png" group-title="Movies"HBO Family 1
-#http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/197055
-http://103.113.116.150:25461/mtm1/12345/15
+http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/197055
+#http://103.113.116.150:25461/mtm1/12345/15
 #EXTINF:-1 tvg-id="HBO Signature HD" tvg-url="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/HBO_Signature_Asia.png" group-title="Movies",HBO Signature 1
-#http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/221948
-http://103.113.116.150:25461/mtm1/12345/14
+http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/221948
+#http://103.113.116.150:25461/mtm1/12345/14
 #EXTINF:-1 tvg-id="" tvg-name="CINEMAX HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/275px-Cinemax_2016.png" group-title="Movies",CINEMAX HD
 #http://103.113.116.150:25461/mtm1/12345/20
-http://103.113.116.150:25461/mtm1/12345/16
+http://iptvtree.net:8080/c4596f70/c3848d92/197964
 #EXTINF:-1 tvg-id="DuniaSinema.my" tvg-name="Dunia Sinema" tvg-logo="https://i.postimg.cc/mDCCS0Rh/20230520-093534.jpg" group-title="Movies",Dunia Sinema
 https://unifi-live05.secureswiftcontent.com/UnifiHD/live27-1080FHD.m3u8
 #EXTINF:-1 tvg-logo="https://www.firstmedia.com/files/logos/channels/4-ENTERTAINMENT/KBS%20World%20SD-FirstMedia-Chl-244.jpg" group-title="Movies",KBS World
