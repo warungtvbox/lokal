@@ -171,27 +171,17 @@ https://dgwubfppws111.cloudfront.net/out/v1/667a86e35ddd496c886fa11598dc184d/ind
 
 
 
-#EXTINF:-1 tvg-id="Aniplus" tvg-name="" tvg-logo="https://i.ibb.co/KqKdMRK/aniplus.png" group-title="KIDS", ANIPLUS
+#EXTINF:-1 tvg-id="Aniplus" tvg-name="" tvg-logo="https://i.ibb.co/KqKdMRK/aniplus.png" group-title="ANAK ANAK", ANIPLUS
 #EXTVLCOPT:http-referrer=https://www.indihometv.com/
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f2c313fce55344e5a52389741d1f53f8:bae1e47db562b66895beb8fccdf2ad8a
 https://cdnjt24.useetv.com/drm/live/smil:aniplus.smil/manifest.mpd
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/W5JgdN6/babybus.png" group-title="KIDS", BABYBUS YT
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/W5JgdN6/babybus.png" group-title="ANAK ANAK", BABYBUS YT
 https://ythls-v2.onrender.com/channel/UC5v3gjCQLFeg8eBXO7ShdpQ.m3u8
-
-#EXTINF:-1 channel-id="samsung-INBC280001662" tvg-id="INBC280001662" tvg-logo="https://i.ibb.co/HTHDJ7q/babi1st.png" tvg-chno="1273" group-title="KIDS" , BABY FIRST
-https://i.mjh.nz/SamsungTVPlus/INBC280001662.m3u8
-
 #EXTINF:-1 channel-id="pluto-60faffc3fbbc120007fc4376" tvg-id="60faffc3fbbc120007fc4376" tvg-logo="https://i.ibb.co/Rpn0Rrf/babyshark.png" tvg-chno="3170" group-title="KIDS" , Baby Shark TV ðŸ‡°ðŸ‡·
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60faffc3fbbc120007fc4376/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=949fff44-b258-11ee-9039-67540c86de73&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=4ecdfec3-b265-4c95-95f0-dffffa891a9f&userId=&serverSideAds=true
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/HKf3JSD/babytv.png" group-title="KIDS", BABY TV
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"e666779a51645dbdaf6b2e997f28edfd":"745759b6d78872d6ef4ade6882196302","2290587f13d15b0fa99cc9308ecbde74":"67616e8d2465e20208e178036dab8e74","86aa495e5f94559f85ebbb99ebda57bd":"a6486900971e2ee5f4d52f152f92d5c9"}
-https://tvup-live.akamaized.net/babytv/babytv.mpd
 #EXTINF:-1 tvg-id="Animax - [Channel 157].id" tvg-name="" tvg-logo="https://i.ibb.co/DgC0xN3/animax.png" group-title="ANAK ANAK", ANIMAX
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=edf1a715de9748638dd2fad75a419af2:2f5a3199b26e9b693ae881af7ff864cf
