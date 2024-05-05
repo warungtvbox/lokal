@@ -112,8 +112,7 @@ https://b1world.beritasatumedia.com/Beritasatu/B1World_1280x720.m3u8
 http://103.255.15.222:1935/tv/jitv_720p/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/9/91/TVKU-BChannel.png/800px-TVKU-BChannel.png" group-title="Lokal",TVKU
 http://103.30.1.14:8080/hls/live.m3u8?checkedby:iptvcat.net
-#EXTINF:-1 tvg-logo="https://lingkartv.com/assets/img/logo-square.png" group-title="Lokal",LINGKARTV 
-https://lingkartv.my.id/hls/lingkartv.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/Surabaya_TV_%282017%29.png" group-title="Lokal",SURABAYA TV
 https://e.siar.us/live/surabayatv.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/3/3b/Logo_Jawapos_TV.png/150px-Logo_Jawapos_TV.png" group-title="Lokal",Jawa Pos TV
@@ -132,16 +131,11 @@ http://wms.klikhost.com:1935/tegartv/tegartv/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://www.cubmu.com/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://cubmu.openwindow040.workers.dev/
-#EXTINF:-1 tvg-logo="https://cdnjkt2.transvision.co.id:1001/image/web/channel/4028c6857fe540a10180164d05a65db4/6b9d345a4bc24545b42f2034d15147af.jpg" group-title="Lokal",KILAT TV
-https://cdnjkt4.transvision.co.id:1004/live/master/4/4028c6857fe540a10180164aa1c95db2/manifest.mpd
 #EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-kw-2O6-LYHU/X1q26HZsAnI/AAAAAAAAqEk/eL4AB5Lp3GUrFCDnlyBNoeiHlfXFHZtVgCLcBGAsYHQ/s1600/dmtv-channel-logo.png" group-title="Lokal",DMTV MALANG
 https://e.siar.us/live/dmtv.m3u8
 #EXTINF:-1 tvg-logo="https://iptv.urfan.web.id/logo/garudatv.png" group-title="Lokal",Garuda TV
 https://etv-cdn.kdb.co.id/GarudaTV-Stream/index.m3u8
-#EXTINF:-1 tvg-logo="https://iptv.urfan.web.id/logo/bantentv.png" group-title="Lokal",Banten TV
-https://5bf7b725107e5.streamlock.net:443/bantentv/bantentv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://iptv.urfan.web.id/logo/jogjatv.png" group-title="Lokal",Jogja TV
-https://stream.jogjatv.co.id/jtvlive/stream/index.m3u8
+
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Tbd8LXw/inspira.jpg" group-title="Lokal",Inspira Tv 
@@ -152,8 +146,7 @@ http://63b2dc7196c38.streamlock.net:1935/ch5/myStream/playlist.m3u8
 http://63b2dc7196c38.streamlock.net:1935/ch6/myStream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i-burger.bunkr.ru/20231022_172743-56CYxmeU.png?download=true" group-title="Lokal",Prima tv
 https://primatv.siar.us/primatv/live/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://iptv.urfan.web.id/logo/simpang5tv.png" group-title="Lokal",Simpang5 TV
-http://63b2dc7196c38.streamlock.net:1935/ch4/myStream/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://iptv.urfan.web.id/logo/bmstv.png" group-title="Lokal",BMSTV
 https://5bf7b725107e5.streamlock.net/bmstv/bmstv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://iptv.urfan.web.id/logo/smtv.png" group-title="Lokal",SMTV
@@ -578,7 +571,11 @@ https://testfunctionlive.mncnow.id/live/eds/MNCSports3-HD/sa_dash_vmx/MNCSports3
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
 #EXTINF:-1 group-title="Sports" tvg-id="Sportstars 4 HD - [Channel 424].id"" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_88.png",Sportstars 4 HD
 https://testfunctionlive.mncnow.id/live/eds/Sportstar4/sa_dash_vmx/Sportstar4.mpd
-
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
+#EXTINF:-1 tvg-id="Fight Sports - [Channel 304].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://www.mncvision.id/userfiles/image/channel/150x150fightsport.jpg" group-title="Sports",Fight Sports
+https://testfunctionlive.mncnow.id/live/eds/FightSports/sa_dash_vmx/FightSports.mpd
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
