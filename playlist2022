@@ -25,13 +25,16 @@ https://cempedak-live-cdn.mncnow.id/live/eds/ANTV/sa_dash_vmx/ANTV.mpd
 http://op-group1-swiftservehd-1.dens.tv/h/h207/02.m3u8
 #EXTINF:-1 tvg-name="TRANS 7" tvg-logo="https://hometv.pw/logo/lokal/trans7.png" group-title="Lokal",TRANS 7 (D)
 https://video.detik.com/trans7/smil:trans7.smil/chunklist.m3u8
-#EXTVLCOPT:https://www.transvision.co.id/
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv
-#EXTINF:-1 tvg-id="TransTV" ch-number="4" tvg-url="https://www.bevy.be/bevyfiles/indonesiapremium3.xml" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_87.png" group-title="Lokal",TransTV HD (Transcorp)
-https://video.detik.com/trans7/smil:trans7.smil/chunklist.m3u8
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alphastro supersporta
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
+#EXTINF:-1 tvg-id="TransTV" tvg-url="https://www.bevy.be/bevyfiles/indonesiapremium3.xml" tvg-logo="https://cdnjkt4.transvision.co.id:1000/image/web/channel/4028c68574537fcd0174be43042758d8/36f75de0a5b543da8d17c46db9d44178.jpg" group-title="Lokal",TransTV HD
+https://melon-live-cdn.mncnow.id/live/eds/TransTV-2/sa_dash_vmx/TransTV-2.mpd
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vbV0KKG.jpg" group-title="Lokal",TRANS TV
-https://video.detik.com/transtv/smil:transtv.smil/chunklist.m3u8
+https://streaming.indihometv.com/atm/DASH/trans7/manifest.mpd
+
 #EXTINF:0 tvg-country="ID" tvg-logo="Logo N/A" group-title="Lokal",Radio 51 TV
 http://59d7d6f47d7fc.streamlock.net/canale51/canale51/playlist.m3u8?checkedby:iptvcat.com
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
