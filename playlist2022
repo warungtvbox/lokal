@@ -4,7 +4,7 @@
 http://op-group1-swiftservehd-1.dens.tv/h/h237/02.m3u8
 #EXTINF:0 tvg-country="ID" tvg-logo="https://i.imgur.com/h3RldTO.png" group-title="Lokal",TVRI World
 https://ott-balancer.tvri.go.id/live/eds/TVRIWorld/hls/TVRIWorld.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 tvg-logo="https://i.ibb.co/SyXzvhs/Moji-hometv.jpg" group-title="lokal",MOJI (Indi)
+#EXTINF:-1 tvg-logo="https://i.ibb.co/SyXzvhs/Moji-hometv.jpg" group-title="Lokal",MOJI (Indi)
 https://cdn08jtedge.indihometv.com/dassdvr/134/ochannel/manifest.mpd
 #EXTINF:-1 group-title="Lokal" tvg-logo="https://thumbor.prod.vidiocdn.com/CjN9Xxo8VbEF-D3bK8Xxpiy4c_A=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7230/magna-tv-c3b724.jpg",Magna Channel (D*)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
@@ -1847,7 +1847,7 @@ https://1422977263.rsc.cdn77.org/HLS/MOTOAMERICA_SCTE.m3u8
 #KODIPROP:inputstream.adaptive.license_key=d094d1401faa5cd29cfb361274629aad:793d3bf7e16e9300c0298fb2b3ba6f68
 https://director.streaming.telia.com/tvm-packager-prod/group1/60896cc147a23d68775cd5c3/manifest.mpd
 
-#EXTINF:-1 tvg-id="TV4 Sport Live 2" tvg-logo="https://www.chillglobal.com/images/channels/tv4-play-1432658070.jpg" group-title="Sport", SE - TV4 SPORT LIVE 2 
+#EXTINF:-1 tvg-id="TV4 Sport Live 2" tvg-logo="https://www.chillglobal.com/images/channels/tv4-play-1432658070.jpg" group-title="Sports", SE - TV4 SPORT LIVE 2 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -1932,7 +1932,7 @@ https://1621590671.rsc.cdn77.org/HLS/BILLIARDTV_SCTE.m3u8
 http://toh-users.xyz:8080/stevelo84@icloud.com/GHQn3QbAmcNb/851449
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/nh29JLR0/thriller-fotor-bg-remover-20240201102632.png" group-title="Sports",Fite~24/7
 http://toh-users.xyz:8080/stevelo84@icloud.com/GHQn3QbAmcNb/851449
-#EXTINF:-1 tvg-logo="https://images.launchbox-app.com/18c672bc-f405-47bb-ba09-01c768d84d49.png" group-title="ports",MikeTyson~24/7
+#EXTINF:-1 tvg-logo="https://images.launchbox-app.com/18c672bc-f405-47bb-ba09-01c768d84d49.png" group-title="Sports",MikeTyson~24/7
 http://toh-users.xyz:8080/stevelo84@icloud.com/GHQn3QbAmcNb/851450
 #EXTINF:-1 tvg-logo="https://ufc-video.s3.amazonaws.com/image/logos/UFC_FIGHTPASS_LOGO_F.PNG" group-title="Sports", UFC FIGHT~PASS~24/7
 http://toh-users.xyz:8080/stevelo84@icloud.com/GHQn3QbAmcNb/851451
@@ -1981,6 +1981,12 @@ https://bkm.beetv.kz/btv/live/hls/000002649.m3u8
 https://bkm.beetv.kz/btv/live/hls/000004619.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREYxtkXUeVn9mI5jGHP4Bw83PZ02w0hnsP5uLsygqpguQRvVBo4cdThb2Q&s=10" group-title="Sports", Fifa+ 
 https://4b92bb6a.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1hdF9GSUZBUGx1c19ITFM/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://i.ibb.co/qJJrHJb/Rusia-Sport-Share-Ext.jpg" group-title="Sports",Eurosport 1°HD
+http://edge02.odtv.az/o7/eurosport/q_1/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://i.ibb.co/qJJrHJb/Rusia-Sport-Share-Ext.jpg" group-title="Sports",Eurosport 2°HD
+http://45.93.46.27:8887/8163/video.m3u8
+
+
 
 #EXTINF:-1 tvg-id="" tvg-name="PremierLeague Replay 1 ᴴᴰ" tvg-logo="https://iili.io/U2oxJn.md.png" group-title="Sports",PremierLeague Replay 1 ᴴᴰ 
 http://toh-users.xyz:8080/stevelo84@icloud.com/GHQn3QbAmcNb/791839 
