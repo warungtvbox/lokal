@@ -23,10 +23,10 @@ http://op-group1-swiftservehd-1.dens.tv/h/h235/02.m3u8
 https://cempedak-live-cdn.mncnow.id/live/eds/ANTV/sa_dash_vmx/ANTV.mpd
 #EXTINF:-1 group-title="Lokal" tvg-logo=""https://i.imgur.com/vbV0KKG.jpg, Indosiar
 #http://op-group1-swiftservehd-1.dens.tv/h/h207/02.m3u8
-#EXTINF:-1  tvg-logo="https://i.ibb.co/f0NcrJt/shareext-soccer.jpg" group-title="Lokal",Indosiar-live
+#EXTINF:-1  tvg-logo="https://i.ibb.co/f0NcrJt/shareext-soccer.jpg" group-title="Lokal",Indosiar
 https://live.audytv.com/live/65712cb42808e5c0xxxx/16c091cfd5db96b5/74.ts
 #EXTINF:-1 tvg-id="" tvg-name="ID: Indosiar" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/ce86013bab079cc94d323717c9006e24.png" group-title="Lokal",Indosiar
-http://filex.tv:8080/paramjeetsingh/002818/302264
+http://xtv.ooo:8080/MansoorWapda/258741/350972
 #EXTINF:-1 tvg-name="TRANS 7" tvg-logo="https://hometv.pw/logo/lokal/trans7.png" group-title="Lokal",TRANS 7 (D)
 https://video.detik.com/trans7/smil:trans7.smil/chunklist.m3u8
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
