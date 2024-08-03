@@ -556,6 +556,20 @@ https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/01.m3u8
 http://xtv.ooo:8080/Ijaaz123/aijaz321/66315
 #EXTINF:-1 tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://seeklogo.com/images/S/Star_Movies-logo-6001726367-seeklogo.com.png" group-title="Movies",Star Movies HD
 http://xtv.ooo:8080/Ijaaz123/aijaz321/66213
+-----------------------------------------------------------------
+
+#EXTINF:-1 group-title="Olympics Paris 2024" ch-number="991" tvg-id="991" tvg-logo="https://image.jimcdn.com/app/cms/image/transf/dimension=450x10000:format=png/path/s293f5a94d3403280/image/ic5d1ed06a1e26c61/version/1677492509/image.png",Channel 1 Paris 2024 Olympics
+https://d30aylox5wvifh.cloudfront.net/event/smil:ag1/playlist.m3u8?id=11
+#EXTINF:-1 group-title="Olympics Paris 2024" ch-number="992" tvg-logo="https://image.jimcdn.com/app/cms/image/transf/dimension=450x10000:format=png/path/s293f5a94d3403280/image/ic5d1ed06a1e26c61/version/1677492509/image.png" ,Channel 2 Paris 2024 Olympics
+https://d30aylox5wvifh.cloudfront.net/event/smil:ag2/playlist.m3u8?id=12
+#EXTINF:-1 group-title="Olympics Paris 2024" ch-number="993" tvg-id="993" tvg-logo="https://image.jimcdn.com/app/cms/image/transf/dimension=450x10000:format=png/path/s293f5a94d3403280/image/ic5d1ed06a1e26c61/version/1677492509/image.png",Channel 3 Paris 2024 Olympics
+https://d30aylox5wvifh.cloudfront.net/event/smil:ag3/playlist.m3u8?id=13
+#EXTINF:-1 group-title="Olympics Paris 2024" ch-number="994" tvg-id="994" tvg-logo="https://image.jimcdn.com/app/cms/image/transf/dimension=450x10000:format=png/path/s293f5a94d3403280/image/ic5d1ed06a1e26c61/version/1677492509/image.png",Channel 4 Paris 2024 Olympics
+https://d30aylox5wvifh.cloudfront.net/event/smil:ag4/playlist.m3u8?id=14
+#EXTINF:-1 group-title="Olympics Paris 2024" ch-number="995" tvg-id="995" tvg-logo="https://image.jimcdn.com/app/cms/image/transf/dimension=450x10000:format=png/path/s293f5a94d3403280/image/ic5d1ed06a1e26c61/version/1677492509/image.png",Channel 5 Paris 2024 Olympics
+https://d30aylox5wvifh.cloudfront.net/event/smil:ag5/playlist.m3u8?id=15
+#EXTINF:-1 group-title="Olympics Paris 2024" ch-number="996" tvg-id="996" tvg-logo="https://image.jimcdn.com/app/cms/image/transf/dimension=450x10000:format=png/path/s293f5a94d3403280/image/ic5d1ed06a1e26c61/version/1677492509/image.png",Channel 6 Paris 2024 Olympics
+https://d25tgymtnqzu8s.cloudfront.net/event/smil:event1/playlist.m3u8?id=16
 
 
 
@@ -1644,34 +1658,6 @@ https://ott-balancer.tvri.go.id/live/eds/Sumut/hls/Sumut-avc1_1500000=10003-mp4a
 https://ott-balancer.tvri.go.id/live/eds/Jogjakarta/hls/Jogjakarta-avc1_1500000=10006-mp4a_96000=20001.m3u8
 #EXTINF:-1 tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://klik.tvri.go.id/po-content/uploads/tvripapua.png" group-title="TVRI Group",TVRI Papua Barat
 https://ott-balancer.tvri.go.id/live/eds/Pabar/hls/Pabar-avc1_1500000=10005-mp4a_96000_eng=20003.m3u8
-
-<====================================== LIVE EVENT EURO 2024 =====================================>
-
-
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
-#EXTINF:-1 group-title="EURO 2024" tvg-id="Sportstars 3 - [Channel 99].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_99.png",Sportstars 3 HD
-https://melon-live-cdn.mncnow.id/live/eds/MNCSports3-HD/sa_dash_vmx/MNCSports3-HD.mpd
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
-#EXTINF:-1 group-title="EURO 2024" tvg-id="Sportstars 4 HD - [Channel 424].id"" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_88.png",Sportstars 4 HD
-https://melon-live-cdn.mncnow.id/live/eds/Sportstar4/sa_dash_vmx/Sportstar4.mpd
-#KODIPROP:inputstream=inputstream.ffmpegdirect
-#KODIPROP:mimetype=video/mp2t
-#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
-#KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
-#KODIPROP:inputstream.ffmpegdirect.manifest_type=ts
-#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://w7.pngwing.com/pngs/522/791/png-transparent-uefa-euro-2024.png" group-title="EURO 2024",Rush Sport
-http://tv14s.xyz:8080/live/753468/894568/99568.ts
-#KODIPROP:inputstream=inputstream.ffmpegdirect
-#KODIPROP:mimetype=video/mp2t
-#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
-#KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
-#KODIPROP:inputstream.ffmpegdirect.manifest_type=ts
-#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://w7.pngwing.com/pngs/522/791/png-transparent-uefa-euro-2024.png" group-title="EURO 2024",TSN 1
-http://cord-cutter.net:8080/live/j3McKd/673709/47440.ts
 
 
 
