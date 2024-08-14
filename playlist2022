@@ -67,14 +67,14 @@ https://melon-live-cdn.mncnow.id/live/eds/MNCEntertainment/sa_dash_vmx/MNCEntert
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
 #EXTINF:-1 tvg-id="RCTI - [Channel 80].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_80.png" group-title="Lokal",RCTI HD
 https://cempedak-live-cdn.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
-#EXTINF:-1  tvg-logo="https://i.ibb.co/8KVDsBJ/shareext-soccer-goldfly-logo.jpg" group-title="Lokal",RCTI_🇮🇩
-http://xtv.ooo:8080/MansoorWapda/258741/351023
+#EXTINF:-1  tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_80.png" group-title="Lokal",RCTI_Gen
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/157591
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
 #EXTINF:-1 tvg-id="MNCTV HD - [Channel 432].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_82.png" group-title="Lokal",MNC TV
 https://cempedak-live-cdn.mncnow.id/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd
-#EXTINF:-1  tvg-logo="https://i.ibb.co/hHs8y6F/shareext-football-logo.jpg" group-title="Lokal",ID:MNC TV 
+#EXTINF:-1  tvg-logo="https://i.ibb.co/hHs8y6F/shareext-football-logo.jpg" group-title="Lokal",MNC TV 
 http://filex.tv:8080/paramjeetsingh/002818/302278 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
