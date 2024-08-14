@@ -127,6 +127,9 @@ https://cdn09jtedge.indihometv.com/joss/133/net/index.m3u8?c
 #EXTINF:-1 tvg-name="NET TV" tvg-logo="https://hometv.pw/logo/lokal/nettv.png" group-title="Lokal",NET TV (D*)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 http://op-group1-swiftservehd-1.dens.tv/h/h223/02.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/t4f9HYy/kompas-tv.png" group-title="Lokal", Kompas TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+http://op-group1-swiftservehd-1.dens.tv/h/h234/02.m3u8
 #EXTINF:-1 tvg-name="KOMPAS TV" tvg-logo="https://hometv.pw/logo/lokal/kompastv.png" group-title="Lokal",KOMPAS TV (D*)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 http://103.237.32.213:9981/stream/channelid/958311693?profile=pass
