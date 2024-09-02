@@ -2243,21 +2243,21 @@ https://op-group1-swiftservehd-1.dens.tv/h/h09/01.m3u8
 #KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
 #KODIPROP:inputstream.ffmpegdirect.manifest_type=ts
 #EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ed/Sony_Sports_Ten_1.png" group-title="Sports",SONY SPORTS TEN 1 
-http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/154.ts
+http://iptvtree.net:8080/F18819/6eb39c7d/16622
 #KODIPROP:inputstream=inputstream.ffmpegdirect
 #KODIPROP:mimetype=video/mp2t
 #KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
 #KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
 #KODIPROP:inputstream.ffmpegdirect.manifest_type=ts
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/30/Sony_Sports_Ten_2.png" group-title="Sports",SONY SPORTS TEN 2
-http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/31314.ts
+http://iptvtree.net:8080/F18819/6eb39c7d/16621
 #KODIPROP:inputstream=inputstream.ffmpegdirect
 #KODIPROP:mimetype=video/mp2t
 #KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
 #KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
 #KODIPROP:inputstream.ffmpegdirect.manifest_type=ts
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/ff/Sony_Sports_Ten_3.png" group-title="Sports",SONY SPORTS TEN 3
-http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/146.ts
+http://iptvtree.net:8080/F18819/6eb39c7d/56191
 #KODIPROP:inputstream=inputstream.ffmpegdirect
 #KODIPROP:mimetype=video/mp2t
 #KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
@@ -2280,6 +2280,19 @@ http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/5481.ts
 http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/5482.ts
 #EXTINF:-1 tvg-logo="https://i.ibb.co/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="Sports",MY: ASTRO SUPERSPORTS 4 HD
 http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/5483.ts
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/001/204/023/original/soccer-png.png" group-title="Sports",Soccer-EUROCOPA 1
+http://zuiowy.net:8080/Paola2023/7ThHZTUFn8ze/135029
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/001/204/023/original/soccer-png.png" group-title="Sports",Soccer-EUROCOPA 2
+http://zuiowy.net:8080/Paola2023/7ThHZTUFn8ze/135030
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/001/204/023/original/soccer-png.png" group-title="Sports",Soccer-EUROCOPA 3
+http://zuiowy.net:8080/Paola2023/7ThHZTUFn8ze/135031
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/001/204/023/original/soccer-png.png" group-title="Sports",Soccer-EUROCOPA 4
+http://zuiowy.net:8080/Paola2023/7ThHZTUFn8ze/135032
+#EXTINF:-1 tvg-logo="https://imgur.com/Xa8tEbU.png" group-title="SHAREEXT@BRAZILIA ➾ Sports",TV Max Canal 9
+http://live.budtvlight.com:25461/live/rafanewl/t37DDpJuwD5j/166784.m3u8
+#EXTINF:-1 group-title="SHAREEXT@BRAZILIA ➾ Sports" tvg-logo="https://imgur.com/Xa8tEbU.png", Win Sports+
+http://tvlatino.live:8080/Martv1971/G5cSzPMeRUuH/76703.m3u8
+
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 tvg-id="ext" tvg-logo="https://i.ibb.co/XjjmZ8S/Bt3.png" group-title="Sports",Billiard TV
@@ -2450,8 +2463,19 @@ http://assista.pro:80/0333686557/Vilamariante1/125386
 #https://siloh.pluto.tv/lilo/production/bein/b1121710f0b14c1146591b65168004e6/master.m3u8
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5df975e2b27cf5000921c102/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=740&deviceId=5df975e2b27cf5000921c102&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
   
-
-  
+#EXTINF:-1  tvg-logo="https://i.ibb.co/8KVDsBJ/shareext-soccer-goldfly-logo.jpg" group-title="Sports",beIN Sports 1
+http://iptvtree.net:8080/F14995/a84c0963/144
+#EXTINF:-1  tvg-logo="https://i.ibb.co/8KVDsBJ/shareext-soccer-goldfly-logo.jpg" group-title="Sports",beIN Sports 2
+http://iptvtree.net:8080/F14995/a84c0963/145
+#EXTINF:-1  tvg-logo="https://i.ibb.co/8KVDsBJ/shareext-soccer-goldfly-logo.jpg" group-title="Sports",beIN Sports 3
+http://iptvtree.net:8080/F14995/a84c0963/146
+#EXTINF:-1  tvg-logo="https://i.ibb.co/8KVDsBJ/shareext-soccer-goldfly-logo.jpg" group-title="Sports",beIN Sports Max 6
+http://iptvtree.net:8080/F14995/a84c0963/4368
+#EXTINF:-1  tvg-logo="https://i.ibb.co/8KVDsBJ/shareext-soccer-goldfly-logo.jpg" group-title="Sports",beIN Sports Max 7
+http://iptvtree.net:8080/F14995/a84c0963/4369
+#EXTINF:-1  tvg-logo="https://i.ibb.co/8KVDsBJ/shareext-soccer-goldfly-logo.jpg" group-title="Sports",beIN Sports Max 8
+http://iptvtree.net:8080/F14995/a84c0963/4370
+#EXTINF:-1  tvg-logo="https://i.ibb.co/8KVDsBJ/shareext-soccer-goldfly-logo.jpg" group-title="Sports",beIN Sports Max 9  
 
  
 
