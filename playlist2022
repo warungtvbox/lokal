@@ -1,34 +1,34 @@
  
-#EXTINF:-1 tvg-id="TVRI" tvg-logo="https://iili.io/JMp3DJf.png" group-title="🔴NASIONAL",TVRI
+#EXTINF:-1 tvg-id="TVRI" tvg-logo="https://iili.io/JMp3DJf.png" group-title="🔴NASIONAL",TVRI 🇮🇩
 https://ott-balancer.tvri.go.id/live/eds/Nasional/hls/Nasional.m3u8
-#EXTINF:0 tvg-country="ID" tvg-logo="https://i.imgur.com/h3RldTO.png" group-title="🔴NASIONAL",TVRI World
+#EXTINF:0 tvg-country="ID" tvg-logo="https://i.imgur.com/h3RldTO.png" group-title="🔴NASIONAL",TVRI World 🇮🇩
 https://ott-balancer.tvri.go.id/live/eds/TVRIWorld/hls/TVRIWorld.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Logo_GarudaTV_Merah_Putih_Silver_Merah.png/1200px-Logo_GarudaTV_Merah_Putih_Silver_Merah.png" group-title="🔴NASIONAL",Garuda TV
+#EXTINF:-1 tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Logo_GarudaTV_Merah_Putih_Silver_Merah.png/1200px-Logo_GarudaTV_Merah_Putih_Silver_Merah.png" group-title="🔴NASIONAL",Garuda TV 🇮🇩
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://etv-cdn.kdb.co.id/GarudaTV-Stream/tracks-v1a1/mono.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTVLCOPT:http-referrer=https://indihome.co.id/
 #KODIPROP:inputstream.adaptive.stream_headers=user-agent=MaxStreamPlayer/3.1.4 (Linux;Android 12) ExoPlayerLib/2.9.6
-#EXTINF:-1 tvg-id="Moji" tvg-url="https://www.bevy.be/bevyfiles/indonesiapremium1.xml" tvg-logo="https://cdns.klimg.com/merdeka.com/i/w/news/2022/08/30/1467272/540x270/moji-surga-tontonan-bagi-pemirsa-olahraga-dan-anak-muda.png" group-title="🔴NASIONAL",MOJI TV (INDIHOME)
+#EXTINF:-1 tvg-id="Moji" tvg-url="https://www.bevy.be/bevyfiles/indonesiapremium1.xml" tvg-logo="https://cdns.klimg.com/merdeka.com/i/w/news/2022/08/30/1467272/540x270/moji-surga-tontonan-bagi-pemirsa-olahraga-dan-anak-muda.png" group-title="🔴NASIONAL",MOJI TV (INDIHOME) 🇮🇩
 https://cdn09jtedge.indihometv.com/joss/134/ochannel720/index.m3u8
-#EXTINF:-1 group-title="🔴NASIONAL" tvg-logo="https://thumbor.prod.vidiocdn.com/CjN9Xxo8VbEF-D3bK8Xxpiy4c_A=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7230/magna-tv-c3b724.jpg",Magna Channel
+#EXTINF:-1 group-title="🔴NASIONAL" tvg-logo="https://thumbor.prod.vidiocdn.com/CjN9Xxo8VbEF-D3bK8Xxpiy4c_A=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7230/magna-tv-c3b724.jpg",Magna Channel 🇮🇩
 https://edge.medcom.id/live-edge/smil:magna.smil/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-logo="https://i.imgur.com/hwBnVIB.jpg?v=1.0.0.1" group-title="🔴NASIONAL", Nagaswara Digital
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hwBnVIB.jpg?v=1.0.0.1" group-title="🔴NASIONAL", Nagaswara Digital 🇮🇩
 https://warningfm.github.io/utubeLive/nagaswarafmbgr.m3u8
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-id="ANTV - [Channel 115].id" tvg-url="tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/id/f/fd/Antv_logo%282009%29.png" group-title="🔴NASIONAL",ANTV (DENSTV)
+#EXTINF:-1 tvg-id="ANTV - [Channel 115].id" tvg-url="tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/id/f/fd/Antv_logo%282009%29.png" group-title="🔴NASIONAL",ANTV (DENSTV) 🇮🇩
 https://op-group1-swiftservehd-1.dens.tv/s/s07/01.m3u8
-#EXTINF:-1 tvg-id="ANTV - [Channel 115].id" tvg-url="tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/id/f/fd/Antv_logo%282009%29.png" group-title="🔴NASIONAL",ANTV
+#EXTINF:-1 tvg-id="ANTV - [Channel 115].id" tvg-url="tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/id/f/fd/Antv_logo%282009%29.png" group-title="🔴NASIONAL",ANTV 🇮🇩
 #EXTINF:-1 tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/10/PjV4C.png" group-title="Lokal",05.ANTV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=4310edb8b9ffe79abb40bacafa778ec3:aebb7e86d8a336d9a93d3dd8a41153cf
 https://dsgtq5sngxkde.cloudfront.net/live/eds/ANTV/sa_dash_vmx/ANTV.mpd|Referer=https://www.visionplus.id/&user-agent=Android
-#EXTINF:-1 tvg-id="Indosiar" tvg-logo="https://iili.io/JMp3wV1.png" group-title="🔴NASIONAL",Indosiar
+#EXTINF:-1 tvg-id="Indosiar" tvg-logo="https://iili.io/JMp3wV1.png" group-title="🔴NASIONAL",Indosiar 🇮🇩
 #EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 https://streaming.indihometv.com/atm/DASH/indosiar/manifest.mpd
 
@@ -38,12 +38,12 @@ https://streaming.indihometv.com/atm/DASH/indosiar/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #EXTVLCOPT:http-referrer=https://www.indihometv.com
-#EXTINF:-1 group-title="Kids" tvg-logo="https://images.indihometv.com/logo_mentaritv_small.png",Mentari TV
+#EXTINF:-1 group-title="Kids" tvg-logo="https://images.indihometv.com/logo_mentaritv_small.png",Mentari TV 🇮🇩
 https://cdn09jtedge.indihometv.com/joss/134/mentaritv/index.m3u8?c
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="🔴NASIONAL",TRANS 7
+#EXTINF:-1 tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="🔴NASIONAL",TRANS 7 🇮🇩
 https://video.detik.com/trans7/smil:trans7.smil/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/RnrimdT.png?v=1.0.0.1" group-title="🔴NASIONAL",TRANS TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RnrimdT.png?v=1.0.0.1" group-title="🔴NASIONAL",TRANS TV 🇮🇩
 https://video.detik.com/transtv/smil:transtv.smil/chunklist.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_type=clearkey
