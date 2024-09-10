@@ -2571,7 +2571,7 @@ https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/chu
 http://live.sportstv.com.tr/hls/low/sportstv_fhd/index.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://dl.dropbox.com/scl/fi/cy3d92xlchf91uwka36n6/Sportv.png?rlkey=yebzx815ligluky8rxlpzwilb&dl=0", SPORTV
 http://assista.pro:80/0333686557/Vilamariante1/125386
-#EXTINF:-1 tvg-id="TNTSports1.uk" tvg-logo="https://iili.io/JV1byLF.png" group-title="BRITISH SPORTS",TNT Sports 1
+#EXTINF:-1 tvg-id="TNTSports1.uk" tvg-logo="https://iili.io/JV1byLF.png" group-title="Sports",TNT Sports 1
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -2606,37 +2606,31 @@ https://live.ll.ww.aiv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/i2pcjr4pe5/o
 #KODIPROP:inputstream.adaptive.license_key=60c0d9b41475e01db4ffb91ed557fbcc:36ee40e58948ca15e3caba8d47b8f34b
 https://live.ll.ww.aiv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/gesdwrdncn/out/v1/79e752f1eccd4e18b6a8904a0bc01f2d/cenc.mpd
 
-#EXTINF:-1 tvg-id="DAZN1HD.uk" tvg-logo="https://iili.io/d06YU1p.png" group-title="Sports",DAZN 1 UK
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=8ab47741930c476780515f9a00decb0a:7ab4b9ae5a48aa526e511a913b832769
-https://getdazn.starlive.workers.dev/https://dcf-fs-live-dazn-cdn.dazn.com/dash/dazn-linear-045/stream.mpd
+#EXTINF:-1 tvg-id="819.astro" tvg-logo="https://iili.io/JhkQCrl.png" group-title="Sports",beIN Sports 3 Malaysia
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=0d2418cc6a29a3516d1854ab2973f25f:4979b73603b430465aa4e7bbdefbc4cc
+https://pop5clustera00de07172379a62d6189.hypp.tv:443/PLTV/88888888/224/3221227892/3221227892.mpd?rrsip=web.hypp.tv:443&zoneoffset=0&servicetype=1&icpid=&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=U0v281lovZMLWzqtXjPtYuOXwQCoIQRk449J%2BBUCcawRjfkMvdAX9TZ5I%2BbsmfrUDhVRD65aYf%2BjyDsSSHpLfkrcymHBIhx5oJP4jv2fPK0%3D%3A20230206102855%3AUTC%2C1003663983%2C115.164.187.20%2C20230206102855%2Curn:Huawei:liveTV:XTV55456355%2C1003663983%2C-1%2C0%2C1%2C%2C%2C2%2C593%2C%2C%2C2%2C1343117%2C0%2C248412%2C47562943%2C%2C%2C2%2C1%2CEND&GuardEncType=2&it=H4sIAAAAAAAAADWOwQ6CMBBE_6bHhpYCeuhJY2Ji0AT0atbtUomFagsm_r2ieJ2ZN3lDAKTtWjeXQmUyRcpypVCYJaIiVAmmgFlDgkV6lF5LhuBc29vSmwk7VauzSHjCpRRcSFZPdxsHdl6WY3ehoNM_VlF4tkjaxIY_IXKwNpCFofU9Pzh4HYObJ4zqWU3kRZYvE1VIpRZsmNIa4u3TsCvEle_uEMjsvP0CugEXid0Bb2CphI50Pzr34_bBfGzeA19EPPQAAAA&tenantId=6001
  
-#EXTINF:-1 tvg-id="ELEVEN SPORTS 1.pt" tvg-logo="https://iili.io/d06YU1p.png" group-title="Sports",DAZN 1 Portugal
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=8ab47741930c476780515f9a00decb0a:7ab4b9ae5a48aa526e511a913b832769
-https://getdazn.starlive.workers.dev/https://dcf-fs-live-dazn-cdn.dazn.com/dash/dazn-linear-054/stream.mpd
+#EXTINF:-1 tvg-id="710.unifi" tvg-logo="https://iili.io/JhkQo22.png" group-title="Sports",beIN Sports 4 Malaysia
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=94663e64ef81e90a9deeb0f1993ce11c:9d6f78876677b543cd4e18c846aa2481
+https://pop5clustera00de07172379a62d6189.hypp.tv:443/PLTV/88888888/224/3221227937/3221227937.mpd?rrsip=web.hypp.tv:443&zoneoffset=0&servicetype=1&icpid=&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=U0v281lovZMLWzqtXjPtYuOXwQCoIQRk449J%2BBUCcawRjfkMvdAX9TZ5I%2BbsmfrU7%2B8kYXzOcpo3wc%2BwgB1By0rcymHBIhx5oJP4jv2fPK0%3D%3A20230206102855%3AUTC%2C1003663983%2C115.164.187.20%2C20230206102855%2Curn:Huawei:liveTV:XTV57682031%2C1003663983%2C-1%2C0%2C1%2C%2C%2C2%2C593%2C%2C%2C2%2C1343117%2C0%2C248412%2C47562943%2C%2C%2C2%2C1%2CEND&GuardEncType=2&it=H4sIAAAAAAAAADWOwY6CMBRF_6bLpn10wC660piYTHASGbfmUR6VWKi2QDJ_P6K4vfeemzNGtHTYGRKbPMu0shsAVdu2FlDkYNtMo4RaS5boUQYDzKL33eDK0CzY-bS9SMEFB5BcAquWu71Hty7Lqa8pmuyDnSjOnSXTpJbPmDg6F8nh2IWB_3j8-41-nTCqVjWZF1-5FqoApTQbl7TCdHs27IppG_o7Rmq-g3sBpkWfiN3R3tBRiT2ZYfL-zR1j87T5B0NkEFD0AAAA&tenantId=6001
  
-#EXTINF:-1 tvg-id="ELEVEN SPORTS 2.pt" tvg-logo="https://iili.io/d06YSBR.png" group-title="Sports",DAZN 2 Portugal
+#EXTINF:-1 tvg-id="816.astro" tvg-logo="https://iili.io/JjzVsK7.png" group-title="Sports",SPOTV Malaysia
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=8ab47741930c476780515f9a00decb0a:7ab4b9ae5a48aa526e511a913b832769
-https://getdazn.starlive.workers.dev/https://dcf-fs-live-dazn-cdn.dazn.com/dash/dazn-linear-055/stream.mpd
+#KODIPROP:inputstream.adaptive.license_key=7de0fa3c35f52f8a8517f1600dd11ed7:2d59cf94d10020aeee01a97cd0716eea
+https://pop5clustera00de07172379a62d6189.hypp.tv:443/PLTV/88888888/224/3221227608/3221227608.mpd?rrsip=web.hypp.tv:443&zoneoffset=0&servicetype=1&icpid=&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=U0v281lovZMLWzqtXjPtYuOXwQCoIQRk449J%2BBUCcawWP5a6lzyDPJ57LXeuC05Cs44sM6v4Pb96oLcepTGODErcymHBIhx5oJP4jv2fPK0%3D%3A20230206101724%3AUTC%2C1003663983%2C115.164.187.20%2C20230206101724%2Curn:Huawei:liveTV:XTV100000161%2C1003663983%2C-1%2C0%2C1%2C%2C%2C2%2C593%2C%2C%2C2%2C1343117%2C0%2C248412%2C47562943%2C%2C%2C2%2C1%2CEND&GuardEncType=2&it=H4sIAAAAAAAAADWOy27CMBRE_8ZLK3YehIVXIKRKVahE6Laa2NcmihODHZD695A2bGfmjM4coeljr1B2dV7Zqsu1LeoS2EhRk611tu2MFYYlujVBSabhfT-5JpgF-z7tfkTGMy6l4EKydrk7eLh12dzHjqLK39iJ4qPXpEyy_IHE4Vwkh7kPE__y-D1Hv04YtauaqDZltc0KKQuZs3lJW6Th1bAL0i6MV0Qyn8H9AcrCJ2JX6AGOGoykprv3_9wxmpfNEzpVq7L0AAAA&tenantId=6001
  
-#EXTINF:-1 tvg-id="ELEVEN SPORTS 3.pt" tvg-logo="https://iili.io/d06YvLv.png" group-title="Sports",DAZN 3 Portugal
+#EXTINF:-1 tvg-id="810.astro" tvg-logo="https://iili.io/JjzVPPS.png" group-title="Sports",SPOTV2 Malaysia
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=8ab47741930c476780515f9a00decb0a:7ab4b9ae5a48aa526e511a913b832769
-https://getdazn.starlive.workers.dev/https://dcf-fs-live-dazn-cdn.dazn.com/dash/dazn-linear-056/stream.mpd
+#KODIPROP:inputstream.adaptive.license_key=7c67cb7de9465062c06ac94e8e065462:5931fc07f285ffe40eb98e130bb090f9
+https://pop5clustera00de07172379a62d6189.hypp.tv:443/PLTV/88888888/224/3221227726/3221227726.mpd?rrsip=web.hypp.tv:443&zoneoffset=0&servicetype=1&icpid=&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=U0v281lovZMLWzqtXjPtYuOXwQCoIQRk449J%2BBUCcawRjfkMvdAX9TZ5I%2BbsmfrUeOV6Zn1IaYCsVySN%2F6aTU0rcymHBIhx5oJP4jv2fPK0%3D%3A20230206102855%3AUTC%2C1003663983%2C115.164.187.20%2C20230206102855%2Curn:Huawei:liveTV:XTV100000162%2C1003663983%2C-1%2C0%2C1%2C%2C%2C2%2C593%2C%2C%2C2%2C1343117%2C0%2C248412%2C47562943%2C%2C%2C2%2C1%2CEND&GuardEncType=2&it=H4sIAAAAAAAAADWOwY6CMBiE36bHpi0I9tCTGxOTDbuJrFczhZ9KLNRt0cS3X1D2NpmZbzJTREOHD5PZwoqt0IXSXZ7JEnqWCp2WFhtlBUv0WwWjWAPv-9FVoV2w03F3loILrpTkUrF6mdt7uLVZ3QdL0WT_2JHio2_ItKnjDyQO5yI5TH0Y-bfH8yf6tcKoXq_JotwUWuSlyvOSTYtbI13nhF2QdmG4IVL7GdwLMB18InZDc4WjCgOZ8e79m_uK7fzmD_CkDoH0AAAA&tenantId=6001
  
-#EXTINF:-1 tvg-id="ELEVEN SPORTS 4.pt" tvg-logo="https://iili.io/d06YkhJ.png" group-title="Sports",DAZN 4 Portugal
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=8ab47741930c476780515f9a00decb0a:7ab4b9ae5a48aa526e511a913b832769
-https://getdazn.starlive.workers.dev/https://dcf-fs-live-dazn-cdn.dazn.com/dash/dazn-linear-057/stream.mpd
- 
-#EXTINF:-1 tvg-id="ELEVEN SPORTS 5.pt" tvg-logo="https://iili.io/d06lKgV.png" group-title="Sports",DAZN 5 Portugal
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=8ab47741930c476780515f9a00decb0a:7ab4b9ae5a48aa526e511a913b832769
-https://getdazn.starlive.workers.dev/https://dcf-fs-live-dazn-cdn.dazn.com/dash/dazn-linear-058/stream.mpd
- 
-#EXTINF:-1 tvg-id="ELEVEN SPORTS 6.pt" tvg-logo="https://iili.io/d06lF0Q.png" group-title="Sports",DAZN 6 Portugal
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=8ab47741930c476780515f9a00decb0a:7ab4b9ae5a48aa526e511a913b832769
-https://getdazn.starlive.workers.dev/https://dcf-fs-live-dazn-cdn.dazn.com/dash/dazn-linear-059/stream.mpd
