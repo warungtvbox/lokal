@@ -61,6 +61,13 @@ https://op-group1-swiftservehd-1.dens.tv/s/s07/01.m3u8#EXTINF:-1 tvg-id="ANTV - 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=4310edb8b9ffe79abb40bacafa778ec3:aebb7e86d8a336d9a93d3dd8a41153cf
 https://dsgtq5sngxkde.cloudfront.net/live/eds/ANTV/sa_dash_vmx/ANTV.mpd|Referer=https://www.visionplus.id/&user-agent=Android
+#EXTINF:0 tvg-logo="https://thumbor.prod.vidiocdn.com/48F9olniTUdrKcUoUrq-4U45A00=/372x211/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/205/indosiar-bb689b.jpg" group-title="🔴NASIONAL",Indosiar BRI Liga Live_MPD(OTT.PLAYER)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://sritv.serv00.net/red/play.php?id=205&type=drm
+https://sritv.serv00.net/red/play.mpd?id=205&type=dash
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -2696,3 +2703,28 @@ http://defaultgen.com:3050/Teststick256/AKzhFs4r8s/425325
 http://defaultgen.com:3050/Teststick256/AKzhFs4r8s/425324
 #EXTINF:-1 tvg-id="NowSports7.hk" tvg-name="HK Now Sports 7" tvg-logo="https://www.nowtv.now.com/wp-content/uploads/2020/01/600-Now-Sports.png" group-title="Sports",HK|Now>Sports 7
 http://defaultgen.com:3050/Teststick256/AKzhFs4r8s/425323
+
+#EXTINF:-1 tvg-id="NowSportsPremierLeague1.hk" tvg-name="HK Now Premier Sports 1" tvg-logo="https://www.nowtv.now.com/wp-content/uploads/2020/01/600-Now-Sports.png" group-title="Sports",HK|Now>Premier Sports 1
+http://defaultgen.com:3050/Teststick256/AKzhFs4r8s/425332
+#EXTINF:-1 tvg-id="NowSportsPremierLeague2.hk" tvg-name="HK Now Premier Sports 2" tvg-logo="https://www.nowtv.now.com/wp-content/uploads/2020/01/600-Now-Sports.png" group-title="Sports",HK|Now>Premier Sports 2(live.event)
+http://defaultgen.com:3050/Teststick256/AKzhFs4r8s/425333
+#EXTINF:-1 tvg-id="NowSportsPremierLeague3.hk" tvg-name="HK Now Premier Sports 3" tvg-logo="https://www.nowtv.now.com/wp-content/uploads/2020/01/600-Now-Sports.png" group-title="Sports",HK|Now>Premier Sports 3[live event]
+http://defaultgen.com:3050/Teststick256/AKzhFs4r8s/425334
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/hHs8y6F/shareext-football-logo.jpg" group-title="Sports", TEN SPORTS HD_@@
+http://125.209.88.166:45793/BRN/TenSports.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/hHs8y6F/shareext-football-logo.jpg" group-title="Sports", DD.SPORTS
+http://172.105.123.238:18002/play/a02b
+
+#EXTINF:-1 tvg-id="" tvg-name="MY151:sukan" tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="Sports", sukan.RTM🇲🇾
+http://mohdtv.com:8880/ALLChannels580cde003e8c/31680791/71123
+#EXTINF:-1 tvg-id="" tvg-name="MY039:Arena2" tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="Sports", ASTRO.Arena2🇲🇾
+http://mohdtv.com:8880/ALLChannels580cde003e8c/31680791/1696
+#EXTINF:-1 tvg-id="" tvg-name="MY040:ASTRO ASSP HD" tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="Sports", ASSP HD🇲🇾
+http://mohdtv.com:8880/ALLChannels580cde003e8c/31680791/59220
+#EXTINF:-1 tvg-id="" tvg-name="MY041:ASTRO ASSP2 HD" tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="Sports", ASSP2 HD🇲🇾
+http://mohdtv.com:8880/ALLChannels580cde003e8c/31680791/59219
+#EXTINF:-1 tvg-id="" tvg-name="MY042:ASTRO ASSP3 HD" tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="Sports", ASSP3 HD🇲🇾
+http://mohdtv.com:8880/ALLChannels580cde003e8c/31680791/59218
+#EXTINF:-1 tvg-id="" tvg-name="MY043:ASTRO ASSP4 HD" tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="Sports", ASSP4 HD🇲🇾
+http://mohdtv.com:8880/ALLChannels580cde003e8c/31680791/59217
