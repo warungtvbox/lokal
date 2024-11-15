@@ -81,8 +81,8 @@ https://cdn09jtedge.indihometv.com/joss/134/mentaritv/index.m3u8?c
 https://video.detik.com/trans7/smil:trans7.smil/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/p4813vn2o8275z1/trans7.png" group-title="🔴NASIONAL", TRANS 7🇮🇩
 https://video.detik.com/trans7/smil:trans7.smil/chunklist_kamiselaluada_b744100_sleng.m3u8
-#EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_87.png" group-title="🔴NASIONA",Trans TV🇮🇩
-https://livestream.transtv.co.id/stream/live/ttv.m3u8🇮🇩
+#EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_87.png" group-title="🔴NASIONAL",Trans TV🇮🇩
+https://livestream.transtv.co.id/stream/live/ttv.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RnrimdT.png?v=1.0.0.1" group-title="🔴NASIONAL",TRANS TV 🇮🇩
 https://video.detik.com/transtv/smil:transtv.smil/chunklist.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
