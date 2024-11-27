@@ -610,6 +610,8 @@ http://opplex.tv:8080/live/1525939/1552699/350957.ts
 http://opplex.tv:8080/live/1525939/1552699/350956.ts
 #EXTINF:-1 tvg-id="HBO Signature (HD).sg" tvg-logo="https://iili.io/Jmo911f.png" group-title="Movies",HBO Signature
 http://opplex.tv:8080/live/1525939/1552699/350958.ts
+#EXTINF:-1 tvg-id="CINEMAX (HD).sg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/611-cinemax.png" group-title="Premium Movies",Cinemax
+http://opplex.tv:8080/live/1525939/1552699/350922.ts
 
 
 
