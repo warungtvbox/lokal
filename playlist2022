@@ -75,9 +75,9 @@ http://xtv.ooo:8080/live/35588981/18988553/350972.ts
 #EXTVLCOPT:http-referrer=https://www.indihometv.com
 #EXTINF:-1 group-title="🔴NASIONAL" tvg-logo="https://images.indihometv.com/logo_mentaritv_small.png",Mentari TV 🇮🇩
 https://cdn09jtedge.indihometv.com/joss/134/mentaritv/index.m3u8?c
-#EXTINF:-1 tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="🔴NASIONAL",TRANS 7 🇮🇩
+#EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_110.png" group-title="🔴NASIONAL",TRANS 7 🇮🇩
 https://video.detik.com/trans7/smil:trans7.smil/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_87.png" group-title="🔴NASIONAL", TRANS 7🇮🇩
+#EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_110.png" group-title="🔴NASIONAL", TRANS 7🇮🇩
 https://video.detik.com/trans7/smil:trans7.smil/chunklist_kamiselaluada_b744100_sleng.m3u8
 #EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_87.png" group-title="🔴NASIONAL",Trans TV🇮🇩
 https://livestream.transtv.co.id/stream/live/ttv.m3u8
