@@ -16,11 +16,15 @@ EXTINF:0 group-title="🔴NASIONAL" tvg-logo="https://raw.githubusercontent.com/
 #KODIPROP:inputstream.adaptive.license_key=https://natan.nonas.workers.dev/licesnse?id=1002
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/6f5596513af749c19d0bcdac013dda3c/index.mpd
-
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
+#EXTVLCOPT:http-referrer=https://visionplus.id
+#EXTINF:-1 group-title="🔴NASIONAL" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_88.png",Sportstars 4
+#https://cempedak-live-cdn.mncnow.id/live/eds/Sportstar4/sa_dash_vmx/Sportstar4.mpd
 EXTINF:-1 group-title="🔴NASIONAL" tvg-id="" tvg-url="" tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/main/sportstars4.png",Sportstars 4
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=b81b1942c65f35547ced1bff074206a5:a07dc4d86f51db7195f4b7e2abe9d9e8
-https://d1abp075u76pbq.cloudfront.net/live/eds/Sportstar4/sa_dash_vmx/Sportstar4.mpd|Referer=https://www.visionplus.id/
+https://d1abp075u76pbq.cloudfront.net/live/eds/Sportstar4/sa_dash_vmx/Sportstar4.mpd
 
 #EXTINF:-1 tvg-id="Vision Prime HD - [Channel 1].id" tvg-logo="https://iili.io/JZInBLX.png" group-title="🔴NASIONAL",Vision Prime
 #KODIPROP:inputstream.adaptive.license_type=clearkey
