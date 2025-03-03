@@ -449,8 +449,8 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60f74ba51c82ac000776c6
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/637e55347427a40007fac703/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
 -------------------------- MOVIES --------------------------
-#EXTINF:-1 group-title="CH Indo Temp" tvg-logo="https://raw.githubusercontent.com/Andrilight/Nonton/refs/heads/main/Al3.png",Cinemax ID
-https://nonton.site:8443/DZqjznfyyn/3Q9O2vucT6/2156
+#EXTINF:-1 group-title="Movies" tvg-logo="https://raw.githubusercontent.com/Andrilight/Nonton/refs/heads/main/Al3.png",Cinemax ID
+https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/2156.m3u8
 #EXTINF:-1 tvg-id="411.astro" tvg-logo="https://linear-poster.astro.com.my/prod/logo/HBO_v1.png" group-title="Movies",HBO(play)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
 #http://extraott.com:80/live/6945574629/7169628753/191943.m3u8
@@ -500,8 +500,6 @@ https://d1abp075u76pbq.cloudfront.net/live/eds/Rockaction/sa_dash_vmx/Rockaction
 #KODIPROP:inputstream.adaptive.license_key=c5d5297a84f8b2de977f07286345c591:bdb773d6d25303b75a396b8040cfaf8c
 #EXTVLCOPT:http-referrer=https://visionplus.id/
 https://d1abp075u76pbq.cloudfront.net/live/eds/AXN/sa_dash_vmx/AXN.mpd
-
-
 #EXTINF:-1 tvg-id="712.astro" tvg-logo="https://iili.io/JZIC9Hl.png" group-title="Movies",Warner TV
 #EXTVLCOPT:http-referrer=https://www.cubmu.com/
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
