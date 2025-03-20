@@ -1252,49 +1252,41 @@ http://extraott.com:900/live/3162523972/3791698850/112522.m3u8
 http://extraott.com:900/live/3162523972/3791698850/112521.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AR-SP| KUW KTV SPORT PLUS" tvg-logo="https://lo1.in/FCB/ktvplus0.png" group-title="Sports",AR-SP| KUW KTV SPORT PLUS
 http://extraott.com:900/live/3162523972/3791698850/112520.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="AR-SP| BAHR BAHRAIN SPORTS 1 HD" tvg-logo="https://lo1.in/arss/bahrains.png" group-title="AR | ARAB SPORT",AR-SP| BAHR BAHRAIN SPORTS 1 HD
+#EXTINF:-1 tvg-id="" tvg-name="AR-SP| BAHR BAHRAIN SPORTS 1 HD" tvg-logo="https://lo1.in/arss/bahrains.png" group-title="Sports",AR-SP| BAHR BAHRAIN SPORTS 1 HD
 http://extraott.com:900/live/3162523972/3791698850/112519.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AR-SP| BAHR BAHRAIN SPORTS 2 HD" tvg-logo="https://lo1.in/arss/bahrains2.png" group-title="AR | ARAB SPORT",AR-SP| BAHR BAHRAIN SPORTS 2 HD
+#EXTINF:-1 tvg-id="" tvg-name="AR-SP| BAHR BAHRAIN SPORTS 2 HD" tvg-logo="https://lo1.in/arss/bahrains2.png" group-title="Sports",AR-SP| BAHR BAHRAIN SPORTS 2 HD
 http://extraott.com:900/live/3162523972/3791698850/112518.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AR-SP| OMAN OMAN SPORT  HD" tvg-logo="https://lo1.in/arss/omansport.png" group-title="AR | ARAB SPORT",AR-SP| OMAN OMAN SPORT  HD
+#EXTINF:-1 tvg-id="" tvg-name="AR-SP| OMAN OMAN SPORT  HD" tvg-logo="https://lo1.in/arss/omansport.png" group-title="Sports",AR-SP| OMAN OMAN SPORT  HD
 http://extraott.com:900/live/3162523972/3791698850/112517.m3u8
-#EXTINF:-1 tvg-id="abudhabisports1.ae" tvg-name="AR-SP| UAE AD SPORTS 1 HD" tvg-logo="https://lo1.in/arss/omansport.png" group-title="AR | ARAB SPORT",AR-SP| UAE AD SPORTS 1 HD
+#EXTINF:-1 tvg-id="abudhabisports1.ae" tvg-name="AR-SP| UAE AD SPORTS 1 HD" tvg-logo="https://lo1.in/arss/omansport.png" group-title="Sports",AR-SP| UAE AD SPORTS 1 HD
 http://extraott.com:900/live/3162523972/3791698850/112516.m3u8
-#EXTINF:-1 tvg-id="abudhabisports2.ae" tvg-name="AR-SP| UAE AD SPORTS 2 HD" tvg-logo="https://lo1.in/arss/ad2.png" group-title="AR | ARAB SPORT",AR-SP| UAE AD SPORTS 2 HD
+#EXTINF:-1 tvg-id="abudhabisports2.ae" tvg-name="AR-SP| UAE AD SPORTS 2 HD" tvg-logo="https://lo1.in/arss/ad2.png" group-title="Sports",AR-SP| UAE AD SPORTS 2 HD
 http://extraott.com:900/live/3162523972/3791698850/112515.m3u8
-#EXTINF:-1 tvg-id="abudhabisports1.ae" tvg-name="AR-SP| UAE AD SPORTS 1 SD" tvg-logo="https://lo1.in/arss/ad1.png" group-title="AR | ARAB SPORT",AR-SP| UAE AD SPORTS 1 SD
-http://extraott.com:900/live/3162523972/3791698850/112512.m3u8
-#EXTINF:-1 tvg-id="abudhabisports2.ae" tvg-name="AR-SP| UAE AD SPORTS 2 SD" tvg-logo="https://lo1.in/arss/ad2.png" group-title="AR | ARAB SPORT",AR-SP| UAE AD SPORTS 2 SD
-http://extraott.com:900/live/3162523972/3791698850/112511.m3u8
-#EXTINF:-1 tvg-id="adsportsasia1.ae" tvg-name="AR-SP| UAE AD SPORTS ASIA 1 HEVC" tvg-logo="https://lo1.in/FCB/ads.png" group-title="AR | ARAB SPORT",AR-SP| UAE AD SPORTS ASIA 1 HEVC
+#EXTINF:-1 tvg-id="adsportsasia1.ae" tvg-name="AR-SP| UAE AD SPORTS ASIA 1 HEVC" tvg-logo="https://lo1.in/FCB/ads.png" group-title="Sports",AR-SP| UAE AD SPORTS ASIA 1 HEVC
 http://extraott.com:900/live/3162523972/3791698850/25130.m3u8
-#EXTINF:-1 tvg-id="adsportsasia2.ae" tvg-name="AR-SP| UAE AD SPORTS ASIA 2 HEVC" tvg-logo="https://lo1.in/FCB/ads.png" group-title="AR | ARAB SPORT",AR-SP| UAE AD SPORTS ASIA 2 HEVC
+#EXTINF:-1 tvg-id="adsportsasia2.ae" tvg-name="AR-SP| UAE AD SPORTS ASIA 2 HEVC" tvg-logo="https://lo1.in/FCB/ads.png" group-title="Sports",AR-SP| UAE AD SPORTS ASIA 2 HEVC
 http://extraott.com:900/live/3162523972/3791698850/25129.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AR-SP| UAE AL SHARJAH SPORT HD" tvg-logo="https://lo1.in/arss/alshsrjah.png" group-title="AR | ARAB SPORT",AR-SP| UAE AL SHARJAH SPORT HD
+#EXTINF:-1 tvg-id="" tvg-name="AR-SP| UAE AL SHARJAH SPORT HD" tvg-logo="https://lo1.in/arss/alshsrjah.png" group-title="Sports",AR-SP| UAE AL SHARJAH SPORT HD
 http://extraott.com:900/live/3162523972/3791698850/112507.m3u8
-#EXTINF:-1 tvg-id="dubaisports1.ae" tvg-name="AR-SP| UAE DUBAI SPORT 1 HD" tvg-logo="https://lo1.in/arss/dubais10.png" group-title="AR | ARAB SPORT",AR-SP| UAE DUBAI SPORT 1 HD
+#EXTINF:-1 tvg-id="dubaisports1.ae" tvg-name="AR-SP| UAE DUBAI SPORT 1 HD" tvg-logo="https://lo1.in/arss/dubais10.png" group-title="Sports",AR-SP| UAE DUBAI SPORT 1 HD
 http://extraott.com:900/live/3162523972/3791698850/112506.m3u8
-#EXTINF:-1 tvg-id="dubaisports2.ae" tvg-name="AR-SP| UAE DUBAI SPORT 2 HD" tvg-logo="https://lo1.in/arss/dubais10.png" group-title="AR | ARAB SPORT",AR-SP| UAE DUBAI SPORT 2 HD
+#EXTINF:-1 tvg-id="dubaisports2.ae" tvg-name="AR-SP| UAE DUBAI SPORT 2 HD" tvg-logo="https://lo1.in/arss/dubais10.png" group-title="Sports",AR-SP| UAE DUBAI SPORT 2 HD
 http://extraott.com:900/live/3162523972/3791698850/112505.m3u8
-#EXTINF:-1 tvg-id="dubaisports3.ae" tvg-name="AR-SP| UAE DUBAI SPORT 3 HD" tvg-logo="https://lo1.in/arss/dubais10.png" group-title="AR | ARAB SPORT",AR-SP| UAE DUBAI SPORT 3 HD
+#EXTINF:-1 tvg-id="dubaisports3.ae" tvg-name="AR-SP| UAE DUBAI SPORT 3 HD" tvg-logo="https://lo1.in/arss/dubais10.png" group-title="Sports",AR-SP| UAE DUBAI SPORT 3 HD
 http://extraott.com:900/live/3162523972/3791698850/112504.m3u8
-#EXTINF:-1 tvg-id="dubairacing.ae" tvg-name="AR-SP| UAE DUBAI RACING 1 HD" tvg-logo="https://lo1.in/arss/dubair0.png" group-title="AR | ARAB SPORT",AR-SP| UAE DUBAI RACING 1 HD
+#EXTINF:-1 tvg-id="dubairacing.ae" tvg-name="AR-SP| UAE DUBAI RACING 1 HD" tvg-logo="https://lo1.in/arss/dubair0.png" group-title="Sports",AR-SP| UAE DUBAI RACING 1 HD
 http://extraott.com:900/live/3162523972/3791698850/112503.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AR-SP| UAE DUBAI RACING 2" tvg-logo="https://lo1.in/arss/dubair0.png" group-title="AR | ARAB SPORT",AR-SP| UAE DUBAI RACING 2
+#EXTINF:-1 tvg-id="" tvg-name="AR-SP| UAE DUBAI RACING 2" tvg-logo="https://lo1.in/arss/dubair0.png" group-title="Sports",AR-SP| UAE DUBAI RACING 2
 http://extraott.com:900/live/3162523972/3791698850/112502.m3u8
-#EXTINF:-1 tvg-id="dubairacing3.ae" tvg-name="AR-SP| UAE DUBAI RACING 3" tvg-logo="https://lo1.in/arss/dubair0.png" group-title="AR | ARAB SPORT",AR-SP| UAE DUBAI RACING 3
+#EXTINF:-1 tvg-id="dubairacing3.ae" tvg-name="AR-SP| UAE DUBAI RACING 3" tvg-logo="https://lo1.in/arss/dubair0.png" group-title="Sports",AR-SP| UAE DUBAI RACING 3
 http://extraott.com:900/live/3162523972/3791698850/112501.m3u8
-#EXTINF:-1 tvg-id="yassports.ae" tvg-name="AR-SP| UAE YAS SPORTS FHD" tvg-logo="https://lo1.in/arss/yassport.png" group-title="AR | ARAB SPORT",AR-SP| UAE YAS SPORTS FHD
-http://extraott.com:900/live/3162523972/3791698850/112500.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="AR-SP| DAZN EVENT 01 TOD" tvg-logo="https://lo1.in/it/dzn.png" group-title="AR | ARAB SPORT",AR-SP| DAZN EVENT 01 TOD
+#EXTINF:-1 tvg-id="" tvg-name="AR-SP| DAZN EVENT 01 TOD" tvg-logo="https://lo1.in/it/dzn.png" group-title="Sports",AR-SP| DAZN EVENT 01 TOD
 http://extraott.com:900/live/3162523972/3791698850/401440488.m3u8
 
 
-#EXTINF:-1 tvg-id="abudhabisports1premium.ae" tvg-name="AD SPORTS 1 HEVC" tvg-logo="https://lo1.in/stplay1/adh1.png" group-title="STARZPLAY",AD SPORTS 1 HEVC
+#EXTINF:-1 tvg-id="abudhabisports1premium.ae" tvg-name="AD SPORTS 1 HEVC" tvg-logo="https://lo1.in/stplay1/adh1.png" group-title="Sports",AD SPORTS 1 HEVC
 http://extraott.com:900/live/3162523972/3791698850/21493.m3u8
-#EXTINF:-1 tvg-id="abudhabisports2premium.ae" tvg-name="AD SPORTS 2 HEVC" tvg-logo="https://lo1.in/stplay1/sadh2.png" group-title="STARZPLAY",AD SPORTS 2 HEVC
+#EXTINF:-1 tvg-id="abudhabisports2premium.ae" tvg-name="AD SPORTS 2 HEVC" tvg-logo="https://lo1.in/stplay1/sadh2.png" group-title="Sports",AD SPORTS 2 HEVC
 http://extraott.com:900/live/3162523972/3791698850/21492.m3u8
 
 #EXTINF:-1 tvg-id="abudhabisports1premium.ae" tvg-name="AD SPORTS PREMIUM 1 HEVC" tvg-logo="https://lo1.in/stplay1/adp1.png" group-title="STARZPLAY",AD SPORTS PREMIUM 1 HEVC
