@@ -1182,152 +1182,77 @@ http://extraott.com:900/live/3162523972/3791698850/401566171.m3u8
 http://extraott.com:900/live/3162523972/3791698850/401566170.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="DE| VER VERSTAPPEN | RED BULL (CAM)" tvg-logo="https://lo1.in/uk/f1.png" group-title="Sports",DE| VER VERSTAPPEN | RED BULL (CAM)
 http://extraott.com:900/live/3162523972/3791698850/401566169.m3u8
-
-
-
-#EXTINF:-1 tvg-id="" tvg-name="DE| RUS RUSSEL | MERCEDES (CAM)" tvg-logo="https://lo1.in/uk/f1.png" group-title="",DE| RUS RUSSEL | MERCEDES (CAM)
-http://extraott.com:900/live/3162523972/3791698850/401566166.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DE| LEC LECLERC | FERRARI (CAM)" tvg-logo="https://lo1.in/uk/f1.png" group-title="",DE| LEC LECLERC | FERRARI (CAM)
-http://extraott.com:900/live/3162523972/3791698850/401566165.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DE| SAI SAINZ | FERRARI (CAM)" tvg-logo="https://lo1.in/uk/f1.png" group-title="VIP | F1 and MotoGP",DE| SAI SAINZ | FERRARI (CAM)
-http://extraott.com:900/live/3162523972/3791698850/401566164.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DE| NOR NORRIS | MCLAREN (CAM)" tvg-logo="https://lo1.in/uk/f1.png" group-title="VIP | F1 and MotoGP",DE| NOR NORRIS | MCLAREN (CAM)
-http://extraott.com:900/live/3162523972/3791698850/401566163.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DE| OSC PIASTRI | MCLAREN (CAM)" tvg-logo="https://lo1.in/uk/f1.png" group-title="VIP | F1 and MotoGP",DE| OSC PIASTRI | MCLAREN (CAM)
-http://extraott.com:900/live/3162523972/3791698850/401566162.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DE| BOT BOTTAS | ALFA ROMEO (CAM)" tvg-logo="https://lo1.in/uk/f1.png" group-title="VIP | F1 and MotoGP",DE| BOT BOTTAS | ALFA ROMEO (CAM)
-http://extraott.com:900/live/3162523972/3791698850/401566161.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DE| ZHO ZHOU | ALFA ROMEO (CAM)" tvg-logo="https://lo1.in/uk/f1.png" group-title="VIP | F1 and MotoGP",DE| ZHO ZHOU | ALFA ROMEO (CAM)
-http://extraott.com:900/live/3162523972/3791698850/401566160.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DE| STR STROLL | ASTON MARTIN (CAM)" tvg-logo="https://lo1.in/uk/f1.png" group-title="VIP | F1 and MotoGP",DE| STR STROLL | ASTON MARTIN (CAM)
-http://extraott.com:900/live/3162523972/3791698850/401566159.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DE| ALO ALONSO | ASTON MARTIN (CAM)" tvg-logo="https://lo1.in/uk/f1.png" group-title="VIP | F1 and MotoGP",DE| ALO ALONSO | ASTON MARTIN (CAM)
-http://extraott.com:900/live/3162523972/3791698850/401566158.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DE| HULK HULKENBERG | HAASTEAM (CAM)" tvg-logo="https://lo1.in/uk/f1.png" group-title="VIP | F1 and MotoGP",DE| HULK HULKENBERG | HAASTEAM (CAM)
-http://extraott.com:900/live/3162523972/3791698850/401566157.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DE| MAG MAGNUSSEN | HAASTEAM (CAM)" tvg-logo="https://lo1.in/uk/f1.png" group-title="VIP | F1 and MotoGP",DE| MAG MAGNUSSEN | HAASTEAM (CAM)
-http://extraott.com:900/live/3162523972/3791698850/401566156.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DE| GAS GASLY | ALPINE (CAM)" tvg-logo="https://lo1.in/uk/f1.png" group-title="VIP | F1 and MotoGP",DE| GAS GASLY | ALPINE (CAM)
-http://extraott.com:900/live/3162523972/3791698850/401566155.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DE| OCO OCON | ALPINE (CAM)" tvg-logo="https://lo1.in/uk/f1.png" group-title="VIP | F1 and MotoGP",DE| OCO OCON | ALPINE (CAM)
-http://extraott.com:900/live/3162523972/3791698850/401566154.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DE| RIC RICCIARDO | ALPHA TAURI (CAM)" tvg-logo="https://lo1.in/uk/f1.png" group-title="VIP | F1 and MotoGP",DE| RIC RICCIARDO | ALPHA TAURI (CAM)
-http://extraott.com:900/live/3162523972/3791698850/401566153.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DE| TSU TSUNODA | ALPHA TAURI (CAM)" tvg-logo="https://lo1.in/uk/f1.png" group-title="VIP | F1 and MotoGP",DE| TSU TSUNODA | ALPHA TAURI (CAM)
-http://extraott.com:900/live/3162523972/3791698850/401566152.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DE| ALB ALBON | WILLIAMS (CAM)" tvg-logo="https://lo1.in/uk/f1.png" group-title="VIP | F1 and MotoGP",DE| ALB ALBON | WILLIAMS (CAM)
-http://extraott.com:900/live/3162523972/3791698850/401566151.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DE| SAR SARGEANT | WILLIAMS (CAM)" tvg-logo="https://lo1.in/uk/f1.png" group-title="VIP | F1 and MotoGP",DE| SAR SARGEANT | WILLIAMS (CAM)
-http://extraott.com:900/live/3162523972/3791698850/401566150.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PPV| F1 Driver | Hulkenberg [Sauber]" tvg-logo="https://lo1.in/uk/f1.png" group-title="VIP | F1 and MotoGP",PPV| F1 Driver | Hulkenberg [Sauber]
-http://extraott.com:900/live/3162523972/3791698850/41580.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="PPV| TT RACES 01" tvg-logo="https://lo1.in/ppvs/ppvlive.png" group-title="VIP | F1 and MotoGP",PPV| TT RACES 01
-http://extraott.com:900/live/3162523972/3791698850/82148.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PPV| TT RACES 02" tvg-logo="https://lo1.in/ppvs/ppvlive.png" group-title="VIP | F1 and MotoGP",PPV| TT RACES 02
-http://extraott.com:900/live/3162523972/3791698850/82147.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PPV| TT RACES 03" tvg-logo="https://lo1.in/ppvs/ppvlive.png" group-title="VIP | F1 and MotoGP",PPV| TT RACES 03
-http://extraott.com:900/live/3162523972/3791698850/42047.m3u8
-********************
-
-#EXTINF:-1 tvg-id="" tvg-name="AR-SP| KSA KSA SPORTS 1 HD" tvg-logo="https://lo1.in/arss/ksasport2.png" group-title="AR | ARAB SPORT",AR-SP| KSA KSA SPORTS 1 HD
+#EXTINF:-1 tvg-id="" tvg-name="AR-SP| KSA KSA SPORTS 1 HD" tvg-logo="https://lo1.in/arss/ksasport2.png" group-title="Sports",AR-SP| KSA KSA SPORTS 1 HD
 http://extraott.com:900/live/3162523972/3791698850/112555.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AR-SP| KSA KSA SPORTS 2 HD" tvg-logo="https://lo1.in/arss/ksasport2.png" group-title="AR | ARAB SPORT",AR-SP| KSA KSA SPORTS 2 HD
+#EXTINF:-1 tvg-id="" tvg-name="AR-SP| KSA KSA SPORTS 2 HD" tvg-logo="https://lo1.in/arss/ksasport2.png" group-title="Sports",AR-SP| KSA KSA SPORTS 2 HD
 http://extraott.com:900/live/3162523972/3791698850/112554.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AR-SP| KSA KSA SPORTS 3 HD" tvg-logo="https://lo1.in/arss/ksasport3.png" group-title="AR | ARAB SPORT",AR-SP| KSA KSA SPORTS 3 HD
+#EXTINF:-1 tvg-id="" tvg-name="AR-SP| KSA KSA SPORTS 3 HD" tvg-logo="https://lo1.in/arss/ksasport3.png" group-title="Sports",AR-SP| KSA KSA SPORTS 3 HD
 http://extraott.com:900/live/3162523972/3791698850/112553.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AR-SP| KSA KSA SPORTS 4 HD" tvg-logo="https://lo1.in/arss/ksasport4.png" group-title="AR | ARAB SPORT",AR-SP| KSA KSA SPORTS 4 HD
+#EXTINF:-1 tvg-id="" tvg-name="AR-SP| KSA KSA SPORTS 4 HD" tvg-logo="https://lo1.in/arss/ksasport4.png" group-title="Sports",AR-SP| KSA KSA SPORTS 4 HD
 http://extraott.com:900/live/3162523972/3791698850/112552.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AR-SP| KSA SSC 1 FHD" tvg-logo="https://lo1.in/FCB/ssc10.png" group-title="AR | ARAB SPORT",AR-SP| KSA SSC 1 FHD
+#EXTINF:-1 tvg-id="" tvg-name="AR-SP| KSA SSC 1 FHD" tvg-logo="https://lo1.in/FCB/ssc10.png" group-title="Sports",AR-SP| KSA SSC 1 FHD
 http://extraott.com:900/live/3162523972/3791698850/112551.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AR-SP| KSA SSC 1 FHD [BK]" tvg-logo="https://lo1.in/FCB/ssc10.png" group-title="AR | ARAB SPORT",AR-SP| KSA SSC 1 FHD [BK]
+#EXTINF:-1 tvg-id="" tvg-name="AR-SP| KSA SSC 1 FHD [BK]" tvg-logo="https://lo1.in/FCB/ssc10.png" group-title="Sports",AR-SP| KSA SSC 1 FHD [BK]
 http://extraott.com:900/live/3162523972/3791698850/400551962.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AR-SP| KSA SSC 2 FHD" tvg-logo="https://lo1.in/FCB/ssc10.png" group-title="AR | ARAB SPORT",AR-SP| KSA SSC 2 FHD
+#EXTINF:-1 tvg-id="" tvg-name="AR-SP| KSA SSC 2 FHD" tvg-logo="https://lo1.in/FCB/ssc10.png" group-title="Sports",AR-SP| KSA SSC 2 FHD
 http://extraott.com:900/live/3162523972/3791698850/112550.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AR-SP| KSA SSC 2 FHD [BK]" tvg-logo="https://lo1.in/FCB/ssc10.png" group-title="AR | ARAB SPORT",AR-SP| KSA SSC 2 FHD [BK]
+#EXTINF:-1 tvg-id="" tvg-name="AR-SP| KSA SSC 2 FHD [BK]" tvg-logo="https://lo1.in/FCB/ssc10.png" group-title="Sports",AR-SP| KSA SSC 2 FHD [BK]
 http://extraott.com:900/live/3162523972/3791698850/400551961.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AR-SP| KSA SSC 3 FHD" tvg-logo="https://lo1.in/FCB/ssc10.png" group-title="AR | ARAB SPORT",AR-SP| KSA SSC 3 FHD
+#EXTINF:-1 tvg-id="" tvg-name="AR-SP| KSA SSC 3 FHD" tvg-logo="https://lo1.in/FCB/ssc10.png" group-title="",AR-SP| KSA SSC 3 FHD
 http://extraott.com:900/live/3162523972/3791698850/112549.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AR-SP| KSA SSC 3 FHD [BK]" tvg-logo="https://lo1.in/FCB/ssc10.png" group-title="AR | ARAB SPORT",AR-SP| KSA SSC 3 FHD [BK]
-http://extraott.com:900/live/3162523972/3791698850/400551960.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AR-SP| KSA SSC 4 FHD" tvg-logo="https://lo1.in/FCB/ssc10.png" group-title="AR | ARAB SPORT",AR-SP| KSA SSC 4 FHD
-http://extraott.com:900/live/3162523972/3791698850/112548.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AR-SP| KSA SSC 4 FHD [BK]" tvg-logo="https://lo1.in/FCB/ssc10.png" group-title="AR | ARAB SPORT",AR-SP| KSA SSC 4 FHD [BK]
-http://extraott.com:900/live/3162523972/3791698850/400551959.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AR-SP| KSA SSC 5 FHD" tvg-logo="https://lo1.in/FCB/ssc10.png" group-title="AR | ARAB SPORT",AR-SP| KSA SSC 5 FHD
-http://extraott.com:900/live/3162523972/3791698850/112547.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AR-SP| KSA SSC 5 FHD [BK]" tvg-logo="https://lo1.in/FCB/ssc10.png" group-title="AR | ARAB SPORT",AR-SP| KSA SSC 5 FHD [BK]
-http://extraott.com:900/live/3162523972/3791698850/400551958.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AR-SP| KSA SSC EXTRA 1 FHD" tvg-logo="https://lo1.in/FCB/ssc10.png" group-title="AR | ARAB SPORT",AR-SP| KSA SSC EXTRA 1 FHD
-http://extraott.com:900/live/3162523972/3791698850/112546.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AR-SP| KSA SSC EXTRA 2 FHD" tvg-logo="https://lo1.in/FCB/ssc10.png" group-title="AR | ARAB SPORT",AR-SP| KSA SSC EXTRA 2 FHD
-http://extraott.com:900/live/3162523972/3791698850/112545.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AR-SP| KSA SSC 1 HD" tvg-logo="https://lo1.in/FCB/ssc10.png" group-title="AR | ARAB SPORT",AR-SP| KSA SSC 1 HD
+#EXTINF:-1 tvg-id="" tvg-name="AR-SP| KSA SSC 1 HD" tvg-logo="https://lo1.in/FCB/ssc10.png" group-title="Sports",AR-SP| KSA SSC 1 HD
 http://extraott.com:900/live/3162523972/3791698850/400551970.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AR-SP| KSA SSC 2 HD" tvg-logo="https://lo1.in/FCB/ssc10.png" group-title="AR | ARAB SPORT",AR-SP| KSA SSC 2 HD
+#EXTINF:-1 tvg-id="" tvg-name="AR-SP| KSA SSC 2 HD" tvg-logo="https://lo1.in/FCB/ssc10.png" group-title="Sports",AR-SP| KSA SSC 2 HD
 http://extraott.com:900/live/3162523972/3791698850/400551969.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AR-SP| KSA SSC 3 HD" tvg-logo="https://lo1.in/FCB/ssc10.png" group-title="AR | ARAB SPORT",AR-SP| KSA SSC 3 HD
+#EXTINF:-1 tvg-id="" tvg-name="AR-SP| KSA SSC 3 HD" tvg-logo="https://lo1.in/FCB/ssc10.png" group-title="Sports",AR-SP| KSA SSC 3 HD
 http://extraott.com:900/live/3162523972/3791698850/400551968.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AR-SP| KSA SSC 4 HD" tvg-logo="https://lo1.in/FCB/ssc10.png" group-title="AR | ARAB SPORT",AR-SP| KSA SSC 4 HD
-http://extraott.com:900/live/3162523972/3791698850/400551967.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AR-SP| KSA SSC 5 HD" tvg-logo="https://lo1.in/FCB/ssc10.png" group-title="AR | ARAB SPORT",AR-SP| KSA SSC 5 HD
+#EXTINF:-1 tvg-id="" tvg-namettp://extraott.com:900/live/3162523972/3791698850/400551967.m3u8="AR-SP| KSA SSC 5 HD" tvg-logo="https://lo1.in/FCB/ssc10.png" group-title="Sports",AR-SP| KSA SSC 5 HD
 http://extraott.com:900/live/3162523972/3791698850/400551966.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AR-SP| KSA SSC EXTRA 1 HD" tvg-logo="https://lo1.in/FCB/ssc10.png" group-title="AR | ARAB SPORT",AR-SP| KSA SSC EXTRA 1 HD
+#EXTINF:-1 tvg-id="" tvg-name="AR-SP| KSA SSC EXTRA 1 HD" tvg-logo="https://lo1.in/FCB/ssc10.png" group-title="",AR-SP| KSA SSC EXTRA 1 HD
 http://extraott.com:900/live/3162523972/3791698850/400551965.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AR-SP| KSA SSC EXTRA 2 HD" tvg-logo="https://lo1.in/FCB/ssc10.png" group-title="AR | ARAB SPORT",AR-SP| KSA SSC EXTRA 2 HD
+#EXTINF:-1 tvg-id="" tvg-name="AR-SP| KSA SSC EXTRA 2 HD" tvg-logo="https://lo1.in/FCB/ssc10.png" group-title="",AR-SP| KSA SSC EXTRA 2 HD
 http://extraott.com:900/live/3162523972/3791698850/400551964.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AR-SP| KSA SSC EXTRA 3 HD" tvg-logo="https://lo1.in/FCB/ssc10.png" group-title="AR | ARAB SPORT",AR-SP| KSA SSC EXTRA 3 HD
+#EXTINF:-1 tvg-id="" tvg-name="AR-SP| KSA SSC EXTRA 3 HD" tvg-logo="https://lo1.in/FCB/ssc10.png" group-title="",AR-SP| KSA SSC EXTRA 3 HD
 http://extraott.com:900/live/3162523972/3791698850/400551963.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AR-SP| KSA SSC 1 SD" tvg-logo="https://lo1.in/FCB/ssc10.png" group-title="AR | ARAB SPORT",AR-SP| KSA SSC 1 SD
+#EXTINF:-1 tvg-id="" tvg-name="AR-SP| KSA SSC 1 SD" tvg-logo="https://lo1.in/FCB/ssc10.png" group-title="Sports",AR-SP| KSA SSC 1 SD
 http://extraott.com:900/live/3162523972/3791698850/112544.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AR-SP| KSA SSC 2 SD" tvg-logo="https://lo1.in/FCB/ssc10.png" group-title="AR | ARAB SPORT",AR-SP| KSA SSC 2 SD
+#EXTINF:-1 tvg-id="" tvg-name="AR-SP| KSA SSC 2 SD" tvg-logo="https://lo1.in/FCB/ssc10.png" group-title="Sports",AR-SP| KSA SSC 2 SD
 http://extraott.com:900/live/3162523972/3791698850/112543.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AR-SP| KSA SSC 3 SD" tvg-logo="https://lo1.in/FCB/ssc10.png" group-title="AR | ARAB SPORT",AR-SP| KSA SSC 3 SD
+#EXTINF:-1 tvg-id="" tvg-name="AR-SP| KSA SSC 3 SD" tvg-logo="https://lo1.in/FCB/ssc10.png" group-title="Sports",AR-SP| KSA SSC 3 SD
 http://extraott.com:900/live/3162523972/3791698850/112542.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AR-SP| KSA SSC 4 SD" tvg-logo="https://lo1.in/FCB/ssc10.png" group-title="AR | ARAB SPORT",AR-SP| KSA SSC 4 SD
+#EXTINF:-1 tvg-id="" tvg-name="AR-SP| KSA SSC 4 SD" tvg-logo="https://lo1.in/FCB/ssc10.png" group-title="Sports",AR-SP| KSA SSC 4 SD
 http://extraott.com:900/live/3162523972/3791698850/112541.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AR-SP| KSA SSC 5 SD" tvg-logo="https://lo1.in/FCB/ssc10.png" group-title="AR | ARAB SPORT",AR-SP| KSA SSC 5 SD
+#EXTINF:-1 tvg-id="" tvg-name="AR-SP| KSA SSC 5 SD" tvg-logo="https://lo1.in/FCB/ssc10.png" group-title="Sports",AR-SP| KSA SSC 5 SD
 http://extraott.com:900/live/3162523972/3791698850/112540.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AR-SP| KSA SSC EXTRA 1 SD" tvg-logo="https://lo1.in/FCB/ssc10.png" group-title="AR | ARAB SPORT",AR-SP| KSA SSC EXTRA 1 SD
-http://extraott.com:900/live/3162523972/3791698850/112539.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AR-SP| KSA SSC EXTRA 2 SD" tvg-logo="https://lo1.in/FCB/ssc10.png" group-title="AR | ARAB SPORT",AR-SP| KSA SSC EXTRA 2 SD
-http://extraott.com:900/live/3162523972/3791698850/112538.m3u8
-#EXTINF:-1 tvg-id="alkassone.qa" tvg-name="AR-SP| ART ALKASS 1 HD" tvg-logo="https://lo1.in/artt/alkaas10.png" group-title="AR | ARAB SPORT",AR-SP| ART ALKASS 1 HD
+#EXTINF:-1 tvg-id="alkassone.qa" tvg-name="AR-SP| ART ALKASS 1 HD" tvg-logo="https://lo1.in/artt/alkaas10.png" group-title="Sports",AR-SP| ART ALKASS 1 HD
 http://extraott.com:900/live/3162523972/3791698850/112537.m3u8
-#EXTINF:-1 tvg-id="alkasstwo.qa" tvg-name="AR-SP| ART ALKASS 2 HD" tvg-logo="https://lo1.in/arss/alkaas20.png" group-title="AR | ARAB SPORT",AR-SP| ART ALKASS 2 HD
+#EXTINF:-1 tvg-id="alkasstwo.qa" tvg-name="AR-SP| ART ALKASS 2 HD" tvg-logo="https://lo1.in/arss/alkaas20.png" group-title="Sports",AR-SP| ART ALKASS 2 HD
 http://extraott.com:900/live/3162523972/3791698850/112536.m3u8
-#EXTINF:-1 tvg-id="alkassthree.qa" tvg-name="AR-SP| ART ALKASS 3 HD" tvg-logo="https://lo1.in/arss/alkaas30.png" group-title="AR | ARAB SPORT",AR-SP| ART ALKASS 3 HD
+#EXTINF:-1 tvg-id="alkassthree.qa" tvg-name="AR-SP| ART ALKASS 3 HD" tvg-logo="https://lo1.in/arss/alkaas30.png" group-title="Sports",AR-SP| ART ALKASS 3 HD
 http://extraott.com:900/live/3162523972/3791698850/112535.m3u8
-#EXTINF:-1 tvg-id="alkassfour.qa" tvg-name="AR-SP| ART ALKASS 4 HD" tvg-logo="https://lo1.in/arss/alkaas40.png" group-title="AR | ARAB SPORT",AR-SP| ART ALKASS 4 HD
+#EXTINF:-1 tvg-id="alkassfour.qa" tvg-name="AR-SP| ART ALKASS 4 HD" tvg-logo="https://lo1.in/arss/alkaas40.png" group-title="Sports",AR-SP| ART ALKASS 4 HD
 http://extraott.com:900/live/3162523972/3791698850/112534.m3u8
-#EXTINF:-1 tvg-id="alkassfive.qa" tvg-name="AR-SP| ART ALKASS 5 HD" tvg-logo="https://lo1.in/arss/alkaas50.png" group-title="AR | ARAB SPORT",AR-SP| ART ALKASS 5 HD
-http://extraott.com:900/live/3162523972/3791698850/112533.m3u8
-#EXTINF:-1 tvg-id="arryadia.ma" tvg-name="AR-SP| MA ARRYADIA HD" tvg-logo="https://lo1.in/arss/arriyadia.png" group-title="AR | ARAB SPORT",AR-SP| MA ARRYADIA HD
+#EXTINF:-1 tvg-id="arryadia.ma" tvg-name="AR-SP| MA ARRYADIA HD" tvg-logo="https://lo1.in/arss/arriyadia.png" group-title="Sports",AR-SP| MA ARRYADIA HD
 http://extraott.com:900/live/3162523972/3791698850/112532.m3u8
-#EXTINF:-1 tvg-id="arryadia.ma" tvg-name="AR-SP| MA ARRYADIA FHD" tvg-logo="https://lo1.in/arss/arriyadia.png" group-title="AR | ARAB SPORT",AR-SP| MA ARRYADIA FHD
-http://extraott.com:900/live/3162523972/3791698850/112531.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AR-SP| DZ EL HEDDAF HD" tvg-logo="https://lo1.in/arss/elheddaftv.png" group-title="AR | ARAB SPORT",AR-SP| DZ EL HEDDAF HD
+#EXTINF:-1 tvg-id="" tvg-name="AR-SP| DZ EL HEDDAF HD" tvg-logo="https://lo1.in/arss/elheddaftv.png" group-title="Sports",AR-SP| DZ EL HEDDAF HD
 http://extraott.com:900/live/3162523972/3791698850/112530.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AR-SP| LBY LIBYA SPORT CHANNEL" tvg-logo="https://lo1.in/arss/libyach.png" group-title="AR | ARAB SPORT",AR-SP| LBY LIBYA SPORT CHANNEL
+#EXTINF:-1 tvg-id="" tvg-name="AR-SP| LBY LIBYA SPORT CHANNEL" tvg-logo="https://lo1.in/arss/libyach.png" group-title="Sports"Sports,AR-SP| LBY LIBYA SPORT CHANNEL
 http://extraott.com:900/live/3162523972/3791698850/112529.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AR-SP| SUDAN SUDAN SPORT HD" tvg-logo="https://lo1.in/FCB/sudans.png" group-title="AR | ARAB SPORT",AR-SP| SUDAN SUDAN SPORT HD
-http://extraott.com:900/live/3162523972/3791698850/112528.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AR-SP| EGY TIME SPORTS HD" tvg-logo="https://lo1.in/FCB/timesp.png" group-title="AR | ARAB SPORT",AR-SP| EGY TIME SPORTS HD
+#EXTINF:-1 tvg-id="" tvg-name="AR-SP| EGY TIME SPORTS HD" tvg-logo="https://lo1.in/FCB/timesp.png" group-title="Sports",AR-SP| EGY TIME SPORTS HD
 http://extraott.com:900/live/3162523972/3791698850/112527.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AR-SP| EGY ONTIME SPORTS 2 HD" tvg-logo="https://lo1.in/FCB/timesp.png" group-title="AR | ARAB SPORT",AR-SP| EGY ONTIME SPORTS 2 HD
+#EXTINF:-1 tvg-id="" tvg-name="AR-SP| EGY ONTIME SPORTS 2 HD" tvg-logo="https://lo1.in/FCB/timesp.png" group-title="Sports",AR-SP| EGY ONTIME SPORTS 2 HD
 http://extraott.com:900/live/3162523972/3791698850/112526.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AR-SP| EGY ON TV SPORT HD" tvg-logo="https://lo1.in/arss/ontvs.png" group-title="AR | ARAB SPORT",AR-SP| EGY ON TV SPORT HD
+#EXTINF:-1 tvg-id="" tvg-name="AR-SP| EGY ON TV SPORT HD" tvg-logo="https://lo1.in/arss/ontvs.png" group-title="Sports",AR-SP| EGY ON TV SPORT HD
 http://extraott.com:900/live/3162523972/3791698850/112525.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AR-SP| PALES PALESTINE SPORT" tvg-logo="https://lo1.in/arss/palsport.png" group-title="AR | ARAB SPORT",AR-SP| PALES PALESTINE SPORT
+#EXTINF:-1 tvg-id="" tvg-name="AR-SP| PALES PALESTINE SPORT" tvg-logo="https://lo1.in/arss/palsport.png" group-title="Sports",AR-SP| PALES PALESTINE SPORT
 http://extraott.com:900/live/3162523972/3791698850/112524.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AR-SP| IRAQ AL SHABAB SPORT HD" tvg-logo="https://lo1.in/arss/alshababs.png" group-title="AR | ARAB SPORT",AR-SP| IRAQ AL SHABAB SPORT HD
-http://extraott.com:900/live/3162523972/3791698850/112523.m3u8
-#EXTINF:-1 tvg-id="jordansports.jo" tvg-name="AR-SP| JOR JORDAN SPORT HD" tvg-logo="https://lo1.in/arss/jordans.png" group-title="AR | ARAB SPORT",AR-SP| JOR JORDAN SPORT HD
+#EXTINF:-1 tvg-id="jordansports.jo" tvg-name="AR-SP| JOR JORDAN SPORT HD" tvg-logo="https://lo1.in/arss/jordans.png" group-title="Sports",AR-SP| JOR JORDAN SPORT HD
 http://extraott.com:900/live/3162523972/3791698850/112522.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AR-SP| KUW KTV SPORT HD" tvg-logo="https://lo1.in/FCB/ktvsport0.png" group-title="AR | ARAB SPORT",AR-SP| KUW KTV SPORT HD
+#EXTINF:-1 tvg-id="" tvg-name="AR-SP| KUW KTV SPORT HD" tvg-logo="https://lo1.in/FCB/ktvsport0.png" group-title="Sports",AR-SP| KUW KTV SPORT HD
 http://extraott.com:900/live/3162523972/3791698850/112521.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AR-SP| KUW KTV SPORT PLUS" tvg-logo="https://lo1.in/FCB/ktvplus0.png" group-title="AR | ARAB SPORT",AR-SP| KUW KTV SPORT PLUS
+#EXTINF:-1 tvg-id="" tvg-name="AR-SP| KUW KTV SPORT PLUS" tvg-logo="https://lo1.in/FCB/ktvplus0.png" group-title="Sports",AR-SP| KUW KTV SPORT PLUS
 http://extraott.com:900/live/3162523972/3791698850/112520.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="AR-SP| BAHR BAHRAIN SPORTS 1 HD" tvg-logo="https://lo1.in/arss/bahrains.png" group-title="AR | ARAB SPORT",AR-SP| BAHR BAHRAIN SPORTS 1 HD
 http://extraott.com:900/live/3162523972/3791698850/112519.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AR-SP| BAHR BAHRAIN SPORTS 2 HD" tvg-logo="https://lo1.in/arss/bahrains2.png" group-title="AR | ARAB SPORT",AR-SP| BAHR BAHRAIN SPORTS 2 HD
