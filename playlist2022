@@ -1282,41 +1282,18 @@ http://extraott.com:900/live/3162523972/3791698850/112502.m3u8
 http://extraott.com:900/live/3162523972/3791698850/112501.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AR-SP| DAZN EVENT 01 TOD" tvg-logo="https://lo1.in/it/dzn.png" group-title="Sports",AR-SP| DAZN EVENT 01 TOD
 http://extraott.com:900/live/3162523972/3791698850/401440488.m3u8
-
-
 #EXTINF:-1 tvg-id="abudhabisports1premium.ae" tvg-name="AD SPORTS 1 HEVC" tvg-logo="https://lo1.in/stplay1/adh1.png" group-title="Sports",AD SPORTS 1 HEVC
 http://extraott.com:900/live/3162523972/3791698850/21493.m3u8
 #EXTINF:-1 tvg-id="abudhabisports2premium.ae" tvg-name="AD SPORTS 2 HEVC" tvg-logo="https://lo1.in/stplay1/sadh2.png" group-title="Sports",AD SPORTS 2 HEVC
 http://extraott.com:900/live/3162523972/3791698850/21492.m3u8
-
-#EXTINF:-1 tvg-id="abudhabisports1premium.ae" tvg-name="AD SPORTS PREMIUM 1 HEVC" tvg-logo="https://lo1.in/stplay1/adp1.png" group-title="STARZPLAY",AD SPORTS PREMIUM 1 HEVC
-http://extraott.com:900/live/3162523972/3791698850/6409.m3u8
-#EXTINF:-1 tvg-id="abudhabisports1premium.ae" tvg-name="AD SPORTS PREMIUM 1 HD" tvg-logo="https://lo1.in/stplay1/adp1.png" group-title="STARZPLAY",AD SPORTS PREMIUM 1 HD
+#EXTINF:-1 tvg-id="abudhabisports1premium.ae" tvg-name="AD SPORTS PREMIUM 1 HD" tvg-logo="https://lo1.in/stplay1/adp1.png" group-title="Sports",AD SPORTS PREMIUM 1 HD
 http://extraott.com:900/live/3162523972/3791698850/36718.m3u8
-#EXTINF:-1 tvg-id="abudhabisports1premium.ae" tvg-name="AD SPORTS PREMIUM 1 SD" tvg-logo="https://lo1.in/stplay1/adp1.png" group-title="STARZPLAY",AD SPORTS PREMIUM 1 SD
-http://extraott.com:900/live/3162523972/3791698850/36717.m3u8
-
-#EXTINF:-1 tvg-id="abudhabisports2premium.ae" tvg-name="AD SPORTS PREMIUM 2 HEVC" tvg-logo="https://lo1.in/FCB/flg.png" group-title="STARZPLAY",AD SPORTS PREMIUM 2 HEVC
-http://extraott.com:900/live/3162523972/3791698850/6408.m3u8
-#EXTINF:-1 tvg-id="abudhabisports2premium.ae" tvg-name="AD SPORTS PREMIUM 2 HD" tvg-logo="https://lo1.in/stplay1/sadh2.png" group-title="STARZPLAY",AD SPORTS PREMIUM 2 HD
+#EXTINF:-1 tvg-id="abudhabisports2premium.ae" tvg-name="AD SPORTS PREMIUM 2 HD" tvg-logo="https://lo1.in/stplay1/sadh2.png" group-title="Sports",AD SPORTS PREMIUM 2 HD
 http://extraott.com:900/live/3162523972/3791698850/36715.m3u8
-#EXTINF:-1 tvg-id="abudhabisports2premium.ae" tvg-name="AD SPORTS PREMIUM 2 SD" tvg-logo="https://lo1.in/stplay1/sadh2.png" group-title="STARZPLAY",AD SPORTS PREMIUM 2 SD
-http://extraott.com:900/live/3162523972/3791698850/36714.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="STARZPLAY SPORT HD" tvg-logo="https://lo1.in/FCB/flg.png" group-title="STARZPLAY",STARZPLAY SPORT HD
+#EXTINF:-1 tvg-id="" tvg-name="STARZPLAY SPORT HD" tvg-logo="https://lo1.in/FCB/flg.png" group-title="Sports",STARZPLAY SPORT HD
 http://extraott.com:900/live/3162523972/3791698850/36712.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="STARZPLAY SPORT SD" tvg-logo="https://lo1.in/FCB/flg.png" group-title="STARZPLAY",STARZPLAY SPORT SD
-http://extraott.com:900/live/3162523972/3791698850/36711.m3u8
-#EXTINF:-1 tvg-id="starzplaysportstv1.ae" tvg-name="STARZPLAY SPORT HEVC" tvg-logo="https://lo1.in/FCB/flg.png" group-title="STARZPLAY",STARZPLAY SPORT HEVC
-http://extraott.com:900/live/3162523972/3791698850/6407.m3u8
-
-
-
-#EXTINF:-1 tvg-id="" tvg-name="STAR GOLD HD" tvg-logo="https://lo1.in/FCB/sgoldd0.png" group-title="STARZPLAY",STAR GOLD HD
+#EXTINF:-1 tvg-id="" tvg-name="STAR GOLD HD" tvg-logo="https://lo1.in/FCB/sgoldd0.png" group-title="Sports",STAR GOLD HD
 http://extraott.com:900/live/3162523972/3791698850/21482.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="STAR JALSHA MOVIES SD" tvg-logo="https://lo1.in/FCB/sjalshaa0.png" group-title="STARZPLAY",STAR JALSHA MOVIES SD
-http://extraott.com:900/live/3162523972/3791698850/21481.m3u8
-
 #EXTINF:-1 tvg-id="beinsportsnewsar.qa" tvg-name="AR| BEIN SPORTS NEWS HD" tvg-logo="https://lo1.in/bss/bsnews.png" group-title="BEIN SPORTS HD",AR| BEIN SPORTS NEWS HD
 http://extraott.com:900/live/3162523972/3791698850/58.m3u8
 #EXTINF:-1 tvg-id="beinsportsglobal.qa" tvg-name="AR| BEIN SPORTS HD" tvg-logo="https://lo1.in/bss/bs.png" group-title="BEIN SPORTS HD",AR| BEIN SPORTS HD
@@ -1325,100 +1302,44 @@ http://extraott.com:900/live/3162523972/3791698850/59.m3u8
 http://extraott.com:900/live/3162523972/3791698850/400207008.m3u8
 #EXTINF:-1 tvg-id="beinsports1.qa" tvg-name="AR| BEIN SPORTS 01 HD" tvg-logo="https://lo1.in/bss/bsS1.png" group-title="BEIN SPORTS HD",AR| BEIN SPORTS 01 HD
 http://extraott.com:900/live/3162523972/3791698850/46394.m3u8
-#EXTINF:-1 tvg-id="beinsports1.qa" tvg-name="AR| BEIN SPORTS 01 HD [BK]" tvg-logo="https://lo1.in/bss/bsS1.png" group-title="BEIN SPORTS HD",AR| BEIN SPORTS 01 HD [BK]
-http://extraott.com:900/live/3162523972/3791698850/27770.m3u8
-#EXTINF:-1 tvg-id="beinsports1.qa" tvg-name="AR| BEIN SPORTS 01 HD [BK1]" tvg-logo="https://lo1.in/bss/bsS1.png" group-title="BEIN SPORTS HD",AR| BEIN SPORTS 01 HD [BK1]
-http://extraott.com:900/live/3162523972/3791698850/10934.m3u8
 #EXTINF:-1 tvg-id="beinsports2.qa" tvg-name="AR| BEIN SPORTS 02 HD" tvg-logo="https://lo1.in/bss/bsS2.png" group-title="BEIN SPORTS HD",AR| BEIN SPORTS 02 HD
 http://extraott.com:900/live/3162523972/3791698850/76.m3u8
-#EXTINF:-1 tvg-id="beinsports2.qa" tvg-name="AR| BEIN SPORTS 02 HD [BK]" tvg-logo="https://lo1.in/bss/bsS2.png" group-title="BEIN SPORTS HD",AR| BEIN SPORTS 02 HD [BK]
-http://extraott.com:900/live/3162523972/3791698850/27769.m3u8
-#EXTINF:-1 tvg-id="beinsports2.qa" tvg-name="AR| BEIN SPORTS 02 HD [BK1]" tvg-logo="https://lo1.in/bss/bsS2.png" group-title="BEIN SPORTS HD",AR| BEIN SPORTS 02 HD [BK1]
-http://extraott.com:900/live/3162523972/3791698850/10933.m3u8
 #EXTINF:-1 tvg-id="beinsports3.qa" tvg-name="AR| BEIN SPORTS 03 HD" tvg-logo="https://lo1.in/bss/bs3.png" group-title="BEIN SPORTS HD",AR| BEIN SPORTS 03 HD
 http://extraott.com:900/live/3162523972/3791698850/77.m3u8
-#EXTINF:-1 tvg-id="beinsports3.qa" tvg-name="AR| BEIN SPORTS 03 HD [BK]" tvg-logo="https://lo1.in/bss/bs3.png" group-title="BEIN SPORTS HD",AR| BEIN SPORTS 03 HD [BK]
-http://extraott.com:900/live/3162523972/3791698850/27768.m3u8
-#EXTINF:-1 tvg-id="beinsports3.qa" tvg-name="AR| BEIN SPORTS 03 HD [BK1]" tvg-logo="https://lo1.in/bss/bs3.png" group-title="BEIN SPORTS HD",AR| BEIN SPORTS 03 HD [BK1]
-http://extraott.com:900/live/3162523972/3791698850/10932.m3u8
 #EXTINF:-1 tvg-id="beinsports4.qa" tvg-name="AR| BEIN SPORTS 04 HD" tvg-logo="https://lo1.in/bss/bs4.png" group-title="BEIN SPORTS HD",AR| BEIN SPORTS 04 HD
 http://extraott.com:900/live/3162523972/3791698850/61.m3u8
-#EXTINF:-1 tvg-id="beinsports4.qa" tvg-name="AR| BEIN SPORTS 04 HD [BK]" tvg-logo="https://lo1.in/bss/bs4.png" group-title="BEIN SPORTS HD",AR| BEIN SPORTS 04 HD [BK]
-http://extraott.com:900/live/3162523972/3791698850/10941.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AR| BEIN SPORTS 04 HD [BK1]" tvg-logo="https://lo1.in/bss/bs4.png" group-title="BEIN SPORTS HD",AR| BEIN SPORTS 04 HD [BK1]
-http://extraott.com:900/live/3162523972/3791698850/32980.m3u8
 #EXTINF:-1 tvg-id="beinsports5.qa" tvg-name="AR| BEIN SPORTS 05 HD" tvg-logo="https://lo1.in/bein/beinn5.png" group-title="BEIN SPORTS HD",AR| BEIN SPORTS 05 HD
 http://extraott.com:900/live/3162523972/3791698850/62.m3u8
-#EXTINF:-1 tvg-id="beinsports5.qa" tvg-name="AR| BEIN SPORTS 05 HD [BK]" tvg-logo="https://lo1.in/bein/beinn5.png" group-title="BEIN SPORTS HD",AR| BEIN SPORTS 05 HD [BK]
-http://extraott.com:900/live/3162523972/3791698850/10940.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AR| BEIN SPORTS 05 HD [BK1]" tvg-logo="https://lo1.in/bein/beinn5.png" group-title="BEIN SPORTS HD",AR| BEIN SPORTS 05 HD [BK1]
-http://extraott.com:900/live/3162523972/3791698850/32979.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AR| BEIN SPORTS 06 HD [BK1]" tvg-logo="https://lo1.in/bein/beinn6.png" group-title="BEIN SPORTS HD",AR| BEIN SPORTS 06 HD [BK1]
-http://extraott.com:900/live/3162523972/3791698850/32978.m3u8
 #EXTINF:-1 tvg-id="beinsports6.qa" tvg-name="AR| BEIN SPORTS 06 HD" tvg-logo="https://lo1.in/bein/beinn6.png" group-title="BEIN SPORTS HD",AR| BEIN SPORTS 06 HD
 http://extraott.com:900/live/3162523972/3791698850/63.m3u8
-#EXTINF:-1 tvg-id="beinsports6.qa" tvg-name="AR| BEIN SPORTS 06 HD [BK]" tvg-logo="https://lo1.in/bein/beinn6.png" group-title="BEIN SPORTS HD",AR| BEIN SPORTS 06 HD [BK]
-http://extraott.com:900/live/3162523972/3791698850/10939.m3u8
 #EXTINF:-1 tvg-id="beinsports7.qa" tvg-name="AR| BEIN SPORTS 07 HD" tvg-logo="https://lo1.in/bss/BEIN SPORTS 07.png" group-title="BEIN SPORTS HD",AR| BEIN SPORTS 07 HD
 http://extraott.com:900/live/3162523972/3791698850/64.m3u8
-#EXTINF:-1 tvg-id="beinsports7.qa" tvg-name="AR| BEIN SPORTS 07 HD [BK]" tvg-logo="https://lo1.in/bss/BEIN SPORTS 07.png" group-title="BEIN SPORTS HD",AR| BEIN SPORTS 07 HD [BK]
-http://extraott.com:900/live/3162523972/3791698850/10938.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AR| BEIN SPORTS 07 HD [BK1]" tvg-logo="https://lo1.in/bss/BEIN SPORTS 07.png" group-title="BEIN SPORTS HD",AR| BEIN SPORTS 07 HD [BK1]
-http://extraott.com:900/live/3162523972/3791698850/32977.m3u8
 #EXTINF:-1 tvg-id="beinsports8.qa" tvg-name="AR| BEIN SPORTS 08 HD" tvg-logo="https://lo1.in/bss/bss8.png" group-title="BEIN SPORTS HD",AR| BEIN SPORTS 08 HD
 http://extraott.com:900/live/3162523972/3791698850/65.m3u8
-#EXTINF:-1 tvg-id="beinsports8.qa" tvg-name="AR| BEIN SPORTS 08 HD [BK]" tvg-logo="https://lo1.in/bss/bss8.png" group-title="BEIN SPORTS HD",AR| BEIN SPORTS 08 HD [BK]
-http://extraott.com:900/live/3162523972/3791698850/10937.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AR| BEIN SPORTS 08 HD [BK1]" tvg-logo="https://lo1.in/bss/bss8.png" group-title="BEIN SPORTS HD",AR| BEIN SPORTS 08 HD [BK1]
-http://extraott.com:900/live/3162523972/3791698850/32976.m3u8
 #EXTINF:-1 tvg-id="beinsports9.qa" tvg-name="AR| BEIN SPORTS 09 HD" tvg-logo="https://lo1.in/bss/BEIN09.png" group-title="BEIN SPORTS HD",AR| BEIN SPORTS 09 HD
 http://extraott.com:900/live/3162523972/3791698850/66.m3u8
-#EXTINF:-1 tvg-id="beinsports9.qa" tvg-name="AR| BEIN SPORTS 09 HD [BK]" tvg-logo="https://lo1.in/bss/BEIN09.png" group-title="BEIN SPORTS HD",AR| BEIN SPORTS 09 HD [BK]
-http://extraott.com:900/live/3162523972/3791698850/10936.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AR| BEIN SPORTS 09 HD [BK1]" tvg-logo="https://lo1.in/bss/BEIN09.png" group-title="BEIN SPORTS HD",AR| BEIN SPORTS 09 HD [BK1]
-http://extraott.com:900/live/3162523972/3791698850/32975.m3u8
+
 #EXTINF:-1 tvg-id="beinsports1fr.qa" tvg-name="AR| BEIN SPORTS 01 FRENCH HD" tvg-logo="https://lo1.in/bss/bs1fre.png" group-title="BEIN SPORTS HD",AR| BEIN SPORTS 01 FRENCH HD
 http://extraott.com:900/live/3162523972/3791698850/78.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AR| BEIN SPORTS 01 FRENCH HD [BK]" tvg-logo="https://lo1.in/bss/bs1fre.png" group-title="BEIN SPORTS HD",AR| BEIN SPORTS 01 FRENCH HD [BK]
-http://extraott.com:900/live/3162523972/3791698850/32902.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AR| BEIN SPORTS 01 FRENCH HD [BK1]" tvg-logo="https://lo1.in/bss/bs1fre.png" group-title="BEIN SPORTS HD",AR| BEIN SPORTS 01 FRENCH HD [BK1]
-http://extraott.com:900/live/3162523972/3791698850/32974.m3u8
+
 #EXTINF:-1 tvg-id="beinsports2fr.qa" tvg-name="AR| BEIN SPORTS 02 FRENCH HD" tvg-logo="https://lo1.in/bss/bs2fre.png" group-title="BEIN SPORTS HD",AR| BEIN SPORTS 02 FRENCH HD
 http://extraott.com:900/live/3162523972/3791698850/79.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AR| BEIN SPORTS 02 FRENCH HD [BK]" tvg-logo="https://lo1.in/bss/bs2fre.png" group-title="BEIN SPORTS HD",AR| BEIN SPORTS 02 FRENCH HD [BK]
-http://extraott.com:900/live/3162523972/3791698850/32901.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AR| BEIN SPORTS 02 FRENCH HD [BK1]" tvg-logo="https://lo1.in/bss/bs2fre.png" group-title="BEIN SPORTS HD",AR| BEIN SPORTS 02 FRENCH HD [BK1]
-http://extraott.com:900/live/3162523972/3791698850/32973.m3u8
+
 #EXTINF:-1 tvg-id="beinsports1en.qa" tvg-name="AR| BEIN SPORTS 01 ENGLISH HD" tvg-logo="https://lo1.in/bss/bs1eng.png" group-title="BEIN SPORTS HD",AR| BEIN SPORTS 01 ENGLISH HD
 http://extraott.com:900/live/3162523972/3791698850/81.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AR| BEIN SPORTS 01 ENGLISH HD [BK]" tvg-logo="https://lo1.in/bss/bs1eng.png" group-title="BEIN SPORTS HD",AR| BEIN SPORTS 01 ENGLISH HD [BK]
-http://extraott.com:900/live/3162523972/3791698850/32900.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AR| BEIN SPORTS 01 ENGLISH HD [BK1]" tvg-logo="https://lo1.in/bss/bs1eng.png" group-title="BEIN SPORTS HD",AR| BEIN SPORTS 01 ENGLISH HD [BK1]
-http://extraott.com:900/live/3162523972/3791698850/32972.m3u8
+
 #EXTINF:-1 tvg-id="beinsports2en.qa" tvg-name="AR| BEIN SPORTS 02 ENGLISH HD" tvg-logo="https://lo1.in/bss/bs2eng.png" group-title="BEIN SPORTS HD",AR| BEIN SPORTS 02 ENGLISH HD
 http://extraott.com:900/live/3162523972/3791698850/82.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AR| BEIN SPORTS 02 ENGLISH HD [BK]" tvg-logo="https://lo1.in/bss/bs2eng.png" group-title="BEIN SPORTS HD",AR| BEIN SPORTS 02 ENGLISH HD [BK]
-http://extraott.com:900/live/3162523972/3791698850/32899.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AR| BEIN SPORTS 02 ENGLISH HD [BK1]" tvg-logo="https://lo1.in/bss/bs2eng.png" group-title="BEIN SPORTS HD",AR| BEIN SPORTS 02 ENGLISH HD [BK1]
-http://extraott.com:900/live/3162523972/3791698850/32971.m3u8
+
 #EXTINF:-1 tvg-id="beinsportsxtra1.qa" tvg-name="AR| BEIN SPORTS 01 XTRA HD" tvg-logo="https://lo1.in/bss/bsxtra1.png" group-title="BEIN SPORTS HD",AR| BEIN SPORTS 01 XTRA HD
 http://extraott.com:900/live/3162523972/3791698850/400193265.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AR| BEIN SPORTS 01 XTRA HD [BK]" tvg-logo="https://lo1.in/bss/bsxtra1.png" group-title="BEIN SPORTS HD",AR| BEIN SPORTS 01 XTRA HD [BK]
-http://extraott.com:900/live/3162523972/3791698850/32898.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AR| BEIN SPORTS 01 XTRA HD [BK1]" tvg-logo="https://lo1.in/bss/bsxtra1.png" group-title="BEIN SPORTS HD",AR| BEIN SPORTS 01 XTRA HD [BK1]
-http://extraott.com:900/live/3162523972/3791698850/32970.m3u8
+
 #EXTINF:-1 tvg-id="beinsportsxtra2.qa" tvg-name="AR| BEIN SPORTS 02 XTRA HD" tvg-logo="https://lo1.in/bss/bsxtra2.png" group-title="BEIN SPORTS HD",AR| BEIN SPORTS 02 XTRA HD
 http://extraott.com:900/live/3162523972/3791698850/400193264.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AR| BEIN SPORTS 02 XTRA HD [BK]" tvg-logo="https://lo1.in/bss/bsxtra2.png" group-title="BEIN SPORTS HD",AR| BEIN SPORTS 02 XTRA HD [BK]
-http://extraott.com:900/live/3162523972/3791698850/32897.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AR| BEIN SPORTS 02 XTRA HD [BK1]" tvg-logo="https://lo1.in/bss/bsxtra2.png" group-title="BEIN SPORTS HD",AR| BEIN SPORTS 02 XTRA HD [BK1]
-http://extraott.com:900/live/3162523972/3791698850/32969.m3u8
+
 #EXTINF:-1 tvg-id="beinsportsxtra3.qa" tvg-name="AR| BEIN SPORTS 03 XTRA HD" tvg-logo="https://lo1.in/bss/bs3btr.png" group-title="BEIN SPORTS HD",AR| BEIN SPORTS 03 XTRA HD
 http://extraott.com:900/live/3162523972/3791698850/67.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AR| BEIN SPORTS 03 XTRA HD [BK]" tvg-logo="https://lo1.in/bss/bs3btr.png" group-title="BEIN SPORTS HD",AR| BEIN SPORTS 03 XTRA HD [BK]
-http://extraott.com:900/live/3162523972/3791698850/32896.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AR| BEIN SPORTS 03 XTRA HD [BK1]" tvg-logo="https://lo1.in/bss/bs3btr.png" group-title="BEIN SPORTS HD",AR| BEIN SPORTS 03 XTRA HD [BK1]
-http://extraott.com:900/live/3162523972/3791698850/32968.m3u8
+
 #EXTINF:-1 tvg-id="beinsportsafc.qa" tvg-name="AR| BEIN SPORTS AFC HD" tvg-logo="https://lo1.in/bss/AFC.png" group-title="BEIN SPORTS HD",AR| BEIN SPORTS AFC HD
 http://extraott.com:900/live/3162523972/3791698850/400370400.m3u8
 #EXTINF:-1 tvg-id="beinsportsafc1.qa" tvg-name="AR| BEIN SPORTS 01 AFC HD" tvg-logo="https://lo1.in/bss/AFC.png" group-title="BEIN SPORTS HD",AR| BEIN SPORTS 01 AFC HD
@@ -1433,177 +1354,19 @@ http://extraott.com:900/live/3162523972/3791698850/32907.m3u8
 http://extraott.com:900/live/3162523972/3791698850/32904.m3u8
 #EXTINF:-1 tvg-id="beinsportsmax1.qa" tvg-name="AR| BEIN SPORTS MAX 1 HD" tvg-logo="https://lo1.in/bss/bs1max.png" group-title="BEIN SPORTS HD",AR| BEIN SPORTS MAX 1 HD
 http://extraott.com:900/live/3162523972/3791698850/68.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AR| BEIN SPORTS MAX 1 HD [BK]" tvg-logo="https://lo1.in/bss/bs1max.png" group-title="BEIN SPORTS HD",AR| BEIN SPORTS MAX 1 HD [BK]
-http://extraott.com:900/live/3162523972/3791698850/53388.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AR| BEIN SPORTS MAX 1 HD [BK1]" tvg-logo="https://lo1.in/bss/bs1max.png" group-title="BEIN SPORTS HD",AR| BEIN SPORTS MAX 1 HD [BK1]
-http://extraott.com:900/live/3162523972/3791698850/53360.m3u8
 #EXTINF:-1 tvg-id="beinsportsmax2.qa" tvg-name="AR| BEIN SPORTS MAX 2 HD" tvg-logo="https://lo1.in/bss/bs2max.png" group-title="BEIN SPORTS HD",AR| BEIN SPORTS MAX 2 HD
 http://extraott.com:900/live/3162523972/3791698850/69.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AR| BEIN SPORTS MAX 2 HD [BK]" tvg-logo="https://lo1.in/bss/bs2max.png" group-title="BEIN SPORTS HD",AR| BEIN SPORTS MAX 2 HD [BK]
-http://extraott.com:900/live/3162523972/3791698850/53387.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AR| BEIN SPORTS MAX 2 HD [BK1]" tvg-logo="https://lo1.in/bss/bs2max.png" group-title="BEIN SPORTS HD",AR| BEIN SPORTS MAX 2 HD [BK1]
-http://extraott.com:900/live/3162523972/3791698850/53359.m3u8
 #EXTINF:-1 tvg-id="beinsportsmax3.qa" tvg-name="AR| BEIN SPORTS MAX 3 HD" tvg-logo="https://lo1.in/bss/BEIN 3MAX.png" group-title="BEIN SPORTS HD",AR| BEIN SPORTS MAX 3 HD
 http://extraott.com:900/live/3162523972/3791698850/70.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AR| BEIN SPORTS MAX 3 HD [BK]" tvg-logo="https://lo1.in/bss/BEIN%203MAX.png" group-title="BEIN SPORTS HD",AR| BEIN SPORTS MAX 3 HD [BK]
-http://extraott.com:900/live/3162523972/3791698850/53386.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AR| BEIN SPORTS MAX 3 HD [BK1]" tvg-logo="https://lo1.in/bss/BEIN%203MAX.png" group-title="BEIN SPORTS HD",AR| BEIN SPORTS MAX 3 HD [BK1]
-http://extraott.com:900/live/3162523972/3791698850/53358.m3u8
 #EXTINF:-1 tvg-id="beinsportsmax4.qa" tvg-name="AR| BEIN SPORTS MAX 4 HD" tvg-logo="https://lo1.in/bss/bs4max1.png" group-title="BEIN SPORTS HD",AR| BEIN SPORTS MAX 4 HD
 http://extraott.com:900/live/3162523972/3791698850/71.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AR| BEIN SPORTS MAX 4 HD [BK]" tvg-logo="https://lo1.in/bss/bs4max1.png" group-title="BEIN SPORTS HD",AR| BEIN SPORTS MAX 4 HD [BK]
-http://extraott.com:900/live/3162523972/3791698850/53385.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AR| BEIN SPORTS MAX 4 HD [BK1]" tvg-logo="https://lo1.in/bss/bs4max.png" group-title="BEIN SPORTS HD",AR| BEIN SPORTS MAX 4 HD [BK1]
-http://extraott.com:900/live/3162523972/3791698850/53357.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AR| BEIN SPORTS MAX 5 HD [BK1]" tvg-logo="https://lo1.in/bss/bs5max.png" group-title="BEIN SPORTS HD",AR| BEIN SPORTS MAX 5 HD [BK1]
 http://extraott.com:900/live/3162523972/3791698850/53356.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AR| BEIN SPORTS MAX 6 HD [BK1]" tvg-logo="https://lo1.in/bss/bs6max.png" group-title="BEIN SPORTS HD",AR| BEIN SPORTS MAX 6 HD [BK1]
 http://extraott.com:900/live/3162523972/3791698850/53355.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="✦●✦| SD - BEIN SPORTS SD |✦●✦" tvg-logo="https://lo1.in/bss/bs.png" group-title="BEIN SPORTS HD",✦●✦| SD - BEIN SPORTS SD |✦●✦
-http://extraott.com:900/live/3162523972/3791698850/84.m3u8
-#EXTINF:-1 tvg-id="beinsportsglobal.qa" tvg-name="AR| BEIN SPORTS SD" tvg-logo="https://lo1.in/bss/bs.png" group-title="BEIN SPORTS HD",AR| BEIN SPORTS SD
-http://extraott.com:900/live/3162523972/3791698850/39323.m3u8
-#EXTINF:-1 tvg-id="beinsportsnews.qa" tvg-name="AR| BEIN SPORTS NEWS SD" tvg-logo="https://lo1.in/bss/bsnews.png" group-title="BEIN SPORTS HD",AR| BEIN SPORTS NEWS SD
-http://extraott.com:900/live/3162523972/3791698850/32894.m3u8
-#EXTINF:-1 tvg-id="beinsportsnba.qa" tvg-name="AR| BEIN SPORTS NBA SD" tvg-logo="https://lo1.in/bss/bsnba.png" group-title="BEIN SPORTS HD",AR| BEIN SPORTS NBA SD
-http://extraott.com:900/live/3162523972/3791698850/60.m3u8
-#EXTINF:-1 tvg-id="beinsports1.qa" tvg-name="AR| BEIN SPORTS 01 SD" tvg-logo="https://lo1.in/bss/bsS1.png" group-title="BEIN SPORTS HD",AR| BEIN SPORTS 01 SD
-http://extraott.com:900/live/3162523972/3791698850/99.m3u8
-#EXTINF:-1 tvg-id="beinsports1.qa" tvg-name="AR| BEIN SPORTS 01 SD [BK]" tvg-logo="https://lo1.in/bss/bsS1.png" group-title="BEIN SPORTS HD",AR| BEIN SPORTS 01 SD [BK]
-http://extraott.com:900/live/3162523972/3791698850/27773.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AR| BEIN SPORTS 01 SD [BK1]" tvg-logo="https://lo1.in/bss/bsS1.png" group-title="BEIN SPORTS HD",AR| BEIN SPORTS 01 SD [BK1]
-http://extraott.com:900/live/3162523972/3791698850/32964.m3u8
-#EXTINF:-1 tvg-id="beinsports2.qa" tvg-name="AR| BEIN SPORTS 02 SD" tvg-logo="https://lo1.in/bss/bsS2.png" group-title="BEIN SPORTS HD",AR| BEIN SPORTS 02 SD
-http://extraott.com:900/live/3162523972/3791698850/100.m3u8
-#EXTINF:-1 tvg-id="beinsports2.qa" tvg-name="AR| BEIN SPORTS 02 SD [BK]" tvg-logo="https://lo1.in/bss/bsS2.png" group-title="BEIN SPORTS HD",AR| BEIN SPORTS 02 SD [BK]
-http://extraott.com:900/live/3162523972/3791698850/27772.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AR| BEIN SPORTS 02 SD [BK1]" tvg-logo="https://lo1.in/bss/bsS2.png" group-title="BEIN SPORTS HD",AR| BEIN SPORTS 02 SD [BK1]
-http://extraott.com:900/live/3162523972/3791698850/32963.m3u8
-#EXTINF:-1 tvg-id="beinsports3.qa" tvg-name="AR| BEIN SPORTS 03 SD" tvg-logo="https://lo1.in/bss/bs3.png" group-title="BEIN SPORTS HD",AR| BEIN SPORTS 03 SD
-http://extraott.com:900/live/3162523972/3791698850/101.m3u8
-#EXTINF:-1 tvg-id="beinsports3.qa" tvg-name="AR| BEIN SPORTS 03 SD [BK]" tvg-logo="https://lo1.in/bss/bs3.png" group-title="BEIN SPORTS HD",AR| BEIN SPORTS 03 SD [BK]
-http://extraott.com:900/live/3162523972/3791698850/27771.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AR| BEIN SPORTS 03 SD [BK1]" tvg-logo="https://lo1.in/bss/bs3.png" group-title="BEIN SPORTS HD",AR| BEIN SPORTS 03 SD [BK1]
-http://extraott.com:900/live/3162523972/3791698850/32962.m3u8
-#EXTINF:-1 tvg-id="beinsports4.qa" tvg-name="AR| BEIN SPORTS 04 SD" tvg-logo="https://lo1.in/bss/bs4.png" group-title="BEIN SPORTS HD",AR| BEIN SPORTS 04 SD
-http://extraott.com:900/live/3162523972/3791698850/85.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AR| BEIN SPORTS 04 SD [BK]" tvg-logo="https://lo1.in/bss/bs4.png" group-title="BEIN SPORTS HD",AR| BEIN SPORTS 04 SD [BK]
-http://extraott.com:900/live/3162523972/3791698850/32888.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AR| BEIN SPORTS 04 SD [BK1]" tvg-logo="https://lo1.in/bss/bs4.png" group-title="BEIN SPORTS HD",AR| BEIN SPORTS 04 SD [BK1]
-http://extraott.com:900/live/3162523972/3791698850/32961.m3u8
-#EXTINF:-1 tvg-id="beinsports5.qa" tvg-name="AR| BEIN SPORTS 05 SD" tvg-logo="https://lo1.in/bein/beinn5.png" group-title="BEIN SPORTS HD",AR| BEIN SPORTS 05 SD
-http://extraott.com:900/live/3162523972/3791698850/86.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AR| BEIN SPORTS 05 SD [BK]" tvg-logo="https://lo1.in/bein/beinn5.png" group-title="BEIN SPORTS HD",AR| BEIN SPORTS 05 SD [BK]
-http://extraott.com:900/live/3162523972/3791698850/32887.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AR| BEIN SPORTS 05 SD [BK1]" tvg-logo="https://lo1.in/bein/beinn5.png" group-title="BEIN SPORTS HD",AR| BEIN SPORTS 05 SD [BK1]
-http://extraott.com:900/live/3162523972/3791698850/32960.m3u8
-#EXTINF:-1 tvg-id="beinsports6.qa" tvg-name="AR| BEIN SPORTS 06 SD" tvg-logo="https://lo1.in/bein/beinn6.png" group-title="BEIN SPORTS HD",AR| BEIN SPORTS 06 SD
-http://extraott.com:900/live/3162523972/3791698850/87.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AR| BEIN SPORTS 06 SD [BK]" tvg-logo="https://lo1.in/bein/beinn6.png" group-title="BEIN SPORTS HD",AR| BEIN SPORTS 06 SD [BK]
-http://extraott.com:900/live/3162523972/3791698850/32886.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AR| BEIN SPORTS 06 SD [BK1]" tvg-logo="https://lo1.in/bein/beinn6.png" group-title="BEIN SPORTS HD",AR| BEIN SPORTS 06 SD [BK1]
-http://extraott.com:900/live/3162523972/3791698850/32959.m3u8
-#EXTINF:-1 tvg-id="beinsports7.qa" tvg-name="AR| BEIN SPORTS 07 SD" tvg-logo="https://lo1.in/bss/BEIN SPORTS 07.png" group-title="BEIN SPORTS HD",AR| BEIN SPORTS 07 SD
-http://extraott.com:900/live/3162523972/3791698850/88.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AR| BEIN SPORTS 07 SD [BK]" tvg-logo="https://lo1.in/bss/BEIN SPORTS 07.png" group-title="BEIN SPORTS HD",AR| BEIN SPORTS 07 SD [BK]
-http://extraott.com:900/live/3162523972/3791698850/32885.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AR| BEIN SPORTS 07 SD [BK1]" tvg-logo="https://lo1.in/bss/BEIN SPORTS 07.png" group-title="BEIN SPORTS HD",AR| BEIN SPORTS 07 SD [BK1]
-http://extraott.com:900/live/3162523972/3791698850/32958.m3u8
-#EXTINF:-1 tvg-id="beinsports8.qa" tvg-name="AR| BEIN SPORTS 08 SD" tvg-logo="https://lo1.in/bss/bss8.png" group-title="BEIN SPORTS HD",AR| BEIN SPORTS 08 SD
-http://extraott.com:900/live/3162523972/3791698850/89.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AR| BEIN SPORTS 08 SD [BK]" tvg-logo="https://lo1.in/bss/bss8.png" group-title="BEIN SPORTS HD",AR| BEIN SPORTS 08 SD [BK]
-http://extraott.com:900/live/3162523972/3791698850/32884.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AR| BEIN SPORTS 08 SD [BK1]" tvg-logo="https://lo1.in/bss/bss8.png" group-title="BEIN SPORTS HD",AR| BEIN SPORTS 08 SD [BK1]
-http://extraott.com:900/live/3162523972/3791698850/32957.m3u8
-#EXTINF:-1 tvg-id="beinsports9.qa" tvg-name="AR| BEIN SPORTS 09 SD" tvg-logo="https://lo1.in/bss/BEIN09.png" group-title="BEIN SPORTS HD",AR| BEIN SPORTS 09 SD
-http://extraott.com:900/live/3162523972/3791698850/90.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AR| BEIN SPORTS 09 SD [BK]" tvg-logo="https://lo1.in/bss/BEIN09.png" group-title="BEIN SPORTS HD",AR| BEIN SPORTS 09 SD [BK]
-http://extraott.com:900/live/3162523972/3791698850/32883.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AR| BEIN SPORTS 09 SD [BK1]" tvg-logo="https://lo1.in/bss/BEIN09.png" group-title="BEIN SPORTS HD",AR| BEIN SPORTS 09 SD [BK1]
-http://extraott.com:900/live/3162523972/3791698850/32956.m3u8
-#EXTINF:-1 tvg-id="beinsports1fr.qa" tvg-name="AR| BEIN SPORTS 01 FRENCH SD" tvg-logo="https://lo1.in/bss/bs1fre.png" group-title="BEIN SPORTS HD",AR| BEIN SPORTS 01 FRENCH SD
-http://extraott.com:900/live/3162523972/3791698850/102.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AR| BEIN SPORTS 01 FRENCH SD [BK]" tvg-logo="https://lo1.in/bss/bs1fre.png" group-title="BEIN SPORTS HD",AR| BEIN SPORTS 01 FRENCH SD [BK]
-http://extraott.com:900/live/3162523972/3791698850/32882.m3u8
-#EXTINF:-1 tvg-id="beinsports2fr.qa" tvg-name="AR| BEIN SPORTS 02 FRENCH SD" tvg-logo="https://lo1.in/bss/bs2fre.png" group-title="BEIN SPORTS HD",AR| BEIN SPORTS 02 FRENCH SD
-http://extraott.com:900/live/3162523972/3791698850/103.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AR| BEIN SPORTS 02 FRENCH SD [BK]" tvg-logo="https://lo1.in/bss/bs2fre.png" group-title="BEIN SPORTS HD",AR| BEIN SPORTS 02 FRENCH SD [BK]
-http://extraott.com:900/live/3162523972/3791698850/32881.m3u8
-#EXTINF:-1 tvg-id="beinsports1en.qa" tvg-name="AR| BEIN SPORTS 01 ENGLISH SD" tvg-logo="https://lo1.in/bss/bs1eng.png" group-title="BEIN SPORTS HD",AR| BEIN SPORTS 01 ENGLISH SD
-http://extraott.com:900/live/3162523972/3791698850/105.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AR| BEIN SPORTS 01 ENGLISH SD [BK]" tvg-logo="https://lo1.in/bss/bs1eng.png" group-title="BEIN SPORTS HD",AR| BEIN SPORTS 01 ENGLISH SD [BK]
-http://extraott.com:900/live/3162523972/3791698850/32880.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AR| BEIN SPORTS 01 ENGLISH SD [BK1]" tvg-logo="https://lo1.in/bss/bs1eng.png" group-title="BEIN SPORTS HD",AR| BEIN SPORTS 01 ENGLISH SD [BK1]
-http://extraott.com:900/live/3162523972/3791698850/32955.m3u8
-#EXTINF:-1 tvg-id="beinsports2en.qa" tvg-name="AR| BEIN SPORTS 02 ENGLISH SD" tvg-logo="https://lo1.in/bss/bs2eng.png" group-title="BEIN SPORTS HD",AR| BEIN SPORTS 02 ENGLISH SD
-http://extraott.com:900/live/3162523972/3791698850/106.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AR| BEIN SPORTS 02 ENGLISH SD [BK]" tvg-logo="https://lo1.in/bss/bs2eng.png" group-title="BEIN SPORTS HD",AR| BEIN SPORTS 02 ENGLISH SD [BK]
-http://extraott.com:900/live/3162523972/3791698850/32879.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AR| BEIN SPORTS 02 ENGLISH SD [BK1]" tvg-logo="https://lo1.in/bss/bs2eng.png" group-title="BEIN SPORTS HD",AR| BEIN SPORTS 02 ENGLISH SD [BK1]
-http://extraott.com:900/live/3162523972/3791698850/32954.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AR| BEIN SPORTS 01 XTRA SD" tvg-logo="https://lo1.in/bss/bsxtra1.png" group-title="BEIN SPORTS HD",AR| BEIN SPORTS 01 XTRA SD
-http://extraott.com:900/live/3162523972/3791698850/400449154.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AR| BEIN SPORTS 01 XTRA SD [BK]" tvg-logo="https://lo1.in/bss/bsxtra1.png" group-title="BEIN SPORTS HD",AR| BEIN SPORTS 01 XTRA SD [BK]
-http://extraott.com:900/live/3162523972/3791698850/32878.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AR| BEIN SPORTS 01 XTRA SD [BK1]" tvg-logo="https://lo1.in/bss/bsxtra1.png" group-title="BEIN SPORTS HD",AR| BEIN SPORTS 01 XTRA SD [BK1]
-http://extraott.com:900/live/3162523972/3791698850/32953.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AR| BEIN SPORTS 02 XTRA SD" tvg-logo="https://lo1.in/bss/bsxtra2.png" group-title="BEIN SPORTS HD",AR| BEIN SPORTS 02 XTRA SD
-http://extraott.com:900/live/3162523972/3791698850/400449155.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AR| BEIN SPORTS 02 XTRA SD [BK]" tvg-logo="https://lo1.in/bss/bsxtra2.png" group-title="BEIN SPORTS HD",AR| BEIN SPORTS 02 XTRA SD [BK]
-http://extraott.com:900/live/3162523972/3791698850/32877.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AR| BEIN SPORTS 02 XTRA SD [BK1]" tvg-logo="https://lo1.in/bss/bsxtra2.png" group-title="BEIN SPORTS HD",AR| BEIN SPORTS 02 XTRA SD [BK1]
-http://extraott.com:900/live/3162523972/3791698850/32952.m3u8
-#EXTINF:-1 tvg-id="beinsportsxtra3.qa" tvg-name="AR| BEIN SPORTS 03 XTRA SD" tvg-logo="https://lo1.in/bss/bs3btr.png" group-title="BEIN SPORTS HD",AR| BEIN SPORTS 03 XTRA SD
-http://extraott.com:900/live/3162523972/3791698850/91.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AR| BEIN SPORTS 03 XTRA SD [BK]" tvg-logo="https://lo1.in/bss/bs3btr.png" group-title="BEIN SPORTS HD",AR| BEIN SPORTS 03 XTRA SD [BK]
-http://extraott.com:900/live/3162523972/3791698850/32876.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AR| BEIN SPORTS 03 XTRA SD [BK1]" tvg-logo="https://lo1.in/bss/bs3btr.png" group-title="BEIN SPORTS HD",AR| BEIN SPORTS 03 XTRA SD [BK1]
-http://extraott.com:900/live/3162523972/3791698850/32951.m3u8
-#EXTINF:-1 tvg-id="beinsportsafc.qa" tvg-name="AR| BEIN SPORTS AFC SD" tvg-logo="https://lo1.in/bss/AFC.png" group-title="BEIN SPORTS HD",AR| BEIN SPORTS AFC SD
-http://extraott.com:900/live/3162523972/3791698850/400370408.m3u8
-#EXTINF:-1 tvg-id="beinsportsafc1.qa" tvg-name="AR| BEIN SPORTS 01 AFC SD" tvg-logo="https://lo1.in/bss/AFC.png" group-title="BEIN SPORTS HD",AR| BEIN SPORTS 01 AFC SD
-http://extraott.com:900/live/3162523972/3791698850/400370409.m3u8
-#EXTINF:-1 tvg-id="beinsportsafc2.qa" tvg-name="AR| BEIN SPORTS 02 AFC SD" tvg-logo="https://lo1.in/bss/AFC.png" group-title="BEIN SPORTS HD",AR| BEIN SPORTS 02 AFC SD
-http://extraott.com:900/live/3162523972/3791698850/400370410.m3u8
-#EXTINF:-1 tvg-id="beinsportsafc3.qa" tvg-name="AR| BEIN SPORTS 03 AFC SD" tvg-logo="https://lo1.in/bss/AFC.png" group-title="BEIN SPORTS HD",AR| BEIN SPORTS 03 AFC SD
-http://extraott.com:900/live/3162523972/3791698850/400370411.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AR| BEIN SPORTS 04 AFC SD" tvg-logo="https://lo1.in/bss/AFC.png" group-title="BEIN SPORTS HD",AR| BEIN SPORTS 04 AFC SD
-http://extraott.com:900/live/3162523972/3791698850/32906.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AR| BEIN SPORTS 05 AFC SD" tvg-logo="https://lo1.in/bss/AFC.png" group-title="BEIN SPORTS HD",AR| BEIN SPORTS 05 AFC SD
-http://extraott.com:900/live/3162523972/3791698850/32903.m3u8
-#EXTINF:-1 tvg-id="beinsportsmax1.qa" tvg-name="AR| BEIN SPORTS MAX 1 SD" tvg-logo="https://lo1.in/bss/bs1max.png" group-title="BEIN SPORTS HD",AR| BEIN SPORTS MAX 1 SD
-http://extraott.com:900/live/3162523972/3791698850/92.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AR| BEIN SPORTS MAX 1 SD [BK]" tvg-logo="https://lo1.in/bss/bs1max.png" group-title="BEIN SPORTS HD",AR| BEIN SPORTS MAX 1 SD [BK]
-http://extraott.com:900/live/3162523972/3791698850/53384.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AR| BEIN SPORTS MAX 1 SD [BK1]" tvg-logo="https://lo1.in/bss/bs1max.png" group-title="BEIN SPORTS HD",AR| BEIN SPORTS MAX 1 SD [BK1]
-http://extraott.com:900/live/3162523972/3791698850/53354.m3u8
-#EXTINF:-1 tvg-id="beinsportsmax2.qa" tvg-name="AR| BEIN SPORTS MAX 2 SD" tvg-logo="https://lo1.in/bss/bs2max.png" group-title="BEIN SPORTS HD",AR| BEIN SPORTS MAX 2 SD
-http://extraott.com:900/live/3162523972/3791698850/93.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AR| BEIN SPORTS MAX 2 SD [BK]" tvg-logo="https://lo1.in/bss/bs2max.png" group-title="BEIN SPORTS HD",AR| BEIN SPORTS MAX 2 SD [BK]
-http://extraott.com:900/live/3162523972/3791698850/53383.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AR| BEIN SPORTS MAX 2 SD [BK1]" tvg-logo="https://lo1.in/bss/bs2max.png" group-title="BEIN SPORTS HD",AR| BEIN SPORTS MAX 2 SD [BK1]
-http://extraott.com:900/live/3162523972/3791698850/53353.m3u8
-#EXTINF:-1 tvg-id="beinsportsmax3.qa" tvg-name="AR| BEIN SPORTS MAX 3 SD" tvg-logo="https://lo1.in/bss/BEIN 3MAX.png" group-title="BEIN SPORTS HD",AR| BEIN SPORTS MAX 3 SD
-http://extraott.com:900/live/3162523972/3791698850/94.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AR| BEIN SPORTS MAX 3 SD [BK]" tvg-logo="https://lo1.in/bss/BEIN%203MAX.png" group-title="BEIN SPORTS HD",AR| BEIN SPORTS MAX 3 SD [BK]
-http://extraott.com:900/live/3162523972/3791698850/53382.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AR| BEIN SPORTS MAX 3 SD [BK1]" tvg-logo="https://lo1.in/bss/BEIN%203MAX.png" group-title="BEIN SPORTS HD",AR| BEIN SPORTS MAX 3 SD [BK1]
-http://extraott.com:900/live/3162523972/3791698850/53352.m3u8
-#EXTINF:-1 tvg-id="beinsportsmax4.qa" tvg-name="AR| BEIN SPORTS MAX 4 SD" tvg-logo="https://lo1.in/bss/bs4max1.png" group-title="BEIN SPORTS HD",AR| BEIN SPORTS MAX 4 SD
-http://extraott.com:900/live/3162523972/3791698850/95.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AR| BEIN SPORTS MAX 4 SD [BK]" tvg-logo="https://lo1.in/bss/bs4max1.png" group-title="BEIN SPORTS HD",AR| BEIN SPORTS MAX 4 SD [BK]
-http://extraott.com:900/live/3162523972/3791698850/53381.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AR| BEIN SPORTS MAX 4 SD [BK1]" tvg-logo="https://lo1.in/bss/bs4max1.png" group-title="BEIN SPORTS HD",AR| BEIN SPORTS MAX 4 SD [BK1]
-http://extraott.com:900/live/3162523972/3791698850/53351.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AR| BEIN SPORTS MAX 5 SD [BK1]" tvg-logo="https://lo1.in/bss/bs5max.png" group-title="BEIN SPORTS HD",AR| BEIN SPORTS MAX 5 SD [BK1]
-http://extraott.com:900/live/3162523972/3791698850/53350.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AR| BEIN SPORTS MAX 6 SD [BK1]" tvg-logo="https://lo1.in/bss/bs6max.png" group-title="BEIN SPORTS HD",AR| BEIN SPORTS MAX 6 SD [BK1]
-http://extraott.com:900/live/3162523972/3791698850/53349.m3u8
-*************************
-#EXTINF:-1 tvg-logo="https://cdn3.iconfinder.com/data/icons/social-network-30/512/social-06-512.png" group-title="BEIN SPORTS 4K",PutraTalawi
-https://youtube.com/@PutraTalawi-s9m
-#EXTINF:-1 tvg-id="" tvg-name="✦●✦| 4K - BEIN SPORTS 4K |✦●✦" tvg-logo="https://lo1.in/bss/bs.png" group-title="BEIN SPORTS 4K",✦●✦| 4K - BEIN SPORTS 4K |✦●✦
-http://extraott.com:900/live/3162523972/3791698850/30.m3u8
+
+
+
 #EXTINF:-1 tvg-id="beinsports4k.qa" tvg-name="AR| BEIN 4K+" tvg-logo="https://lo1.in/FCB/4kkkk.png" group-title="BEIN SPORTS 4K",AR| BEIN 4K+
 http://extraott.com:900/live/3162523972/3791698850/39322.m3u8
 #EXTINF:-1 tvg-id="beinsportsnews.qa" tvg-name="AR| BEIN SPORTS NEWS 4K" tvg-logo="https://lo1.in/bss/bsnews.png" group-title="BEIN SPORTS 4K",AR| BEIN SPORTS NEWS 4K
@@ -1614,94 +1377,51 @@ http://extraott.com:900/live/3162523972/3791698850/32.m3u8
 http://extraott.com:900/live/3162523972/3791698850/33.m3u8
 #EXTINF:-1 tvg-id="beinsports1.qa" tvg-name="AR| BEIN SPORTS 01 4K" tvg-logo="https://lo1.in/bss/bsS1.png" group-title="BEIN SPORTS 4K",AR| BEIN SPORTS 01 4K
 http://extraott.com:900/live/3162523972/3791698850/48.m3u8
-#EXTINF:-1 tvg-id="beinsports1.qa" tvg-name="AR| BEIN SPORTS 01 4K [BK]" tvg-logo="https://lo1.in/bss/bsS1.png" group-title="BEIN SPORTS 4K",AR| BEIN SPORTS 01 4K [BK]
-http://extraott.com:900/live/3162523972/3791698850/27767.m3u8
-#EXTINF:-1 tvg-id="beinsports1.qa" tvg-name="AR| BEIN SPORTS 01 4K [BK1]" tvg-logo="https://lo1.in/bss/bsS1.png" group-title="BEIN SPORTS 4K",AR| BEIN SPORTS 01 4K [BK1]
-http://extraott.com:900/live/3162523972/3791698850/13952.m3u8
-#EXTINF:-1 tvg-id="beinsports2.qa" tvg-name="AR| BEIN SPORTS 02 4K" tvg-logo="https://lo1.in/bss/bsS2.png" group-title="BEIN SPORTS 4K",AR| BEIN SPORTS 02 4K
-http://extraott.com:900/live/3162523972/3791698850/49.m3u8
+
 #EXTINF:-1 tvg-id="beinsports2.qa" tvg-name="AR| BEIN SPORTS 02 4K [BK]" tvg-logo="https://lo1.in/bss/bsS2.png" group-title="BEIN SPORTS 4K",AR| BEIN SPORTS 02 4K [BK]
 http://extraott.com:900/live/3162523972/3791698850/27766.m3u8
-#EXTINF:-1 tvg-id="beinsports2.qa" tvg-name="AR| BEIN SPORTS 02 4K [BK1]" tvg-logo="https://lo1.in/bss/bsS2.png" group-title="BEIN SPORTS 4K",AR| BEIN SPORTS 02 4K [BK1]
-http://extraott.com:900/live/3162523972/3791698850/13951.m3u8
+
 #EXTINF:-1 tvg-id="beinsports3.qa" tvg-name="AR| BEIN SPORTS 03 4K" tvg-logo="https://lo1.in/bss/bs3.png" group-title="BEIN SPORTS 4K",AR| BEIN SPORTS 03 4K
 http://extraott.com:900/live/3162523972/3791698850/34.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AR| BEIN SPORTS 03 4K [BK]" tvg-logo="https://lo1.in/bss/bs3.png" group-title="BEIN SPORTS 4K",AR| BEIN SPORTS 03 4K [BK]
-http://extraott.com:900/live/3162523972/3791698850/32849.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AR| BEIN SPORTS 03 4K [BK1]" tvg-logo="https://lo1.in/bss/bs3.png" group-title="BEIN SPORTS 4K",AR| BEIN SPORTS 03 4K [BK1]
-http://extraott.com:900/live/3162523972/3791698850/32927.m3u8
+
 #EXTINF:-1 tvg-id="beinsports4.qa" tvg-name="AR| BEIN SPORTS 04 4K" tvg-logo="https://lo1.in/bss/bs4.png" group-title="BEIN SPORTS 4K",AR| BEIN SPORTS 04 4K
 http://extraott.com:900/live/3162523972/3791698850/35.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AR| BEIN SPORTS 04 4K [BK]" tvg-logo="https://lo1.in/bss/bs4.png" group-title="BEIN SPORTS 4K",AR| BEIN SPORTS 04 4K [BK]
-http://extraott.com:900/live/3162523972/3791698850/32848.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AR| BEIN SPORTS 04 4K [BK1]" tvg-logo="https://lo1.in/bss/bs4.png" group-title="BEIN SPORTS 4K",AR| BEIN SPORTS 04 4K [BK1]
-http://extraott.com:900/live/3162523972/3791698850/32926.m3u8
+
 #EXTINF:-1 tvg-id="beinsports5.qa" tvg-name="AR| BEIN SPORTS 05 4K" tvg-logo="https://lo1.in/bss/bs5.png" group-title="BEIN SPORTS 4K",AR| BEIN SPORTS 05 4K
 http://extraott.com:900/live/3162523972/3791698850/36.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AR| BEIN SPORTS 05 4K [BK]" tvg-logo="https://lo1.in/bss/bs5.png" group-title="BEIN SPORTS 4K",AR| BEIN SPORTS 05 4K [BK]
-http://extraott.com:900/live/3162523972/3791698850/32847.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AR| BEIN SPORTS 05 4K [BK1]" tvg-logo="https://lo1.in/bss/bs5.png" group-title="BEIN SPORTS 4K",AR| BEIN SPORTS 05 4K [BK1]
-http://extraott.com:900/live/3162523972/3791698850/32925.m3u8
+
 #EXTINF:-1 tvg-id="beinsports6.qa" tvg-name="AR| BEIN SPORTS 06 4K" tvg-logo="https://lo1.in/bein/beinn6.png" group-title="BEIN SPORTS 4K",AR| BEIN SPORTS 06 4K
 http://extraott.com:900/live/3162523972/3791698850/37.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AR| BEIN SPORTS 06 4K [BK]" tvg-logo="https://lo1.in/bein/beinn6.png" group-title="BEIN SPORTS 4K",AR| BEIN SPORTS 06 4K [BK]
-http://extraott.com:900/live/3162523972/3791698850/32846.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AR| BEIN SPORTS 06 4K [BK1]" tvg-logo="https://lo1.in/bein/beinn6.png" group-title="BEIN SPORTS 4K",AR| BEIN SPORTS 06 4K [BK1]
-http://extraott.com:900/live/3162523972/3791698850/32924.m3u8
+
 #EXTINF:-1 tvg-id="beinsports7.qa" tvg-name="AR| BEIN SPORTS 07 4K" tvg-logo="https://lo1.in/bss/BEIN SPORTS 07.png" group-title="BEIN SPORTS 4K",AR| BEIN SPORTS 07 4K
 http://extraott.com:900/live/3162523972/3791698850/38.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AR| BEIN SPORTS 07 4K [BK]" tvg-logo="https://lo1.in/bss/BEIN SPORTS 07.png" group-title="BEIN SPORTS 4K",AR| BEIN SPORTS 07 4K [BK]
-http://extraott.com:900/live/3162523972/3791698850/32845.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AR| BEIN SPORTS 07 4K [BK1]" tvg-logo="https://lo1.in/bss/BEIN SPORTS 07.png" group-title="BEIN SPORTS 4K",AR| BEIN SPORTS 07 4K [BK1]
-http://extraott.com:900/live/3162523972/3791698850/32923.m3u8
+
 #EXTINF:-1 tvg-id="beinsports8.qa" tvg-name="AR| BEIN SPORTS 08 4K" tvg-logo="https://lo1.in/bss/bss8.png" group-title="BEIN SPORTS 4K",AR| BEIN SPORTS 08 4K
 http://extraott.com:900/live/3162523972/3791698850/39.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AR| BEIN SPORTS 08 4K [BK]" tvg-logo="https://lo1.in/bss/bss8.png" group-title="BEIN SPORTS 4K",AR| BEIN SPORTS 08 4K [BK]
-http://extraott.com:900/live/3162523972/3791698850/32844.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AR| BEIN SPORTS 08 4K [BK1]" tvg-logo="https://lo1.in/bss/bss8.png" group-title="BEIN SPORTS 4K",AR| BEIN SPORTS 08 4K [BK1]
-http://extraott.com:900/live/3162523972/3791698850/32922.m3u8
+
 #EXTINF:-1 tvg-id="beinsports9.qa" tvg-name="AR| BEIN SPORTS 09 4K" tvg-logo="https://lo1.in/bss/bs9.png" group-title="BEIN SPORTS 4K",AR| BEIN SPORTS 09 4K
 http://extraott.com:900/live/3162523972/3791698850/40.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AR| BEIN SPORTS 09 4K [BK]" tvg-logo="https://lo1.in/bss/bs9.png" group-title="BEIN SPORTS 4K",AR| BEIN SPORTS 09 4K [BK]
-http://extraott.com:900/live/3162523972/3791698850/32843.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AR| BEIN SPORTS 09 4K [BK1]" tvg-logo="https://lo1.in/bss/bs9.png" group-title="BEIN SPORTS 4K",AR| BEIN SPORTS 09 4K [BK1]
-http://extraott.com:900/live/3162523972/3791698850/32921.m3u8
+
 #EXTINF:-1 tvg-id="beinsports1fr.qa" tvg-name="AR| BEIN SPORTS 01 FRENCH 4K" tvg-logo="https://lo1.in/bss/bs1fre.png" group-title="BEIN SPORTS 4K",AR| BEIN SPORTS 01 FRENCH 4K
 http://extraott.com:900/live/3162523972/3791698850/51.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AR| BEIN SPORTS 01 FRENCH 4K [BK]" tvg-logo="https://lo1.in/bss/bs1fre.png" group-title="BEIN SPORTS 4K",AR| BEIN SPORTS 01 FRENCH 4K [BK]
-http://extraott.com:900/live/3162523972/3791698850/32842.m3u8
-#EXTINF:-1 tvg-id="beinsports2fr.qa" tvg-name="AR| BEIN SPORTS 02 FRENCH 4K" tvg-logo="https://lo1.in/bss/bs2fre.png" group-title="BEIN SPORTS 4K",AR| BEIN SPORTS 02 FRENCH 4K
-http://extraott.com:900/live/3162523972/3791698850/52.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="AR| BEIN SPORTS 02 FRENCH 4K [BK]" tvg-logo="https://lo1.in/bss/bs2fre.png" group-title="BEIN SPORTS 4K",AR| BEIN SPORTS 02 FRENCH 4K [BK]
 http://extraott.com:900/live/3162523972/3791698850/32841.m3u8
 #EXTINF:-1 tvg-id="beinsports1en.qa" tvg-name="AR| BEIN SPORTS 01 ENGLISH 4K" tvg-logo="https://lo1.in/bss/bs1eng.png" group-title="BEIN SPORTS 4K",AR| BEIN SPORTS 01 ENGLISH 4K
 http://extraott.com:900/live/3162523972/3791698850/54.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AR| BEIN SPORTS 01 ENGLISH 4K [BK]" tvg-logo="https://lo1.in/bss/bs1eng.png" group-title="BEIN SPORTS 4K",AR| BEIN SPORTS 01 ENGLISH 4K [BK]
-http://extraott.com:900/live/3162523972/3791698850/32840.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AR| BEIN SPORTS 01 ENGLISH 4K [BK1]" tvg-logo="https://lo1.in/bss/bs1eng.png" group-title="BEIN SPORTS 4K",AR| BEIN SPORTS 01 ENGLISH 4K [BK1]
-http://extraott.com:900/live/3162523972/3791698850/32920.m3u8
+
 #EXTINF:-1 tvg-id="beinsports2en.qa" tvg-name="AR| BEIN SPORTS 02 ENGLISH 4K" tvg-logo="https://lo1.in/bss/bs2eng.png" group-title="BEIN SPORTS 4K",AR| BEIN SPORTS 02 ENGLISH 4K
 http://extraott.com:900/live/3162523972/3791698850/55.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AR| BEIN SPORTS 02 ENGLISH 4K [BK]" tvg-logo="https://lo1.in/bss/bs2eng.png" group-title="BEIN SPORTS 4K",AR| BEIN SPORTS 02 ENGLISH 4K [BK]
-http://extraott.com:900/live/3162523972/3791698850/32839.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AR| BEIN SPORTS 02 ENGLISH 4K [BK1]" tvg-logo="https://lo1.in/bss/bs2eng.png" group-title="BEIN SPORTS 4K",AR| BEIN SPORTS 02 ENGLISH 4K [BK1]
-http://extraott.com:900/live/3162523972/3791698850/32919.m3u8
+
 #EXTINF:-1 tvg-id="beinsportsxtra1.qa" tvg-name="AR| BEIN SPORTS 01 XTRA 4k" tvg-logo="https://lo1.in/bss/bsxtra1.png" group-title="BEIN SPORTS 4K",AR| BEIN SPORTS 01 XTRA 4k
 http://extraott.com:900/live/3162523972/3791698850/1299.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AR| BEIN SPORTS 01 XTRA 4K [BK]" tvg-logo="https://lo1.in/bss/bsxtra1.png" group-title="BEIN SPORTS 4K",AR| BEIN SPORTS 01 XTRA 4K [BK]
-http://extraott.com:900/live/3162523972/3791698850/32838.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AR| BEIN SPORTS 01 XTRA 4K [BK1]" tvg-logo="https://lo1.in/bss/bsxtra1.png" group-title="BEIN SPORTS 4K",AR| BEIN SPORTS 01 XTRA 4K [BK1]
-http://extraott.com:900/live/3162523972/3791698850/32918.m3u8
+
 #EXTINF:-1 tvg-id="beinsportsxtra2.qa" tvg-name="AR| BEIN SPORTS 02 XTRA 4k" tvg-logo="https://lo1.in/bss/bsxtra2.png" group-title="BEIN SPORTS 4K",AR| BEIN SPORTS 02 XTRA 4k
 http://extraott.com:900/live/3162523972/3791698850/1298.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AR| BEIN SPORTS 02 XTRA 4K [BK]" tvg-logo="https://lo1.in/bss/bsxtra2.png" group-title="BEIN SPORTS 4K",AR| BEIN SPORTS 02 XTRA 4K [BK]
-http://extraott.com:900/live/3162523972/3791698850/32837.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AR| BEIN SPORTS 02 XTRA 4K [BK1]" tvg-logo="https://lo1.in/bss/bsxtra2.png" group-title="BEIN SPORTS 4K",AR| BEIN SPORTS 02 XTRA 4K [BK1]
-http://extraott.com:900/live/3162523972/3791698850/32917.m3u8
+
 #EXTINF:-1 tvg-id="beinsportsxtra3.qa" tvg-name="AR| BEIN SPORTS 03 XTRA 4K" tvg-logo="https://lo1.in/bss/bs3btr.png" group-title="BEIN SPORTS 4K",AR| BEIN SPORTS 03 XTRA 4K
 http://extraott.com:900/live/3162523972/3791698850/50.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AR| BEIN SPORTS 03 XTRA 4K [BK1]" tvg-logo="https://lo1.in/bss/bs3btr.png" group-title="BEIN SPORTS 4K",AR| BEIN SPORTS 03 XTRA 4K [BK1]
-http://extraott.com:900/live/3162523972/3791698850/32916.m3u8
+8
 #EXTINF:-1 tvg-id="beinsportsafc.qa" tvg-name="AR| BEIN SPORTS AFC 4K" tvg-logo="https://lo1.in/bss/AFC.png" group-title="BEIN SPORTS 4K",AR| BEIN SPORTS AFC 4K
 http://extraott.com:900/live/3162523972/3791698850/400370404.m3u8
 #EXTINF:-1 tvg-id="beinsportsafc1.qa" tvg-name="AR| BEIN SPORTS 01 AFC 4K" tvg-logo="https://lo1.in/bss/AFC.png" group-title="BEIN SPORTS 4K",AR| BEIN SPORTS 01 AFC 4K
@@ -1714,193 +1434,6 @@ http://extraott.com:900/live/3162523972/3791698850/400370407.m3u8
 http://extraott.com:900/live/3162523972/3791698850/32908.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AR| BEIN SPORTS 05 AFC 4K" tvg-logo="https://lo1.in/bss/AFC.png" group-title="BEIN SPORTS 4K",AR| BEIN SPORTS 05 AFC 4K
 http://extraott.com:900/live/3162523972/3791698850/32905.m3u8
-#EXTINF:-1 tvg-id="beinsportsmax1.qa" tvg-name="AR| BEIN SPORTS MAX 1 4K" tvg-logo="https://lo1.in/bss/bs1max.png" group-title="BEIN SPORTS 4K",AR| BEIN SPORTS MAX 1 4K
-http://extraott.com:900/live/3162523972/3791698850/41.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AR| BEIN SPORTS MAX 1 4K [BK]" tvg-logo="https://lo1.in/bss/bs1max.png" group-title="BEIN SPORTS 4K",AR| BEIN SPORTS MAX 1 4K [BK]
-http://extraott.com:900/live/3162523972/3791698850/53380.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AR| BEIN SPORTS MAX 1 4K [BK1]" tvg-logo="https://lo1.in/bss/bs1max.png" group-title="BEIN SPORTS 4K",AR| BEIN SPORTS MAX 1 4K [BK1]
-http://extraott.com:900/live/3162523972/3791698850/53372.m3u8
-#EXTINF:-1 tvg-id="beinsportsmax2.qa" tvg-name="AR| BEIN SPORTS MAX 2 4K" tvg-logo="https://lo1.in/bss/bs2max.png" group-title="BEIN SPORTS 4K",AR| BEIN SPORTS MAX 2 4K
-http://extraott.com:900/live/3162523972/3791698850/42.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AR| BEIN SPORTS MAX 2 4K [BK]" tvg-logo="https://lo1.in/bss/bs2max.png" group-title="BEIN SPORTS 4K",AR| BEIN SPORTS MAX 2 4K [BK]
-http://extraott.com:900/live/3162523972/3791698850/53379.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AR| BEIN SPORTS MAX 2 4K [BK1]" tvg-logo="https://lo1.in/bss/bs2max.png" group-title="BEIN SPORTS 4K",AR| BEIN SPORTS MAX 2 4K [BK1]
-http://extraott.com:900/live/3162523972/3791698850/53371.m3u8
-#EXTINF:-1 tvg-id="beinsportsmax3.qa" tvg-name="AR| BEIN SPORTS MAX 3 4K" tvg-logo="https://lo1.in/bss/BEIN 3MAX.png" group-title="BEIN SPORTS 4K",AR| BEIN SPORTS MAX 3 4K
-http://extraott.com:900/live/3162523972/3791698850/43.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AR| BEIN SPORTS MAX 3 4K [BK]" tvg-logo="https://lo1.in/bss/BEIN%203MAX.png" group-title="BEIN SPORTS 4K",AR| BEIN SPORTS MAX 3 4K [BK]
-http://extraott.com:900/live/3162523972/3791698850/53378.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AR| BEIN SPORTS MAX 3 4K [BK1]" tvg-logo="https://lo1.in/bss/BEIN%203MAX.png" group-title="BEIN SPORTS 4K",AR| BEIN SPORTS MAX 3 4K [BK1]
-http://extraott.com:900/live/3162523972/3791698850/53370.m3u8
-#EXTINF:-1 tvg-id="beinsportsmax4.qa" tvg-name="AR| BEIN SPORTS MAX 4 4K" tvg-logo="https://lo1.in/bss/bs4max1.png" group-title="BEIN SPORTS 4K",AR| BEIN SPORTS MAX 4 4K
-http://extraott.com:900/live/3162523972/3791698850/44.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AR| BEIN SPORTS MAX 4 4K [BK]" tvg-logo="https://lo1.in/bss/bs4max1.png" group-title="BEIN SPORTS 4K",AR| BEIN SPORTS MAX 4 4K [BK]
-http://extraott.com:900/live/3162523972/3791698850/53377.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AR| BEIN SPORTS MAX 4 4K [BK1]" tvg-logo="https://lo1.in/bss/bs4max1.png" group-title="BEIN SPORTS 4K",AR| BEIN SPORTS MAX 4 4K [BK1]
-http://extraott.com:900/live/3162523972/3791698850/53369.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AR| BEIN SPORTS MAX 5 4K [BK1]" tvg-logo="https://lo1.in/bss/bs5max.png" group-title="BEIN SPORTS 4K",AR| BEIN SPORTS MAX 5 4K [BK1]
-http://extraott.com:900/live/3162523972/3791698850/53368.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AR| BEIN SPORTS MAX 6 4K [BK1]" tvg-logo="https://lo1.in/bss/bs6max.png" group-title="BEIN SPORTS 4K",AR| BEIN SPORTS MAX 6 4K [BK1]
-http://extraott.com:900/live/3162523972/3791698850/53367.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="✦●✦| FHD - BEIN SPORTS FHD |✦●✦" tvg-logo="https://lo1.in/bss/bs.png" group-title="BEIN SPORTS 4K",✦●✦| FHD - BEIN SPORTS FHD |✦●✦
-http://extraott.com:900/live/3162523972/3791698850/1.m3u8
-#EXTINF:-1 tvg-id="beinsportsnews.qa" tvg-name="AR| BEIN SPORTS NEWS FHD" tvg-logo="https://lo1.in/bss/bsnews.png" group-title="BEIN SPORTS 4K",AR| BEIN SPORTS NEWS FHD
-http://extraott.com:900/live/3162523972/3791698850/3.m3u8
-#EXTINF:-1 tvg-id="beinsportsglobal.qa" tvg-name="AR| BEIN SPORTS FHD" tvg-logo="https://lo1.in/bss/bs.png" group-title="BEIN SPORTS 4K",AR| BEIN SPORTS FHD
-http://extraott.com:900/live/3162523972/3791698850/29542.m3u8
-#EXTINF:-1 tvg-id="beinsportsnba.qa" tvg-name="AR| BEIN SPORTS NBA FHD" tvg-logo="https://lo1.in/bss/bsnba.png" group-title="BEIN SPORTS 4K",AR| BEIN SPORTS NBA FHD
-http://extraott.com:900/live/3162523972/3791698850/5.m3u8
-#EXTINF:-1 tvg-id="beinsports1.qa" tvg-name="AR| BEIN SPORTS 01 FHD" tvg-logo="https://lo1.in/bss/bsS1.png" group-title="BEIN SPORTS 4K",AR| BEIN SPORTS 01 FHD
-http://extraott.com:900/live/3162523972/3791698850/20.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AR| BEIN SPORTS 01 FHD [BK]" tvg-logo="https://lo1.in/bss/bsS1.png" group-title="BEIN SPORTS 4K",AR| BEIN SPORTS 01 FHD [BK]
-http://extraott.com:900/live/3162523972/3791698850/32871.m3u8
-#EXTINF:-1 tvg-id="beinsports1.qa" tvg-name="AR| BEIN SPORTS 01 FHD [BK1]" tvg-logo="https://lo1.in/bss/bsS1.png" group-title="BEIN SPORTS 4K",AR| BEIN SPORTS 01 FHD [BK1]
-http://extraott.com:900/live/3162523972/3791698850/13949.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AR| BEIN SPORTS 01 UHD" tvg-logo="https://lo1.in/bss/bsS1.png" group-title="BEIN SPORTS 4K",AR| BEIN SPORTS 01 UHD
-http://extraott.com:900/live/3162523972/3791698850/32911.m3u8
-#EXTINF:-1 tvg-id="beinsports2.qa" tvg-name="AR| BEIN SPORTS 02 FHD" tvg-logo="https://lo1.in/bss/bsS2.png" group-title="BEIN SPORTS 4K",AR| BEIN SPORTS 02 FHD
-http://extraott.com:900/live/3162523972/3791698850/21.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AR| BEIN SPORTS 02 FHD [BK]" tvg-logo="https://lo1.in/bss/bsS2.png" group-title="BEIN SPORTS 4K",AR| BEIN SPORTS 02 FHD [BK]
-http://extraott.com:900/live/3162523972/3791698850/32870.m3u8
-#EXTINF:-1 tvg-id="beinsports2.qa" tvg-name="AR| BEIN SPORTS 02 FHD [BK1]" tvg-logo="https://lo1.in/bss/bsS2.png" group-title="BEIN SPORTS 4K",AR| BEIN SPORTS 02 FHD [BK1]
-http://extraott.com:900/live/3162523972/3791698850/13948.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AR| BEIN SPORTS 02 UHD" tvg-logo="https://lo1.in/bss/bsS2.png" group-title="BEIN SPORTS 4K",AR| BEIN SPORTS 02 UHD
-http://extraott.com:900/live/3162523972/3791698850/32910.m3u8
-#EXTINF:-1 tvg-id="beinsports3.qa" tvg-name="AR| BEIN SPORTS 03 FHD" tvg-logo="https://lo1.in/bss/bs3.png" group-title="BEIN SPORTS 4K",AR| BEIN SPORTS 03 FHD
-http://extraott.com:900/live/3162523972/3791698850/6.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AR| BEIN SPORTS 03 FHD [BK]" tvg-logo="https://lo1.in/bss/bs3.png" group-title="BEIN SPORTS 4K",AR| BEIN SPORTS 03 FHD [BK]
-http://extraott.com:900/live/3162523972/3791698850/32869.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AR| BEIN SPORTS 03 FHD [BK1]" tvg-logo="https://lo1.in/bss/bs3.png" group-title="BEIN SPORTS 4K",AR| BEIN SPORTS 03 FHD [BK1]
-http://extraott.com:900/live/3162523972/3791698850/32944.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AR| BEIN SPORTS 03 UHD" tvg-logo="https://lo1.in/bss/bs3.png" group-title="BEIN SPORTS 4K",AR| BEIN SPORTS 03 UHD
-http://extraott.com:900/live/3162523972/3791698850/32909.m3u8
-#EXTINF:-1 tvg-id="beinsports4.qa" tvg-name="AR| BEIN SPORTS 04 FHD" tvg-logo="https://lo1.in/bss/bs4.png" group-title="BEIN SPORTS 4K",AR| BEIN SPORTS 04 FHD
-http://extraott.com:900/live/3162523972/3791698850/7.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AR| BEIN SPORTS 04 FHD [BK]" tvg-logo="https://lo1.in/bss/bs4.png" group-title="BEIN SPORTS 4K",AR| BEIN SPORTS 04 FHD [BK]
-http://extraott.com:900/live/3162523972/3791698850/32868.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AR| BEIN SPORTS 04 FHD [BK1]" tvg-logo="https://lo1.in/bss/bs4.png" group-title="BEIN SPORTS 4K",AR| BEIN SPORTS 04 FHD [BK1]
-http://extraott.com:900/live/3162523972/3791698850/32943.m3u8
-#EXTINF:-1 tvg-id="beinsports5.qa" tvg-name="AR| BEIN SPORTS 05 FHD" tvg-logo="https://lo1.in/bss/bs5.png" group-title="BEIN SPORTS 4K",AR| BEIN SPORTS 05 FHD
-http://extraott.com:900/live/3162523972/3791698850/8.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AR| BEIN SPORTS 05 FHD [BK]" tvg-logo="https://lo1.in/bss/bs5.png" group-title="BEIN SPORTS 4K",AR| BEIN SPORTS 05 FHD [BK]
-http://extraott.com:900/live/3162523972/3791698850/32867.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AR| BEIN SPORTS 05 FHD [BK1]" tvg-logo="https://lo1.in/bss/bs5.png" group-title="BEIN SPORTS 4K",AR| BEIN SPORTS 05 FHD [BK1]
-http://extraott.com:900/live/3162523972/3791698850/32942.m3u8
-#EXTINF:-1 tvg-id="beinsports6.qa" tvg-name="AR| BEIN SPORTS 06 FHD" tvg-logo="https://lo1.in/bein/beinn6.png" group-title="BEIN SPORTS 4K",AR| BEIN SPORTS 06 FHD
-http://extraott.com:900/live/3162523972/3791698850/9.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AR| BEIN SPORTS 06 FHD [BK]" tvg-logo="https://lo1.in/bein/beinn6.png" group-title="BEIN SPORTS 4K",AR| BEIN SPORTS 06 FHD [BK]
-http://extraott.com:900/live/3162523972/3791698850/32866.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AR| BEIN SPORTS 06 FHD [BK1]" tvg-logo="https://lo1.in/bein/beinn6.png" group-title="BEIN SPORTS 4K",AR| BEIN SPORTS 06 FHD [BK1]
-http://extraott.com:900/live/3162523972/3791698850/32941.m3u8
-#EXTINF:-1 tvg-id="beinsports7.qa" tvg-name="AR| BEIN SPORTS 07 FHD" tvg-logo="https://lo1.in/bss/BEIN SPORTS 07.png" group-title="BEIN SPORTS 4K",AR| BEIN SPORTS 07 FHD
-http://extraott.com:900/live/3162523972/3791698850/10.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AR| BEIN SPORTS 07 FHD [BK]" tvg-logo="https://lo1.in/bss/BEIN SPORTS 07.png" group-title="BEIN SPORTS 4K",AR| BEIN SPORTS 07 FHD [BK]
-http://extraott.com:900/live/3162523972/3791698850/32865.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AR| BEIN SPORTS 07 FHD [BK1]" tvg-logo="https://lo1.in/bss/BEIN SPORTS 07.png" group-title="BEIN SPORTS 4K",AR| BEIN SPORTS 07 FHD [BK1]
-http://extraott.com:900/live/3162523972/3791698850/32940.m3u8
-#EXTINF:-1 tvg-id="beinsports8.qa" tvg-name="AR| BEIN SPORTS 08 FHD" tvg-logo="https://lo1.in/bss/bss8.png" group-title="BEIN SPORTS 4K",AR| BEIN SPORTS 08 FHD
-http://extraott.com:900/live/3162523972/3791698850/11.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AR| BEIN SPORTS 08 FHD [BK]" tvg-logo="https://lo1.in/bss/bss8.png" group-title="BEIN SPORTS 4K",AR| BEIN SPORTS 08 FHD [BK]
-http://extraott.com:900/live/3162523972/3791698850/32864.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AR| BEIN SPORTS 08 FHD [BK1]" tvg-logo="https://lo1.in/bss/bss8.png" group-title="BEIN SPORTS 4K",AR| BEIN SPORTS 08 FHD [BK1]
-http://extraott.com:900/live/3162523972/3791698850/32939.m3u8
-#EXTINF:-1 tvg-id="beinsports9.qa" tvg-name="AR| BEIN SPORTS 09 FHD" tvg-logo="https://lo1.in/bss/bs9.png" group-title="BEIN SPORTS 4K",AR| BEIN SPORTS 09 FHD
-http://extraott.com:900/live/3162523972/3791698850/12.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AR| BEIN SPORTS 09 FHD [BK]" tvg-logo="https://lo1.in/bss/bs9.png" group-title="BEIN SPORTS 4K",AR| BEIN SPORTS 09 FHD [BK]
-http://extraott.com:900/live/3162523972/3791698850/32863.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AR| BEIN SPORTS 09 FHD [BK1]" tvg-logo="https://lo1.in/bss/bs9.png" group-title="BEIN SPORTS 4K",AR| BEIN SPORTS 09 FHD [BK1]
-http://extraott.com:900/live/3162523972/3791698850/32938.m3u8
-#EXTINF:-1 tvg-id="beinsports1fr.qa" tvg-name="AR| BEIN SPORTS 01 FRENCH FHD" tvg-logo="https://lo1.in/bss/bs1fre.png" group-title="BEIN SPORTS 4K",AR| BEIN SPORTS 01 FRENCH FHD
-http://extraott.com:900/live/3162523972/3791698850/23.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AR| BEIN SPORTS 01 FRENCH FHD [BK]" tvg-logo="https://lo1.in/bss/bs1fre.png" group-title="BEIN SPORTS 4K",AR| BEIN SPORTS 01 FRENCH FHD [BK]
-http://extraott.com:900/live/3162523972/3791698850/32862.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AR| BEIN SPORTS 01 FRENCH FHD [BK1]" tvg-logo="https://lo1.in/bss/bs1fre.png" group-title="BEIN SPORTS 4K",AR| BEIN SPORTS 01 FRENCH FHD [BK1]
-http://extraott.com:900/live/3162523972/3791698850/32937.m3u8
-#EXTINF:-1 tvg-id="beinsports2fr.qa" tvg-name="AR| BEIN SPORTS 02 FRENCH FHD" tvg-logo="https://lo1.in/bss/bs2fre.png" group-title="BEIN SPORTS 4K",AR| BEIN SPORTS 02 FRENCH FHD
-http://extraott.com:900/live/3162523972/3791698850/24.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AR| BEIN SPORTS 02 FRENCH FHD [BK]" tvg-logo="https://lo1.in/bss/bs2fre.png" group-title="BEIN SPORTS 4K",AR| BEIN SPORTS 02 FRENCH FHD [BK]
-http://extraott.com:900/live/3162523972/3791698850/32861.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AR| BEIN SPORTS 02 FRENCH FHD [BK1]" tvg-logo="https://lo1.in/bss/bs2fre.png" group-title="BEIN SPORTS 4K",AR| BEIN SPORTS 02 FRENCH FHD [BK1]
-http://extraott.com:900/live/3162523972/3791698850/32936.m3u8
-#EXTINF:-1 tvg-id="beinsports1en.qa" tvg-name="AR| BEIN SPORTS 01 ENGLISH FHD" tvg-logo="https://lo1.in/bss/bs1eng.png" group-title="BEIN SPORTS 4K",AR| BEIN SPORTS 01 ENGLISH FHD
-http://extraott.com:900/live/3162523972/3791698850/26.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AR| BEIN SPORTS 01 ENGLISH FHD [BK]" tvg-logo="https://lo1.in/bss/bs1eng.png" group-title="BEIN SPORTS 4K",AR| BEIN SPORTS 01 ENGLISH FHD [BK]
-http://extraott.com:900/live/3162523972/3791698850/32860.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AR| BEIN SPORTS 01 ENGLISH FHD [BK1]" tvg-logo="https://lo1.in/bss/bs1eng.png" group-title="BEIN SPORTS 4K",AR| BEIN SPORTS 01 ENGLISH FHD [BK1]
-http://extraott.com:900/live/3162523972/3791698850/32935.m3u8
-#EXTINF:-1 tvg-id="beinsports2en.qa" tvg-name="AR| BEIN SPORTS 02 ENGLISH FHD" tvg-logo="https://lo1.in/bss/bs2eng.png" group-title="BEIN SPORTS 4K",AR| BEIN SPORTS 02 ENGLISH FHD
-http://extraott.com:900/live/3162523972/3791698850/27.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AR| BEIN SPORTS 02 ENGLISH FHD [BK]" tvg-logo="https://lo1.in/bss/bs2eng.png" group-title="BEIN SPORTS 4K",AR| BEIN SPORTS 02 ENGLISH FHD [BK]
-http://extraott.com:900/live/3162523972/3791698850/32859.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AR| BEIN SPORTS 02 ENGLISH FHD [BK1]" tvg-logo="https://lo1.in/bss/bs2eng.png" group-title="BEIN SPORTS 4K",AR| BEIN SPORTS 02 ENGLISH FHD [BK1]
-http://extraott.com:900/live/3162523972/3791698850/32934.m3u8
-#EXTINF:-1 tvg-id="beinsportsxtra1.qa" tvg-name="AR| BEIN SPORTS 01 XTRA FHD" tvg-logo="https://lo1.in/bss/bsxtra1.png" group-title="BEIN SPORTS 4K",AR| BEIN SPORTS 01 XTRA FHD
-http://extraott.com:900/live/3162523972/3791698850/400193258.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AR| BEIN SPORTS 01 XTRA FHD [BK1]" tvg-logo="https://lo1.in/bss/bsxtra1.png" group-title="BEIN SPORTS 4K",AR| BEIN SPORTS 01 XTRA FHD [BK1]
-http://extraott.com:900/live/3162523972/3791698850/32933.m3u8
-#EXTINF:-1 tvg-id="beinsportsxtra2.qa" tvg-name="AR| BEIN SPORTS 02 XTRA FHD" tvg-logo="https://lo1.in/bss/bsxtra2.png" group-title="BEIN SPORTS 4K",AR| BEIN SPORTS 02 XTRA FHD
-http://extraott.com:900/live/3162523972/3791698850/400193259.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AR| BEIN SPORTS 02 XTRA FHD [BK1]" tvg-logo="https://lo1.in/bss/bsxtra2.png" group-title="BEIN SPORTS 4K",AR| BEIN SPORTS 02 XTRA FHD [BK1]
-http://extraott.com:900/live/3162523972/3791698850/32932.m3u8
-#EXTINF:-1 tvg-id="beinsportsxtra3.qa" tvg-name="AR| BEIN SPORTS 03 XTRA FHD" tvg-logo="https://lo1.in/bss/bs3btr.png" group-title="BEIN SPORTS 4K",AR| BEIN SPORTS 03 XTRA FHD
-http://extraott.com:900/live/3162523972/3791698850/22.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AR| BEIN SPORTS 03 XTRA FHD [BK1]" tvg-logo="https://lo1.in/bss/bs3btr.png" group-title="BEIN SPORTS 4K",AR| BEIN SPORTS 03 XTRA FHD [BK1]
-http://extraott.com:900/live/3162523972/3791698850/32931.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AR| BEIN SPORTS 04 XTRA FHD" tvg-logo="https://lo1.in/bss/xtra.png" group-title="BEIN SPORTS 4K",AR| BEIN SPORTS 04 XTRA FHD
-http://extraott.com:900/live/3162523972/3791698850/401576127.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AR| BEIN SPORTS 05 XTRA FHD" tvg-logo="https://lo1.in/bss/xtra.png" group-title="BEIN SPORTS 4K",AR| BEIN SPORTS 05 XTRA FHD
-http://extraott.com:900/live/3162523972/3791698850/401576126.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AR| BEIN SPORTS 06 XTRA FHD" tvg-logo="https://lo1.in/bss/xtra.png" group-title="BEIN SPORTS 4K",AR| BEIN SPORTS 06 XTRA FHD
-http://extraott.com:900/live/3162523972/3791698850/401576125.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AR| BEIN SPORTS 07 XTRA FHD" tvg-logo="https://lo1.in/bss/xtra.png" group-title="BEIN SPORTS 4K",AR| BEIN SPORTS 07 XTRA FHD
-http://extraott.com:900/live/3162523972/3791698850/401576124.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AR| BEIN SPORTS 08 XTRA FHD" tvg-logo="https://lo1.in/bss/xtra.png" group-title="BEIN SPORTS 4K",AR| BEIN SPORTS 08 XTRA FHD
-http://extraott.com:900/live/3162523972/3791698850/401576123.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AR| BEIN SPORTS 09 XTRA FHD" tvg-logo="https://lo1.in/bss/xtra.png" group-title="BEIN SPORTS 4K",AR| BEIN SPORTS 09 XTRA FHD
-http://extraott.com:900/live/3162523972/3791698850/401576122.m3u8
-#EXTINF:-1 tvg-id="beinsportsafc.qa" tvg-name="AR| BEIN SPORTS AFC FHD" tvg-logo="https://lo1.in/bss/AFC.png" group-title="BEIN SPORTS 4K",AR| BEIN SPORTS AFC FHD
-http://extraott.com:900/live/3162523972/3791698850/400370396.m3u8
-#EXTINF:-1 tvg-id="beinsportsafc1.qa" tvg-name="AR| BEIN SPORTS 01 AFC FHD" tvg-logo="https://lo1.in/bss/AFC.png" group-title="BEIN SPORTS 4K",AR| BEIN SPORTS 01 AFC FHD
-http://extraott.com:900/live/3162523972/3791698850/400370397.m3u8
-#EXTINF:-1 tvg-id="beinsportsafc2.qa" tvg-name="AR| BEIN SPORTS 02 AFC FHD" tvg-logo="https://lo1.in/bss/AFC.png" group-title="BEIN SPORTS 4K",AR| BEIN SPORTS 02 AFC FHD
-http://extraott.com:900/live/3162523972/3791698850/400370398.m3u8
-#EXTINF:-1 tvg-id="beinsportsafc3.qa" tvg-name="AR| BEIN SPORTS 03 AFC FHD" tvg-logo="https://lo1.in/bss/AFC.png" group-title="BEIN SPORTS 4K",AR| BEIN SPORTS 03 AFC FHD
-http://extraott.com:900/live/3162523972/3791698850/400370399.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AR| BEIN SPORTS 04 AFC FHD" tvg-logo="https://lo1.in/bss/AFC.png" group-title="BEIN SPORTS 4K",AR| BEIN SPORTS 04 AFC FHD
-http://extraott.com:900/live/3162523972/3791698850/267441.m3u8
-#EXTINF:-1 tvg-id="beinsportsmax1.qa" tvg-name="AR| BEIN SPORTS MAX 1 FHD" tvg-logo="https://lo1.in/bss/bs1max.png" group-title="BEIN SPORTS 4K",AR| BEIN SPORTS MAX 1 FHD
-http://extraott.com:900/live/3162523972/3791698850/13.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AR| BEIN SPORTS MAX 1 FHD [BK]" tvg-logo="https://lo1.in/bss/bs1max.png" group-title="BEIN SPORTS 4K",AR| BEIN SPORTS MAX 1 FHD [BK]
-http://extraott.com:900/live/3162523972/3791698850/53376.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AR| BEIN SPORTS MAX 1 FHD [BK1]" tvg-logo="https://lo1.in/bss/bs1max.png" group-title="BEIN SPORTS 4K",AR| BEIN SPORTS MAX 1 FHD [BK1]
-http://extraott.com:900/live/3162523972/3791698850/53366.m3u8
-#EXTINF:-1 tvg-id="beinsportsmax2.qa" tvg-name="AR| BEIN SPORTS MAX 2 FHD" tvg-logo="https://lo1.in/bss/bs2max.png" group-title="BEIN SPORTS 4K",AR| BEIN SPORTS MAX 2 FHD
-http://extraott.com:900/live/3162523972/3791698850/14.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AR| BEIN SPORTS MAX 2 FHD [BK]" tvg-logo="https://lo1.in/bss/bs2max.png" group-title="BEIN SPORTS 4K",AR| BEIN SPORTS MAX 2 FHD [BK]
-http://extraott.com:900/live/3162523972/3791698850/53375.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AR| BEIN SPORTS MAX 2 FHD [BK1]" tvg-logo="https://lo1.in/bss/bs2max.png" group-title="BEIN SPORTS 4K",AR| BEIN SPORTS MAX 2 FHD [BK1]
-http://extraott.com:900/live/3162523972/3791698850/53365.m3u8
-#EXTINF:-1 tvg-id="beinsportsmax3.qa" tvg-name="AR| BEIN SPORTS MAX 3 FHD" tvg-logo="https://lo1.in/bss/BEIN 3MAX.png" group-title="BEIN SPORTS 4K",AR| BEIN SPORTS MAX 3 FHD
-http://extraott.com:900/live/3162523972/3791698850/15.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AR| BEIN SPORTS MAX 3 FHD [BK]" tvg-logo="https://lo1.in/bss/BEIN%203MAX.png" group-title="BEIN SPORTS 4K",AR| BEIN SPORTS MAX 3 FHD [BK]
-http://extraott.com:900/live/3162523972/3791698850/53374.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AR| BEIN SPORTS MAX 3 FHD [BK1]" tvg-logo="https://lo1.in/bss/BEIN%203MAX.png" group-title="BEIN SPORTS 4K",AR| BEIN SPORTS MAX 3 FHD [BK1]
-http://extraott.com:900/live/3162523972/3791698850/53364.m3u8
-#EXTINF:-1 tvg-id="beinsportsmax4.qa" tvg-name="AR| BEIN SPORTS MAX 4 FHD" tvg-logo="https://lo1.in/bss/bs4max1.png" group-title="BEIN SPORTS 4K",AR| BEIN SPORTS MAX 4 FHD
-http://extraott.com:900/live/3162523972/3791698850/16.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AR| BEIN SPORTS MAX 4 FHD [BK]" tvg-logo="https://lo1.in/bss/bs4max1.png" group-title="BEIN SPORTS 4K",AR| BEIN SPORTS MAX 4 FHD [BK]
-http://extraott.com:900/live/3162523972/3791698850/53373.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AR| BEIN SPORTS MAX 4 FHD [BK1]" tvg-logo="https://lo1.in/bss/bs4max1.png" group-title="BEIN SPORTS 4K",AR| BEIN SPORTS MAX 4 FHD [BK1]
-http://extraott.com:900/live/3162523972/3791698850/53363.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AR| BEIN SPORTS MAX 5 FHD [BK1]" tvg-logo="https://lo1.in/bss/bs5max.png" group-title="BEIN SPORTS 4K",AR| BEIN SPORTS MAX 5 FHD [BK1]
-http://extraott.com:900/live/3162523972/3791698850/53362.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AR| BEIN SPORTS MAX 6 FHD [BK1]" tvg-logo="https://lo1.in/bss/bs6max.png" group-title="BEIN SPORTS 4K",AR| BEIN SPORTS MAX 6 FHD [BK1]
-http://extraott.com:900/live/3162523972/3791698850/53361.m3u8
-**********************
-#EXTINF:-1 tvg-logo="https://cdn3.iconfinder.com/data/icons/social-network-30/512/social-06-512.png" group-title="BEIN SPORTS PREMIUM",PutraTalawi
-https://youtube.com/@PutraTalawi-s9m
-#EXTINF:-1 tvg-id="" tvg-name="✦●✦| AR - BEIN SPORTS HD |✦●✦" tvg-logo="https://lo1.in/bss/bs.png" group-title="BEIN SPORTS PREMIUM",✦●✦| AR - BEIN SPORTS HD |✦●✦
-http://extraott.com:900/live/3162523972/3791698850/401463777.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AR | BEIN SPORTS NEWS" tvg-logo="https://lo1.in/bss/bsnews.png" group-title="BEIN SPORTS PREMIUM",AR | BEIN SPORTS NEWS
 http://extraott.com:900/live/3162523972/3791698850/401576238.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AR | BEIN SPORTS NBA" tvg-logo="https://lo1.in/bss/bsnba.png" group-title="BEIN SPORTS PREMIUM",AR | BEIN SPORTS NBA
@@ -1939,112 +1472,9 @@ http://extraott.com:900/live/3162523972/3791698850/401577158.m3u8
 http://extraott.com:900/live/3162523972/3791698850/401577157.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AR | BEIN AFC 3 HD" tvg-logo="https://lo1.in/bss/AFC.png" group-title="BEIN SPORTS PREMIUM",AR | BEIN AFC 3 HD
 http://extraott.com:900/live/3162523972/3791698850/401577156.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="✦●✦| AR - BEIN SPORTS FHD |✦●✦" tvg-logo="https://lo1.in/bss/bs.png" group-title="BEIN SPORTS PREMIUM",✦●✦| AR - BEIN SPORTS FHD |✦●✦
-http://extraott.com:900/live/3162523972/3791698850/401463776.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AR | BEIN-SPORTS 1 FHD" tvg-logo="https://lo1.in/bss/bs1.png" group-title="BEIN SPORTS PREMIUM",AR | BEIN-SPORTS 1 FHD
-http://extraott.com:900/live/3162523972/3791698850/401463461.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AR | BEIN-SPORTS 2 FHD" tvg-logo="https://lo1.in/bss/bs2.png" group-title="BEIN SPORTS PREMIUM",AR | BEIN-SPORTS 2 FHD
-http://extraott.com:900/live/3162523972/3791698850/401463460.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AR | BEIN-SPORTS 3 FHD" tvg-logo="https://lo1.in/bss/bs3.png" group-title="BEIN SPORTS PREMIUM",AR | BEIN-SPORTS 3 FHD
-http://extraott.com:900/live/3162523972/3791698850/401463459.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AR | BEIN-SPORTS 4 FHD" tvg-logo="https://lo1.in/bss/bs4.png" group-title="BEIN SPORTS PREMIUM",AR | BEIN-SPORTS 4 FHD
-http://extraott.com:900/live/3162523972/3791698850/401463458.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AR | BEIN-SPORTS 5 FHD" tvg-logo="https://lo1.in/bss/bs5.png" group-title="BEIN SPORTS PREMIUM",AR | BEIN-SPORTS 5 FHD
-http://extraott.com:900/live/3162523972/3791698850/401463456.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AR | BEIN-SPORTS 6 FHD" tvg-logo="https://lo1.in/bss/bs6.png" group-title="BEIN SPORTS PREMIUM",AR | BEIN-SPORTS 6 FHD
-http://extraott.com:900/live/3162523972/3791698850/401463454.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AR | BEIN-SPORTS 7 FHD" tvg-logo="https://lo1.in/bss/bs7.png" group-title="BEIN SPORTS PREMIUM",AR | BEIN-SPORTS 7 FHD
-http://extraott.com:900/live/3162523972/3791698850/401463452.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AR | BEIN-SPORTS 8 FHD" tvg-logo="https://lo1.in/bss/bs8.png" group-title="BEIN SPORTS PREMIUM",AR | BEIN-SPORTS 8 FHD
-http://extraott.com:900/live/3162523972/3791698850/401463450.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AR | BEIN-SPORTS 9 FHD" tvg-logo="https://lo1.in/bss/bs9.png" group-title="BEIN SPORTS PREMIUM",AR | BEIN-SPORTS 9 FHD
-http://extraott.com:900/live/3162523972/3791698850/401463448.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AR | BEIN Extra 1 FHD" tvg-logo="https://lo1.in/bss/bsxtra1.png" group-title="BEIN SPORTS PREMIUM",AR | BEIN Extra 1 FHD
-http://extraott.com:900/live/3162523972/3791698850/401463447.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AR | BEIN Extra 2 FHD" tvg-logo="https://lo1.in/bss/bsxtra2.png" group-title="BEIN SPORTS PREMIUM",AR | BEIN Extra 2 FHD
-http://extraott.com:900/live/3162523972/3791698850/401463446.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AR | BEIN Extra 3 FHD" tvg-logo="https://lo1.in/bss/bs3btr.png" group-title="BEIN SPORTS PREMIUM",AR | BEIN Extra 3 FHD
-http://extraott.com:900/live/3162523972/3791698850/401463445.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AR | BEIN Extra 4 FHD" tvg-logo="https://lo1.in/bss/xtra.png" group-title="BEIN SPORTS PREMIUM",AR | BEIN Extra 4 FHD
-http://extraott.com:900/live/3162523972/3791698850/401576235.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AR | BEIN Extra 5 FHD" tvg-logo="https://lo1.in/bss/xtra.png" group-title="BEIN SPORTS PREMIUM",AR | BEIN Extra 5 FHD
-http://extraott.com:900/live/3162523972/3791698850/401576234.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AR | BEIN Extra 6 FHD" tvg-logo="https://lo1.in/bss/xtra.png" group-title="BEIN SPORTS PREMIUM",AR | BEIN Extra 6 FHD
-http://extraott.com:900/live/3162523972/3791698850/401576233.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AR | BEIN Extra 7 FHD" tvg-logo="https://lo1.in/bss/xtra.png" group-title="BEIN SPORTS PREMIUM",AR | BEIN Extra 7 FHD
-http://extraott.com:900/live/3162523972/3791698850/401576232.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AR | BEIN Extra 8 FHD" tvg-logo="https://lo1.in/bss/xtra.png" group-title="BEIN SPORTS PREMIUM",AR | BEIN Extra 8 FHD
-http://extraott.com:900/live/3162523972/3791698850/401576231.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AR | BEIN Extra 9 FHD" tvg-logo="https://lo1.in/bss/xtra.png" group-title="BEIN SPORTS PREMIUM",AR | BEIN Extra 9 FHD
-http://extraott.com:900/live/3162523972/3791698850/401576230.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AR | BEIN AFC FHD" tvg-logo="https://lo1.in/bss/AFC.png" group-title="BEIN SPORTS PREMIUM",AR | BEIN AFC FHD
-http://extraott.com:900/live/3162523972/3791698850/401463444.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AR | BEIN AFC 1 FHD" tvg-logo="https://lo1.in/bss/AFC.png" group-title="BEIN SPORTS PREMIUM",AR | BEIN AFC 1 FHD
-http://extraott.com:900/live/3162523972/3791698850/401463443.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AR | BEIN AFC 2 FHD" tvg-logo="https://lo1.in/bss/AFC.png" group-title="BEIN SPORTS PREMIUM",AR | BEIN AFC 2 FHD
-http://extraott.com:900/live/3162523972/3791698850/401463442.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AR | BEIN AFC 3 FHD" tvg-logo="https://lo1.in/bss/AFC.png" group-title="BEIN SPORTS PREMIUM",AR | BEIN AFC 3 FHD
-http://extraott.com:900/live/3162523972/3791698850/401463441.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="✦●✦| AR - BEIN SPORTS SD |✦●✦" tvg-logo="https://lo1.in/bss/bs.png" group-title="BEIN SPORTS PREMIUM",✦●✦| AR - BEIN SPORTS SD |✦●✦
-http://extraott.com:900/live/3162523972/3791698850/401463786.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AR | BEIN-SPORTS 1 SD" tvg-logo="https://lo1.in/bss/bs1.png" group-title="BEIN SPORTS PREMIUM",AR | BEIN-SPORTS 1 SD
-http://extraott.com:900/live/3162523972/3791698850/401463430.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AR | BEIN-SPORTS 2 SD" tvg-logo="https://lo1.in/bss/bs2.png" group-title="BEIN SPORTS PREMIUM",AR | BEIN-SPORTS 2 SD
-http://extraott.com:900/live/3162523972/3791698850/401463429.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AR | BEIN-SPORTS 3 SD" tvg-logo="https://lo1.in/bss/bs3.png" group-title="BEIN SPORTS PREMIUM",AR | BEIN-SPORTS 3 SD
-http://extraott.com:900/live/3162523972/3791698850/401463428.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AR | BEIN-SPORTS 4 SD" tvg-logo="https://lo1.in/bss/bs4.png" group-title="BEIN SPORTS PREMIUM",AR | BEIN-SPORTS 4 SD
-http://extraott.com:900/live/3162523972/3791698850/401463427.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AR | BEIN-SPORTS 5 SD" tvg-logo="https://lo1.in/bss/bs5.png" group-title="BEIN SPORTS PREMIUM",AR | BEIN-SPORTS 5 SD
-http://extraott.com:900/live/3162523972/3791698850/401463426.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AR | BEIN-SPORTS 6 SD" tvg-logo="https://lo1.in/bss/bs6.png" group-title="BEIN SPORTS PREMIUM",AR | BEIN-SPORTS 6 SD
-http://extraott.com:900/live/3162523972/3791698850/401463425.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AR | BEIN-SPORTS 7 SD" tvg-logo="https://lo1.in/bss/bs7.png" group-title="BEIN SPORTS PREMIUM",AR | BEIN-SPORTS 7 SD
-http://extraott.com:900/live/3162523972/3791698850/401463424.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AR | BEIN-SPORTS 8 SD" tvg-logo="https://lo1.in/bss/bs8.png" group-title="BEIN SPORTS PREMIUM",AR | BEIN-SPORTS 8 SD
-http://extraott.com:900/live/3162523972/3791698850/401463423.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AR | BEIN-SPORTS 9 SD" tvg-logo="https://lo1.in/bss/bs9.png" group-title="BEIN SPORTS PREMIUM",AR | BEIN-SPORTS 9 SD
-http://extraott.com:900/live/3162523972/3791698850/401463422.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AR | BEIN Extra 1 SD" tvg-logo="https://lo1.in/bss/bsxtra1.png" group-title="BEIN SPORTS PREMIUM",AR | BEIN Extra 1 SD
-http://extraott.com:900/live/3162523972/3791698850/401463421.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AR | BEIN Extra 2 SD" tvg-logo="https://lo1.in/bss/xtra.png" group-title="BEIN SPORTS PREMIUM",AR | BEIN Extra 2 SD
-http://extraott.com:900/live/3162523972/3791698850/401577155.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AR | BEIN Extra 3 SD" tvg-logo="https://lo1.in/bss/xtra.png" group-title="BEIN SPORTS PREMIUM",AR | BEIN Extra 3 SD
-http://extraott.com:900/live/3162523972/3791698850/401577154.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AR | BEIN AFC SD" tvg-logo="https://lo1.in/bss/AFC.png" group-title="BEIN SPORTS PREMIUM",AR | BEIN AFC SD
-http://extraott.com:900/live/3162523972/3791698850/401577153.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AR | BEIN AFC 1 SD" tvg-logo="https://lo1.in/bss/AFC.png" group-title="BEIN SPORTS PREMIUM",AR | BEIN AFC 1 SD
-http://extraott.com:900/live/3162523972/3791698850/401577152.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AR | BEIN AFC 2 SD" tvg-logo="https://lo1.in/bss/AFC.png" group-title="BEIN SPORTS PREMIUM",AR | BEIN AFC 2 SD
-http://extraott.com:900/live/3162523972/3791698850/401577151.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AR | BEIN AFC 3 SD" tvg-logo="https://lo1.in/bss/AFC.png" group-title="BEIN SPORTS PREMIUM",AR | BEIN AFC 3 SD
-http://extraott.com:900/live/3162523972/3791698850/401577150.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AR | BEIN SPORTS 01 (Tod)" tvg-logo="https://lo1.in/bss/bsS1.png" group-title="BEIN SPORTS PREMIUM",AR | BEIN SPORTS 01 (Tod)
-http://extraott.com:900/live/3162523972/3791698850/401576226.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AR | BEIN SPORTS 02 (Tod)" tvg-logo="https://lo1.in/bss/bsS2.png" group-title="BEIN SPORTS PREMIUM",AR | BEIN SPORTS 02 (Tod)
-http://extraott.com:900/live/3162523972/3791698850/401576225.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AR | BEIN SPORTS 03 (Tod)" tvg-logo="https://lo1.in/bss/bs3.png" group-title="BEIN SPORTS PREMIUM",AR | BEIN SPORTS 03 (Tod)
-http://extraott.com:900/live/3162523972/3791698850/401576224.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AR | BEIN SPORTS 04 (Tod)" tvg-logo="https://lo1.in/bss/bs4.png" group-title="BEIN SPORTS PREMIUM",AR | BEIN SPORTS 04 (Tod)
-http://extraott.com:900/live/3162523972/3791698850/401576223.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AR | BEIN SPORTS 05 (Tod)" tvg-logo="https://lo1.in/bein/beinn5.png" group-title="BEIN SPORTS PREMIUM",AR | BEIN SPORTS 05 (Tod)
-http://extraott.com:900/live/3162523972/3791698850/401576222.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AR | BEIN SPORTS 06 (Tod)" tvg-logo="https://lo1.in/bein/beinn6.png" group-title="BEIN SPORTS PREMIUM",AR | BEIN SPORTS 06 (Tod)
-http://extraott.com:900/live/3162523972/3791698850/401576221.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AR | BEIN SPORTS 07 (Tod)" tvg-logo="https://lo1.in/bss/BEIN SPORTS 07.png" group-title="BEIN SPORTS PREMIUM",AR | BEIN SPORTS 07 (Tod)
-http://extraott.com:900/live/3162523972/3791698850/401576220.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="AR | BEIN SPORTS 09 (Tod)" tvg-logo="https://lo1.in/bss/BEIN09.png" group-title="BEIN SPORTS PREMIUM",AR | BEIN SPORTS 09 (Tod)
-http://extraott.com:900/live/3162523972/3791698850/401576218.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AR | BEIN Extra 1 (Tod)" tvg-logo="https://lo1.in/bss/xtra.png" group-title="BEIN SPORTS PREMIUM",AR | BEIN Extra 1 (Tod)
-http://extraott.com:900/live/3162523972/3791698850/401576229.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AR | BEIN Extra 2 (Tod)" tvg-logo="https://lo1.in/bss/xtra.png" group-title="BEIN SPORTS PREMIUM",AR | BEIN Extra 2 (Tod)
-http://extraott.com:900/live/3162523972/3791698850/401576228.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AR | BEIN Extra 3 (Tod)" tvg-logo="https://lo1.in/bss/xtra.png" group-title="BEIN SPORTS PREMIUM",AR | BEIN Extra 3 (Tod)
-http://extraott.com:900/live/3162523972/3791698850/401576227.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="✦●✦ |EGY| SPORTS ✦●✦" tvg-logo="https://lo1.in/egyy/flg.png" group-title="EGYPT SPORT",✦●✦ |EGY| SPORTS ✦●✦
-http://extraott.com:900/live/3162523972/3791698850/401503126.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="EGY| ONTIME SPORTS HD" tvg-logo="https://lo1.in/FCB/timesp.png" group-title="EGYPT SPORT",EGY| ONTIME SPORTS HD
 http://extraott.com:900/live/3162523972/3791698850/15197.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="EGY| ONTIME SPORTS HEVC" tvg-logo="https://lo1.in/FCB/timesp.png" group-title="EGYPT SPORT",EGY| ONTIME SPORTS HEVC
@@ -2387,45 +1817,7 @@ http://extraott.com:900/live/3162523972/3791698850/5973.m3u8
 http://extraott.com:900/live/3162523972/3791698850/400220785.m3u8
 #EXTINF:-1 tvg-id="mlaliga6.es" tvg-name="ES| M+ LALIGA 5 HD" tvg-logo="https://lo1.in/sp/mvstlg6.png" group-title="LALIGA",ES| M+ LALIGA 5 HD
 http://extraott.com:900/live/3162523972/3791698850/400220783.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ES| M+ LALIGATV BAR SD" tvg-logo="https://lo1.in/sp/M+ LALIGA 3.png" group-title="LALIGA",ES| M+ LALIGATV BAR SD
-http://extraott.com:900/live/3162523972/3791698850/10816.m3u8
-#EXTINF:-1 tvg-id="mlaliga.es" tvg-name="ES| M+ LALIGA SD" tvg-logo="https://lo1.in/sp/M+ LALIGA 3.png" group-title="LALIGA",ES| M+ LALIGA SD
-http://extraott.com:900/live/3162523972/3791698850/400218244.m3u8
-#EXTINF:-1 tvg-id="mlaliga2.es" tvg-name="ES| M+ LALIGA 2 SD" tvg-logo="https://lo1.in/sp/mvstlg2.png" group-title="LALIGA",ES| M+ LALIGA 2 SD
-http://extraott.com:900/live/3162523972/3791698850/400218242.m3u8
-#EXTINF:-1 tvg-id="mlaliga3.es" tvg-name="ES| M+ LALIGA 3 SD" tvg-logo="https://lo1.in/sp/M+ LALIGA 3.png" group-title="LALIGA",ES| M+ LALIGA 3 SD
-http://extraott.com:900/live/3162523972/3791698850/400218241.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ES| M+ LaLiga 4 SD" tvg-logo="https://lo1.in/sp/M+ LALIGA 3.png" group-title="LALIGA",ES| M+ LaLiga 4 SD
-http://extraott.com:900/live/3162523972/3791698850/39855.m3u8
-#EXTINF:-1 tvg-id="laligatvbar.es" tvg-name="ES| M+ LALIGATV BAR FHD" tvg-logo="https://lo1.in/sp/M+ LALIGATV BAR.png" group-title="LALIGA",ES| M+ LALIGATV BAR FHD
-http://extraott.com:900/live/3162523972/3791698850/400267408.m3u8
-#EXTINF:-1 tvg-id="mlaliga.es" tvg-name="ES| M+ LALIGA FHD" tvg-logo="https://lo1.in/sp/M+ LALIGA 3.png" group-title="LALIGA",ES| M+ LALIGA FHD
-http://extraott.com:900/live/3162523972/3791698850/165885.m3u8
-#EXTINF:-1 tvg-id="mlaliga2.es" tvg-name="ES| M+ LALIGA 2 FHD" tvg-logo="https://lo1.in/sp/mvstlg2.png" group-title="LALIGA",ES| M+ LALIGA 2 FHD
-http://extraott.com:900/live/3162523972/3791698850/187555.m3u8
-#EXTINF:-1 tvg-id="mlaliga3.es" tvg-name="ES| M+ LALIGA 3 FHD" tvg-logo="https://lo1.in/sp/M+ LALIGA 3.png" group-title="LALIGA",ES| M+ LALIGA 3 FHD
-http://extraott.com:900/live/3162523972/3791698850/187556.m3u8
-#EXTINF:-1 tvg-id="mlaliga4.es" tvg-name="ES| M+ LALIGA 4 FHD" tvg-logo="https://lo1.in/sp/mvstlg4.png" group-title="LALIGA",ES| M+ LALIGA 4 FHD
-http://extraott.com:900/live/3162523972/3791698850/187557.m3u8
-#EXTINF:-1 tvg-id="mlaliga5.es" tvg-name="ES| M+ LALIGA 5 FHD (SOLO EVENTO)" tvg-logo="https://lo1.in/sp/mvstlg5.png" group-title="LALIGA",ES| M+ LALIGA 5 FHD (SOLO EVENTO)
-http://extraott.com:900/live/3162523972/3791698850/187558.m3u8
-#EXTINF:-1 tvg-id="mlaliga6.es" tvg-name="ES| M+ LALIGA 6 FHD (SOLO EVENTO)" tvg-logo="https://lo1.in/sp/mvstlg6.png" group-title="LALIGA",ES| M+ LALIGA 6 FHD (SOLO EVENTO)
-http://extraott.com:900/live/3162523972/3791698850/187559.m3u8
-#EXTINF:-1 tvg-id="mlaliga7.es" tvg-name="ES| M+ LALIGA 7 FHD (SOLO EVENTO)" tvg-logo="https://lo1.in/sp/mvstlg7.png" group-title="LALIGA",ES| M+ LALIGA 7 FHD (SOLO EVENTO)
-http://extraott.com:900/live/3162523972/3791698850/187560.m3u8
-#EXTINF:-1 tvg-id="mdeportes5.es" tvg-name="ES| M+ LALIGATV BAR HEVC" tvg-logo="https://lo1.in/sp/M+ LALIGA 3.png" group-title="LALIGA",ES| M+ LALIGATV BAR HEVC
-http://extraott.com:900/live/3162523972/3791698850/187567.m3u8
-#EXTINF:-1 tvg-id="mlaliga.es" tvg-name="ES| M+ LALIGA 4K" tvg-logo="https://lo1.in/sp/M+ LALIGA 3.png" group-title="LALIGA",ES| M+ LALIGA 4K
-http://extraott.com:900/live/3162523972/3791698850/400241867.m3u8
-#EXTINF:-1 tvg-id="mlaliga.es" tvg-name="ES| M+ LALIGA HEVC" tvg-logo="https://lo1.in/sp/M+ LALIGA 3.png" group-title="LALIGA",ES| M+ LALIGA HEVC
-http://extraott.com:900/live/3162523972/3791698850/189459.m3u8
-#EXTINF:-1 tvg-id="mlaliga1.es" tvg-name="ES| M+ LALIGA 2 HEVC" tvg-logo="https://lo1.in/sp/mvstlg2.png" group-title="LALIGA",ES| M+ LALIGA 2 HEVC
-http://extraott.com:900/live/3162523972/3791698850/9460.m3u8
-#EXTINF:-1 tvg-id="mlaliga2.es" tvg-name="ES| M+ LALIGA 3 HEVC" tvg-logo="https://lo1.in/sp/M+ LALIGA 3.png" group-title="LALIGA",ES| M+ LALIGA 3 HEVC
-http://extraott.com:900/live/3162523972/3791698850/9461.m3u8
-#EXTINF:-1 tvg-id="mlaliga3.es" tvg-name="ES| M+ LALIGA 4 HEVC" tvg-logo="https://lo1.in/sp/mvstlg3.png" group-title="LALIGA",ES| M+ LALIGA 4 HEVC
-http://extraott.com:900/live/3162523972/3791698850/9462.m3u8
-**************************
+
 
 #EXTINF:-1 tvg-id="mdeportes1.es" tvg-name="ES| M+ DEPORTES 1 HD" tvg-logo="https://lo1.in/sp/mdepor1hd.png" group-title="DEPORTES",ES| M+ DEPORTES 1 HD
 http://extraott.com:900/live/3162523972/3791698850/400220795.m3u8
@@ -2441,44 +1833,7 @@ http://extraott.com:900/live/3162523972/3791698850/400220793.m3u8
 http://extraott.com:900/live/3162523972/3791698850/400220792.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ES| M+ DEPORTES 7 HD" tvg-logo="https://lo1.in/sp/mp.png" group-title="DEPORTES" ,ES| M+ DEPORTES 7 HD
 http://extraott.com:900/live/3162523972/3791698850/18404.m3u8
-#EXTINF:-1 tvg-id="movistardeportes.es" tvg-name="ES| M+ DEPORTES 1 SD" tvg-logo="https://lo1.in/sp/M+ DEPORTES 1.png" group-title="DEPORTES" ,ES| M+ DEPORTES 1 SD
-http://extraott.com:900/live/3162523972/3791698850/400218240.m3u8
-#EXTINF:-1 tvg-id="mdeportes2.es" tvg-name="ES| M+ DEPORTES 2 SD" tvg-logo="https://lo1.in/sp/deprts2.png" group-title="DEPORTES" ,ES| M+ DEPORTES 2 SD
-http://extraott.com:900/live/3162523972/3791698850/400218238.m3u8
-#EXTINF:-1 tvg-id="mdeportes3.es" tvg-name="ES| M+ DEPORTES 3 SD" tvg-logo="https://lo1.in/sp/mdepor1hd.png" group-title="DEPORTES" ,ES| M+ DEPORTES 3 SD
-http://extraott.com:900/live/3162523972/3791698850/400218237.m3u8
-#EXTINF:-1 tvg-id="mdeportes4.es" tvg-name="ES| M+ DEPORTES 4 SD" tvg-logo="https://lo1.in/sp/mp.png" group-title="DEPORTES" ,ES| M+ DEPORTES 4 SD
-http://extraott.com:900/live/3162523972/3791698850/1248.m3u8
-#EXTINF:-1 tvg-id="mdeportes5.es" tvg-name="ES| M+ DEPORTES 5 SD" tvg-logo="https://lo1.in/sp/mp.png" group-title="DEPORTES" ,ES| M+ DEPORTES 5 SD
-http://extraott.com:900/live/3162523972/3791698850/1247.m3u8
-#EXTINF:-1 tvg-id="mdeportes6.es" tvg-name="ES| M+ DEPORTES 6 SD" tvg-logo="https://lo1.in/sp/mp.png" group-title="DEPORTES" ,ES| M+ DEPORTES 6 SD
-http://extraott.com:900/live/3162523972/3791698850/1246.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ES| M+ DEPORTES 7 SD" tvg-logo="https://lo1.in/sp/mp.png" group-title="DEPORTES" ,ES| M+ DEPORTES 7 SD
-http://extraott.com:900/live/3162523972/3791698850/18405.m3u8
-#EXTINF:-1 tvg-id="mdeportes1.es" tvg-name="ES| M+ DEPORTES 1 FHD" tvg-logo="https://lo1.in/sp/mdepor1hd.png" group-title="DEPORTES" ,ES| M+ DEPORTES 1 FHD
-http://extraott.com:900/live/3162523972/3791698850/165889.m3u8
-#EXTINF:-1 tvg-id="mdeportes7.es" tvg-name="ES| M+ DEPORTES 2 FHD" tvg-logo="https://lo1.in/sp/mdepor1hd.png" group-title="DEPORTES" ,ES| M+ DEPORTES 2 FHD
-http://extraott.com:900/live/3162523972/3791698850/187569.m3u8
-#EXTINF:-1 tvg-id="mdeportes6.es" tvg-name="ES| M+ DEPORTES 3 FHD" tvg-logo="https://lo1.in/sp/mdepor1hd.png" group-title="DEPORTES" ,ES| M+ DEPORTES 3 FHD
-http://extraott.com:900/live/3162523972/3791698850/187568.m3u8
-#EXTINF:-1 tvg-id="mdeportes4.es" tvg-name="ES| M+ DEPORTES 4 FHD" tvg-logo="https://lo1.in/sp/teledepo.png" group-title="DEPORTES" ,ES| M+ DEPORTES 4 FHD
-http://extraott.com:900/live/3162523972/3791698850/6160.m3u8
-#EXTINF:-1 tvg-id="mlaliga8.es" tvg-name="ES| M+ DEPORTES 5 FHD" tvg-logo="https://lo1.in/sp/mvstlg8.png" group-title="DEPORTES" ,ES| M+ DEPORTES 5 FHD
-http://extraott.com:900/live/3162523972/3791698850/187561.m3u8
-#EXTINF:-1 tvg-id="mdeportes7.es" tvg-name="ES| M+ DEPORTES 7 FHD" tvg-logo="https://lo1.in/sp/mdepor1hd.png" group-title="DEPORTES" ,ES| M+ DEPORTES 7 FHD
-http://extraott.com:900/live/3162523972/3791698850/400407279.m3u8
-#EXTINF:-1 tvg-id="mdeportes6.es" tvg-name="ES| M+ DEPORTES 6 FHD" tvg-logo="https://lo1.in/sp/mdepor1hd.png" group-title="DEPORTES" ,ES| M+ DEPORTES 6 FHD
-http://extraott.com:900/live/3162523972/3791698850/400407280.m3u8
-#EXTINF:-1 tvg-id="movistardeportes.es" tvg-name="ES| M+ DEPORTES 1 HEVC" tvg-logo="https://lo1.in/sp/mdepor1hd.png" group-title="DEPORTES" ,ES| M+ DEPORTES 1 HEVC
-http://extraott.com:900/live/3162523972/3791698850/189463.m3u8
-#EXTINF:-1 tvg-id="mdeportes1.es" tvg-name="ES| M+ DEPORTES 2 HEVC" tvg-logo="https://lo1.in/sp/mdepor1hd.png" group-title="DEPORTES" ,ES| M+ DEPORTES 2 HEVC
-http://extraott.com:900/live/3162523972/3791698850/189464.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ES| M+ DEPORTES 3 HEVC" tvg-logo="https://lo1.in/sp/mdepor1hd.png" group-title="DEPORTES" ,ES| M+ DEPORTES 3 HEVC
-http://extraott.com:900/live/3162523972/3791698850/33556.m3u8
-********************************
 
-#EXTINF:-1 tvg-id="" tvg-name="✦●✦ DE| SKY SPORT HD ✦●✦" tvg-logo="https://lo1.in/ger/dtch.png" group-title="SKY SPORT",✦●✦ DE| SKY SPORT HD ✦●✦
-http://extraott.com:900/live/3162523972/3791698850/400467992.m3u8
 #EXTINF:-1 tvg-id="skysportsnewshd.de" tvg-name="DE| SKY SPORT NEWS HD" tvg-logo="https://lo1.in/ger/skyspns.png" group-title="SKY SPORT",DE| SKY SPORT NEWS HD
 http://extraott.com:900/live/3162523972/3791698850/164507.m3u8
 #EXTINF:-1 tvg-id="skysport1.de" tvg-name="DE| SKY SPORT F1 HD" tvg-logo="https://lo1.in/ger/skyspf.png" group-title="SKY SPORT",DE| SKY SPORT F1 HD
@@ -2561,22 +1916,7 @@ http://extraott.com:900/live/3162523972/3791698850/156473.m3u8
 http://extraott.com:900/live/3162523972/3791698850/156472.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TELEKOM BBL SPORT 4 HD" tvg-logo="https://lo1.in/ger/TELEKOM BBL4.png" group-title="TELEKOM",TELEKOM BBL SPORT 4 HD
 http://extraott.com:900/live/3162523972/3791698850/156471.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TELEKOM 3 BUNDESLIGA 1 FHD" tvg-logo="https://lo1.in/ger/tel3bnd.png" group-title="TELEKOM",TELEKOM 3 BUNDESLIGA 1 FHD
-http://extraott.com:900/live/3162523972/3791698850/215255.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TELEKOM 3 BUNDESLIGA 2 FHD" tvg-logo="https://lo1.in/ger/tel3bnd.png" group-title="TELEKOM",TELEKOM 3 BUNDESLIGA 2 FHD
-http://extraott.com:900/live/3162523972/3791698850/215256.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TELEKOM 3 BUNDESLIGA 3 FHD" tvg-logo="https://lo1.in/ger/tel3bnd.png" group-title="TELEKOM",TELEKOM 3 BUNDESLIGA 3 FHD
-http://extraott.com:900/live/3162523972/3791698850/215257.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TELEKOM 3 BUNDESLIGA 4 FHD" tvg-logo="https://lo1.in/ger/tel3bnd.png" group-title="TELEKOM",TELEKOM 3 BUNDESLIGA 4 FHD
-http://extraott.com:900/live/3162523972/3791698850/215258.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TELEKOM 3 BUNDESLIGA 5 FHD" tvg-logo="https://lo1.in/ger/tel3bnd.png" group-title="TELEKOM",TELEKOM 3 BUNDESLIGA 5 FHD
-http://extraott.com:900/live/3162523972/3791698850/215259.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TELEKOM 3 BUNDESLIGA 6 FHD" tvg-logo="https://lo1.in/ger/tel3bnd.png" group-title="TELEKOM",TELEKOM 3 BUNDESLIGA 6 FHD
-http://extraott.com:900/live/3162523972/3791698850/215260.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TELEKOM 3 BUNDESLIGA 7 FHD" tvg-logo="https://lo1.in/ger/tel3bnd.png" group-title="TELEKOM",TELEKOM 3 BUNDESLIGA 7 FHD
-http://extraott.com:900/live/3162523972/3791698850/215261.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TELEKOM 3 BUNDESLIGA 8 FHD" tvg-logo="https://lo1.in/ger/tel3bnd.png" group-title="TELEKOM",TELEKOM 3 BUNDESLIGA 8 FHD
-http://extraott.com:900/live/3162523972/3791698850/215262.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="TELEKOM 3 BUNDESLIGA 1 HD" tvg-logo="https://lo1.in/ger/tel3bnd.png" group-title="TELEKOM",TELEKOM 3 BUNDESLIGA 1 HD
 http://extraott.com:900/live/3162523972/3791698850/320058.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TELEKOM 3 BUNDESLIGA 2 HD" tvg-logo="https://lo1.in/ger/tel3bnd.png" group-title="TELEKOM",TELEKOM 3 BUNDESLIGA 2 HD
@@ -2649,24 +1989,7 @@ http://extraott.com:900/live/3162523972/3791698850/153729.m3u8
 http://extraott.com:900/live/3162523972/3791698850/14455.m3u8
 #EXTINF:-1 tvg-id="wordnetwork.uk" tvg-name="UK| WWE NETWORK HD" tvg-logo="https://lo1.in/uk/wntr.png" group-title="UK SPORT",UK| WWE NETWORK HD
 http://extraott.com:900/live/3162523972/3791698850/153736.m3u8
-#EXTINF:-1 tvg-id="eurosport1.uk" tvg-name="UK| EUROSPORT 1 FHD" tvg-logo="https://lo1.in/uk/eursp1.png" group-title="UK SPORT",UK| EUROSPORT 1 FHD
-http://extraott.com:900/live/3162523972/3791698850/190459.m3u8
-#EXTINF:-1 tvg-id="eurosport2.uk" tvg-name="UK| EUROSPORT 2 FHD" tvg-logo="https://lo1.in/uk/eursp2.png" group-title="UK SPORT",UK| EUROSPORT 2 FHD
-http://extraott.com:900/live/3162523972/3791698850/190461.m3u8
-#EXTINF:-1 tvg-id="laligatv.uk" tvg-name="UK| LALIGA TV FHD" tvg-logo="https://lo1.in/uk/laig0.png" group-title="UK SPORT",UK| LALIGA TV FHD
-http://extraott.com:900/live/3162523972/3791698850/190011.m3u8
-#EXTINF:-1 tvg-id="premiersports.uk" tvg-name="UK| PREMIER SPORTS 1 FHD" tvg-logo="https://lo1.in/uk/prsp10.png" group-title="UK SPORT",UK| PREMIER SPORTS 1 FHD
-http://extraott.com:900/live/3162523972/3791698850/153723.m3u8
-#EXTINF:-1 tvg-id="premiersports2.uk" tvg-name="UK| PREMIER SPORTS 2 FHD" tvg-logo="https://lo1.in/uk/prsp20.png" group-title="UK SPORT",UK| PREMIER SPORTS 2 FHD
-http://extraott.com:900/live/3162523972/3791698850/153724.m3u8
-#EXTINF:-1 tvg-id="fightbox.uk" tvg-name="UK| FIGHT BOX FHD" tvg-logo="https://lo1.in/uk/figbox.png" group-title="UK SPORT",UK| FIGHT BOX FHD
-http://extraott.com:900/live/3162523972/3791698850/153949.m3u8
-#EXTINF:-1 tvg-id="mutv.uk" tvg-name="UK| MUTV FHD" tvg-logo="https://lo1.in/uk/mut.png" group-title="UK SPORT",UK| MUTV FHD
-http://extraott.com:900/live/3162523972/3791698850/379018.m3u8
-#EXTINF:-1 tvg-id="liverpoolfctv.uk" tvg-name="UK| LFC TV FHD" tvg-logo="https://lo1.in/uk/lfc.png" group-title="UK SPORT",UK| LFC TV FHD
-http://extraott.com:900/live/3162523972/3791698850/189985.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="UK| BOX NATION FHD" tvg-logo="https://lo1.in/uk/bxna.png" group-title="UK SPORT",UK| BOX NATION FHD
-http://extraott.com:900/live/3162523972/3791698850/400230319.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="UK| BBC RED BUTTON 01" tvg-logo="https://lo1.in/uk/bbc1.png" group-title="UK SPORT",UK| BBC RED BUTTON 01
 http://extraott.com:900/live/3162523972/3791698850/153366.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="UK| RANGERS TV HD (LIVE ON MATCHES)" tvg-logo="https://lo1.in/uk/rangers1.png" group-title="UK SPORT",UK| RANGERS TV HD (LIVE ON MATCHES)
