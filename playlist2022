@@ -1294,6 +1294,30 @@ http://extraott.com:900/live/3162523972/3791698850/36715.m3u8
 http://extraott.com:900/live/3162523972/3791698850/36712.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="STAR GOLD HD" tvg-logo="https://lo1.in/FCB/sgoldd0.png" group-title="Sports",STAR GOLD HD
 http://extraott.com:900/live/3162523972/3791698850/21482.m3u8
+#EXTINF:-1 tvg-id="horseandcountry.uk" tvg-name="UK| HORSE AND COUNTRY" tvg-logo="https://lo1.in/uk/hrscnt.png" group-title="Sports",UK| HORSE AND COUNTRY
+http://extraott.com:900/live/3162523972/3791698850/153738.m3u8
+#EXTINF:-1 tvg-id="racinguk.uk" tvg-name="UK| RACING UK HD" tvg-logo="https://lo1.in/uk/racg.png" group-title="Sports",UK| RACING UK HD
+http://extraott.com:900/live/3162523972/3791698850/153722.m3u8
+#EXTINF:-1 tvg-id="racinguk.uk" tvg-name="UK| RACING.COM" tvg-logo="https://lo1.in/uk/racg.png" group-title="Sports",UK| RACING.COM
+http://extraott.com:900/live/3162523972/3791698850/189936.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UK| FOX SPORTS 501 HD" tvg-logo="https://lo1.in/uk/FOX SPORTS 501.png" group-title="Sports",UK| FOX SPORTS 501 HD
+http://extraott.com:900/live/3162523972/3791698850/42050.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UK| FOX SPORTS 502 HD" tvg-logo="https://lo1.in/uk/FOX SPORTS 502.png" group-title="Sports",UK| FOX SPORTS 502 HD
+http://extraott.com:900/live/3162523972/3791698850/42049.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UK| FOX SPORTS 503 HD" tvg-logo="https://lo1.in/uk/FOX SPORTS.png" group-title="Sports",UK| FOX SPORTS 503 HD
+http://extraott.com:900/live/3162523972/3791698850/42048.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UK| FOX SPORTS 504 HD" tvg-logo="https://lo1.in/uk/fxsp.png" group-title="Sports",UK| FOX SPORTS 504 HD
+http://extraott.com:900/live/3162523972/3791698850/190999.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UK| FOX SPORTS 505 HD" tvg-logo="https://lo1.in/uk/fxsp.png" group-title="Sports",UK| FOX SPORTS 505 HD
+http://extraott.com:900/live/3162523972/3791698850/191000.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UK| FOX SPORTS 506 HD" tvg-logo="https://lo1.in/uk/fxsp.png" group-title="Sports",UK| FOX SPORTS 506 HD
+http://extraott.com:900/live/3162523972/3791698850/191001.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UK| FOX SPORTS 507 HD" tvg-logo="https://lo1.in/uk/fxsp.png" group-title="Sports",UK| FOX SPORTS 507 HD
+http://extraott.com:900/live/3162523972/3791698850/191002.m3u8
+
+
+
+
 #EXTINF:-1 tvg-id="beinsportsnewsar.qa" tvg-name="AR| BEIN SPORTS NEWS HD" tvg-logo="https://lo1.in/bss/bsnews.png" group-title="BEIN SPORTS HD",AR| BEIN SPORTS NEWS HD
 http://extraott.com:900/live/3162523972/3791698850/58.m3u8
 #EXTINF:-1 tvg-id="beinsportsglobal.qa" tvg-name="AR| BEIN SPORTS HD" tvg-logo="https://lo1.in/bss/bs.png" group-title="BEIN SPORTS HD",AR| BEIN SPORTS HD
@@ -2169,31 +2193,28 @@ http://extraott.com:900/live/3162523972/3791698850/37191.m3u8
 http://extraott.com:900/live/3162523972/3791698850/37192.m3u8
 ****************************************
 
-#EXTINF:-1 tvg-id="racinguk.uk" tvg-name="UK| RACING UK FHD" tvg-logo="https://lo1.in/uk/racg.png" group-title="HORSE RACE",UK| RACING UK FHD
-http://extraott.com:900/live/3162523972/3791698850/191470.m3u8
-#EXTINF:-1 tvg-id="horseandcountry.uk" tvg-name="UK| HORSE AND COUNTRY" tvg-logo="https://lo1.in/uk/hrscnt.png" group-title="HORSE RACE",UK| HORSE AND COUNTRY
-http://extraott.com:900/live/3162523972/3791698850/153738.m3u8
-#EXTINF:-1 tvg-id="racinguk.uk" tvg-name="UK| RACING UK HD" tvg-logo="https://lo1.in/uk/racg.png" group-title="HORSE RACE",UK| RACING UK HD
-http://extraott.com:900/live/3162523972/3791698850/153722.m3u8
-#EXTINF:-1 tvg-id="racinguk.uk" tvg-name="UK| RACING UK SD" tvg-logo="https://lo1.in/uk/racg.png" group-title="HORSE RACE",UK| RACING UK SD
-http://extraott.com:900/live/3162523972/3791698850/191262.m3u8
-#EXTINF:-1 tvg-id="racinguk.uk" tvg-name="UK| RACING.COM" tvg-logo="https://lo1.in/uk/racg.png" group-title="HORSE RACE",UK| RACING.COM
-http://extraott.com:900/live/3162523972/3791698850/189936.m3u8
-*******************************
 
-#EXTINF:-1 tvg-id="" tvg-name="UK| FOX SPORTS 501 HD" tvg-logo="https://lo1.in/uk/FOX SPORTS 501.png" group-title="FOX SPORTS",UK| FOX SPORTS 501 HD
+#EXTINF:-1 tvg-id="horseandcountry.uk" tvg-name="UK| HORSE AND COUNTRY" tvg-logo="https://lo1.in/uk/hrscnt.png" group-title="Sports",UK| HORSE AND COUNTRY
+http://extraott.com:900/live/3162523972/3791698850/153738.m3u8
+#EXTINF:-1 tvg-id="racinguk.uk" tvg-name="UK| RACING UK HD" tvg-logo="https://lo1.in/uk/racg.png" group-title="Sports",UK| RACING UK HD
+http://extraott.com:900/live/3162523972/3791698850/153722.m3u8
+#EXTINF:-1 tvg-id="racinguk.uk" tvg-name="UK| RACING.COM" tvg-logo="https://lo1.in/uk/racg.png" group-title="Sports",UK| RACING.COM
+http://extraott.com:900/live/3162523972/3791698850/189936.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-name="UK| FOX SPORTS 501 HD" tvg-logo="https://lo1.in/uk/FOX SPORTS 501.png" group-title="Sports",UK| FOX SPORTS 501 HD
 http://extraott.com:900/live/3162523972/3791698850/42050.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="UK| FOX SPORTS 502 HD" tvg-logo="https://lo1.in/uk/FOX SPORTS 502.png" group-title="FOX SPORTS",UK| FOX SPORTS 502 HD
+#EXTINF:-1 tvg-id="" tvg-name="UK| FOX SPORTS 502 HD" tvg-logo="https://lo1.in/uk/FOX SPORTS 502.png" group-title="Sports",UK| FOX SPORTS 502 HD
 http://extraott.com:900/live/3162523972/3791698850/42049.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="UK| FOX SPORTS 503 HD" tvg-logo="https://lo1.in/uk/FOX SPORTS.png" group-title="FOX SPORTS",UK| FOX SPORTS 503 HD
+#EXTINF:-1 tvg-id="" tvg-name="UK| FOX SPORTS 503 HD" tvg-logo="https://lo1.in/uk/FOX SPORTS.png" group-title="Sports",UK| FOX SPORTS 503 HD
 http://extraott.com:900/live/3162523972/3791698850/42048.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="UK| FOX SPORTS 504 HD" tvg-logo="https://lo1.in/uk/fxsp.png" group-title="FOX SPORTS",UK| FOX SPORTS 504 HD
+#EXTINF:-1 tvg-id="" tvg-name="UK| FOX SPORTS 504 HD" tvg-logo="https://lo1.in/uk/fxsp.png" group-title="Sports",UK| FOX SPORTS 504 HD
 http://extraott.com:900/live/3162523972/3791698850/190999.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="UK| FOX SPORTS 505 HD" tvg-logo="https://lo1.in/uk/fxsp.png" group-title="FOX SPORTS",UK| FOX SPORTS 505 HD
+#EXTINF:-1 tvg-id="" tvg-name="UK| FOX SPORTS 505 HD" tvg-logo="https://lo1.in/uk/fxsp.png" group-title="Sports",UK| FOX SPORTS 505 HD
 http://extraott.com:900/live/3162523972/3791698850/191000.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="UK| FOX SPORTS 506 HD" tvg-logo="https://lo1.in/uk/fxsp.png" group-title="FOX SPORTS",UK| FOX SPORTS 506 HD
+#EXTINF:-1 tvg-id="" tvg-name="UK| FOX SPORTS 506 HD" tvg-logo="https://lo1.in/uk/fxsp.png" group-title="Sports",UK| FOX SPORTS 506 HD
 http://extraott.com:900/live/3162523972/3791698850/191001.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="UK| FOX SPORTS 507 HD" tvg-logo="https://lo1.in/uk/fxsp.png" group-title="FOX SPORTS",UK| FOX SPORTS 507 HD
+#EXTINF:-1 tvg-id="" tvg-name="UK| FOX SPORTS 507 HD" tvg-logo="https://lo1.in/uk/fxsp.png" group-title="Sports",UK| FOX SPORTS 507 HD
 http://extraott.com:900/live/3162523972/3791698850/191002.m3u8
 ***********************
 
