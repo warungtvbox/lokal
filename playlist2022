@@ -786,9 +786,9 @@ http://aflaxtv.xyz:8080/Wat068/924a937d/157596
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=009a1278e0755ed82e70df01460e90c3:12d010a918431785676c4fd63ef648bd
-#EXTINF:-1 tvg-id="FMN - [Channel 150].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bc/FMN_%28Forget_Me_Not%29_Channel.png" group-title="Movie",FMN (Telenovela)
+#EXTINF:-1 tvg-id="FMN - [Channel 150].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bc/FMN_%28Forget_Me_Not%29_Channel.png" group-title="Movies",FMN (Telenovela)
 https://cempedak-live-cdn.mncnow.id/live/eds/FMN/sa_dash_vmx/FMN.mpd
-#EXTINF:-1 tvg-id="MyTimeMovieNetworkEast.us" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1l99JWAqSdxWNgYMefGnm-xA44CJe8WGRkuuvnO_AgKhY5V5YnijMzqc&s=10" group-title="MoviesMyTime Movie Network
+#EXTINF:-1 tvg-id="MyTimeMovieNetworkEast.us" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1l99JWAqSdxWNgYMefGnm-xA44CJe8WGRkuuvnO_AgKhY5V5YnijMzqc&s=10" group-title="Movies",MyTime Movie Network
 https://mytime-tcl.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ZVC5928/Action-Movie.jpg" group-title="Movies"="" tvg-name="", Action Movies 1
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
@@ -1314,7 +1314,20 @@ http://extraott.com:900/live/3162523972/3791698850/191000.m3u8
 http://extraott.com:900/live/3162523972/3791698850/191001.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="UK| FOX SPORTS 507 HD" tvg-logo="https://lo1.in/uk/fxsp.png" group-title="Sports",UK| FOX SPORTS 507 HD
 http://extraott.com:900/live/3162523972/3791698850/191002.m3u8
-
+#EXTINF:-1 tvg-id="" tvg-name="EGY| ONTIME SPORTS HD" tvg-logo="https://lo1.in/FCB/timesp.png" group-title="Sports",EGY| ONTIME SPORTS HD
+http://extraott.com:900/live/3162523972/3791698850/15197.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="EGY| ONTIME SPORTS HEVC" tvg-logo="https://lo1.in/FCB/timesp.png" group-title="Sports",EGY| ONTIME SPORTS HEVC
+http://extraott.com:900/live/3162523972/3791698850/38500.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="EGY| ONTIME SPORTS 2 HD" tvg-logo="https://lo1.in/arss/timesp1.png" group-title="Sports",EGY| ONTIME SPORTS 2 HD
+http://extraott.com:900/live/3162523972/3791698850/355474.m3u8
+#EXTINF:-1 tvg-id="nilesport.eg" tvg-name="EGY| NILE SPORT" tvg-logo="https://lo1.in/egyy/nilsp1.png" group-title="Sports",EGY| NILE SPORT
+http://extraott.com:900/live/3162523972/3791698850/15212.m3u8
+#EXTINF:-1 tvg-id="nilesport.eg" tvg-name="EGY| NILE SPORT HEVC" tvg-logo="https://lo1.in/egyy/nilsp1.png" group-title="Sports",EGY| NILE SPORT HEVC
+http://extraott.com:900/live/3162523972/3791698850/35698.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="EGY| YALLA MOSAR3A" tvg-logo="https://lo1.in/egyy/flg.png" group-title"Sports"EGY| YALLA MOSAR3A
+http://extraott.com:900/live/3162523972/3791698850/31086.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="EGY| ZAMALEK SPORTS HD" tvg-logo="https://lo1.in/egyy/zmlsp1.png" group-title="Sports",EGY| ZAMALEK SPORTS HD
+http://extraott.com:900/live/3162523972/3791698850/15198.m3u8
 
 
 
@@ -1499,117 +1512,9 @@ http://extraott.com:900/live/3162523972/3791698850/401577156.m3u8
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="EGY| ONTIME SPORTS HD" tvg-logo="https://lo1.in/FCB/timesp.png" group-title="EGYPT SPORT",EGY| ONTIME SPORTS HD
-http://extraott.com:900/live/3162523972/3791698850/15197.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="EGY| ONTIME SPORTS HEVC" tvg-logo="https://lo1.in/FCB/timesp.png" group-title="EGYPT SPORT",EGY| ONTIME SPORTS HEVC
-http://extraott.com:900/live/3162523972/3791698850/38500.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="EGY| ONTIME SPORTS 2 HD" tvg-logo="https://lo1.in/arss/timesp1.png" group-title="EGYPT SPORT",EGY| ONTIME SPORTS 2 HD
-http://extraott.com:900/live/3162523972/3791698850/355474.m3u8
-#EXTINF:-1 tvg-id="nilesport.eg" tvg-name="EGY| NILE SPORT" tvg-logo="https://lo1.in/egyy/nilsp1.png" group-title="EGYPT SPORT",EGY| NILE SPORT
-http://extraott.com:900/live/3162523972/3791698850/15212.m3u8
-#EXTINF:-1 tvg-id="nilesport.eg" tvg-name="EGY| NILE SPORT HEVC" tvg-logo="https://lo1.in/egyy/nilsp1.png" group-title="EGYPT SPORT",EGY| NILE SPORT HEVC
-http://extraott.com:900/live/3162523972/3791698850/35698.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="EGY| YALLA MOSAR3A" tvg-logo="https://lo1.in/egyy/flg.png" group-title="EGYPT SPORT",EGY| YALLA MOSAR3A
-http://extraott.com:900/live/3162523972/3791698850/31086.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="EGY| ZAMALEK SPORTS HD" tvg-logo="https://lo1.in/egyy/zmlsp1.png" group-title="EGYPT SPORT",EGY| ZAMALEK SPORTS HD
-http://extraott.com:900/live/3162523972/3791698850/15198.m3u8
-********************
 
-#EXTINF:-1 tvg-id="" tvg-name="DSTV| SUPER SPORT EVENTS HD" tvg-logo="https://lo1.in/uk/supsp.png" group-title="DSTV SPORT",DSTV| SUPER SPORT EVENTS HD
-http://extraott.com:900/live/3162523972/3791698850/401565452.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DSTV| SUPER SPORT AFRICA 1" tvg-logo="https://lo1.in/uk/supsp.png" group-title="DSTV SPORT",DSTV| SUPER SPORT AFRICA 1
-http://extraott.com:900/live/3162523972/3791698850/401492058.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DSTV| SUPER SPORT AFRICA 2" tvg-logo="https://lo1.in/uk/supsp.png" group-title="DSTV SPORT",DSTV| SUPER SPORT AFRICA 2
-http://extraott.com:900/live/3162523972/3791698850/401492059.m3u8
-#EXTINF:-1 tvg-id="supersportpremierleague.za" tvg-name="DSTV| SUPER SPORT PREMIER LEAGUE HD" tvg-logo="https://lo1.in/uk/supsp.png" group-title="DSTV SPORT",DSTV| SUPER SPORT PREMIER LEAGUE HD
-http://extraott.com:900/live/3162523972/3791698850/159892.m3u8
-#EXTINF:-1 tvg-id="supersportfootball.za" tvg-name="DSTV| SUPER SPORT FOOTBALL HD" tvg-logo="https://lo1.in/uk/supsp.png" group-title="DSTV SPORT",DSTV| SUPER SPORT FOOTBALL HD
-http://extraott.com:900/live/3162523972/3791698850/186875.m3u8
-#EXTINF:-1 tvg-id="supersportfootball.za" tvg-name="DSTV| SUPER SPORT FOOTBALL PLUS HD" tvg-logo="https://lo1.in/uk/supsp.png" group-title="DSTV SPORT",DSTV| SUPER SPORT FOOTBALL PLUS HD
-http://extraott.com:900/live/3162523972/3791698850/400415390.m3u8
-#EXTINF:-1 tvg-id="supersportpsl.za" tvg-name="DSTV| SUPER SPORT PSL HD" tvg-logo="https://lo1.in/uk/supsp.png" group-title="DSTV SPORT",DSTV| SUPER SPORT PSL HD
-http://extraott.com:900/live/3162523972/3791698850/159893.m3u8
-#EXTINF:-1 tvg-id="supersportlaliga.za" tvg-name="DSTV| SUPER SPORT LALIGA HD" tvg-logo="https://lo1.in/uk/supsp.png" group-title="DSTV SPORT",DSTV| SUPER SPORT LALIGA HD
-http://extraott.com:900/live/3162523972/3791698850/159894.m3u8
-#EXTINF:-1 tvg-id="supersportrugby.za" tvg-name="DSTV| SUPER SPORT RUGBY HD" tvg-logo="https://lo1.in/uk/supsp.png" group-title="DSTV SPORT",DSTV| SUPER SPORT RUGBY HD
-http://extraott.com:900/live/3162523972/3791698850/159889.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DSTV| SUPER SPORT RUGBY HD [BK2]" tvg-logo="https://lo1.in/uk/supsp.png" group-title="DSTV SPORT",DSTV| SUPER SPORT RUGBY HD [BK2]
-http://extraott.com:900/live/3162523972/3791698850/35400.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DSTV| SUPER SPORT RUGBY HD [BK1]" tvg-logo="https://lo1.in/uk/supsp.png" group-title="DSTV SPORT",DSTV| SUPER SPORT RUGBY HD [BK1]
-http://extraott.com:900/live/3162523972/3791698850/35401.m3u8
-#EXTINF:-1 tvg-id="supersportblitz.za" tvg-name="DSTV| Super Sport Blitz HD" tvg-logo="https://lo1.in/dstv/supspo.png" group-title="DSTV SPORT",DSTV| Super Sport Blitz HD
-http://extraott.com:900/live/3162523972/3791698850/110613.m3u8
-#EXTINF:-1 tvg-id="supersportcricket.za" tvg-name="DSTV| SUPER SPORT CRICKET HD" tvg-logo="https://lo1.in/af/sprspcrick.png" group-title="DSTV SPORT",DSTV| SUPER SPORT CRICKET HD
-http://extraott.com:900/live/3162523972/3791698850/117926.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DSTV| SUPER SPORT CRICKET HD [BK]" tvg-logo="https://lo1.in/af/sprspcrick.png" group-title="DSTV SPORT",DSTV| SUPER SPORT CRICKET HD [BK]
-http://extraott.com:900/live/3162523972/3791698850/212459.m3u8
-#EXTINF:-1 tvg-id="supersportaction.za" tvg-name="DSTV| SUPER SPORT ACTION HD" tvg-logo="https://lo1.in/af/sprspact.png" group-title="DSTV SPORT",DSTV| SUPER SPORT ACTION HD
-http://extraott.com:900/live/3162523972/3791698850/117927.m3u8
-#EXTINF:-1 tvg-id="supersportgolf.za" tvg-name="DSTV| SUPER SPORT GOLF HD" tvg-logo="https://lo1.in/uk/supsp.png" group-title="DSTV SPORT",DSTV| SUPER SPORT GOLF HD
-http://extraott.com:900/live/3162523972/3791698850/159887.m3u8
-#EXTINF:-1 tvg-id="supersportmotorsport.za" tvg-name="DSTV| SUPER SPORT MOTORSPORT HD" tvg-logo="https://lo1.in/uk/supsp.png" group-title="DSTV SPORT",DSTV| SUPER SPORT MOTORSPORT HD
-http://extraott.com:900/live/3162523972/3791698850/159888.m3u8
-#EXTINF:-1 tvg-id="supersporttennis.za" tvg-name="DSTV| SUPER SPORT TENNIS HD" tvg-logo="https://lo1.in/uk/supsp.png" group-title="DSTV SPORT",DSTV| SUPER SPORT TENNIS HD
-http://extraott.com:900/live/3162523972/3791698850/159890.m3u8
-#EXTINF:-1 tvg-id="supersportgrandstand.za" tvg-name="DSTV| SUPER SPORT GRANDSTAND HD" tvg-logo="https://lo1.in/uk/supsp.png" group-title="DSTV SPORT",DSTV| SUPER SPORT GRANDSTAND HD
-http://extraott.com:900/live/3162523972/3791698850/159891.m3u8
-#EXTINF:-1 tvg-id="supersportmaximo1.za" tvg-name="DSTV| SUPER SPORT MAXIMO 1 HD" tvg-logo="https://lo1.in/af/sprspmaximo.png" group-title="DSTV SPORT",DSTV| SUPER SPORT MAXIMO 1 HD
-http://extraott.com:900/live/3162523972/3791698850/159896.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DSTV| SUPER SPORT MAXIMO 2 HD" tvg-logo="https://lo1.in/af/sprspmaximo.png" group-title="DSTV SPORT",DSTV| SUPER SPORT MAXIMO 2 HD
-http://extraott.com:900/live/3162523972/3791698850/401457562.m3u8
-#EXTINF:-1 tvg-id="supersportvariety1.za" tvg-name="DSTV| SUPER SPORT VARIETY 1 HD" tvg-logo="https://lo1.in/uk/supsp.png" group-title="DSTV SPORT",DSTV| SUPER SPORT VARIETY 1 HD
-http://extraott.com:900/live/3162523972/3791698850/159883.m3u8
-#EXTINF:-1 tvg-id="supersportvariety2.za" tvg-name="DSTV| SUPER SPORT VARIETY 2 HD" tvg-logo="https://lo1.in/uk/supsp.png" group-title="DSTV SPORT",DSTV| SUPER SPORT VARIETY 2 HD
-http://extraott.com:900/live/3162523972/3791698850/159884.m3u8
-#EXTINF:-1 tvg-id="supersportvariety4.za" tvg-name="DSTV| SUPER SPORT VARIETY 4 HD" tvg-logo="https://lo1.in/uk/supsp.png" group-title="DSTV SPORT",DSTV| SUPER SPORT VARIETY 4 HD
-http://extraott.com:900/live/3162523972/3791698850/186869.m3u8
-#EXTINF:-1 tvg-id="supersportvariety3.za" tvg-name="DSTV| SUPER SPORT VARIETY 3 HD" tvg-logo="https://lo1.in/uk/supsp.png" group-title="DSTV SPORT",DSTV| SUPER SPORT VARIETY 3 HD
-http://extraott.com:900/live/3162523972/3791698850/186870.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DSTV| SUPER SPORT SCHOOLS HD" tvg-logo="https://lo1.in/uk/supsp.png" group-title="DSTV SPORT",DSTV| SUPER SPORT SCHOOLS HD
-http://extraott.com:900/live/3162523972/3791698850/387624.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DSTV| SUPER SPORT LIYA 1" tvg-logo="https://lo1.in/uk/supsp.png" group-title="DSTV SPORT",DSTV| SUPER SPORT LIYA 1
-http://extraott.com:900/live/3162523972/3791698850/401591167.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DSTV| SUPER SPORT LIYA 2" tvg-logo="https://lo1.in/uk/supsp.png" group-title="DSTV SPORT",DSTV| SUPER SPORT LIYA 2
-http://extraott.com:900/live/3162523972/3791698850/401591168.m3u8
-#EXTINF:-1 tvg-id="supersportplay.za" tvg-name="DSTV| SUPER SPORT PLAY HD" tvg-logo="https://lo1.in/dstv/strpl.png" group-title="DSTV SPORT",DSTV| SUPER SPORT PLAY HD
-http://extraott.com:900/live/3162523972/3791698850/186873.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DSTV| SUPER SPORT OTT HD" tvg-logo="https://lo1.in/uk/supsp.png" group-title="DSTV SPORT",DSTV| SUPER SPORT OTT HD
-http://extraott.com:900/live/3162523972/3791698850/186884.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DSTV| SUPER SPORT OTT 2 HD" tvg-logo="https://lo1.in/uk/supsp.png" group-title="DSTV SPORT",DSTV| SUPER SPORT OTT 2 HD
-http://extraott.com:900/live/3162523972/3791698850/186883.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DSTV| SUPER SPORT OTT 3 HD" tvg-logo="https://lo1.in/uk/supsp.png" group-title="DSTV SPORT",DSTV| SUPER SPORT OTT 3 HD
-http://extraott.com:900/live/3162523972/3791698850/186882.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DSTV| SUPER SPORT OTT 4 HD" tvg-logo="https://lo1.in/uk/supsp.png" group-title="DSTV SPORT",DSTV| SUPER SPORT OTT 4 HD
-http://extraott.com:900/live/3162523972/3791698850/186881.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DSTV| SUPER SPORT OTT 5 HD" tvg-logo="https://lo1.in/uk/supsp.png" group-title="DSTV SPORT",DSTV| SUPER SPORT OTT 5 HD
-http://extraott.com:900/live/3162523972/3791698850/186880.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DSTV| SUPER SPORT OTT 6 HD" tvg-logo="https://lo1.in/uk/supsp.png" group-title="DSTV SPORT",DSTV| SUPER SPORT OTT 6 HD
-http://extraott.com:900/live/3162523972/3791698850/186879.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DSTV| SUPER SPORT OTT 7 HD" tvg-logo="https://lo1.in/uk/supsp.png" group-title="DSTV SPORT",DSTV| SUPER SPORT OTT 7 HD
-http://extraott.com:900/live/3162523972/3791698850/186878.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DSTV| SUPER SPORT OTT 8 HD" tvg-logo="https://lo1.in/uk/supsp.png" group-title="DSTV SPORT",DSTV| SUPER SPORT OTT 8 HD
-http://extraott.com:900/live/3162523972/3791698850/186877.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DSTV| SABC SPORTS HD" tvg-logo="https://lo1.in/af/zimbabwe.png" group-title="DSTV SPORT",DSTV| SABC SPORTS HD
-http://extraott.com:900/live/3162523972/3791698850/83233.m3u8
-#EXTINF:-1 tvg-id="espn.za" tvg-name="DSTV| ESPN HD" tvg-logo="https://lo1.in/dstv/espn.png" group-title="DSTV SPORT",DSTV| ESPN HD
-http://extraott.com:900/live/3162523972/3791698850/186855.m3u8
-#EXTINF:-1 tvg-id="espn2.za" tvg-name="DSTV| ESPN 2 HD" tvg-logo="https://lo1.in/dstv/espn.png" group-title="DSTV SPORT",DSTV| ESPN 2 HD
-http://extraott.com:900/live/3162523972/3791698850/7229.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DSTV| RACING 240 HD" tvg-logo="https://lo1.in/dstv/rcine.png" group-title="DSTV SPORT",DSTV| RACING 240 HD
-http://extraott.com:900/live/3162523972/3791698850/186794.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DSTV| GINX ESPORTS TV HD" tvg-logo="https://lo1.in/nor/ginesp.png" group-title="DSTV SPORT",DSTV| GINX ESPORTS TV HD
-http://extraott.com:900/live/3162523972/3791698850/186840.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DSTV| WWE CHANNEL HD" tvg-logo="https://lo1.in/af/wwesprslm.png" group-title="DSTV SPORT",DSTV| WWE CHANNEL HD
-http://extraott.com:900/live/3162523972/3791698850/186845.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DSTV| Azam Sports 1" tvg-logo="https://lo1.in/af/azams.png" group-title="DSTV SPORT",DSTV| Azam Sports 1
-http://extraott.com:900/live/3162523972/3791698850/401172759.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DSTV| Azam Sports 2" tvg-logo="https://lo1.in/af/azams2.png" group-title="DSTV SPORT",DSTV| Azam Sports 2
-http://extraott.com:900/live/3162523972/3791698850/401172760.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DSTV| Azam Sports 3" tvg-logo="https://lo1.in/af/azams.png" group-title="DSTV SPORT",DSTV| Azam Sports 3
-http://extraott.com:900/live/3162523972/3791698850/401172761.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DSTV| Azam Sports 4" tvg-logo="https://lo1.in/af/azams.png" group-title="DSTV SPORT",DSTV| Azam Sports 4
-http://extraott.com:900/live/3162523972/3791698850/401591166.m3u8
-************************
+
+
 
 #EXTINF:-1 tvg-id="" tvg-name="AF| CANAL+ SPORT 1 HD " tvg-logo="https://lo1.in/af/caplssp1.png" group-title="CANAL+ SPORT",AF| CANAL+ SPORT 1 HD 
 http://extraott.com:900/live/3162523972/3791698850/400216431.m3u8
@@ -1720,95 +1625,7 @@ http://extraott.com:900/live/3162523972/3791698850/401576207.m3u8
 http://extraott.com:900/live/3162523972/3791698850/401576208.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="LIGA DE CAMPEONES 18 HD" tvg-logo="https://lo1.in/sp/mvstcamp.png" group-title="Liga Champions",LIGA DE CAMPEONES 18 HD
 http://extraott.com:900/live/3162523972/3791698850/401576209.m3u8
-#EXTINF:-1 tvg-id="mligadecampeones.es" tvg-name="LIGA DE CAMPEONES 1 SD" tvg-logo="https://lo1.in/sp/mvstcamp.png" group-title="Liga Champions",LIGA DE CAMPEONES 1 SD
-http://extraott.com:900/live/3162523972/3791698850/400218282.m3u8
-#EXTINF:-1 tvg-id="mligadecampeones2.es" tvg-name="LIGA DE CAMPEONES 2 SD" tvg-logo="https://lo1.in/sp/mvstcamp.png" group-title="Liga Champions",LIGA DE CAMPEONES 2 SD
-http://extraott.com:900/live/3162523972/3791698850/400230644.m3u8
-#EXTINF:-1 tvg-id="mligadecampeones3.es" tvg-name="LIGA DE CAMPEONES 3 SD" tvg-logo="https://lo1.in/sp/sender.png" group-title="Liga Champions",LIGA DE CAMPEONES 3 SD
-http://extraott.com:900/live/3162523972/3791698850/400230643.m3u8
-#EXTINF:-1 tvg-id="mligadecampeones4.es" tvg-name="LIGA DE CAMPEONES 4 SD" tvg-logo="https://lo1.in/sp/mvstcamp.png" group-title="Liga Champions",LIGA DE CAMPEONES 4 SD
-http://extraott.com:900/live/3162523972/3791698850/400218278.m3u8
-#EXTINF:-1 tvg-id="mligadecampeones5.es" tvg-name="LIGA DE CAMPEONES 5 SD" tvg-logo="https://lo1.in/sp/mvstcamp.png" group-title="Liga Champions",LIGA DE CAMPEONES 5 SD
-http://extraott.com:900/live/3162523972/3791698850/400218277.m3u8
-#EXTINF:-1 tvg-id="mligadecampeones6.es" tvg-name="LIGA DE CAMPEONES 6 SD" tvg-logo="https://lo1.in/sp/mvstcamp.png" group-title="Liga Champions",LIGA DE CAMPEONES 6 SD
-http://extraott.com:900/live/3162523972/3791698850/400218276.m3u8
-#EXTINF:-1 tvg-id="mligadecampeones7.es" tvg-name="LIGA DE CAMPEONES 7 SD" tvg-logo="https://lo1.in/sp/mvstcamp.png" group-title="Liga Champions",LIGA DE CAMPEONES 7 SD
-http://extraott.com:900/live/3162523972/3791698850/400218275.m3u8
-#EXTINF:-1 tvg-id="mligadecampeones8.es" tvg-name="LIGA DE CAMPEONES 8 SD" tvg-logo="https://lo1.in/sp/mvstcamp.png" group-title="Liga Champions",LIGA DE CAMPEONES 8 SD
-http://extraott.com:900/live/3162523972/3791698850/400218274.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="LIGA DE CAMPEONES 9 SD" tvg-logo="https://lo1.in/sp/mvstcamp.png" group-title="Liga Champions",LIGA DE CAMPEONES 9 SD
-http://extraott.com:900/live/3162523972/3791698850/400218273.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="LIGA DE CAMPEONES 10 SD" tvg-logo="https://lo1.in/sp/mvstcamp.png" group-title="Liga Champions",LIGA DE CAMPEONES 10 SD
-http://extraott.com:900/live/3162523972/3791698850/400218272.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="LIGA DE CAMPEONES 11 SD" tvg-logo="https://lo1.in/sp/mvstcamp.png" group-title="Liga Champions",LIGA DE CAMPEONES 11 SD
-http://extraott.com:900/live/3162523972/3791698850/1245.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="LIGA DE CAMPEONES 12 SD" tvg-logo="https://lo1.in/sp/mvstcamp.png" group-title="Liga Champions",LIGA DE CAMPEONES 12 SD
-http://extraott.com:900/live/3162523972/3791698850/1244.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="LIGA DE CAMPEONES 13 SD" tvg-logo="https://lo1.in/sp/mvstcamp.png" group-title="Liga Champions",LIGA DE CAMPEONES 13 SD
-http://extraott.com:900/live/3162523972/3791698850/18406.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="LIGA DE CAMPEONES 14 SD" tvg-logo="https://lo1.in/sp/mvstcamp.png" group-title="Liga Champions",LIGA DE CAMPEONES 14 SD
-http://extraott.com:900/live/3162523972/3791698850/401576198.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="LIGA DE CAMPEONES 15 SD" tvg-logo="https://lo1.in/sp/mvstcamp.png" group-title="Liga Champions",LIGA DE CAMPEONES 15 SD
-http://extraott.com:900/live/3162523972/3791698850/401576197.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="LIGA DE CAMPEONES 16 SD" tvg-logo="https://lo1.in/sp/mvstcamp.png" group-title="Liga Champions",LIGA DE CAMPEONES 16 SD
-http://extraott.com:900/live/3162523972/3791698850/401576196.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="LIGA DE CAMPEONES 17 SD" tvg-logo="https://lo1.in/sp/mvstcamp.png" group-title="Liga Champions",LIGA DE CAMPEONES 17 SD
-http://extraott.com:900/live/3162523972/3791698850/401576195.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="LIGA DE CAMPEONES 18 SD" tvg-logo="https://lo1.in/sp/mvstcamp.png" group-title="Liga Champions",LIGA DE CAMPEONES 18 SD
-http://extraott.com:900/live/3162523972/3791698850/401576194.m3u8
-#EXTINF:-1 tvg-id="mligadecampeones.es" tvg-name="LIGA DE CAMPEONES 1 FHD" tvg-logo="https://lo1.in/sp/mvstcamp.png" group-title="Liga Champions",LIGA DE CAMPEONES 1 FHD
-http://extraott.com:900/live/3162523972/3791698850/187582.m3u8
-#EXTINF:-1 tvg-id="mligadecampeones.es" tvg-name="LIGA DE CAMPEONES 1 FHD [BK]" tvg-logo="https://lo1.in/sp/mvstcamp.png" group-title="Liga Champions",LIGA DE CAMPEONES 1 FHD [BK]
-http://extraott.com:900/live/3162523972/3791698850/401188655.m3u8
-#EXTINF:-1 tvg-id="mligadecampeones2.es" tvg-name="LIGA DE CAMPEONES 2 FHD" tvg-logo="https://lo1.in/sp/M+ LIGA DE CAMPEONES 4.png" group-title="Liga Champions",LIGA DE CAMPEONES 2 FHD
-http://extraott.com:900/live/3162523972/3791698850/187584.m3u8
-#EXTINF:-1 tvg-id="mligadecampeones3.es" tvg-name="LIGA DE CAMPEONES 3 FHD" tvg-logo="https://lo1.in/sp/mvstlg10.png" group-title="Liga Champions",LIGA DE CAMPEONES 3 FHD
-http://extraott.com:900/live/3162523972/3791698850/187563.m3u8
-#EXTINF:-1 tvg-id="mlaliga9.es" tvg-name="LIGA DE CAMPEONES 4 FHD" tvg-logo="https://lo1.in/sp/mvstlg9.png" group-title="Liga Champions",LIGA DE CAMPEONES 4 FHD
-http://extraott.com:900/live/3162523972/3791698850/187562.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="LIGA DE CAMPEONES 5 FHD" tvg-logo="https://lo1.in/sp/mvstcamp.png" group-title="Liga Champions",LIGA DE CAMPEONES 5 FHD
-http://extraott.com:900/live/3162523972/3791698850/400407282.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="LIGA DE CAMPEONES 6 FHD" tvg-logo="https://lo1.in/sp/mvstcamp.png" group-title="Liga Champions",LIGA DE CAMPEONES 6 FHD
-http://extraott.com:900/live/3162523972/3791698850/400407281.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="LIGA DE CAMPEONES 7 FHD" tvg-logo="https://lo1.in/sp/mvstcamp.png" group-title="Liga Champions",LIGA DE CAMPEONES 7 FHD
-http://extraott.com:900/live/3162523972/3791698850/33807.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="LIGA DE CAMPEONES 8 FHD" tvg-logo="https://lo1.in/sp/mvstcamp.png" group-title="Liga Champions",LIGA DE CAMPEONES 8 FHD
-http://extraott.com:900/live/3162523972/3791698850/33806.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="LIGA DE CAMPEONES 9 FHD" tvg-logo="https://lo1.in/sp/mvstcamp.png" group-title="Liga Champions",LIGA DE CAMPEONES 9 FHD
-http://extraott.com:900/live/3162523972/3791698850/33805.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="LIGA DE CAMPEONES 10 FHD" tvg-logo="https://lo1.in/sp/mvstcamp.png" group-title="Liga Champions",LIGA DE CAMPEONES 10 FHD
-http://extraott.com:900/live/3162523972/3791698850/33804.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="LIGA DE CAMPEONES 11 FHD" tvg-logo="https://lo1.in/sp/mvstcamp.png" group-title="Liga Champions",LIGA DE CAMPEONES 11 FHD
-http://extraott.com:900/live/3162523972/3791698850/33803.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="LIGA DE CAMPEONES 12 FHD" tvg-logo="https://lo1.in/sp/mvstcamp.png" group-title="Liga Champions",LIGA DE CAMPEONES 12 FHD
-http://extraott.com:900/live/3162523972/3791698850/33802.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="LIGA DE CAMPEONES 13 FHD" tvg-logo="https://lo1.in/sp/mvstcamp.png" group-title="Liga Champions",LIGA DE CAMPEONES 13 FHD
-http://extraott.com:900/live/3162523972/3791698850/33801.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="LIGA DE CAMPEONES  14 FHD" tvg-logo="https://lo1.in/sp/mvstcamp.png" group-title="Liga Champions",LIGA DE CAMPEONES  14 FHD
-http://extraott.com:900/live/3162523972/3791698850/401576204.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="LIGA DE CAMPEONES  15 FHD" tvg-logo="https://lo1.in/sp/mvstcamp.png" group-title="Liga Champions",LIGA DE CAMPEONES  15 FHD
-http://extraott.com:900/live/3162523972/3791698850/401576203.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="LIGA DE CAMPEONES  16 FHD" tvg-logo="https://lo1.in/sp/mvstcamp.png" group-title="Liga Champions",LIGA DE CAMPEONES  16 FHD
-http://extraott.com:900/live/3162523972/3791698850/401576202.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="LIGA DE CAMPEONES  17 FHD" tvg-logo="https://lo1.in/sp/mvstcamp.png" group-title="Liga Champions",LIGA DE CAMPEONES  17 FHD
-http://extraott.com:900/live/3162523972/3791698850/401576201.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="LIGA DE CAMPEONES  18 FHD" tvg-logo="https://lo1.in/sp/mvstcamp.png" group-title="Liga Champions",LIGA DE CAMPEONES  18 FHD
-http://extraott.com:900/live/3162523972/3791698850/401576199.m3u8
-#EXTINF:-1 tvg-id="mligadecampeones.es" tvg-name="LCAMPEONS 4K" tvg-logo="https://lo1.in/sp/mvstcamp.png" group-title="Liga Champions",LCAMPEONS 4K
-http://extraott.com:900/live/3162523972/3791698850/400241868.m3u8
-#EXTINF:-1 tvg-id="mligadecampeones.es" tvg-name="LIGA DE CAMPEONES 1 HEVC" tvg-logo="https://lo1.in/sp/mvstcamp.png" group-title="Liga Champions",LIGA DE CAMPEONES 1 HEVC
-http://extraott.com:900/live/3162523972/3791698850/189457.m3u8
-#EXTINF:-1 tvg-id="mligadecampeones2.es" tvg-name="LIGA DE CAMPEONES 2 HEVC" tvg-logo="https://lo1.in/sp/mvstcamp.png" group-title="Liga Champions",LIGA DE CAMPEONES 2 HEVC
-http://extraott.com:900/live/3162523972/3791698850/375700.m3u8
-#EXTINF:-1 tvg-id="mligadecampeones3.es" tvg-name="LIGA DE CAMPEONES 3 HEVC" tvg-logo="https://lo1.in/sp/mvstcamp.png" group-title="Liga Champions",LIGA DE CAMPEONES 3 HEVC
-http://extraott.com:900/live/3162523972/3791698850/62812.m3u8
-#EXTINF:-1 tvg-id="mligadecampeones4.es" tvg-name="LIGA DE CAMPEONES 4 HEVC" tvg-logo="https://lo1.in/sp/mvstcamp.png" group-title="Liga Champions",LIGA DE CAMPEONES 4 HEVC
-http://extraott.com:900/live/3162523972/3791698850/62811.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="LIGA DE CAMPEONES 5 HEVC" tvg-logo="https://lo1.in/sp/mvstcamp.png" group-title="Liga Champions",LIGA DE CAMPEONES 5 HEVC
-http://extraott.com:900/live/3162523972/3791698850/33546.m3u8
-*******************************
-#EXTINF:-1 tvg-logo="https://cdn3.iconfinder.com/data/icons/social-network-30/512/social-06-512.png" group-title="LALIGA HYPERMOTION",PutraTalawi
-https://youtube.com/@PutraTalawi-s9m
+
 #EXTINF:-1 tvg-id="" tvg-name="M+ LALIGA TV HYPERMOTION HD" tvg-logo="https://lo1.in/sp/M+ LALIGA TV.png" group-title="LALIGA HYPERMOTION",LALIGA HYPERMOTION HD
 http://extraott.com:900/live/3162523972/3791698850/39861.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="M+ LALIGA TV HYPERMOTION M2 HD" tvg-logo="https://lo1.in/sp/ligasmbam2.png" group-title="LALIGA HYPERMOTION",M+ LALIGA TV HYPERMOTION M2 HD
