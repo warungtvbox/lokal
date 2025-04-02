@@ -1207,22 +1207,15 @@ https://travelxp-travelxp-1-se.samsung.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="tv1.my" tvg-name="MY| TV1 HD" tvg-logo="https://lo1.in/MALAY/tv1.png" group-title="MALAYSIA",MY| TV1 HD
 http://extraott.com:900/live/3162523972/3791698850/192001.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MY| TV1 FHD" tvg-logo="https://lo1.in/MALAY/tv1.png" group-title="MALAYSIA",MY| TV1 FHD
-http://extraott.com:900/live/3162523972/3791698850/79326.m3u8
 #EXTINF:-1 tvg-id="tv2.my" tvg-name="MY| TV2 HD" tvg-logo="https://lo1.in/MALAY/tv2.png" group-title="MALAYSIA",MY| TV2 HD
 http://extraott.com:900/live/3162523972/3791698850/192002.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MY| TV2 FHD" tvg-logo="https://lo1.in/MALAY/tv2.png" group-title="MALAYSIA",MY| TV2 FHD
-http://extraott.com:900/live/3162523972/3791698850/79325.m3u8
 #EXTINF:-1 tvg-id="tv3.my" tvg-name="MY| TV3 HD" tvg-logo="https://lo1.in/MALAY/tv3.png" group-title="MALAYSIA",MY| TV3 HD
 http://extraott.com:900/live/3162523972/3791698850/400200329.m3u8
 #EXTINF:-1 tvg-id="astroria.my" tvg-name="MY| ASTRO RIA (not 24/7)" tvg-logo="https://lo1.in/MALAY/astrori.png" group-title="MALAYSIA",MY| ASTRO RIA (not 24/7)
 http://extraott.com:900/live/3162523972/3791698850/191867.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MY| ASTRO AWANI FHD" tvg-logo="https://lo1.in/MALAY/astroaw.png" group-title="MALAYSIA",MY| ASTRO AWANI FHD
-http://extraott.com:900/live/3162523972/3791698850/29657.m3u8
 #EXTINF:-1 tvg-id="astroawani.my" tvg-name="MY| ASTRO AWANI HD" tvg-logo="https://lo1.in/MALAY/astroaw.png" group-title="MALAYSIA",MY| ASTRO AWANI HD
 http://extraott.com:900/live/3162523972/3791698850/191859.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MY| ASTRO OASIS FHD" tvg-logo="https://lo1.in/MALAY/astrooas.png" group-title="MALAYSIA",MY| ASTRO OASIS FHD
-http://extraott.com:900/live/3162523972/3791698850/29654.m3u8
+
 #EXTINF:-1 tvg-id="astrooasis.my" tvg-name="MY| ASTRO OASIS HD" tvg-logo="https://lo1.in/MALAY/astrooas.png" group-title="MALAYSIA",MY| ASTRO OASIS HD
 http://extraott.com:900/live/3162523972/3791698850/191864.m3u8
 #EXTINF:-1 tvg-id="astrocitra.my" tvg-name="MY| ASTRO CITRA HD" tvg-logo="https://lo1.in/MALAY/astrocit.png" group-title="MALAYSIA",MY| ASTRO CITRA HD
@@ -1231,10 +1224,6 @@ http://extraott.com:900/live/3162523972/3791698850/400200335.m3u8
 http://extraott.com:900/live/3162523972/3791698850/191866.m3u8
 #EXTINF:-1 tvg-id="astroaura.my" tvg-name="MY| ASTRO AURA HD" tvg-logo="https://lo1.in/MALAY/astroaur.png" group-title="MALAYSIA",MY| ASTRO AURA HD
 http://extraott.com:900/live/3162523972/3791698850/191858.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MY| ASTRO AURA FHD" tvg-logo="https://lo1.in/MALAY/astroaur.png" group-title="MALAYSIA",MY| ASTRO AURA FHD
-http://extraott.com:900/live/3162523972/3791698850/13073.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MY| TV ALHIJRAH FHD" tvg-logo="https://lo1.in/MALAY/hijrah.png" group-title="MALAYSIA",MY| TV ALHIJRAH FHD
-http://extraott.com:900/live/3162523972/3791698850/29649.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MY| TV ALHIJRAH HD" tvg-logo="https://lo1.in/MALAY/hijrah.png" group-title="MALAYSIA",MY| TV ALHIJRAH HD
 http://extraott.com:900/live/3162523972/3791698850/192000.m3u8
 #EXTINF:-1 tvg-id="tv9.my" tvg-name="MY| TV9 HD" tvg-logo="https://lo1.in/MALAY/tv9.png" group-title="MALAYSIA",MY| TV9 HD
@@ -1243,96 +1232,54 @@ http://extraott.com:900/live/3162523972/3791698850/192004.m3u8
 http://extraott.com:900/live/3162523972/3791698850/191836.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MY| TVS Sarawak HD" tvg-logo="https://lo1.in/MALAY/flag.png" group-title="MALAYSIA",MY| TVS Sarawak HD
 http://extraott.com:900/live/3162523972/3791698850/401170435.m3u8
-#EXTINF:-1 tvg-id="tvsukan.my" tvg-name="MY| TVS Sarawak FHD" tvg-logo="https://lo1.in/MALAY/astrotspm.png" group-title="MALAYSIA",MY| TVS Sarawak FHD
-http://extraott.com:900/live/3162523972/3791698850/400200328.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MY| ADITHYA HD" tvg-logo="https://lo1.in/MALAY/astroad.png" group-title="MALAYSIA",MY| ADITHYA HD
 http://extraott.com:900/live/3162523972/3791698850/191840.m3u8
 #EXTINF:-1 tvg-id="astrotviq.my" tvg-name="MY| IQIYI HD" tvg-logo="https://lo1.in/MALAY/astroiq.png" group-title="MALAYSIA",MY| IQIYI HD
 http://extraott.com:900/live/3162523972/3791698850/191950.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MY| IQIYI FHD" tvg-logo="https://lo1.in/MALAY/astroiq.png" group-title="MALAYSIA",MY| IQIYI FHD
-http://extraott.com:900/live/3162523972/3791698850/13092.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MY| CTI ASIA FHD" tvg-logo="https://lo1.in/MALAY/ctas.png" group-title="MALAYSIA",MY| CTI ASIA FHD
-http://extraott.com:900/live/3162523972/3791698850/29615.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MY| CTI ASIA HD" tvg-logo="https://lo1.in/MALAY/ctas.png" group-title="MALAYSIA",MY| CTI ASIA HD
 http://extraott.com:900/live/3162523972/3791698850/191911.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MY| TVB XING HE HD" tvg-logo="https://lo1.in/MALAY/tvbxh.png" group-title="MALAYSIA",MY| TVB XING HE HD
 http://extraott.com:900/live/3162523972/3791698850/192007.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MY| TVB XING HE FHD" tvg-logo="https://lo1.in/MALAY/tvbxh.png" group-title="MALAYSIA",MY| TVB XING HE FHD
-http://extraott.com:900/live/3162523972/3791698850/13043.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MY| TVB ENTERTAINMENT NEWS HD" tvg-logo="https://lo1.in/MALAY/flag.png" group-title="MALAYSIA",MY| TVB ENTERTAINMENT NEWS HD
 http://extraott.com:900/live/3162523972/3791698850/401170437.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MY| TVB ENTERTAINMENT NEWS FHD" tvg-logo="https://lo1.in/MALAY/flag.png" group-title="MALAYSIA",MY| TVB ENTERTAINMENT NEWS FHD
-http://extraott.com:900/live/3162523972/3791698850/401170436.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MY| ASTRO HUA HEE DAI FHD" tvg-logo="https://lo1.in/MALAY/astrohhd.png" group-title="MALAYSIA",MY| ASTRO HUA HEE DAI FHD
-http://extraott.com:900/live/3162523972/3791698850/29655.m3u8
 #EXTINF:-1 tvg-id="astrohuaheedai.my" tvg-name="MY| ASTRO HUA HEE DAI HD" tvg-logo="https://lo1.in/MALAY/astrohhd.png" group-title="MALAYSIA",MY| ASTRO HUA HEE DAI HD
 http://extraott.com:900/live/3162523972/3791698850/191948.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MY| CCTV4 HD" tvg-logo="https://lo1.in/MALAY/cc4.png" group-title="MALAYSIA",MY| CCTV4 HD
 http://extraott.com:900/live/3162523972/3791698850/191897.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MY| CCTV4 FHD" tvg-logo="https://lo1.in/MALAY/cc4.png" group-title="MALAYSIA",MY| CCTV4 FHD
-http://extraott.com:900/live/3162523972/3791698850/13086.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MY| DREAMWORKS HD" tvg-logo="https://lo1.in/MALAY/flag.png" group-title="MALAYSIA",MY| DREAMWORKS HD
 http://extraott.com:900/live/3162523972/3791698850/12304.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MY| DREAMWORKS FHD" tvg-logo="https://lo1.in/MALAY/flag.png" group-title="MALAYSIA",MY| DREAMWORKS FHD
-http://extraott.com:900/live/3162523972/3791698850/13088.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MY| ASTRO VELLITHIRAI HD" tvg-logo="https://lo1.in/MALAY/flag.png" group-title="MALAYSIA",MY| ASTRO VELLITHIRAI HD
 http://extraott.com:900/live/3162523972/3791698850/12305.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MY| ASTRO VELLITHIRAI FHD" tvg-logo="https://lo1.in/MALAY/flag.png" group-title="MALAYSIA",MY| ASTRO VELLITHIRAI FHD
-http://extraott.com:900/live/3162523972/3791698850/13083.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MY| ONE FHD" tvg-logo="https://lo1.in/MALAY/one.png" group-title="MALAYSIA",MY| ONE FHD
-http://extraott.com:900/live/3162523972/3791698850/29581.m3u8
 #EXTINF:-1 tvg-id="one.my" tvg-name="MY| ONE HD" tvg-logo="https://lo1.in/MALAY/one.png" group-title="MALAYSIA",MY| ONE HD
 http://extraott.com:900/live/3162523972/3791698850/191970.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MY| ASTRO VAANAVIL FHD" tvg-logo="https://lo1.in/MALAY/astrovv.png" group-title="MALAYSIA",MY| ASTRO VAANAVIL FHD
-http://extraott.com:900/live/3162523972/3791698850/29660.m3u8
 #EXTINF:-1 tvg-id="astrovaanavil.my" tvg-name="MY| ASTRO VAANAVIL HD" tvg-logo="https://lo1.in/MALAY/astrovv.png" group-title="MALAYSIA",MY| ASTRO VAANAVIL HD
 http://extraott.com:900/live/3162523972/3791698850/192011.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MY| PHOENIX CHINESE CHANNEL HD" tvg-logo="https://lo1.in/MALAY/phchch.png" group-title="MALAYSIA",MY| PHOENIX CHINESE CHANNEL HD
 http://extraott.com:900/live/3162523972/3791698850/33006.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MY| PHOENIX CHINESE CHANNEL FHD" tvg-logo="https://lo1.in/MALAY/phchch.png" group-title="MALAYSIA",MY| PHOENIX CHINESE CHANNEL FHD
-http://extraott.com:900/live/3162523972/3791698850/13126.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MY| PHOENIX INFO NEWS HD" tvg-logo="https://lo1.in/MALAY/phinfns.png" group-title="MALAYSIA",MY| PHOENIX INFO NEWS HD
 http://extraott.com:900/live/3162523972/3791698850/33008.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MY| PHOENIX INFO NEWS FHD" tvg-logo="https://lo1.in/MALAY/phinfns.png" group-title="MALAYSIA",MY| PHOENIX INFO NEWS FHD
-http://extraott.com:900/live/3162523972/3791698850/13125.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MY| CGTN HD" tvg-logo="https://lo1.in/MALAY/cgtn.png" group-title="MALAYSIA",MY| CGTN HD
 http://extraott.com:900/live/3162523972/3791698850/33017.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MY| AL JAZEERA ENGLISH  FHD" tvg-logo="https://lo1.in/MALAY/jazera.png" group-title="MALAYSIA",MY| AL JAZEERA ENGLISH  FHD
-http://extraott.com:900/live/3162523972/3791698850/29648.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MY| AL JAZEERA ENGLISH  HD" tvg-logo="https://lo1.in/MALAY/jazera.png" group-title="MALAYSIA",MY| AL JAZEERA ENGLISH  HD
 http://extraott.com:900/live/3162523972/3791698850/33019.m3u8
 #EXTINF:-1 tvg-id="kbsworld.my" tvg-name="MY| KBS WORLD HD" tvg-logo="https://lo1.in/MALAY/kbswrld.png" group-title="MALAYSIA",MY| KBS WORLD HD
 http://extraott.com:900/live/3162523972/3791698850/191953.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MY| KBS WORLD FHD" tvg-logo="https://lo1.in/MALAY/kbswrld.png" group-title="MALAYSIA",MY| KBS WORLD FHD
-http://extraott.com:900/live/3162523972/3791698850/13097.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MY| BERNAMA TV" tvg-logo="https://lo1.in/MALAY/brnm.png" group-title="MALAYSIA",MY| BERNAMA TV
 http://extraott.com:900/live/3162523972/3791698850/400274059.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MY| BBC NEWS FHD" tvg-logo="https://lo1.in/MALAY/bbcns.png" group-title="MALAYSIA",MY| BBC NEWS FHD
-http://extraott.com:900/live/3162523972/3791698850/29642.m3u8
 #EXTINF:-1 tvg-id="bbcworldnews.id" tvg-name="MY| BBC NEWS HD" tvg-logo="https://lo1.in/MALAY/bbcns.png" group-title="MALAYSIA",MY| BBC NEWS HD
 http://extraott.com:900/live/3162523972/3791698850/191880.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MY| BBC EARTH FHD" tvg-logo="https://lo1.in/MALAY/bbcea.png" group-title="MALAYSIA",MY| BBC EARTH FHD
-http://extraott.com:900/live/3162523972/3791698850/29644.m3u8
 #EXTINF:-1 tvg-id="bbcearth.id" tvg-name="MY| BBC EARTH HD" tvg-logo="https://lo1.in/MALAY/bbcea.png" group-title="MALAYSIA",MY| BBC EARTH HD
 http://extraott.com:900/live/3162523972/3791698850/191878.m3u8
 #EXTINF:-1 tvg-id="skynews.id" tvg-name="MY| SKY NEWS HD" tvg-logo="https://lo1.in/MALAY/skyns.png" group-title="MALAYSIA",MY| SKY NEWS HD
 http://extraott.com:900/live/3162523972/3791698850/191981.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MY| SKY NEWS FHD" tvg-logo="https://lo1.in/MALAY/skyns.png" group-title="MALAYSIA",MY| SKY NEWS FHD
-http://extraott.com:900/live/3162523972/3791698850/29569.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MY| CNBC ASIA FHD" tvg-logo="https://lo1.in/MALAY/cnbc.png" group-title="MALAYSIA",MY| CNBC ASIA FHD
 http://extraott.com:900/live/3162523972/3791698850/29620.m3u8
 #EXTINF:-1 tvg-id="cnbc.id" tvg-name="MY| CNBC ASIA HD" tvg-logo="https://lo1.in/MALAY/cnbc.png" group-title="MALAYSIA",MY| CNBC ASIA HD
 http://extraott.com:900/live/3162523972/3791698850/191904.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MY| CNA FHD" tvg-logo="https://lo1.in/MALAY/cna.png" group-title="MALAYSIA",MY| CNA FHD
-http://extraott.com:900/live/3162523972/3791698850/13038.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MY| CNA HD" tvg-logo="https://lo1.in/MALAY/cna.png" group-title="MALAYSIA",MY| CNA HD
 http://extraott.com:900/live/3162523972/3791698850/13039.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MY| CNN FHD" tvg-logo="https://lo1.in/ind/cnn.png" group-title="MALAYSIA",MY| CNN FHD
-http://extraott.com:900/live/3162523972/3791698850/13040.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MY| CNN HD" tvg-logo="https://lo1.in/ind/cnn.png" group-title="MALAYSIA",MY| CNN HD
 http://extraott.com:900/live/3162523972/3791698850/13041.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MY| BLOOMBERG TV FHD" tvg-logo="https://lo1.in/MALAY/blmbrg.png" group-title="MALAYSIA",MY| BLOOMBERG TV FHD
-http://extraott.com:900/live/3162523972/3791698850/29628.m3u8
 #EXTINF:-1 tvg-id="bloomberg.id" tvg-name="MY| BLOOMBERG TV HD" tvg-logo="https://lo1.in/MALAY/blmbrg.png" group-title="MALAYSIA",MY| BLOOMBERG TV HD
 http://extraott.com:900/live/3162523972/3791698850/191886.m3u8
 #EXTINF:-1 tvg-id="abcaustralia.id" tvg-name="MY| ABC AUSTRALIA HD" tvg-logo="https://lo1.in/MALAY/abcaus.png" group-title="MALAYSIA",MY| ABC AUSTRALIA HD
@@ -1341,18 +1288,10 @@ http://extraott.com:900/live/3162523972/3791698850/191837.m3u8
 http://extraott.com:900/live/3162523972/3791698850/191936.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MY| KPLUS HD" tvg-logo="https://lo1.in/MALAY/kpls.png" group-title="MALAYSIA",MY| KPLUS HD
 http://extraott.com:900/live/3162523972/3791698850/191955.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MY| KPLUS FHD" tvg-logo="https://lo1.in/MALAY/kpls.png" group-title="MALAYSIA",MY| KPLUS FHD
-http://extraott.com:900/live/3162523972/3791698850/13096.m3u8
 #EXTINF:-1 tvg-id="tlc.my" tvg-name="MY| TLC HD" tvg-logo="https://lo1.in/MALAY/tlc.png" group-title="MALAYSIA",MY| TLC HD
 http://extraott.com:900/live/3162523972/3791698850/191994.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MY| TLC FHD" tvg-logo="https://lo1.in/MALAY/tlc.png" group-title="MALAYSIA",MY| TLC FHD
-http://extraott.com:900/live/3162523972/3791698850/13021.m3u8
 #EXTINF:-1 tvg-id="warnertv.my" tvg-name="MY| WARNER TV HD" tvg-logo="https://lo1.in/MALAY/wrnr.png" group-title="MALAYSIA",MY| WARNER TV HD
 http://extraott.com:900/live/3162523972/3791698850/192013.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MY| WARNER TV FHD" tvg-logo="https://lo1.in/MALAY/wrnr.png" group-title="MALAYSIA",MY| WARNER TV FHD
-http://extraott.com:900/live/3162523972/3791698850/13028.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MY| MTV ASIA FHD" tvg-logo="https://lo1.in/MALAY/mtv.png" group-title="MALAYSIA",MY| MTV ASIA FHD
-http://extraott.com:900/live/3162523972/3791698850/13100.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MY| MTV ASIA HD" tvg-logo="https://lo1.in/MALAY/mtv.png" group-title="MALAYSIA",MY| MTV ASIA HD
 http://extraott.com:900/live/3162523972/3791698850/191957.m3u8
 #EXTINF:-1 tvg-id="dw.id" tvg-name="MY| DW HD" tvg-logo="https://lo1.in/MALAY/dw.png" group-title="MALAYSIA",MY| DW HD
@@ -1361,50 +1300,15 @@ http://extraott.com:900/live/3162523972/3791698850/191922.m3u8
 http://extraott.com:900/live/3162523972/3791698850/13106.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MY| JAYA MAX HD" tvg-logo="https://lo1.in/MALAY/jayamx.png" group-title="MALAYSIA",MY| JAYA MAX HD
 http://extraott.com:900/live/3162523972/3791698850/191951.m3u8
-#EXTINF:-1 tvg-id="blueantextreme.id" tvg-name="MY| BLUE ANT EXTREME" tvg-logo="https://lo1.in/MALAY/bluaex.png" group-title="MALAYSIA",MY| BLUE ANT EXTREME
-http://extraott.com:900/live/3162523972/3791698850/191888.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="MY| HARVEST TV ARABIA" tvg-logo="https://lo1.in/MALAY/hrvstar.png" group-title="MALAYSIA",MY| HARVEST TV ARABIA
 http://extraott.com:900/live/3162523972/3791698850/380228.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MY| HARVEST TV USA" tvg-logo="https://lo1.in/MALAY/hrvstsa.png" group-title="MALAYSIA",MY| HARVEST TV USA
-http://extraott.com:900/live/3162523972/3791698850/380227.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="MY| SONY MAX HD" tvg-logo="https://lo1.in/MALAY/snysetmx.png" group-title="MALAYSIA",MY| SONY MAX HD
 http://extraott.com:900/live/3162523972/3791698850/191990.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MY| GLOBAL TREKKER HD" tvg-logo="https://lo1.in/MALAY/GSZ.png" group-title="MALAYSIA",MY| GLOBAL TREKKER HD
 http://extraott.com:900/live/3162523972/3791698850/54898.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MY| GLOBAL TREKKER FHD" tvg-logo="https://lo1.in/MALAY/GSZ.png" group-title="MALAYSIA",MY| GLOBAL TREKKER FHD
-http://extraott.com:900/live/3162523972/3791698850/54897.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MY| Ktv HD" tvg-logo="https://lo1.in/MALAY/flag.png" group-title="MALAYSIA",MY| Ktv HD
-http://extraott.com:900/live/3162523972/3791698850/13093.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MY| NHK World Premium HD" tvg-logo="https://lo1.in/MALAY/flag.png" group-title="MALAYSIA",MY| NHK World Premium HD
-http://extraott.com:900/live/3162523972/3791698850/13101.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MY| NHK World Premium FHD" tvg-logo="https://lo1.in/MALAY/flag.png" group-title="MALAYSIA",MY| NHK World Premium FHD
-http://extraott.com:900/live/3162523972/3791698850/13102.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MY| BAYU" tvg-logo="https://lo1.in/MALAY/flag.png" group-title="MALAYSIA",MY| BAYU
-http://extraott.com:900/live/3162523972/3791698850/401600516.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MY| BLIPPI & FRIENDS HD" tvg-logo="https://lo1.in/MALAY/flag.png" group-title="MALAYSIA",MY| BLIPPI & FRIENDS HD
-http://extraott.com:900/live/3162523972/3791698850/401600515.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MY| CLASSIC ROCK" tvg-logo="https://lo1.in/MALAY/flag.png" group-title="MALAYSIA",MY| CLASSIC ROCK
-http://extraott.com:900/live/3162523972/3791698850/401600514.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MY| GO XUAN" tvg-logo="https://lo1.in/MALAY/flag.png" group-title="MALAYSIA",MY| GO XUAN
-http://extraott.com:900/live/3162523972/3791698850/401600513.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MY| GOLD" tvg-logo="https://lo1.in/MALAY/flag.png" group-title="MALAYSIA",MY| GOLD
-http://extraott.com:900/live/3162523972/3791698850/401600512.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MY| INDIA BEAT" tvg-logo="https://lo1.in/MALAY/flag.png" group-title="MALAYSIA",MY| INDIA BEAT
-http://extraott.com:900/live/3162523972/3791698850/401600511.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MY| JAZZ" tvg-logo="https://lo1.in/MALAY/flag.png" group-title="MALAYSIA",MY| JAZZ
-http://extraott.com:900/live/3162523972/3791698850/401600510.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MY| KENYALANG" tvg-logo="https://lo1.in/MALAY/flag.png" group-title="MALAYSIA",MY| KENYALANG
-http://extraott.com:900/live/3162523972/3791698850/401600509.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MY| OPUS" tvg-logo="https://lo1.in/MALAY/flag.png" group-title="MALAYSIA",MY| OPUS
-http://extraott.com:900/live/3162523972/3791698850/401600508.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MY| OSAI" tvg-logo="https://lo1.in/MALAY/flag.png" group-title="MALAYSIA",MY| OSAI
-http://extraott.com:900/live/3162523972/3791698850/401600507.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MY| THR GEGAR" tvg-logo="https://lo1.in/MALAY/flag.png" group-title="MALAYSIA",MY| THR GEGAR
-http://extraott.com:900/live/3162523972/3791698850/401600506.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MY| THR RAAGA" tvg-logo="https://lo1.in/MALAY/flag.png" group-title="MALAYSIA",MY| THR RAAGA
-http://extraott.com:900/live/3162523972/3791698850/401600505.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MY| ZAYAN" tvg-logo="https://lo1.in/MALAY/flag.png" group-title="MALAYSIA",MY| ZAYAN
-http://extraott.com:900/live/3162523972/3791698850/401600504.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="MY| AI FM" tvg-logo="https://lo1.in/MALAY/flag.png" group-title="MALAYSIA",MY| AI FM
 http://extraott.com:900/live/3162523972/3791698850/401600503.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MY| ASYIK FM" tvg-logo="https://lo1.in/MALAY/flag.png" group-title="MALAYSIA",MY| ASYIK FM
@@ -1433,16 +1337,50 @@ http://extraott.com:900/live/3162523972/3791698850/401600492.m3u8
 http://extraott.com:900/live/3162523972/3791698850/401600491.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MY| WAI FM" tvg-logo="https://lo1.in/MALAY/flag.png" group-title="MALAYSIA",MY| WAI FM
 http://extraott.com:900/live/3162523972/3791698850/401600490.m3u8
+
+
+#EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0
+#EXTINF:-1 tvg-url="https://www.bevy.be/bevyfiles/malaysia.xml" tvg-id="" group-title="Malaysia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/RTM_Asean_%282024%29.svg/1280px-RTM_Asean_%282024%29.svg.png",RTM Asean
+https://d25tgymtnqzu8s.cloudfront.net/event/smil:event2/chunklist_b2596000_slENG.m3u8
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=YmE1ODUyNDctMTU5NS0zMWEzLWJhYWYtZDVmMjI3Y2VjODIz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+#EXTINF:-1 group-title="Malaysia" tvg-id="Dunia Sinema HD"  tvg-url="https://www.bevy.be/bevyfiles/malaysiapremium2.xml" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190716/20190716074123890vav.png",Dunia Sinema HD
+https://unifi-live01.secureswiftcontent.com/UnifiHD/live27-1080FHD.m3u8
+#EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0
+#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://rtm-images.glueapi.io/320x0/live_channel/SALURAN_1920x1080px_TV6.jpg" group-title="Malaysia",TV 6
+https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/manifest.mpd
+#EXTINF:-1 tvg-id="Sukan RTM" tvg-url="https://www.bevy.be/bevyfiles/malaysiapremium1.xml" tvg-logo="https://rtm-images.glueapi.io/320x0/live_channel/SALURAN_1920x1080px_SUKANRTM.jpg" group-title="Malaysia",Sukan RTM
+https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/chunklist.m3u8?id=1|Referer=https://rtmklik.rtm.gov.my
+#EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0
+#EXTINF:-1 tvg-id="Berita RTM" tvg-url="https://www.bevy.be/bevyfiles/malaysiapremium1.xml" tvg-logo="https://rtm-images.glueapi.io/320x0/live_channel/berita_bckg.png" group-title="Malaysia",Berita RTM
+https://d25tgymtnqzu8s.cloudfront.net/smil:berita/chunklist_b2596000_slENG.m3u8?id=5
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/unifitv/duniasinema/
+#EXTINF:-1 group-title="Malaysia" tvg-id="Dunia Sinema HD"  tvg-url="https://www.bevy.be/bevyfiles/malaysiapremium2.xml" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190716/20190716074123890vav.png",Dunia Sinema HD
+https://unifi-live05.secureswiftcontent.com/UnifiHD/live27-1080FHD.m3u8
+#EXTINF:-1 tvg-id="Okey" tvg-url="https://www.bevy.be/bevyfiles/malaysiapremium1.xml" group-title="Malaysia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Okey_RTM.png",TV Okey
+https://d25tgymtnqzu8s.cloudfront.net/smil:okey/manifest.mpd
+
 **********************************
 
 #EXTINF:-1 tvg-id="astroarena.my" tvg-name="MY| ASTRO ARENA HD" tvg-logo="https://lo1.in/MALAY/astroar.png" group-title="MALAYSIA SPORTS",MY| ASTRO ARENA HD
 http://extraott.com:900/live/3162523972/3791698850/191853.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MY| ASTRO ARENA FHD" tvg-logo="https://lo1.in/MALAY/astroar.png" group-title="MALAYSIA SPORTS",MY| ASTRO ARENA FHD
-http://extraott.com:900/live/3162523972/3791698850/29658.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="MY| ASTRO ARENA 2 HD" tvg-logo="https://lo1.in/MALAY/astroarn2.png" group-title="MALAYSIA SPORTS",MY| ASTRO ARENA 2 HD
 http://extraott.com:900/live/3162523972/3791698850/185822.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MY| ASTRO ARENA 2 FHD" tvg-logo="https://lo1.in/MALAY/astroarn2.png" group-title="MALAYSIA SPORTS",MY| ASTRO ARENA 2 FHD
-http://extraott.com:900/live/3162523972/3791698850/13111.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="MY| ASTRO ARENA BOLA 1" tvg-logo="https://lo1.in/MALAY/BOLA.png" group-title="MALAYSIA SPORTS",MY| ASTRO ARENA BOLA 1
 http://extraott.com:900/live/3162523972/3791698850/401550644.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MY| ASTRO ARENA BOLA 2" tvg-logo="https://lo1.in/MALAY/BOLA.png" group-title="MALAYSIA SPORTS",MY| ASTRO ARENA BOLA 2
@@ -1457,70 +1395,48 @@ http://extraott.com:900/live/3162523972/3791698850/6588.m3u8
 http://extraott.com:900/live/3162523972/3791698850/6592.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MY| ASTRO PREMIER LEAGUE 5 HD" tvg-logo="https://lo1.in/MALAY/astrossp.png" group-title="MALAYSIA SPORTS",MY| ASTRO PREMIER LEAGUE 5 HD
 http://extraott.com:900/live/3162523972/3791698850/7841.m3u8
-#EXTINF:-1 tvg-id="astrocricket.my" tvg-name="MY| ASTRO CRICKET FHD" tvg-logo="https://lo1.in/MALAY/astrocri.png" group-title="MALAYSIA SPORTS",MY| ASTRO CRICKET FHD
-http://extraott.com:900/live/3162523972/3791698850/191861.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="MY| ASTRO CRICKET HD" tvg-logo="https://lo1.in/MALAY/astrocri.png" group-title="MALAYSIA SPORTS",MY| ASTRO CRICKET HD
 http://extraott.com:900/live/3162523972/3791698850/6587.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MY| ASTRO SPORTS PLUS HD" tvg-logo="https://lo1.in/MALAY/flag.png" group-title="MALAYSIA SPORTS",MY| ASTRO SPORTS PLUS HD
 http://extraott.com:900/live/3162523972/3791698850/401600405.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MY| ASTRO SPORTS PLUS FHD" tvg-logo="https://lo1.in/MALAY/flag.png" group-title="MALAYSIA SPORTS",MY| ASTRO SPORTS PLUS FHD
-http://extraott.com:900/live/3162523972/3791698850/401600406.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="MY| ASTRO SPORTS PLUS 2 HD" tvg-logo="https://lo1.in/MALAY/flag.png" group-title="MALAYSIA SPORTS",MY| ASTRO SPORTS PLUS 2 HD
 http://extraott.com:900/live/3162523972/3791698850/401600407.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MY| ASTRO SPORTS PLUS 2 FHD" tvg-logo="https://lo1.in/MALAY/flag.png" group-title="MALAYSIA SPORTS",MY| ASTRO SPORTS PLUS 2 FHD
-http://extraott.com:900/live/3162523972/3791698850/401600420.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="MY| ASTRO FOOTBALL HD" tvg-logo="https://lo1.in/MALAY/flag.png" group-title="MALAYSIA SPORTS",MY| ASTRO FOOTBALL HD
 http://extraott.com:900/live/3162523972/3791698850/401600421.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MY| ASTRO FOOTBALL FHD" tvg-logo="https://lo1.in/MALAY/flag.png" group-title="MALAYSIA SPORTS",MY| ASTRO FOOTBALL FHD
-http://extraott.com:900/live/3162523972/3791698850/401600422.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="MY| ASTRO BADMINTON HD" tvg-logo="https://lo1.in/MALAY/flag.png" group-title="MALAYSIA SPORTS",MY| ASTRO BADMINTON HD
 http://extraott.com:900/live/3162523972/3791698850/401600423.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MY| ASTRO BADMINTON FHD" tvg-logo="https://lo1.in/MALAY/flag.png" group-title="MALAYSIA SPORTS",MY| ASTRO BADMINTON FHD
-http://extraott.com:900/live/3162523972/3791698850/401600424.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="MY| ASTRO BADMINTON 2 HD" tvg-logo="https://lo1.in/MALAY/flag.png" group-title="MALAYSIA SPORTS",MY| ASTRO BADMINTON 2 HD
 http://extraott.com:900/live/3162523972/3791698850/401600425.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MY| ASTRO BADMINTON 2 FHD" tvg-logo="https://lo1.in/MALAY/flag.png" group-title="MALAYSIA SPORTS",MY| ASTRO BADMINTON 2 FHD
-http://extraott.com:900/live/3162523972/3791698850/401600426.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="MY| SPOTV 1 HD" tvg-logo="https://lo1.in/MALAY/spot.png" group-title="MALAYSIA SPORTS",MY| SPOTV 1 HD
 http://extraott.com:900/live/3162523972/3791698850/400251883.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MY| SPOTV 1 FHD" tvg-logo="https://lo1.in/MALAY/spot.png" group-title="MALAYSIA SPORTS",MY| SPOTV 1 FHD
-http://extraott.com:900/live/3162523972/3791698850/13132.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="MY| SPOTV 2 HD" tvg-logo="https://lo1.in/MALAY/spot.png" group-title="MALAYSIA SPORTS",MY| SPOTV 2 HD
 http://extraott.com:900/live/3162523972/3791698850/400459082.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MY| SPOTV 2 FHD" tvg-logo="https://lo1.in/MALAY/spot.png" group-title="MALAYSIA SPORTS",MY| SPOTV 2 FHD
-http://extraott.com:900/live/3162523972/3791698850/13131.m3u8
+
 #EXTINF:-1 tvg-id="beinsports.my" tvg-name="MY| BEIN SPORTS HD" tvg-logo="https://lo1.in/MALAY/bs.png" group-title="MALAYSIA SPORTS",MY| BEIN SPORTS HD
 http://extraott.com:900/live/3162523972/3791698850/191881.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MY| BEIN SPORTS 1 FHD" tvg-logo="https://lo1.in/MALAY/bs.png" group-title="MALAYSIA SPORTS",MY| BEIN SPORTS 1 FHD
-http://extraott.com:900/live/3162523972/3791698850/13120.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="MY| BEIN SPORTS 2 HD" tvg-logo="https://lo1.in/MALAY/bs.png" group-title="MALAYSIA SPORTS",MY| BEIN SPORTS 2 HD
 http://extraott.com:900/live/3162523972/3791698850/29639.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MY| BEIN SPORTS 2 FHD" tvg-logo="https://lo1.in/MALAY/bs.png" group-title="MALAYSIA SPORTS",MY| BEIN SPORTS 2 FHD
-http://extraott.com:900/live/3162523972/3791698850/13119.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="MY| BEIN SPORTS 3 HD" tvg-logo="https://lo1.in/MALAY/bs.png" group-title="MALAYSIA SPORTS",MY| BEIN SPORTS 3 HD
 http://extraott.com:900/live/3162523972/3791698850/29637.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MY| BEIN SPORTS 3 FHD" tvg-logo="https://lo1.in/MALAY/bs.png" group-title="MALAYSIA SPORTS",MY| BEIN SPORTS 3 FHD
-http://extraott.com:900/live/3162523972/3791698850/13118.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MY| EUROSPORT FHD" tvg-logo="https://lo1.in/MALAY/eursp.png" group-title="MALAYSIA SPORTS",MY| EUROSPORT FHD
-http://extraott.com:900/live/3162523972/3791698850/29610.m3u8
+
+
 #EXTINF:-1 tvg-id="eurosport.my" tvg-name="MY| EUROSPORT HD" tvg-logo="https://lo1.in/MALAY/eursp.png" group-title="MALAYSIA SPORTS",MY| EUROSPORT HD
 http://extraott.com:900/live/3162523972/3791698850/191924.m3u8
 #EXTINF:-1 tvg-id="golfchannel.my" tvg-name="MY| GOLF CHANNEL HD" tvg-logo="https://lo1.in/MALAY/glfch.png" group-title="MALAYSIA SPORTS",MY| GOLF CHANNEL HD
 http://extraott.com:900/live/3162523972/3791698850/191942.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MY| PREMIER SPORTS HD" tvg-logo="https://lo1.in/MALAY/prsp.png" group-title="MALAYSIA SPORTS",MY| PREMIER SPORTS HD
 http://extraott.com:900/live/3162523972/3791698850/33005.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MY| PREMIER SPORTS FHD" tvg-logo="https://lo1.in/MALAY/prsp.png" group-title="MALAYSIA SPORTS",MY| PREMIER SPORTS FHD
-http://extraott.com:900/live/3162523972/3791698850/13127.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MY| SONY TEN 1" tvg-logo="https://lo1.in/MALAY/sny.png" group-title="MALAYSIA SPORTS",MY| SONY TEN 1
-http://extraott.com:900/live/3162523972/3791698850/29566.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MY| SONY TEN 2" tvg-logo="https://lo1.in/MALAY/sny.png" group-title="MALAYSIA SPORTS",MY| SONY TEN 2
-http://extraott.com:900/live/3162523972/3791698850/29565.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MY| SONY TEN 3" tvg-logo="https://lo1.in/MALAY/sny.png" group-title="MALAYSIA SPORTS",MY| SONY TEN 3
-http://extraott.com:900/live/3162523972/3791698850/29564.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MY| W-Sport HD" tvg-logo="https://lo1.in/MALAY/flag.png" group-title="MALAYSIA SPORTS",MY| W-Sport HD
-http://extraott.com:900/live/3162523972/3791698850/13026.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MY| W-Sport FHD" tvg-logo="https://lo1.in/MALAY/flag.png" group-title="MALAYSIA SPORTS",MY| W-Sport FHD
-http://extraott.com:900/live/3162523972/3791698850/13027.m3u8
+
+
 ******************************
 
 #EXTINF:-1 tvg-id="" tvg-name="SG| CHANNEL NEWS ASIA HD" tvg-logo="https://lo1.in/MALAY/cna.png" group-title="SINGAPORE",SG| CHANNEL NEWS ASIA HD
@@ -1892,172 +1808,7 @@ https://op-group1-swiftservehd-1.dens.tv/h/h241/02.m3u8
 #EXTINF:-1  tvg-name="gem" tvg-id="gem" tvg-logo="https://raw.githubusercontent.com/Tenterententen/logo/main/gem.png" group-title="Korean Channels",GEM (MAXSTREAM)
 https://cdn08jtedge.indihometv.com/dassdvr/133/sgem/manifest.mpd
 
-<======================== Malaysia ==========================>
 
-#EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my/
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0
-#EXTINF:-1 tvg-id="TV1.my" tvg-url="https://www.bevy.be/bevyfiles/malaysia.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f4/Logo_of_TV1_%28Malaysia%29.svg/1200px-Logo_of_TV1_%28Malaysia%29.svg.png" tvg-url="https://bit.ly/JejeVisionEPG" group-title="Malaysia",TV 1
-https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/chunklist_b2596000_slENG.m3u8?id=1
-
-#EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my/
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0
-#EXTINF:-1 tvg-id="TV2.my" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/71/TV2_%28Malaysia%29_logo.svg/1200px-TV2_%28Malaysia%29_logo.svg.png" tvg-url="https://www.bevy.be/bevyfiles/malaysia.xml" group-title="Malaysia",TV 2
-https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/chunklist_b2596000_slENG.m3u8?id=2
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0
-#EXTINF:-1 tvg-url="https://www.bevy.be/bevyfiles/malaysia.xml" tvg-id="TV3.my" group-title="Malaysia" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/f/f5/TV3_%28Malaysia%29.svg/640px-TV3_%28Malaysia%29.svg.png",TV3
-https://tonton-live-ssai.akamaized.net/live/2dd2b7cd-1b34-4871-b669-57b5c9beca23/cmaf.isml/.m3u8
-#EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my/
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0
-#EXTINF:-1 tvg-url="https://www.bevy.be/bevyfiles/malaysia.xml" tvg-id="" group-title="Malaysia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/RTM_Asean_%282024%29.svg/1280px-RTM_Asean_%282024%29.svg.png",RTM Asean
-https://d25tgymtnqzu8s.cloudfront.net/event/smil:event2/chunklist_b2596000_slENG.m3u8
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=YmE1ODUyNDctMTU5NS0zMWEzLWJhYWYtZDVmMjI3Y2VjODIz
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-#EXTINF:-1 group-title="Malaysia" tvg-id="Dunia Sinema HD"  tvg-url="https://www.bevy.be/bevyfiles/malaysiapremium2.xml" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190716/20190716074123890vav.png",Dunia Sinema HD
-https://unifi-live01.secureswiftcontent.com/UnifiHD/live27-1080FHD.m3u8
-#EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my/
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0
-#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://rtm-images.glueapi.io/320x0/live_channel/SALURAN_1920x1080px_TV6.jpg" group-title="Malaysia",TV 6
-https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/manifest.mpd
-#EXTINF:-1 group-title="Malaysia" tvg-id="Awesome TV.my" tvg-url="https://www.bevy.be/bevyfiles/malaysia.xml" tvg-logo="https://awesometv.my/upload/Logo%20&%20Favicon/logo-ATV.png",Awesome TV
-https://222861.global.ssl.fastly.net/6698cc14fa04165068a80345/live_e5f0c8504d8b11efbacf2feeebc6c76f/index.m3u8
-#EXTVLCOPT:http-referrer=https://live-xtra-sg1.global.ssl.fastly.net/embed/index.html?vid=11056645&autoplay=1&mute=0
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-id="8TV.my" group-title="Malaysia" tvg-url="https://www.bevy.be/bevyfiles/malaysia.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/17/8TV_%28Malaysia%29_logo_in_Chinese.svg/2560px-8TV_%28Malaysia%29_logo_in_Chinese.svg.png",8TV Malaysia
-https://tonton-live-ssai.akamaized.net/live/a884c33b-6b11-4433-8bf9-a8899939e224/cmaf.isml/.m3u8
-#EXTVLCOPT:http-referrer=https://live-xtra-sg1.global.ssl.fastly.net/embed/index.html?vid=11056645&autoplay=1&mute=0
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-id="TV9.my" group-title="Malaysia" tvg-url="https://www.bevy.be/bevyfiles/malaysia.xml" tvg-logo="https://e7.pngegg.com/pngimages/281/253/png-clipart-malaysia-tv9-media-prima-tv3-8tv-networking-topics-television-text-thumbnail.png",TV9 Malaysia
-https://tonton-live-ssai.akamaized.net/live/2020783a-0303-401a-9c92-b7c3c9108c0b/cmaf.isml/.m3u8
-#EXTVLCOPT:http-referrer=https://live-xtra-sg1.global.ssl.fastly.net/embed/index.html?vid=11056645&autoplay=1&mute=0
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-id="NTV7.my" group-title="Malaysia" tvg-url="https://www.bevy.be/bevyfiles/malaysia.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c7/DidikTV_KPM.png",Didik TV
-https://tonton-live-ssai.akamaized.net/live/0e27ef78-4cc9-4c62-bec9-5c946c9e7354/cmaf.isml/.m3u8
-#EXTINF:-1 tvg-id="Sukan RTM" tvg-url="https://www.bevy.be/bevyfiles/malaysiapremium1.xml" tvg-logo="https://rtm-images.glueapi.io/320x0/live_channel/SALURAN_1920x1080px_SUKANRTM.jpg" group-title="Malaysia",Sukan RTM
-https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/chunklist.m3u8?id=1|Referer=https://rtmklik.rtm.gov.my
-#EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my/
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0
-#EXTINF:-1 tvg-id="Berita RTM" tvg-url="https://www.bevy.be/bevyfiles/malaysiapremium1.xml" tvg-logo="https://rtm-images.glueapi.io/320x0/live_channel/berita_bckg.png" group-title="Malaysia",Berita RTM
-https://d25tgymtnqzu8s.cloudfront.net/smil:berita/chunklist_b2596000_slENG.m3u8?id=5
-#EXTINF:-1 tvg-id="AstroAwani.my" tvg-url="https://www.bevy.be/bevyfiles/malaysia.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/ff/Astro_Awani.png" group-title="Malaysia",Astro Awani
-https://d2idp3hzkhjpih.cloudfront.net/out/v1/4b85d9c2bf97413eb0c9fd875599b837/index.m3u8
-#EXTINF:-1 tvg-id="BERNAMA.my" tvg-url="https://www.bevy.be/bevyfiles/malaysia.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Bernama_TV.png/506px-Bernama_TV.png" group-title="Malaysia",Bernama TV
-https://ythls-v3.onrender.com/channel/UCcZg5r9hBqK_VPUT2I7eYVw.m3u8
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#EXTINF:-1 group-title="Malaysia" tvg-id="TravelandTaste.my" tvg-url="https://www.bevy.be/bevyfiles/malaysiapremium2.xml" tvg-logo="https://i.postimg.cc/wBFj2rLb/download-2024-01-19-T210746-192.png",Travel&Taste 
-https://068877e598224108a60fb9cd5db3717f.mediatailor.ap-southeast-1.amazonaws.com/v1/dash/7d6144f66f990e10fc667942d522b82f89ae5cd9/FAST_5_Ad/dash.mpd
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#EXTINF:-1 group-title="Malaysia" tvg-id="Drama Hotpot.my" tvg-url="https://www.bevy.be/bevyfiles/malaysiapremium2.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5d/Sooka_Drama_Hotpot.png",Drama Hotpot
-https://770c1b3657e94bc4b76ecd3e12882bcc.mediatailor.ap-southeast-1.amazonaws.com/v1/dash/7d6144f66f990e10fc667942d522b82f89ae5cd9/FAST_4_Ad/dash.mpd?aws.sessionId=58442df2-7820-4010-9a73-56381a7afe27
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#EXTINF:-1 group-title="Malaysia" tvg-id="Filem Mantap.my" tvg-url="https://www.bevy.be/bevyfiles/malaysiapremium2.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cb/Sooka_Filem_Mantap.png",Filem Mantap
-https://78470390525b4b03b023113696878114.mediatailor.ap-southeast-1.amazonaws.com/v1/dash/7d6144f66f990e10fc667942d522b82f89ae5cd9/FAST_2_Ad/dash.mpd?aws.sessionId=e5afa272-3bef-427f-9c68-976c25e8d27b
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#EXTINF:-1 group-title="Malaysia" tvg-id="Lawak Sentral.my" tvg-url="https://www.bevy.be/bevyfiles/malaysiapremium2.xml" tvg-logo="https://i.postimg.cc/QtgS6JVY/download-2024-01-19-T210328-208.png",Lawak Sentral
-https://4940c5f69db24a558151436f708d5a69.mediatailor.ap-southeast-1.amazonaws.com/v1/dash/7d6144f66f990e10fc667942d522b82f89ae5cd9/FAST_3_Ad/dash.mpd?aws.sessionId=bd2627a3-77a3-4364-8072-da33bbff1c5e
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#EXTINF:-1 group-title="Malaysia" tvg-id="Drama Hebat.my" tvg-url="https://www.bevy.be/bevyfiles/malaysiapremium2.xml" tvg-logo="https://i.postimg.cc/8CyTM6g2/download-2024-01-19-T210600-559.png",Drama Hebat
-https://ce2388031147403ca25a81e56607a193.mediatailor.ap-southeast-1.amazonaws.com/v1/dash/7d6144f66f990e10fc667942d522b82f89ae5cd9/FAST_1_Ad/dash.mpd?aws.sessionId=44e175e1-eb16-4e7c-8aaa-e04e865974e9
-#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/unifitv/duniasinema/
-#EXTINF:-1 group-title="Malaysia" tvg-id="Dunia Sinema HD"  tvg-url="https://www.bevy.be/bevyfiles/malaysiapremium2.xml" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190716/20190716074123890vav.png",Dunia Sinema HD
-https://unifi-live05.secureswiftcontent.com/UnifiHD/live27-1080FHD.m3u8
-
-#EXTINF:-1 tvg-id="Okey" tvg-url="https://www.bevy.be/bevyfiles/malaysiapremium1.xml" group-title="Malaysia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Okey_RTM.png",TV Okey
-https://d25tgymtnqzu8s.cloudfront.net/smil:okey/manifest.mpd
-
-#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://rtm-images.glueapi.io/320x0/live_channel/SALURAN_1920x1080px_TV6.jpg" group-title="Malaysia",TV 6
-https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/manifest.mpd
-
-#EXTINF:-1 tvg-id="8TV.my" group-title="Malaysia" tvg-url="https://www.bevy.be/bevyfiles/malaysia.xml." tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/17/8TV_%28Malaysia%29_logo_in_Chinese.svg/2560px-8TV_%28Malaysia%29_logo_in_Chinese.svg.png",8TV
-#http://176868.cloud/7fe24ecbaefa0eba510b204784dd7093/c4203a92959bb1542b28645bafe77ea9/8eb8996b2ba13641d8fa556ac75e4239/index.m3u8
-
-#EXTINF:-1 tvg-id="Sukan RTM" tvg-url="https://www.bevy.be/bevyfiles/malaysiapremium1.xml" tvg-logo="https://rtm-images.glueapi.io/320x0/live_channel/SALURAN_1920x1080px_SUKANRTM.jpg" group-title="Malaysia",Sukan RTM
-https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/chunklist.m3u8?id=1|Referer=https://rtmklik.rtm.gov.my
-
-#EXTINF:-1 tvg-id="Berita RTM" tvg-url="https://www.bevy.be/bevyfiles/malaysiapremium1.xml" tvg-logo="https://rtm-images.glueapi.io/320x0/live_channel/berita_bckg.png" group-title="Malaysia",Berita RTM
-https://d25tgymtnqzu8s.cloudfront.net/smil:berita/manifest.mpd
-
-#EXTINF:-1 tvg-id="AstroAwani.my" tvg-url="https://www.bevy.be/bevyfiles/malaysia.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/ff/Astro_Awani.png" group-title="Malaysia",Astro Awani
-https://d2idp3hzkhjpih.cloudfront.net/out/v1/4b85d9c2bf97413eb0c9fd875599b837/index.m3u8
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#EXTINF:-1 tvg-id="BernamaTV.my" tvg-url="https://www.bevy.be/bevyfiles/malaysia.xml" tvg-logo="https://www.bernama.com/tv/img/bernama.png" group-title="Malaysia",Bernama TV
-http://kmkus.wanicelife.com:8880/3ca04303n08/asfefd4wr34/1717
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#EXTINF:-1 group-title="Malaysia" tvg-id="" tvg-logo="https://i.postimg.cc/wBFj2rLb/download-2024-01-19-T210746-192.png",Travel&Taste 
-https://068877e598224108a60fb9cd5db3717f.mediatailor.ap-southeast-1.amazonaws.com/v1/dash/7d6144f66f990e10fc667942d522b82f89ae5cd9/FAST_5_Ad/dash.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#EXTINF:-1 group-title="Malaysia" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5d/Sooka_Drama_Hotpot.png",Drama Hotpot
-https://770c1b3657e94bc4b76ecd3e12882bcc.mediatailor.ap-southeast-1.amazonaws.com/v1/dash/7d6144f66f990e10fc667942d522b82f89ae5cd9/FAST_4_Ad/dash.mpd?aws.sessionId=58442df2-7820-4010-9a73-56381a7afe27
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#EXTINF:-1 group-title="Malaysia" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cb/Sooka_Filem_Mantap.png",Filem Mantap
-https://78470390525b4b03b023113696878114.mediatailor.ap-southeast-1.amazonaws.com/v1/dash/7d6144f66f990e10fc667942d522b82f89ae5cd9/FAST_2_Ad/dash.mpd?aws.sessionId=e5afa272-3bef-427f-9c68-976c25e8d27b
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#EXTINF:-1 group-title="Malaysia" tvg-id="" tvg-logo="https://i.postimg.cc/QtgS6JVY/download-2024-01-19-T210328-208.png",Lawak Sentral
-https://4940c5f69db24a558151436f708d5a69.mediatailor.ap-southeast-1.amazonaws.com/v1/dash/7d6144f66f990e10fc667942d522b82f89ae5cd9/FAST_3_Ad/dash.mpd?aws.sessionId=bd2627a3-77a3-4364-8072-da33bbff1c5e
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#EXTINF:-1 group-title="Malaysia" tvg-id="" tvg-logo="https://i.postimg.cc/8CyTM6g2/download-2024-01-19-T210600-559.png",Drama Hebat
-https://ce2388031147403ca25a81e56607a193.mediatailor.ap-southeast-1.amazonaws.com/v1/dash/7d6144f66f990e10fc667942d522b82f89ae5cd9/FAST_1_Ad/dash.mpd?aws.sessionId=44e175e1-eb16-4e7c-8aaa-e04e865974e9
-
-#EXTINF:-1 tvg-id="RTBAneka.bn" tvg-logo="https://i.imgur.com/MY40GrC.png" group-title="Malaysia",RTB Aneka
-https://d1211whpimeups.cloudfront.net/smil:rtb2/playlist.m3u8
-#EXTINF:-1 tvg-id="TVSUKAN" group-title="Malaysia" tvg-logo="https://i.postimg.cc/TwsKGmmN/800px-Sukan-RTM-1-April.png",TV Sukan
-#EXTVLCOPT:http-referer=https://rtmklik.rtm.gov.my
-https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/playlist.m3u8?id=4
-#EXTINF:-1 tvg-id="RTBSukmaindera.bn" tvg-logo="https://i.imgur.com/WpMGnTr.png" group-title="Malaysia",RTB Sukmaindera
-https://d1211whpimeups.cloudfront.net/smil:rtb1/playlist.m3u8
-#EXTINF:-1 tvg-url="tvg-logo="https://i.imgur.com/vbV0KKG.jpg" group-title="Malaysia",ASTRO AWANI
-https://d2idp3hzkhjpih.cloudfront.net/out/v1/4b85d9c2bf97413eb0c9fd875599b837/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/vbV0KKG.jpg" group-title="Malaysia", TV1
-https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/playlist.m3u8?id=1
-#EXTINF:-1 tvg-logo="https://i.imgur.com/vbV0KKG.jpg" group-title="Malaysia", TV2
-https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/playlist.m3u8?id=2
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/P5YwxwPj/Screenshot-3.png" group-title="Malaysia", TV6
-https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/playlist.m3u8?id=6
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/vbV0KKG.jpg" group-title="Malaysia", OKeY
-https://d25tgymtnqzu8s.cloudfront.net/smil:okey/playlist.m3u8?id=3
-#EXTINF:-1 tvg-logo="https://i.imgur.com/vbV0KKG.jpg" group-title="Malaysia", Berita RTM
-https://d25tgymtnqzu8s.cloudfront.net/smil:berita/playlist.m3u8?id=5
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/vbV0KKG.jpg" group-title="Malaysia", BERNAMA TV
-https://raw.githubusercontent.com/digitaldotmy/YoutubeLive/main/BERNAMATV.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/vbV0KKG.jpg" group-title="Malaysia",HOT FM
-https://ythls.onrender.com/channel/UCFV_yPFxPbbmrYJ9J6zJglA.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/vbV0KKG.jpg" group-title="Malaysia",RTM PARLEMEN
-https://d25tgymtnqzu8s.cloudfront.net/smil:negara/playlist.m3u8?id=8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/vbV0KKG.jpg" group-title="Malaysia", TV IKIM
-https://edge-sg1.vediostream.com/abr/tvikim/playlist.m3u8
 <============================== Brunei ======================================>
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -2440,6 +2191,14 @@ https://skynewsau-live.akamaized.net/hls/live/2002689/skynewsau-extra1/master.m3
 https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist_b1600000.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://4flims.com/upload/source/dubaisports1%D9%86%D8%B3%D8%AE.png",DUBAI SPORTS 3
 https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/chunklist_b1600000.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MY| SONY TEN 1" tvg-logo="https://lo1.in/MALAY/sny.png" group-title="Sports",MY| SONY TEN 1
+http://extraott.com:900/live/3162523972/3791698850/29566.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MY| SONY TEN 2" tvg-logo="https://lo1.in/MALAY/sny.png" group-title="Sports",MY| SONY TEN 2
+http://extraott.com:900/live/3162523972/3791698850/29565.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MY| SONY TEN 3" tvg-logo="https://lo1.in/MALAY/sny.png" group-title="Sports",MY| SONY TEN 3
+http://extraott.com:900/live/3162523972/3791698850/29564.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MY| W-Sport HD" tvg-logo="https://lo1.in/MALAY/flag.png" group-title="Sports",MY| W-Sport HD
+http://extraott.com:900/live/3162523972/3791698850/13026.m3u8
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0", T2
 https://d3qg0hadt0dkov.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-3sfgyrfz9zduo-prod/amgtennisus/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai=SSSLIVE
