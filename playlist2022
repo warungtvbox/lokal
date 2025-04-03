@@ -2760,133 +2760,54 @@ http://extraott.com:900/live/3162523972/3791698850/401576340.m3u8
 http://extraott.com:900/live/3162523972/3791698850/401576339.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="PL| CANAL+ EXTRA 18" tvg-logo="https://lo1.in/pol/CANAL+ 1.png" group-title="Sports",PL| CANAL+ EXTRA 18
 http://extraott.com:900/live/3162523972/3791698850/401576338.m3u8
-
-#EXTINF:-1 tvg-id="elevensports1.pl" tvg-name="PL| ELEVEN SPORTS 1 HD" tvg-logo="https://lo1.in/pol/ele.png" group-title="POLAND SPORTS",PL| ELEVEN SPORTS 1 HD
-http://extraott.com:900/live/3162523972/3791698850/9620.m3u8
-
-#EXTINF:-1 tvg-id="elevensports2.pl" tvg-name="PL| ELEVEN SPORTS 2 HD" tvg-logo="https://lo1.in/pol/eles2.png" group-title="POLAND SPORTS",PL| ELEVEN SPORTS 2 HD
-http://extraott.com:900/live/3162523972/3791698850/9619.m3u8
-
-#EXTINF:-1 tvg-id="elevensports3.pl" tvg-name="PL| ELEVEN SPORTS 3 HD" tvg-logo="https://lo1.in/pol/elvs3.png" group-title="POLAND SPORTS",PL| ELEVEN SPORTS 3 HD
-http://extraott.com:900/live/3162523972/3791698850/9618.m3u8
-
-#EXTINF:-1 tvg-id="elevensportsports4.pl" tvg-name="PL| ELEVEN SPORTS 4 HD" tvg-logo="https://lo1.in/pol/evl4.png" group-title="POLAND SPORTS",PL| ELEVEN SPORTS 4 HD
-http://extraott.com:900/live/3162523972/3791698850/9617.m3u8
-#EXTINF:-1 tvg-id="nsport.pl" tvg-name="PL| NSPORT+ HD" tvg-logo="https://lo1.in/pol/nsp.png" group-title="POLAND SPORTS",PL| NSPORT+ HD
-http://extraott.com:900/live/3162523972/3791698850/9627.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="PL| GOLF CHANNEL HD" tvg-logo="https://lo1.in/pol/glch.png" group-title="POLAND SPORTS",PL| GOLF CHANNEL HD
+#EXTINF:-1 tvg-id="" tvg-name="PL| GOLF CHANNEL HD" tvg-logo="https://lo1.in/pol/glch.png" group-title="Sports",PL| GOLF CHANNEL HD
 http://extraott.com:900/live/3162523972/3791698850/53104.m3u8
-
-
-#EXTINF:-1 tvg-id="tvpsport.pl" tvg-name="PL| TVP SPORT  HD" tvg-logo="https://lo1.in/pol/tvsp.png" group-title="POLAND SPORTS",PL| TVP SPORT  HD
+#EXTINF:-1 tvg-id="tvpsport.pl" tvg-name="PL| TVP SPORT  HD" tvg-logo="https://lo1.in/pol/tvsp.png" group-title="Sports",PL| TVP SPORT  HD
 http://extraott.com:900/live/3162523972/3791698850/117581.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="PL| POLSAT SPORT HD" tvg-logo="https://lo1.in/pol/plpt.png" group-title="POLAND SPORTS",PL| POLSAT SPORT HD
+#EXTINF:-1 tvg-id="" tvg-name="PL| POLSAT SPORT HD" tvg-logo="https://lo1.in/pol/plpt.png" group-title="Sports",PL| POLSAT SPORT HD
 http://extraott.com:900/live/3162523972/3791698850/33622.m3u8
-#EXTINF:-1 tvg-id="polsatsportnews.pl" tvg-name="PL| POLSAT SPORT NEWS FHD" tvg-logo="https://lo1.in/pol/POLSAT SPORT.png" group-title="POLAND SPORTS",PL| POLSAT SPORT NEWS FHD
+#EXTINF:-1 tvg-id="polsatsportnews.pl" tvg-name="PL| POLSAT SPORT NEWS FHD" tvg-logo="https://lo1.in/pol/POLSAT SPORT.png" group-title="Sports",PL| POLSAT SPORT NEWS FHD
 http://extraott.com:900/live/3162523972/3791698850/117494.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PL| POLSAT SPORT NEWS HD" tvg-logo="https://lo1.in/pol/plfht.png" group-title="POLAND SPORTS",PL| POLSAT SPORT NEWS HD
+#EXTINF:-1 tvg-id="" tvg-name="PL| POLSAT SPORT NEWS HD" tvg-logo="https://lo1.in/pol/plfht.png" group-title="Sports",PL| POLSAT SPORT NEWS HD
 http://extraott.com:900/live/3162523972/3791698850/53124.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PL| POLSAT SPORT FIGHT HD" tvg-logo="https://lo1.in/pol/plfht.png" group-title="POLAND SPORTS",PL| POLSAT SPORT FIGHT HD
-http://extraott.com:900/live/3162523972/3791698850/53125.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="PL| POLSAT SPORT EXTRA HD" tvg-logo="https://lo1.in/pol/plext.png" group-title="POLAND SPORTS",PL| POLSAT SPORT EXTRA HD
+#EXTINF:-1 tvg-id="" tvg-name="PL| POLSAT SPORT EXTRA HD" tvg-logo="https://lo1.in/pol/plext.png" group-title="Sports",PL| POLSAT SPORT EXTRA HD
 http://extraott.com:900/live/3162523972/3791698850/53126.m3u8
-
-#EXTINF:-1 tvg-id="polsatsportpremium1.pl" tvg-name="PL| POLSAT SPORT PREMIUM SUPER 1 FHD" tvg-logo="https://lo1.in/pol/pmpr1.png" group-title="POLAND SPORTS",PL| POLSAT SPORT PREMIUM SUPER 1 FHD
+#EXTINF:-1 tvg-id="polsatsportpremium1.pl" tvg-name="PL| POLSAT SPORT PREMIUM SUPER 1 FHD" tvg-logo="https://lo1.in/pol/pmpr1.png" group-title="Sports",PL| POLSAT SPORT PREMIUM SUPER 1 FHD
 http://extraott.com:900/live/3162523972/3791698850/117495.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PL| POLSAT SPORT PREMIUM SUPER 1 HD" tvg-logo="https://lo1.in/pol/pmpr1.png" group-title="POLAND SPORTS",PL| POLSAT SPORT PREMIUM SUPER 1 HD
+#EXTINF:-1 tvg-id="" tvg-name="PL| POLSAT SPORT PREMIUM SUPER 1 HD" tvg-logo="https://lo1.in/pol/pmpr1.png" group-title="Sports",PL| POLSAT SPORT PREMIUM SUPER 1 HD
 http://extraott.com:900/live/3162523972/3791698850/9626.m3u8
-#EXTINF:-1 tvg-id="polsatsportpremium2.pl" tvg-name="PL| POLSAT SPORT PREMIUM SUPER 2 FHD" tvg-logo="https://lo1.in/pol/pmpr1.png" group-title="POLAND SPORTS",PL| POLSAT SPORT PREMIUM SUPER 2 FHD
+#EXTINF:-1 tvg-id="polsatsportpremium2.pl" tvg-name="PL| POLSAT SPORT PREMIUM SUPER 2 FHD" tvg-logo="https://lo1.in/pol/pmpr1.png" group-title="Sports",PL| POLSAT SPORT PREMIUM SUPER 2 FHD
 http://extraott.com:900/live/3162523972/3791698850/117496.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PL| POLSAT SPORT PREMIUM SUPER 2 HD" tvg-logo="https://lo1.in/pol/pmpr1.png" group-title="POLAND SPORTS",PL| POLSAT SPORT PREMIUM SUPER 2 HD
+#EXTINF:-1 tvg-id="" tvg-name="PL| POLSAT SPORT PREMIUM SUPER 2 HD" tvg-logo="https://lo1.in/pol/pmpr1.png" group-title="Sports",PL| POLSAT SPORT PREMIUM SUPER 2 HD
 http://extraott.com:900/live/3162523972/3791698850/9625.m3u8
-
-#EXTINF:-1 tvg-id="polsatsportpremium3ppv.pl" tvg-name="PL| POLSAT SPORT PREMIUM PPV 3 HD" tvg-logo="https://lo1.in/pol/plpz35.png" group-title="POLAND SPORTS",PL| POLSAT SPORT PREMIUM PPV 3 HD
+#EXTINF:-1 tvg-id="polsatsportpremium3ppv.pl" tvg-name="PL| POLSAT SPORT PREMIUM PPV 3 HD" tvg-logo="https://lo1.in/pol/plpz35.png" group-title="Sports",PL| POLSAT SPORT PREMIUM PPV 3 HD
 http://extraott.com:900/live/3162523972/3791698850/9624.m3u8
-
-#EXTINF:-1 tvg-id="polsatsportpremium4ppv.pl" tvg-name="PL| POLSAT SPORT PREMIUM PPV 4 HD" tvg-logo="https://lo1.in/pol/plpr.png" group-title="POLAND SPORTS",PL| POLSAT SPORT PREMIUM PPV 4 HD
-http://extraott.com:900/live/3162523972/3791698850/9623.m3u8
-
-#EXTINF:-1 tvg-id="polsatsportpremium5ppv.pl" tvg-name="PL| POLSAT SPORT PREMIUM PPV 5 HD" tvg-logo="https://lo1.in/pol/plpz35.png" group-title="POLAND SPORTS",PL| POLSAT SPORT PREMIUM PPV 5 HD
-http://extraott.com:900/live/3162523972/3791698850/9622.m3u8
-
-#EXTINF:-1 tvg-id="polsatsportpremium6ppv.pl" tvg-name="PL| POLSAT SPORT PREMIUM PPV 6 HD" tvg-logo="https://lo1.in/pol/plpz35.png" group-title="POLAND SPORTS",PL| POLSAT SPORT PREMIUM PPV 6 HD
+#EXTINF:-1 tvg-id="polsatsportpremium6ppv.pl" tvg-name="PL| POLSAT SPORT PREMIUM PPV 6 HD" tvg-logo="https://lo1.in/pol/plpz35.png" group-title="Sports",PL| POLSAT SPORT PREMIUM PPV 6 HD
 http://extraott.com:900/live/3162523972/3791698850/9621.m3u8
-#EXTINF:-1 tvg-id="extremesports.pl" tvg-name="PL| EXTREME SPORTS HD" tvg-logo="https://lo1.in/pol/extrs.png" group-title="POLAND SPORTS",PL| EXTREME SPORTS HD
-http://extraott.com:900/live/3162523972/3791698850/117406.m3u8
-#EXTINF:-1 tvg-id="fightbox.pl" tvg-name="PL| FIGHT BOX HD" tvg-logo="https://lo1.in/pol/FIGHT BOX.png" group-title="POLAND SPORTS",PL| FIGHT BOX HD
+#EXTINF:-1 tvg-id="fightbox.pl" tvg-name="PL| FIGHT BOX HD" tvg-logo="https://lo1.in/pol/FIGHT BOX.png" group-title="Sports",PL| FIGHT BOX HD
 http://extraott.com:900/live/3162523972/3791698850/117407.m3u8
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="PL| VIAPLAY XTRA 01 HD" tvg-logo="https://lo1.in/dan/vxtr.png" group-title="POLAND SPORTS",PL| VIAPLAY XTRA 01 HD
-http://extraott.com:900/live/3162523972/3791698850/52473.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PL| VIAPLAY XTRA 02 HD" tvg-logo="https://lo1.in/dan/vxtr.png" group-title="POLAND SPORTS",PL| VIAPLAY XTRA 02 HD
-http://extraott.com:900/live/3162523972/3791698850/52472.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PL| VIAPLAY XTRA 03 HD" tvg-logo="https://lo1.in/dan/vxtr.png" group-title="POLAND SPORTS",PL| VIAPLAY XTRA 03 HD
-http://extraott.com:900/live/3162523972/3791698850/52471.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PL| VIAPLAY XTRA 04 HD" tvg-logo="https://lo1.in/dan/vxtr.png" group-title="POLAND SPORTS",PL| VIAPLAY XTRA 04 HD
-http://extraott.com:900/live/3162523972/3791698850/52470.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PL| VIAPLAY XTRA 05 HD" tvg-logo="https://lo1.in/dan/vxtr.png" group-title="POLAND SPORTS",PL| VIAPLAY XTRA 05 HD
-http://extraott.com:900/live/3162523972/3791698850/52469.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PL| VIAPLAY XTRA 06 HD" tvg-logo="https://lo1.in/dan/vxtr.png" group-title="POLAND SPORTS",PL| VIAPLAY XTRA 06 HD
-http://extraott.com:900/live/3162523972/3791698850/52468.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PL| VIAPLAY XTRA 07 HD" tvg-logo="https://lo1.in/dan/vxtr.png" group-title="POLAND SPORTS",PL| VIAPLAY XTRA 07 HD
-http://extraott.com:900/live/3162523972/3791698850/52467.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PL| VIAPLAY XTRA 08 HD" tvg-logo="https://lo1.in/dan/vxtr.png" group-title="POLAND SPORTS",PL| VIAPLAY XTRA 08 HD
-http://extraott.com:900/live/3162523972/3791698850/52466.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PL| VIAPLAY XTRA 09 HD" tvg-logo="https://lo1.in/dan/vxtr.png" group-title="POLAND SPORTS",PL| VIAPLAY XTRA 09 HD
-http://extraott.com:900/live/3162523972/3791698850/52465.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PL| VIAPLAY XTRA 10 HD" tvg-logo="https://lo1.in/dan/vxtr.png" group-title="POLAND SPORTS",PL| VIAPLAY XTRA 10 HD
-http://extraott.com:900/live/3162523972/3791698850/52464.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PL| VIAPLAY XTRA 11 HD" tvg-logo="https://lo1.in/dan/vxtr.png" group-title="POLAND SPORTS",PL| VIAPLAY XTRA 11 HD
-http://extraott.com:900/live/3162523972/3791698850/52463.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PL| VIAPLAY XTRA 12 HD" tvg-logo="https://lo1.in/dan/vxtr.png" group-title="POLAND SPORTS",PL| VIAPLAY XTRA 12 HD
-http://extraott.com:900/live/3162523972/3791698850/52462.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PL| VIAPLAY XTRA 13 HD" tvg-logo="https://lo1.in/dan/vxtr.png" group-title="POLAND SPORTS",PL| VIAPLAY XTRA 13 HD
-http://extraott.com:900/live/3162523972/3791698850/52461.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PL| VIAPLAY XTRA 14 HD" tvg-logo="https://lo1.in/dan/vxtr.png" group-title="POLAND SPORTS",PL| VIAPLAY XTRA 14 HD
-http://extraott.com:900/live/3162523972/3791698850/52450.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PL| VIAPLAY XTRA 15 HD" tvg-logo="https://lo1.in/dan/vxtr.png" group-title="POLAND SPORTS",PL| VIAPLAY XTRA 15 HD
-http://extraott.com:900/live/3162523972/3791698850/52460.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PL| VIAPLAY XTRA 16 HD" tvg-logo="https://lo1.in/dan/vxtr.png" group-title="POLAND SPORTS",PL| VIAPLAY XTRA 16 HD
-http://extraott.com:900/live/3162523972/3791698850/52459.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PL| VIAPLAY XTRA 17 HD" tvg-logo="https://lo1.in/dan/vxtr.png" group-title="POLAND SPORTS",PL| VIAPLAY XTRA 17 HD
-http://extraott.com:900/live/3162523972/3791698850/52458.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PL| VIAPLAY XTRA 18 HD" tvg-logo="https://lo1.in/dan/vxtr.png" group-title="POLAND SPORTS",PL| VIAPLAY XTRA 18 HD
-http://extraott.com:900/live/3162523972/3791698850/52457.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PL| VIAPLAY XTRA 19 HD" tvg-logo="https://lo1.in/dan/vxtr.png" group-title="POLAND SPORTS",PL| VIAPLAY XTRA 19 HD
-http://extraott.com:900/live/3162523972/3791698850/52456.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PL| VIAPLAY XTRA 20 HD" tvg-logo="https://lo1.in/dan/vxtr.png" group-title="POLAND SPORTS",PL| VIAPLAY XTRA 20 HD
-http://extraott.com:900/live/3162523972/3791698850/52455.m3u8
-************************
 
-#EXTINF:-1 tvg-id="" tvg-name="EXYU| MAX SPORT 1 HD" tvg-logo="https://lo1.in/exyu/MAXSPORT.png" group-title="EXYU SPORTS",EXYU| MAX SPORT 1 HD
+
+#EXTINF:-1 tvg-id="" tvg-name="EXYU| MAX SPORT 1 HD" tvg-logo="https://lo1.in/exyu/MAXSPORT.png" group-title="",EXYU| MAX SPORT 1 HD
 http://extraott.com:900/live/3162523972/3791698850/99811.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="EXYU| MAX SPORT 1 HD [BK]" tvg-logo="https://lo1.in/exyu/MAXSPORT.png" group-title="EXYU SPORTS",EXYU| MAX SPORT 1 HD [BK]
-http://extraott.com:900/live/3162523972/3791698850/26193.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="EXYU| MAX SPORT 2 HD" tvg-logo="https://lo1.in/exyu/MAXSPORT.png" group-title="EXYU SPORTS",EXYU| MAX SPORT 2 HD
-http://extraott.com:900/live/3162523972/3791698850/99810.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="EXYU| MAX SPORT 2 HD [BK]" tvg-logo="https://lo1.in/exyu/MAXSPORT.png" group-title="EXYU SPORTS",EXYU| MAX SPORT 2 HD [BK]
+
+#EXTINF:-1 tvg-id="" tvg-name="EXYU| MAX SPORT 2 HD [BK]" tvg-logo="https://lo1.in/exyu/MAXSPORT.png" group-title="",EXYU| MAX SPORT 2 HD [BK]
 http://extraott.com:900/live/3162523972/3791698850/26194.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="EXYU| M:NET SPORT HD" tvg-logo="https://lo1.in/exyu/MNET.png" group-title="EXYU SPORTS",EXYU| M:NET SPORT HD
+#EXTINF:-1 tvg-id="" tvg-name="EXYU| M:NET SPORT HD" tvg-logo="https://lo1.in/exyu/MNET.png" group-title="",EXYU| M:NET SPORT HD
 http://extraott.com:900/live/3162523972/3791698850/32164.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="EXYU| MOJA TV PREMIER LIGA" tvg-logo="https://lo1.in/exyu/mojsp.png" group-title="EXYU SPORTS",EXYU| MOJA TV PREMIER LIGA
+#EXTINF:-1 tvg-id="" tvg-name="EXYU| MOJA TV PREMIER LIGA" tvg-logo="https://lo1.in/exyu/mojsp.png" group-title="",EXYU| MOJA TV PREMIER LIGA
 http://extraott.com:900/live/3162523972/3791698850/174495.m3u8
-#EXTINF:-1 tvg-id="eurosport1.rs" tvg-name="EXYU| EUROSPORT 1 HD SR" tvg-logo="https://lo1.in/exyu/eursp1.png" group-title="EXYU SPORTS",EXYU| EUROSPORT 1 HD SR
-http://extraott.com:900/live/3162523972/3791698850/174135.m3u8
-#EXTINF:-1 tvg-id="eurosport2.rs" tvg-name="EXYU| EUROSPORT 2 HD SR" tvg-logo="https://lo1.in/exyu/eursp2.png" group-title="EXYU SPORTS",EXYU| EUROSPORT 2 HD SR
-http://extraott.com:900/live/3162523972/3791698850/174136.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="EXYU| EUROSPORT 1 HD SLO" tvg-logo="https://lo1.in/exyu/eursp1.png" group-title="EXYU SPORTS",EXYU| EUROSPORT 1 HD SLO
-http://extraott.com:900/live/3162523972/3791698850/401438018.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="EXYU| EUROSPORT 2 HD SLO" tvg-logo="https://lo1.in/exyu/eursp2.png" group-title="EXYU SPORTS",EXYU| EUROSPORT 2 HD SLO
+#EXTINF:-1 tvg-id="" tvg-name="EXYU| EUROSPORT 2 HD SLO" tvg-logo="https://lo1.in/exyu/eursp2.png" group-title="",EXYU| EUROSPORT 2 HD SLO
 http://extraott.com:900/live/3162523972/3791698850/401438019.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="EXYU| FIGHT BOX HD" tvg-logo="https://lo1.in/exyu/fighch.png" group-title="EXYU SPORTS",EXYU| FIGHT BOX HD
+#EXTINF:-1 tvg-id="" tvg-name="EXYU| FIGHT BOX HD" tvg-logo="https://lo1.in/exyu/fighch.png" group-title="",EXYU| FIGHT BOX HD
 http://extraott.com:900/live/3162523972/3791698850/174140.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="EXYU| FK CRVENA ZVEZDA TV HD" tvg-logo="https://lo1.in/exyu/fkcnaz.png" group-title="EXYU SPORTS",EXYU| FK CRVENA ZVEZDA TV HD
+#EXTINF:-1 tvg-id="" tvg-name="EXYU| FK CRVENA ZVEZDA TV HD" tvg-logo="https://lo1.in/exyu/fkcnaz.png" group-title="",EXYU| FK CRVENA ZVEZDA TV HD
 http://extraott.com:900/live/3162523972/3791698850/113475.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="EXYU| PARTIZAN TV HD" tvg-logo="https://lo1.in/exyu/partz.png" group-title="EXYU SPORTS",EXYU| PARTIZAN TV HD
 http://extraott.com:900/live/3162523972/3791698850/174246.m3u8
