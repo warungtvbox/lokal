@@ -19,12 +19,18 @@ https://iptv-org.github.io/epg/guides/sg/starhubtvplus.com.epg.xml.gz" refresh="
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=531c6d50e3e9f9ba66446f624f492289:d769d9ae238bdd424f8bcdcdc9a3801f
 #EXTVLCOPT:http-referrer=https://visionplus.id/
-https://d1abp075u76pbq.cloudfront.net/live/eds/MNCSports-HD/sa_dash_vmx/MNCSports-HD.mpd
-#EXTINF:-1 tvg-id="Sportstars 2 HD - [Channel 422].id" tvg-logo="https://iili.io/JjzV89s.png" group-title="🔴NASIONAL",Sportstars 2
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=45fec91ce1f19b6b1f31d69dcfaaf6cd:843e228ab109e9aa6c4822ee4ad05d7d
-#EXTVLCOPT:http-referrer=https://visionplus.id/
-https://d1abp075u76pbq.cloudfront.net/live/eds/MNCSports2-HD/sa_dash_vmx/MNCSports2-HD.mpd
+https://cempedak-live-cdn.mncnow.id/live/eds/MNCSports-HD/sa_dash_vmx/MNCSports-HD.mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
+#EXTVLCOPT:http-referrer=https://visionplus.id
+#EXTINF:-1 group-title="🔴NASIONAL" tvg-logo="https://anutv.xyz/gambar/bri.jpg",Sportstars 2
+https://cempedak-live-cdn.mncnow.id/live/eds/MNCSports2-HD/sa_dash_vmx/MNCSports2-HD.mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
+#EXTVLCOPT:http-referrer=https://visionplus.id
+#EXTINF:-1 group-title="🔴NASIONAL" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_88.png",Sportstars 4
+#https://cempedak-live-cdn.mncnow.id/live/eds/Sportstar4/sa_dash_vmx/Sportstar4.mpd
+
 #KODIPROP:inputstream=inputstream.ffmpegdirect
 #KODIPROP:mimetype=application/x-mpegURL
 #KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
@@ -1762,26 +1768,26 @@ https://ott-balancer.tvri.go.id/live/eds/Pabar/hls/Pabar-avc1_1500000=10005-mp4a
 
 ----------------------------------------SPORTS--------------------------------------------------------
 
+#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/957/49957-SNAPSHOT-l.png" group-title="Sports",SpoTV
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e60ece8f0d9042fcb52508055ec48e5e:213f438bd4961cda987d41b7f154f1e5
+https://atemecdnbalancer-voe.sysln.id/live/eds/SPOTVHD/mpd/SPOTVHD.mpd
+#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/960/49960-SNAPSHOT-l.png" group-title="Sports",SpoTV 2
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e6ed3fdf6e9f491d9ead109fc0b00cfc:3bc6c45722eb5fa7b343de9bffc4f7c7
+https://atemecdnbalancer-voe.sysln.id/live/eds/SPOTV2HD/mpd/SPOTV2HD.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
 #EXTVLCOPT:http-referrer=https://visionplus.id
 #EXTINF:-1 group-title="Sports" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_307.png",SPOTV
-https://cempedak-live-cdn.mncnow.id/live/eds/SPOTV-HD/sa_dash_vmx/SPOTV-HD.mpd
+#https://cempedak-live-cdn.mncnow.id/live/eds/SPOTV-HD/sa_dash_vmx/SPOTV-HD.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
 #EXTVLCOPT:http-referrer=https://visionplus.id
 #EXTINF:-1 group-title="Sports" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_308.png",SPOTV2
-https://cempedak-live-cdn.mncnow.id/live/eds/SPOTV2-HD/sa_dash_vmx/SPOTV2-HD.mpd
-#EXTINF:-1 tvg-id="Sportstars HD - [Channel 421].id" tvg-logo="https://iili.io/JjzV4ol.png" group-title="Sports",Sportstars
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=531c6d50e3e9f9ba66446f624f492289:d769d9ae238bdd424f8bcdcdc9a3801f
-#EXTVLCOPT:http-referrer=https://visionplus.id/
-https://d1abp075u76pbq.cloudfront.net/live/eds/MNCSports-HD/sa_dash_vmx/MNCSports-HD.mpd 
-#EXTINF:-1 tvg-id="Sportstars 2 HD - [Channel 422].id" tvg-logo="https://iili.io/JjzV89s.png" group-title="Sports",Sportstars 2
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=45fec91ce1f19b6b1f31d69dcfaaf6cd:843e228ab109e9aa6c4822ee4ad05d7d
-#EXTVLCOPT:http-referrer=https://visionplus.id/
-https://d1abp075u76pbq.cloudfront.net/live/eds/MNCSports2-HD/sa_dash_vmx/MNCSports2-HD.mpd
+#https://cempedak-live-cdn.mncnow.id/live/eds/SPOTV2-HD/sa_dash_vmx/SPOTV2-HD.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
 #EXTVLCOPT:http-referrer=https://visionplus.id
@@ -2576,8 +2582,6 @@ http://extraott.com:900/live/3162523972/3791698850/401384747.m3u8
 http://extraott.com:900/live/3162523972/3791698850/191687.m3u8
 #EXTINF:-1 tvg-id="skysportsplus.uk" tvg-name="UK| SKY SPORTS + HD" tvg-logo="https://lo1.in/uk/skyspns.png" group-title="Sports",UK| SKY SPORTS + HD
 http://extraott.com:900/live/3162523972/3791698850/400225157.m3u8
-
-
 #EXTINF:-1 tvg-id="skysportsfootball.uk" tvg-name="UK| SKY SPORTS FOOTBALL HD" tvg-logo="https://lo1.in/uk/skyspfb.png" group-title="Sports",UK| SKY SPORTS FOOTBALL HD
 http://extraott.com:900/live/3162523972/3791698850/191691.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="UK| SKY SPORTS FOOTBALL [BK]" tvg-logo="https://lo1.in/uk/skyspfb.png" group-title="Sports",UK| SKY SPORTS FOOTBALL [BK]
@@ -2596,8 +2600,6 @@ http://extraott.com:900/live/3162523972/3791698850/189987.m3u8
 http://extraott.com:900/live/3162523972/3791698850/391269.m3u8
 #EXTINF:-1 tvg-id="skysportsracing.uk" tvg-name="UK| SKY SPORTS RACING HD" tvg-logo="https://lo1.in/uk/skyspsr.png" group-title="Sports",UK| SKY SPORTS RACING HD
 http://extraott.com:900/live/3162523972/3791698850/191688.m3u8
-
-
 #EXTINF:-1 tvg-id="skysportspremiereleague.uk" tvg-name="UK| SKY SPORTS PREMIER LEAGUE SD" tvg-logo="https://lo1.in/uk/skyspplg.png" group-title="Sports",UK| SKY SPORTS PREMIER LEAGUE SD
 http://extraott.com:900/live/3162523972/3791698850/153694.m3u8
 #EXTINF:-1 tvg-id="skysportsnews.uk" tvg-name="UK| SKY SPORTS NEWS SD" tvg-logo="https://lo1.in/uk/skyspns.png" group-title="Sports",UK| SKY SPORTS NEWS SD
@@ -2628,10 +2630,6 @@ http://extraott.com:900/live/3162523972/3791698850/153713.m3u8
 http://extraott.com:900/live/3162523972/3791698850/62800.m3u8
 #EXTINF:-1 tvg-id="btsportsboxoffice.uk" tvg-name="UK| TNT SPORTS BOX OFFICE HD" tvg-logo="https://lo1.in/uk/tntsport.png" group-title="Sports",UK| TNT SPORTS BOX OFFICE HD
 http://extraott.com:900/live/3162523972/3791698850/37191.m3u8
-
-****************************************
-
-
 #EXTINF:-1 tvg-id="" tvg-name="PL| EUROSPORT 1 HD" tvg-logo="https://lo1.in/pol/eu1.png" group-title="Sports",PL| EUROSPORT 1 HD
 http://extraott.com:900/live/3162523972/3791698850/53106.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="PL| EUROSPORT 2 HD" tvg-logo="https://lo1.in/pol/eu2.png" group-title="Sports",PL| EUROSPORT 2 HD
@@ -2642,13 +2640,10 @@ http://extraott.com:900/live/3162523972/3791698850/117338.m3u8
 http://extraott.com:900/live/3162523972/3791698850/9633.m3u8
 #EXTINF:-1 tvg-id="canalplussport4.pl" tvg-name="PL| CANAL+ SPORT 4 HD" tvg-logo="https://lo1.in/pol/cs4.png" group-title="Sports",PL| CANAL+ SPORT 4 HD
 http://extraott.com:900/live/3162523972/3791698850/9632.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="PL| CANAL+ EXTRA 01" tvg-logo="https://lo1.in/pol/CANAL+ 1.png" group-title="Sports",PL| CANAL+ EXTRA 01
 http://extraott.com:900/live/3162523972/3791698850/401349321.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="PL| CANAL+ EXTRA 02" tvg-logo="https://lo1.in/pol/CANAL+ 1.png" group-title="Sports",PL| CANAL+ EXTRA 02
 http://extraott.com:900/live/3162523972/3791698850/401349320.m3u8
-
-
 #EXTINF:-1 tvg-id="" tvg-name="PL| CANAL+ EXTRA 04" tvg-logo="https://lo1.in/pol/CANAL+ 1.png" group-title="Sports",PL| CANAL+ EXTRA 04
 http://extraott.com:900/live/3162523972/3791698850/401349318.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="PL| CANAL+ EXTRA 05" tvg-logo="https://lo1.in/pol/CANAL+ 1.png" group-title="Sports",PL| CANAL+ EXTRA 05
@@ -2701,21 +2696,13 @@ http://extraott.com:900/live/3162523972/3791698850/9624.m3u8
 http://extraott.com:900/live/3162523972/3791698850/9621.m3u8
 #EXTINF:-1 tvg-id="fightbox.pl" tvg-name="PL| FIGHT BOX HD" tvg-logo="https://lo1.in/pol/FIGHT BOX.png" group-title="Sports",PL| FIGHT BOX HD
 http://extraott.com:900/live/3162523972/3791698850/117407.m3u8
-
-
-
-
-
 #EXTINF:-1 tvg-id="" tvg-name="EXYU| MAX SPORT 1 HD" tvg-logo="https://lo1.in/exyu/MAXSPORT.png" group-title="Sports",EXYU| MAX SPORT 1 HD
 http://extraott.com:900/live/3162523972/3791698850/99811.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="EXYU| MAX SPORT 2 HD" tvg-logo="https://lo1.in/exyu/MAXSPORT.png" group-title="Sports",EXYU| MAX SPORT 2 HD
-
 #EXTINF:-1 tvg-id="" tvg-name="EXYU| MAX SPORT 2 HD [BK]" tvg-logo="https://lo1.in/exyu/MAXSPORT.png" group-title="Sports",EXYU| MAX SPORT 2 HD [BK]
 http://extraott.com:900/live/3162523972/3791698850/26194.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="EXYU| M:NET SPORT HD" tvg-logo="https://lo1.in/exyu/MNET.png" group-title="Sports",EXYU| M:NET SPORT HD
 http://extraott.com:900/live/3162523972/3791698850/32164.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="EXYU| MOJA TV PREMIER LIGA" tvg-logo="https://lo1.in/exyu/mojsp.png" group-title="Sports",EXYU| MOJA TV PREMIER LIGA
 http://extraott.com:900/live/3162523972/3791698850/174495.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="EXYU| EUROSPORT 2 HD SLO" tvg-logo="https://lo1.in/exyu/eursp2.png" group-title="Sports",EXYU| EUROSPORT 2 HD SLO
@@ -2764,20 +2751,12 @@ http://extraott.com:900/live/3162523972/3791698850/373368.m3u8
 http://extraott.com:900/live/3162523972/3791698850/373389.m3u8
 #EXTINF:-1 tvg-id="arenasport7.rs" tvg-name="EXYU| ARENA SPORT 7 HD HR" tvg-logo="https://lo1.in/exyu/arenasp7.png" group-title="Sports",EXYU| ARENA SPORT 7 HD HR
 http://extraott.com:900/live/3162523972/3791698850/400269199.m3u8
-
 #EXTINF:-1 tvg-id="arenasport8.rs" tvg-name="EXYU| ARENA SPORT 8 HD HR" tvg-logo="https://lo1.in/exyu/arensp8.png" group-title="Sports",EXYU| ARENA SPORT 8 HD HR
 http://extraott.com:900/live/3162523972/3791698850/400269198.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="EXYU| ARENA SPORT 9 HD HR" tvg-logo="https://lo1.in/exyu/arensp9.png" group-title="Sports",EXYU| ARENA SPORT 9 HD HR
 http://extraott.com:900/live/3162523972/3791698850/400269197.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="EXYU| ARENA SPORT 10 HD HR" tvg-logo="https://lo1.in/exyu/arenasp10.png" group-title="Sports",EXYU| ARENA SPORT 10 HD HR
 http://extraott.com:900/live/3162523972/3791698850/400269196.m3u8
-
-
-
-
-
 #EXTINF:-1 tvg-id="sportklubgolf.si" tvg-name="EXYU| SPORT KLUB GOLF HD" tvg-logo="https://lo1.in/exyu/spklglf.png" group-title="Sports",EXYU| SPORT KLUB GOLF HD
 http://extraott.com:900/live/3162523972/3791698850/174277.m3u8
 #EXTINF:-1 tvg-id="sportklubhd.hr" tvg-name="EXYU| SPORT KLUB HD" tvg-logo="https://lo1.in/exyu/spkl.png" group-title="Sports",EXYU| SPORT KLUB HD
@@ -2788,8 +2767,6 @@ http://extraott.com:900/live/3162523972/3791698850/42849.m3u8
 http://extraott.com:900/live/3162523972/3791698850/42848.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="EXYU| ARENA SPORT 1X2 HD SR" tvg-logo="https://lo1.in/exyu/arensp12.png" group-title="Sports",EXYU| ARENA SPORT 1X2 HD SR
 http://extraott.com:900/live/3162523972/3791698850/42844.m3u8
-
-
 #EXTINF:-1 tvg-id="sportklub1.si" tvg-name="EXYU| SPORT KLUB 1 HD HR" tvg-logo="https://lo1.in/exyu/spkl1.png" group-title="Sports",EXYU| SPORT KLUB 1 HD HR
 http://extraott.com:900/live/3162523972/3791698850/374716.m3u8
 #EXTINF:-1 tvg-id="sportklub2.si" tvg-name="EXYU| SPORT KLUB 2 HD HR" tvg-logo="https://lo1.in/exyu/spkl2.png" group-title="Sports",EXYU| SPORT KLUB 2 HD HR
@@ -2874,7 +2851,6 @@ http://extraott.com:900/live/3162523972/3791698850/71.m3u8
 http://extraott.com:900/live/3162523972/3791698850/53356.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AR| BEIN SPORTS MAX 6 HD [BK1]" tvg-logo="https://lo1.in/bss/bs6max.png" group-title="Sports",AR| BEIN SPORTS MAX 6 HD [BK1]
 http://extraott.com:900/live/3162523972/3791698850/53355.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="AR | BEIN SPORTS NEWS" tvg-logo="https://lo1.in/bss/bsnews.png" group-title="Sports",AR | BEIN SPORTS NEWS
 http://extraott.com:900/live/3162523972/3791698850/401576238.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AR | BEIN SPORTS NBA" tvg-logo="https://lo1.in/bss/bsnba.png" group-title="Sports",AR | BEIN SPORTS NBA
