@@ -2811,157 +2811,70 @@ http://extraott.com:900/live/3162523972/3791698850/174140.m3u8
 http://extraott.com:900/live/3162523972/3791698850/113475.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="EXYU| PARTIZAN TV HD" tvg-logo="https://lo1.in/exyu/partz.png" group-title="EXYU SPORTS",EXYU| PARTIZAN TV HD
 http://extraott.com:900/live/3162523972/3791698850/174246.m3u8
-#EXTINF:-1 tvg-id="sporttv1.si" tvg-name="EXYU| SPORT TV 1 HD SLO" tvg-logo="https://lo1.in/exyu/sp1slov.png" group-title="EXYU SPORTS",EXYU| SPORT TV 1 HD SLO
+
+#EXTINF:-1 tvg-id="sporttv1.si" tvg-name="EXYU| SPORT TV 1 HD SLO" tvg-logo="https://lo1.in/exyu/sp1slov.png" group-title="",EXYU| SPORT TV 1 HD SLO
 http://extraott.com:900/live/3162523972/3791698850/174279.m3u8
-#EXTINF:-1 tvg-id="sporttv2.si" tvg-name="EXYU| SPORT TV 2 HD SLO" tvg-logo="https://lo1.in/exyu/sp2slov.png" group-title="EXYU SPORTS",EXYU| SPORT TV 2 HD SLO
+#EXTINF:-1 tvg-id="sporttv2.si" tvg-name="EXYU| SPORT TV 2 HD SLO" tvg-logo="https://lo1.in/exyu/sp2slov.png" group-title="",EXYU| SPORT TV 2 HD SLO
 http://extraott.com:900/live/3162523972/3791698850/174280.m3u8
-#EXTINF:-1 tvg-id="sporttv3.si" tvg-name="EXYU| SPORT TV 3 HD SLO" tvg-logo="https://lo1.in/exyu/sp3slov.png" group-title="EXYU SPORTS",EXYU| SPORT TV 3 HD SLO
+#EXTINF:-1 tvg-id="sporttv3.si" tvg-name="EXYU| SPORT TV 3 HD SLO" tvg-logo="https://lo1.in/exyu/sp3slov.png" group-title="",EXYU| SPORT TV 3 HD SLO
 http://extraott.com:900/live/3162523972/3791698850/174281.m3u8
-#EXTINF:-1 tvg-id="novasport.rs" tvg-name="EXYU| NOVA SPORT SR HD" tvg-logo="https://lo1.in/exyu/novsp.png" group-title="EXYU SPORTS",EXYU| NOVA SPORT SR HD
+
+#EXTINF:-1 tvg-id="novasport.rs" tvg-name="EXYU| NOVA SPORT SR HD" tvg-logo="https://lo1.in/exyu/novsp.png" group-title="",EXYU| NOVA SPORT SR HD
 http://extraott.com:900/live/3162523972/3791698850/375645.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="EXYU| KREATOR TV (GP1) HD" tvg-logo="https://lo1.in/exyu/kreat.png" group-title="EXYU SPORTS",EXYU| KREATOR TV (GP1) HD
+#EXTINF:-1 tvg-id="" tvg-name="EXYU| KREATOR TV (GP1) HD" tvg-logo="https://lo1.in/exyu/kreat.png" group-title="",EXYU| KREATOR TV (GP1) HD
 http://extraott.com:900/live/3162523972/3791698850/375646.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="EXYU| FIGHT NETWORK HD" tvg-logo="https://lo1.in/us/fghn.png" group-title="EXYU SPORTS",EXYU| FIGHT NETWORK HD
+#EXTINF:-1 tvg-id="" tvg-name="EXYU| FIGHT NETWORK HD" tvg-logo="https://lo1.in/us/fghn.png" group-title="",EXYU| FIGHT NETWORK HD
 http://extraott.com:900/live/3162523972/3791698850/42840.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="EXYU| EXTREME SPORTS" tvg-logo="https://lo1.in/exyu/flg.png" group-title="EXYU SPORTS",EXYU| EXTREME SPORTS
+#EXTINF:-1 tvg-id="" tvg-name="EXYU| EXTREME SPORTS" tvg-logo="https://lo1.in/exyu/flg.png" group-title="",EXYU| EXTREME SPORTS
 http://extraott.com:900/live/3162523972/3791698850/121414.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="EXYU| MNE SPORT 1" tvg-logo="https://lo1.in/exyu/flg.png" group-title="EXYU SPORTS",EXYU| MNE SPORT 1
+#EXTINF:-1 tvg-id="" tvg-name="EXYU| MNE SPORT 1" tvg-logo="https://lo1.in/exyu/flg.png" group-title="",EXYU| MNE SPORT 1
 http://extraott.com:900/live/3162523972/3791698850/401549686.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="EXYU| MNE SPORT 2" tvg-logo="https://lo1.in/exyu/flg.png" group-title="EXYU SPORTS",EXYU| MNE SPORT 2
+#EXTINF:-1 tvg-id="" tvg-name="EXYU| MNE SPORT 2" tvg-logo="https://lo1.in/exyu/flg.png" group-title="",EXYU| MNE SPORT 2
 http://extraott.com:900/live/3162523972/3791698850/401549685.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="EXYU| MNE SPORT 3" tvg-logo="https://lo1.in/exyu/flg.png" group-title="EXYU SPORTS",EXYU| MNE SPORT 3
+#EXTINF:-1 tvg-id="" tvg-name="EXYU| MNE SPORT 3" tvg-logo="https://lo1.in/exyu/flg.png" group-title="",EXYU| MNE SPORT 3
 http://extraott.com:900/live/3162523972/3791698850/401549684.m3u8
-
-#EXTINF:-1 tvg-id="arenafight.rs" tvg-name="EXYU| ARENA FIGHT HD" tvg-logo="https://lo1.in/exyu/arensp2.png" group-title="EXYU SPORTS",EXYU| ARENA FIGHT HD
+#EXTINF:-1 tvg-id="arenafight.rs" tvg-name="EXYU| ARENA FIGHT HD" tvg-logo="https://lo1.in/exyu/arensp2.png" group-title="",EXYU| ARENA FIGHT HD
 http://extraott.com:900/live/3162523972/3791698850/400269255.m3u8
-#EXTINF:-1 tvg-id="arenaesport.rs" tvg-name="EXYU| ARENA ESPORT HD" tvg-logo="https://lo1.in/exyu/arensp1.png" group-title="EXYU SPORTS",EXYU| ARENA ESPORT HD
-http://extraott.com:900/live/3162523972/3791698850/400269254.m3u8
-
-
-
-
-
-
-
-#EXTINF:-1 tvg-id="arenasport1.rs" tvg-name="EXYU| ARENA SPORT 1 HD SR" tvg-logo="https://lo1.in/exyu/arensp1.png" group-title="EXYU SPORTS",EXYU| ARENA SPORT 1 HD SR
-http://extraott.com:900/live/3162523972/3791698850/174081.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="EXYU| ARENA SPORT 1 HD SR [BK]" tvg-logo="https://lo1.in/exyu/arensp1.png" group-title="EXYU SPORTS",EXYU| ARENA SPORT 1 HD SR [BK]
-http://extraott.com:900/live/3162523972/3791698850/401458780.m3u8
-#EXTINF:-1 tvg-id="arenasport2.hr" tvg-name="EXYU| ARENA SPORT 2 HD SR" tvg-logo="https://lo1.in/exyu/arensp2.png" group-title="EXYU SPORTS",EXYU| ARENA SPORT 2 HD SR
-http://extraott.com:900/live/3162523972/3791698850/174082.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="EXYU| ARENA SPORT 2 HD SR [BK]" tvg-logo="https://lo1.in/exyu/arensp1.png" group-title="EXYU SPORTS",EXYU| ARENA SPORT 2 HD SR [BK]
-http://extraott.com:900/live/3162523972/3791698850/401458779.m3u8
-#EXTINF:-1 tvg-id="arenasport3.rs" tvg-name="EXYU| ARENA SPORT 3 HD SR" tvg-logo="https://lo1.in/exyu/arensp3.png" group-title="EXYU SPORTS",EXYU| ARENA SPORT 3 HD SR
-http://extraott.com:900/live/3162523972/3791698850/174083.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="EXYU| ARENA SPORT 3 HD SR [BK]" tvg-logo="https://lo1.in/exyu/arensp1.png" group-title="EXYU SPORTS",EXYU| ARENA SPORT 3 HD SR [BK]
-http://extraott.com:900/live/3162523972/3791698850/401458778.m3u8
-#EXTINF:-1 tvg-id="arenasport4.hr" tvg-name="EXYU| ARENA SPORT 4 HD SR" tvg-logo="https://lo1.in/exyu/arensp4.png" group-title="EXYU SPORTS",EXYU| ARENA SPORT 4 HD SR
-http://extraott.com:900/live/3162523972/3791698850/174084.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="EXYU| ARENA SPORT 4 HD SR [BK]" tvg-logo="https://lo1.in/exyu/arensp1.png" group-title="EXYU SPORTS",EXYU| ARENA SPORT 4 HD SR [BK]
-http://extraott.com:900/live/3162523972/3791698850/401458777.m3u8
-#EXTINF:-1 tvg-id="arenasport5.rs" tvg-name="EXYU| ARENA SPORT 5 HD SR" tvg-logo="https://lo1.in/exyu/arensp5.png" group-title="EXYU SPORTS",EXYU| ARENA SPORT 5 HD SR
-http://extraott.com:900/live/3162523972/3791698850/174085.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="EXYU| ARENA SPORT 5 HD SR [BK]" tvg-logo="https://lo1.in/exyu/arensp1.png" group-title="EXYU SPORTS",EXYU| ARENA SPORT 5 HD SR [BK]
-http://extraott.com:900/live/3162523972/3791698850/401458776.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="EXYU| ARENA SPORT 6 HD SR" tvg-logo="https://lo1.in/exyu/arensp6.png" group-title="EXYU SPORTS",EXYU| ARENA SPORT 6 HD SR
-http://extraott.com:900/live/3162523972/3791698850/42843.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="EXYU| ARENA SPORT 7 HD SR" tvg-logo="https://lo1.in/exyu/arenasp7.png" group-title="EXYU SPORTS",EXYU| ARENA SPORT 7 HD SR
-http://extraott.com:900/live/3162523972/3791698850/38030.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="EXYU| ARENA SPORT 8 HD SR" tvg-logo="https://lo1.in/exyu/arensp8.png" group-title="EXYU SPORTS",EXYU| ARENA SPORT 8 HD SR
-http://extraott.com:900/live/3162523972/3791698850/38029.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="EXYU| ARENA SPORT 9 HD SR" tvg-logo="https://lo1.in/exyu/arensp9.png" group-title="EXYU SPORTS",EXYU| ARENA SPORT 9 HD SR
-http://extraott.com:900/live/3162523972/3791698850/38028.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="EXYU| ARENA SPORT 10 HD SR" tvg-logo="https://lo1.in/exyu/arenasp10.png" group-title="EXYU SPORTS",EXYU| ARENA SPORT 10 HD SR
-http://extraott.com:900/live/3162523972/3791698850/38027.m3u8
-#EXTINF:-1 tvg-id="arenasport1.hr" tvg-name="EXYU| ARENA SPORT 1 HD HR" tvg-logo="https://lo1.in/exyu/arensp1.png" group-title="EXYU SPORTS",EXYU| ARENA SPORT 1 HD HR
+#EXTINF:-1 tvg-id="arenasport1.hr" tvg-name="EXYU| ARENA SPORT 1 HD HR" tvg-logo="https://lo1.in/exyu/arensp1.png" group-title="",EXYU| ARENA SPORT 1 HD HR
 http://extraott.com:900/live/3162523972/3791698850/373283.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="EXYU| ARENA SPORT 1 HD HR [BK]" tvg-logo="https://lo1.in/exyu/arensp1.png" group-title="EXYU SPORTS",EXYU| ARENA SPORT 1 HD HR [BK]
-http://extraott.com:900/live/3162523972/3791698850/401458775.m3u8
-#EXTINF:-1 tvg-id="arenasport2.hr" tvg-name="EXYU| ARENA SPORT 2 HD HR" tvg-logo="https://lo1.in/exyu/arensp2.png" group-title="EXYU SPORTS",EXYU| ARENA SPORT 2 HD HR
+#EXTINF:-1 tvg-id="arenasport2.hr" tvg-name="EXYU| ARENA SPORT 2 HD HR" tvg-logo="https://lo1.in/exyu/arensp2.png" group-title="",EXYU| ARENA SPORT 2 HD HR
 http://extraott.com:900/live/3162523972/3791698850/373284.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="EXYU| ARENA SPORT 2 HD HR [BK]" tvg-logo="https://lo1.in/exyu/arensp1.png" group-title="EXYU SPORTS",EXYU| ARENA SPORT 2 HD HR [BK]
-http://extraott.com:900/live/3162523972/3791698850/401458774.m3u8
-#EXTINF:-1 tvg-id="arenasport3.hr" tvg-name="EXYU| ARENA SPORT 3 HD HR" tvg-logo="https://lo1.in/exyu/arensp3.png" group-title="EXYU SPORTS",EXYU| ARENA SPORT 3 HD HR
+#EXTINF:-1 tvg-id="arenasport3.hr" tvg-name="EXYU| ARENA SPORT 3 HD HR" tvg-logo="https://lo1.in/exyu/arensp3.png" group-title="",EXYU| ARENA SPORT 3 HD HR
 http://extraott.com:900/live/3162523972/3791698850/373366.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="EXYU| ARENA SPORT 3 HD HR [BK]" tvg-logo="https://lo1.in/exyu/arensp1.png" group-title="EXYU SPORTS",EXYU| ARENA SPORT 3 HD HR [BK]
-http://extraott.com:900/live/3162523972/3791698850/401458773.m3u8
-#EXTINF:-1 tvg-id="arenasport4.hr" tvg-name="EXYU| ARENA SPORT 4 HD HR" tvg-logo="https://lo1.in/exyu/arensp4.png" group-title="EXYU SPORTS",EXYU| ARENA SPORT 4 HD HR
+#EXTINF:-1 tvg-id="arenasport4.hr" tvg-name="EXYU| ARENA SPORT 4 HD HR" tvg-logo="https://lo1.in/exyu/arensp4.png" group-title="",EXYU| ARENA SPORT 4 HD HR
 http://extraott.com:900/live/3162523972/3791698850/373367.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="EXYU| ARENA SPORT 4 HD HR [BK]" tvg-logo="https://lo1.in/exyu/arensp1.png" group-title="EXYU SPORTS",EXYU| ARENA SPORT 4 HD HR [BK]
-http://extraott.com:900/live/3162523972/3791698850/401458772.m3u8
-#EXTINF:-1 tvg-id="arenasport5.hr" tvg-name="EXYU| ARENA SPORT 5 HD HR" tvg-logo="https://lo1.in/exyu/arensp5.png" group-title="EXYU SPORTS",EXYU| ARENA SPORT 5 HD HR
+#EXTINF:-1 tvg-id="arenasport5.hr" tvg-name="EXYU| ARENA SPORT 5 HD HR" tvg-logo="https://lo1.in/exyu/arensp5.png" group-title="",EXYU| ARENA SPORT 5 HD HR
 http://extraott.com:900/live/3162523972/3791698850/373368.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="EXYU| ARENA SPORT 5 HD HR [BK]" tvg-logo="https://lo1.in/exyu/arensp1.png" group-title="EXYU SPORTS",EXYU| ARENA SPORT 5 HD HR [BK]
-http://extraott.com:900/live/3162523972/3791698850/401458771.m3u8
-#EXTINF:-1 tvg-id="arenasport6.hr" tvg-name="EXYU| ARENA SPORT 6 HD HR" tvg-logo="https://lo1.in/exyu/arensp6.png" group-title="EXYU SPORTS",EXYU| ARENA SPORT 6 HD HR
+#EXTINF:-1 tvg-id="arenasport6.hr" tvg-name="EXYU| ARENA SPORT 6 HD HR" tvg-logo="https://lo1.in/exyu/arensp6.png" group-title="",EXYU| ARENA SPORT 6 HD HR
 http://extraott.com:900/live/3162523972/3791698850/373389.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="EXYU| ARENA SPORT 6 HD HR [BK]" tvg-logo="https://lo1.in/exyu/arensp1.png" group-title="EXYU SPORTS",EXYU| ARENA SPORT 6 HD HR [BK]
-http://extraott.com:900/live/3162523972/3791698850/401458770.m3u8
-#EXTINF:-1 tvg-id="arenasport7.rs" tvg-name="EXYU| ARENA SPORT 7 HD HR" tvg-logo="https://lo1.in/exyu/arenasp7.png" group-title="EXYU SPORTS",EXYU| ARENA SPORT 7 HD HR
+#EXTINF:-1 tvg-id="arenasport7.rs" tvg-name="EXYU| ARENA SPORT 7 HD HR" tvg-logo="https://lo1.in/exyu/arenasp7.png" group-title="",EXYU| ARENA SPORT 7 HD HR
 http://extraott.com:900/live/3162523972/3791698850/400269199.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="EXYU| ARENA SPORT 7 HD HR [BK]" tvg-logo="https://lo1.in/exyu/arensp1.png" group-title="EXYU SPORTS",EXYU| ARENA SPORT 7 HD HR [BK]
-http://extraott.com:900/live/3162523972/3791698850/401458769.m3u8
-#EXTINF:-1 tvg-id="arenasport8.rs" tvg-name="EXYU| ARENA SPORT 8 HD HR" tvg-logo="https://lo1.in/exyu/arensp8.png" group-title="EXYU SPORTS",EXYU| ARENA SPORT 8 HD HR
+
+#EXTINF:-1 tvg-id="arenasport8.rs" tvg-name="EXYU| ARENA SPORT 8 HD HR" tvg-logo="https://lo1.in/exyu/arensp8.png" group-title="",EXYU| ARENA SPORT 8 HD HR
 http://extraott.com:900/live/3162523972/3791698850/400269198.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="EXYU| ARENA SPORT 8 HD HR [BK]" tvg-logo="https://lo1.in/exyu/arensp1.png" group-title="EXYU SPORTS",EXYU| ARENA SPORT 8 HD HR [BK]
-http://extraott.com:900/live/3162523972/3791698850/401458768.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="EXYU| ARENA SPORT 9 HD HR" tvg-logo="https://lo1.in/exyu/arensp9.png" group-title="EXYU SPORTS",EXYU| ARENA SPORT 9 HD HR
+
+#EXTINF:-1 tvg-id="" tvg-name="EXYU| ARENA SPORT 9 HD HR" tvg-logo="https://lo1.in/exyu/arensp9.png" group-title="",EXYU| ARENA SPORT 9 HD HR
 http://extraott.com:900/live/3162523972/3791698850/400269197.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="EXYU| ARENA SPORT 9 HD HR [BK]" tvg-logo="https://lo1.in/exyu/arensp1.png" group-title="EXYU SPORTS",EXYU| ARENA SPORT 9 HD HR [BK]
-http://extraott.com:900/live/3162523972/3791698850/401458767.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="EXYU| ARENA SPORT 10 HD HR" tvg-logo="https://lo1.in/exyu/arenasp10.png" group-title="EXYU SPORTS",EXYU| ARENA SPORT 10 HD HR
+
+#EXTINF:-1 tvg-id="" tvg-name="EXYU| ARENA SPORT 10 HD HR" tvg-logo="https://lo1.in/exyu/arenasp10.png" group-title="",EXYU| ARENA SPORT 10 HD HR
 http://extraott.com:900/live/3162523972/3791698850/400269196.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="EXYU| ARENA SPORT 10 HD HR [BK]" tvg-logo="https://lo1.in/exyu/arensp1.png" group-title="EXYU SPORTS",EXYU| ARENA SPORT 10 HD HR [BK]
-http://extraott.com:900/live/3162523972/3791698850/401458766.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="EXYU| ARENA SPORT 1 HD BIH" tvg-logo="https://lo1.in/exyu/arensp1.png" group-title="EXYU SPORTS",EXYU| ARENA SPORT 1 HD BIH
-http://extraott.com:900/live/3162523972/3791698850/373771.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="EXYU| ARENA SPORT 1 HD BIH [BK]" tvg-logo="https://lo1.in/exyu/arensp1.png" group-title="EXYU SPORTS",EXYU| ARENA SPORT 1 HD BIH [BK]
-http://extraott.com:900/live/3162523972/3791698850/401458765.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="EXYU| ARENA SPORT 2 HD BIH" tvg-logo="https://lo1.in/exyu/arensp2.png" group-title="EXYU SPORTS",EXYU| ARENA SPORT 2 HD BIH
-http://extraott.com:900/live/3162523972/3791698850/46572.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="EXYU| ARENA SPORT 3 HD BIH" tvg-logo="https://lo1.in/exyu/arensp3.png" group-title="EXYU SPORTS",EXYU| ARENA SPORT 3 HD BIH
-http://extraott.com:900/live/3162523972/3791698850/46571.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="EXYU| ARENA SPORT 4 HD BIH" tvg-logo="https://lo1.in/exyu/arensp4.png" group-title="EXYU SPORTS",EXYU| ARENA SPORT 4 HD BIH
-http://extraott.com:900/live/3162523972/3791698850/46570.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="EXYU| ARENA SPORT 6 HD BIH" tvg-logo="https://lo1.in/exyu/arensp1.png" group-title="EXYU SPORTS",EXYU| ARENA SPORT 6 HD BIH
-http://extraott.com:900/live/3162523972/3791698850/401436902.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="EXYU| ARENA SPORT 5 HD BIH" tvg-logo="https://lo1.in/exyu/arensp1.png" group-title="EXYU SPORTS",EXYU| ARENA SPORT 5 HD BIH
-http://extraott.com:900/live/3162523972/3791698850/401436901.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="EXYU| ARENA SPORT 1 HD SLO" tvg-logo="https://lo1.in/exyu/flg.png" group-title="EXYU SPORTS",EXYU| ARENA SPORT 1 HD SLO
-http://extraott.com:900/live/3162523972/3791698850/121434.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="EXYU| ARENA SPORT 2 HD SLO" tvg-logo="https://lo1.in/exyu/flg.png" group-title="EXYU SPORTS",EXYU| ARENA SPORT 2 HD SLO
-http://extraott.com:900/live/3162523972/3791698850/121433.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="EXYU| ARENA SPORT 3 HD SLO" tvg-logo="https://lo1.in/exyu/arensp1.png" group-title="EXYU SPORTS",EXYU| ARENA SPORT 3 HD SLO
-http://extraott.com:900/live/3162523972/3791698850/401436894.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="EXYU| ARENA SPORT 4 HD SLO" tvg-logo="https://lo1.in/exyu/arensp1.png" group-title="EXYU SPORTS",EXYU| ARENA SPORT 4 HD SLO
-http://extraott.com:900/live/3162523972/3791698850/401436888.m3u8
+
+
+
+
 
 #EXTINF:-1 tvg-id="sportklubgolf.si" tvg-name="EXYU| SPORT KLUB GOLF HD" tvg-logo="https://lo1.in/exyu/spklglf.png" group-title="EXYU SPORTS",EXYU| SPORT KLUB GOLF HD
 http://extraott.com:900/live/3162523972/3791698850/174277.m3u8
-#EXTINF:-1 tvg-id="sportklubhd.hr" tvg-name="EXYU| SPORT KLUB HD" tvg-logo="https://lo1.in/exyu/spkl.png" group-title="EXYU SPORTS",EXYU| SPORT KLUB HD
+#EXTINF:-1 tvg-id="sportklubhd.hr" tvg-name="EXYU| SPORT KLUB HD" tvg-logo="https://lo1.in/exyu/spkl.png" group-title="",EXYU| SPORT KLUB HD
 http://extraott.com:900/live/3162523972/3791698850/174278.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="EXYU| SPORT KLUB FIGHT" tvg-logo="https://lo1.in/exyu/spkl.png" group-title="EXYU SPORTS",EXYU| SPORT KLUB FIGHT
+#EXTINF:-1 tvg-id="" tvg-name="EXYU| SPORT KLUB FIGHT" tvg-logo="https://lo1.in/exyu/spkl.png" group-title="",EXYU| SPORT KLUB FIGHT
 http://extraott.com:900/live/3162523972/3791698850/42849.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="EXYU| SPORT KLUB ESPORT HD SR" tvg-logo="https://lo1.in/exyu/spkl.png" group-title="EXYU SPORTS",EXYU| SPORT KLUB ESPORT HD SR
+#EXTINF:-1 tvg-id="" tvg-name="EXYU| SPORT KLUB ESPORT HD SR" tvg-logo="https://lo1.in/exyu/spkl.png" group-title="",EXYU| SPORT KLUB ESPORT HD SR
 http://extraott.com:900/live/3162523972/3791698850/42848.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="EXYU| ARENA SPORT 1X2 HD SR" tvg-logo="https://lo1.in/exyu/arensp12.png" group-title="EXYU SPORTS",EXYU| ARENA SPORT 1X2 HD SR
+#EXTINF:-1 tvg-id="" tvg-name="EXYU| ARENA SPORT 1X2 HD SR" tvg-logo="https://lo1.in/exyu/arensp12.png" group-title="",EXYU| ARENA SPORT 1X2 HD SR
 http://extraott.com:900/live/3162523972/3791698850/42844.m3u8
-#EXTINF:-1 tvg-id="sportklub1.rs" tvg-name="EXYU| SPORT KLUB 1 FHD SR [ LIVE EVENTS ]" tvg-logo="https://lo1.in/exyu/spkl1.png" group-title="EXYU SPORTS",EXYU| SPORT KLUB 1 FHD SR [ LIVE EVENTS ]
-http://extraott.com:900/live/3162523972/3791698850/116020.m3u8
-#EXTINF:-1 tvg-id="sportklub2.rs" tvg-name="EXYU| SPORT KLUB 2 FHD SR [ LIVE EVENTS ]" tvg-logo="https://lo1.in/exyu/spkl2.png" group-title="EXYU SPORTS",EXYU| SPORT KLUB 2 FHD SR [ LIVE EVENTS ]
-http://extraott.com:900/live/3162523972/3791698850/116021.m3u8
-#EXTINF:-1 tvg-id="sportklub3.rs" tvg-name="EXYU| SPORT KLUB 3 FHD SR [ LIVE EVENTS ]" tvg-logo="https://lo1.in/exyu/spkl3.png" group-title="EXYU SPORTS",EXYU| SPORT KLUB 3 FHD SR [ LIVE EVENTS ]
-http://extraott.com:900/live/3162523972/3791698850/116022.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="EXYU| SPORT KLUB 4 HD SR [ LIVE EVENTS ]" tvg-logo="https://lo1.in/exyu/spkl4.png" group-title="EXYU SPORTS",EXYU| SPORT KLUB 4 HD SR [ LIVE EVENTS ]
-http://extraott.com:900/live/3162523972/3791698850/42847.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="EXYU| SPORT KLUB 5 HD SR [ LIVE EVENTS ]" tvg-logo="https://lo1.in/exyu/spkl5.png" group-title="EXYU SPORTS",EXYU| SPORT KLUB 5 HD SR [ LIVE EVENTS ]
-http://extraott.com:900/live/3162523972/3791698850/42846.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="EXYU| SPORT KLUB 6 HD SR [ LIVE EVENTS ]" tvg-logo="https://lo1.in/exyu/spkl6.png" group-title="EXYU SPORTS",EXYU| SPORT KLUB 6 HD SR [ LIVE EVENTS ]
-http://extraott.com:900/live/3162523972/3791698850/42845.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="EXYU| SPORT KLUB 7 HD SR" tvg-logo="https://lo1.in/exyu/spkl.png" group-title="EXYU SPORTS",EXYU| SPORT KLUB 7 HD SR
-http://extraott.com:900/live/3162523972/3791698850/401436900.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="EXYU| SPORT KLUB 8 HD SR" tvg-logo="https://lo1.in/exyu/spkl.png" group-title="EXYU SPORTS",EXYU| SPORT KLUB 8 HD SR
-http://extraott.com:900/live/3162523972/3791698850/401436899.m3u8
+
+
 #EXTINF:-1 tvg-id="sportklub1.si" tvg-name="EXYU| SPORT KLUB 1 HD HR" tvg-logo="https://lo1.in/exyu/spkl1.png" group-title="EXYU SPORTS",EXYU| SPORT KLUB 1 HD HR
 http://extraott.com:900/live/3162523972/3791698850/374716.m3u8
 #EXTINF:-1 tvg-id="sportklub2.si" tvg-name="EXYU| SPORT KLUB 2 HD HR" tvg-logo="https://lo1.in/exyu/spkl2.png" group-title="EXYU SPORTS",EXYU| SPORT KLUB 2 HD HR
@@ -2982,20 +2895,7 @@ http://extraott.com:900/live/3162523972/3791698850/174276.m3u8
 http://extraott.com:900/live/3162523972/3791698850/121446.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="EXYU| SPORT KLUB 10 (HR)" tvg-logo="https://lo1.in/exyu/flg.png" group-title="EXYU SPORTS",EXYU| SPORT KLUB 10 (HR)
 http://extraott.com:900/live/3162523972/3791698850/121445.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="EXYU| SPORT KLUB HD SLO" tvg-logo="https://lo1.in/exyu/spkl.png" group-title="EXYU SPORTS",EXYU| SPORT KLUB HD SLO
-http://extraott.com:900/live/3162523972/3791698850/401436877.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="EXYU| SPORT KLUB 1 HD SLO" tvg-logo="https://lo1.in/exyu/spkl1.png" group-title="EXYU SPORTS",EXYU| SPORT KLUB 1 HD SLO
-http://extraott.com:900/live/3162523972/3791698850/401423029.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="EXYU| SPORT KLUB 2 HD SLO" tvg-logo="https://lo1.in/exyu/spkl2.png" group-title="EXYU SPORTS",EXYU| SPORT KLUB 2 HD SLO
-http://extraott.com:900/live/3162523972/3791698850/401423028.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="EXYU| SPORT KLUB 3 HD SLO" tvg-logo="https://lo1.in/exyu/spkl3.png" group-title="EXYU SPORTS",EXYU| SPORT KLUB 3 HD SLO
-http://extraott.com:900/live/3162523972/3791698850/401423027.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="EXYU| SPORT KLUB 4 HD SLO" tvg-logo="https://lo1.in/exyu/spkl4.png" group-title="EXYU SPORTS",EXYU| SPORT KLUB 4 HD SLO
-http://extraott.com:900/live/3162523972/3791698850/401423026.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="EXYU| SPORT KLUB 5 HD SLO" tvg-logo="https://lo1.in/exyu/spkl.png" group-title="EXYU SPORTS",EXYU| SPORT KLUB 5 HD SLO
-http://extraott.com:900/live/3162523972/3791698850/401436871.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="EXYU| SPORT KLUB 6 HD SLO" tvg-logo="https://lo1.in/exyu/spkl.png" group-title="EXYU SPORTS",EXYU| SPORT KLUB 6 HD SLO
-http://extraott.com:900/live/3162523972/3791698850/401436870.m3u8
+
 
 #EXTINF:-1 tvg-id="beinsportsnewsar.qa" tvg-name="AR| BEIN SPORTS NEWS HD" tvg-logo="https://lo1.in/bss/bsnews.png" group-title="BEIN SPORTS HD",AR| BEIN SPORTS NEWS HD
 http://extraott.com:900/live/3162523972/3791698850/58.m3u8
