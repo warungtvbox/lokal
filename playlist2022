@@ -402,7 +402,135 @@ https://c.mjh.nz/abc-me.m3u8
 https://c.mjh.nz/abc-kids.m3u8
 #EXTINF:-1   tvg-logo="https://i.imgur.com/vbV0KKG.jpg" group-title="Kids"",Kids Pang TV
 https://494e639cacb24ad484819d7154a3f100.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Plex_KidsPangTV/playlist.m3u8?ads.wurl_channel=841&ads.wurl_name=KidsPangTV&ads.coppa=1&ads.us_privacy=1---&ads.psid=62274240-07e7-5d94-8dc8-ef68cf19e175&ads.targetopt=0&ads.plex_token=JoNYGj1bF5swTq531QQg&ads.plex_id=60d4eddfb2fdec002c141139&ads.ua=okhttp%2F4.9.0&ads.app_bundle=com.plexapp.android&ads.app_store_url=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.plexapp.android&ads.gdpr=0&ads.consent=0&ads.device_type=handset&ads.device_id_type=
-
+#EXTINF:-1 tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://iili.io/JmoBj8g.png" group-title="Kids" tvg-id="" , Cartoon Network
+http://730068572688.cdn-eag.com:80/live/38:68:a4:35:35:04/3oyj4rbfty/1163723.ts
+#EXTINF:-1 tvg-url="" tvg-logo="https://m.media-amazon.com/images/I/619qCgk86YL._AC_UF894,1000_QL80_FMwebp_.jpg" group-title="Kids" tvg-id="" , RICK AND MORTY
+http://fortv.cc:8080/live/70453597/56651433/66302.ts
+#EXTINF:-1 tvg-url="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Universal_Kids_2019_Logo.svg/1600px-Universal_Kids_2019_Logo.svg.png" group-title="Kids" tvg-id="" , UNIVERSAL KIDS
+http://extraott.com:900/live/9708461610/1164158489/176800.ts
+#EXTINF:-1 tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://iili.io/JmoBj8g.png" group-title="Kids" tvg-id="" , DragonBall Z
+http://xxip9.top:8080/live/Gizvid192@giz.com/1234@4321/79572.ts
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YzZhZjI1NjMtYzEzYy0zYjkyLTg0Y2MtNmEwOTg0NDk5MTJm
+#EXTINF:-1 tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://iili.io/Jmo2ycG.png" group-title="Kids" tvg-id="ANIMAX - [Channel 472].id" , ANIMAX
+http://730068572688.cdn-eag.com:80/live/38:68:a4:35:35:04/3oyj4rbfty/1165775.ts
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YzZhZjI1NjMtYzEzYy0zYjkyLTg0Y2MtNmEwOTg0NDk5MTJm
+#EXTINF:-1 tvg-id="Dreamworks - [Channel 47].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_47.png" group-title="Kids",Dreamworks
+http://730068572688.cdn-eag.com:80/live/38:68:a4:35:35:04/3oyj4rbfty/1165803.ts
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YzZhZjI1NjMtYzEzYy0zYjkyLTg0Y2MtNmEwOTg0NDk5MTJm
+#EXTINF:-1 tvg-id="CBeebies - [Channel 41].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://iili.io/JmoBN9a.png" group-title="Kids",Cbeebies
+http://730068572688.cdn-eag.com:80/live/38:68:a4:35:35:04/3oyj4rbfty/1163727.ts
+#EXTINF:-1 tvg-id="My Kidz - [Channel 50].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://iili.io/JmoB1ZQ.png" group-title="Kids",MyKids
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
+http://rr3.dens.tv/h/h191/index.m3u8
+#EXTINF:-1  group-title="Kids" tvg-logo="https://iili.io/Jmo2bPn.png", ANIPLUS
+https://op-group1-swiftservehd-1.dens.tv/h/h201/02.m3u8?app_type=web&userid=lite&chname=ANIPLUS
+#EXTINF:-1  group-title="Kids" tvg-logo="https://i.ibb.co.com/c7L4Kb9/Download.png",Biznet kids
+http://livestream.biznetvideo.net/biznet_kids/smil:kids.smil/manifest.mpd
+#EXTINF:-1  group-title="Kids" tvg-logo="https://i.ibb.co.com/c7L4Kb9/Download.png",3ABN kids
+https://3abn.bozztv.com/3abn2/Kids_live/smil:Kids_live.smil/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YzZhZjI1NjMtYzEzYy0zYjkyLTg0Y2MtNmEwOTg0NDk5MTJm
+#EXTINF:-1 tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://iili.io/JmoBGnV.png" group-title="Kids" tvg-id="Nick Jr. HD - [Channel 472].id" , Nick Jr
+http://730068572688.cdn-eag.com:80/live/38:68:a4:35:35:04/3oyj4rbfty/1165852.ts
+#EXTINF:-1 tvg-url="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Nicktoons_2023_Outlined_Logo.png/1409px-Nicktoons_2023_Outlined_Logo.png" group-title="Kids" tvg-id="Nicktoons", Nicktoons
+http://730068572688.cdn-eag.com:80/live/38:68:a4:35:35:04/3oyj4rbfty/138661.ts
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YzZhZjI1NjMtYzEzYy0zYjkyLTg0Y2MtNmEwOTg0NDk5MTJm
+#EXTINF:-1 tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://p1.hiclipart.com/preview/675/274/402/nickelodeon-logo-recreation-png-clipart.jpg" group-title="Kids" tvg-id="Nickelodeon - [Channel 49].id", Nickelodeon
+http://730068572688.cdn-eag.com:80/live/38:68:a4:35:35:04/3oyj4rbfty/30370.ts
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
+#EXTINF:-1 tvg-id="Zoomoo - [Channel 39].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://iili.io/JmoBV6P.png" group-title="Kids",ZooMoo
+http://730068572688.cdn-eag.com:80/live/38:68:a4:35:35:04/3oyj4rbfty/1165881.ts
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCologOQx9m5RDnV3XVEHiOjLX-L__R2Th4qJ5j6_LnEE2tho0tlIwO_E&s=10" group-title="Kids",Chu Chu TV
+http://opplex.tv:8080/live/tasin7879/tasin7880/301502.ts
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0e/HOREE_logo.png/revision/latest?cb=20180705160440" group-title="Kids",Horee
+http://filex.tv:8080/live/aftab123/004090/302257.ts
+#EXTINF:-1 tvg-logo="https://iili.io/JmoB0wx.png" group-title="Kids",VTV
+#EXTVLCOPT:http-user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3 
+https://flv.intechmedia.net/live/ch107.m3u8
+#EXTINF:-1 tvg-logo="https://iili.io/JmoB4cX.png" group-title="Kids", Mentari
+https://cdn08jtedge.indihometv.com/dassdvr/134/mentaritv/manifest.mpd|referrer=https://www.indihometv.com/
+#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2023/01/PBS-Kids-Logo-2009.png" group-title="Kids", PBS Kids
+https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://drmid.layarkacatv.me&user-agent=CubMu/1.5.9 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Boomerang_2014_logo.svg/600px-Boomerang_2014_logo.svg.png" group-title="Kids", BOOMERANG
+http://730068572688.cdn-eag.com:80/live/38:68:a4:35:35:04/3oyj4rbfty/138656.ts
+#EXTINF:-1 tvg-logo="https://iili.io/JmoB0wx.png" group-title="Kids", Moonbug Kids
+https://moonbug-rokuus.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://png.pngitem.com/pimgs/s/198-1981598_logopedia10-comedy-central-tv-logo-hd-png-download.png" group-title="Kids",Comedy Central
+http://filex.tv:8080/live/aftab123/004090/290925.ts
+#EXTINF:-1 tvg-id="PlutoTVDoraTV.us" tvg-name="Peppa pig" tvg-country="US" tvg-language="English" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHJ1h-cQLAOFPhPagu5vN5gKoPIxK4sFub7g&s" group-title="Kids",Peppa Pig
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d14fb6c84dd37df3b4290c5/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=985&deviceId=5d14fb6c84dd37df3b4290c5&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/M5jSmyKf/Astro-Ceria-2024.png" group-title="Kids",Astro Ceria
+http://730068572688.cdn-eag.com:80/live/38:68:a4:35:35:04/3oyj4rbfty/1163670.ts
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
+#EXTINF:-1 tvg-id="Kids Station - [Channel 47].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://static.wikia.nocookie.net/pokemon/images/7/79/Kids_Station.png/revision/latest?cb=20200321032417" group-title="
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://cubum.iptvgo.workers.dev/
+#EXTINF:-1 tvg-id="Toon Google" tvg-url="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOQcSi1PnzMKpNYuJNEO7QtgZK_gCOIak5t55C7ZetzQ&s" group-title="Kids",Toon Google
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=36
+#EXTINF:-1 tvg-logo="https://logosenvector.com/logo/img/disney-plus-4511.jpg" group-title="Kids",Disney XD
+http://xxip9.top:8080/live/Gizvid192@giz.com/1234@4321/57420.ts
+#EXTINF:-1 tvg-logo="https://logosenvector.com/logo/img/disney-plus-4511.jpg" group-title="Kids",Disney JR
+http://xxip9.top:8080/live/Gizvid192@giz.com/1234@4321/41960.ts
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdYi1mZm4ficvXs6ZAxGz_fTiFOSEbKVC0hPrpvHzBDA3OkB2zzsgbEVQ&s=10" group-title="Kids",Discovery Family
+http://filex.tv:8080/live/aftab123/004090/291676.ts
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdYi1mZm4ficvXs6ZAxGz_fTiFOSEbKVC0hPrpvHzBDA3OkB2zzsgbEVQ&s=10" group-title="Kids",Discovery Kids
+http://p2.hostinggonemoreso1.com:2082/xplus-2-VtqagC1BG9/L3SqBxVsod/349
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdYi1mZm4ficvXs6ZAxGz_fTiFOSEbKVC0hPrpvHzBDA3OkB2zzsgbEVQ&s=10" group-title="Kids",Xmas Cartoon
+http://goldenpro.xyz:80/live/ArianitHaxhiu/96BTC46/1124857.ts
+#EXTINF:-1 tvg-id="Dunia anak" tvg-logo="https://www.lyngsat.com/logo/tv/dd/dunia_anak_id.png" group-title="Kids", DUNIA ANAK
+http://filex.tv:8080/live/aftab123/004090/302237.ts
+#EXTINF:-1 channel-id="" tvg-id="" tvg-logo="https://iili.io/JmoBSMN.png" group-title="Kids", FUN PLANET
+http://filex.tv:8080/live/aftab123/004090/246775.ts
+#EXTINF:-1 channel-id="" tvg-id="" tvg-logo="https://cdn.kidspass.co.uk/images/offers/30669/image1.jpg" group-title="Kids", RAKUTEN KIDS
+https://rakuten-family-12-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 channel-id="" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJ7PV1JKH55uImyhivHmlN4kSYsPiZpohXoc__2w3TwOeI13VzTyMLaBc&s=10" group-title="Kids", Disney Channel
+http://filex.tv:8080/live/aftab123/004090/290708.ts
+#EXTINF:-1 channel-id="" tvg-id="" tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/12f5712d-1535-4d60-a967-e7d5e3c1902f/dhn7lxl-f4d997db-329a-4479-9f3d-c1e0bc746c2f.png/v1/fit/w_750,h_320/star_kids_logo__2001_2002__by_adrick00_dhn7lxl-375w-2x.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NTQ1IiwicGF0aCI6IlwvZlwvMTJmNTcxMmQtMTUzNS00ZDYwLWE5NjctZTdkNWUzYzE5MDJmXC9kaG43bHhsLWY0ZDk5N2RiLTMyOWEtNDQ3OS05ZjNkLWMxZTBiYzc0NmMyZi5wbmciLCJ3aWR0aCI6Ijw9MTI4MCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.tMyJeS8SwyXBXy1ca8n2HOZ57BMJ69ZuAVNODbxuYdo" group-title="Kids", Starzkids
+http://filex.tv:8080/live/aftab123/004090/290987.ts
+#EXTINF:-1 channel-id="" tvg-id="" tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/12f5712d-1535-4d60-a967-e7d5e3c1902f/dhn7lxl-f4d997db-329a-4479-9f3d-c1e0bc746c2f.png/v1/fit/w_750,h_320/star_kids_logo__2001_2002__by_adrick00_dhn7lxl-375w-2x.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NTQ1IiwicGF0aCI6IlwvZlwvMTJmNTcxMmQtMTUzNS00ZDYwLWE5NjctZTdkNWUzYzE5MDJmXC9kaG43bHhsLWY0ZDk5N2RiLTMyOWEtNDQ3OS05ZjNkLWMxZTBiYzc0NmMyZi5wbmciLCJ3aWR0aCI6Ijw9MTI4MCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.tMyJeS8SwyXBXy1ca8n2HOZ57BMJ69ZuAVNODbxuYdo" group-title="Kids", Starkids movie
+http://extraott.com:900/live/9708461610/1164158489/176837.ts
+#EXTINF:-1 channel-id="" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxjAWG4sNb-Doe7QAwdZvq7YVdMrgC_e_TkA&usqp=CAU" group-title="Kids", Kids movie 1
+http://xtvplayer.top:8080/live/rana-aftab/rana2023/363000.ts
+#EXTINF:-1 channel-id="" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxjAWG4sNb-Doe7QAwdZvq7YVdMrgC_e_TkA&usqp=CAU" group-title="Kids", Kids movie 2
+http://xtvplayer.top:8080/live/rana-aftab/rana2023/363001.ts
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YzZhZjI1NjMtYzEzYy0zYjkyLTg0Y2MtNmEwOTg0NDk5MTJm
+#EXTINF:-1 tvg-id="Dreamworks - [Channel 47].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_47.png" group-title="Kids",KidsTV
+http://730068572688.cdn-eag.com:80/live/38:68:a4:35:35:04/3oyj4rbfty/1165828.ts
+#EXTINF:-1 channel-id="" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlQtRSoWaEpjWzYpQXp4PuQKu9OtiHG05rZQ&usqp=CAU" group-title="Kids", Mr. Bean
+http://extraott.com:900/live/9708461610/1164158489/400649526.ts
+#EXTINF:-1 channel-id="" tvg-id="" tvg-logo="https://i.ibb.co.com/wZpzK88Q/images.png" group-title="Kids", Spacetoon
+https://shls-spacetoon-prod-dub.shahid.net/out/v1/6240b773a3f34cca95d119f9e76aec02/index.m3u8
+#EXTVLCOPT:http-referrer=https://www.dens.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 ------------------------------------------------------------------------------------------------------------------------------
 
 #EXTINF:-1   tvg-logo="https://i.imgur.com/vbV0KKG.jpg" group-title="Kids",Nick Pluto TV
@@ -704,6 +832,87 @@ http://activefrance.net:80/live/F17103C21112C14/xJYbCkwLRR/1052584.ts
 http://watchindia.net:8880/live/72144/41454/2101.ts
 #EXTINF:-1 group-title="Movies" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1c/Sony_Movies_2019_%28Print%29.png/revision/latest?cb=20190917082854", SONY MOVIE
 http://xxip9.top:8080/live/Gizvid192@giz.com/1234@4321/2214.ts
+#EXTINF:-1 group-title="Movies" tvg-logo="https://i.ibb.co.com/km8bKsQ/Black-and-White-Circle-Business-Logo-20241224-195342-0000.jpg", m-net movie
+http://opplex.tv:8080/live/mother/mother/238569.ts
+#EXTINF:-1 tvg-id="Movie Now" tvg-logo="https://i.ibb.co.com/km8bKsQ/Black-and-White-Circle-Business-Logo-20241224-195342-0000.jpg" group-title="Movies",Movie Now
+http://watchindia.net:8880/live/72144/41454/2102.ts
+#EXTINF:-1 tvg-id="Studio Universal" tvg-logo="https://i.ibb.co.com/km8bKsQ/Black-and-White-Circle-Business-Logo-20241224-195342-0000.jpg" group-title="Movies", Studio Universal
+http://730068572688.cdn-eag.com:80/live/38:68:a4:35:35:04/3oyj4rbfty/138631.ts
+#EXTINF:-1 tvg-id="Universal" tvg-logo="https://i.ibb.co.com/km8bKsQ/Black-and-White-Circle-Business-Logo-20241224-195342-0000.jpg" group-title="Movies", Universal
+http://730068572688.cdn-eag.com:80/live/38:68:a4:35:35:04/3oyj4rbfty/265813.ts
+#EXTINF:-1 tvg-id="Universal" tvg-logo="https://i.ibb.co.com/km8bKsQ/Black-and-White-Circle-Business-Logo-20241224-195342-0000.jpg" group-title="Movies", HDNEt 
+http://xxip9.top:8080/live/Gizvid192@giz.com/1234@4321/16265.ts
+#EXTINF:-1 tvg-logo="https://iili.io/Jmnpha2.png" group-title="Movies",AMC
+http://watchindia.net:8880/live/72144/41454/2043.ts
+#EXTINF:-1 tvg-logo="https://iili.io/Jmnpha2.png" group-title="Movies",AMC thrillers
+http://xxip9.top:8080/live/Gizvid192@giz.com/1234@4321/66243.ts
+#EXTINF:-1 group-title="Movies"  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzNF6YbJr5SLxS24JYTAZZldaVSY02wLiEa7vGOmkL09oScESwTgF0B6Y&s=10",BLACK CINEMA
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/58af4c093a41ca9d4ecabe96/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c271cb5-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=93605d96-6c9d-457d-a2b4-d26d07474db9
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Movies" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/fav-icon.png" tvg-logo="https://i.ibb.co.com/km8bKsQ/Black-and-White-Circle-Business-Logo-20241224-195342-0000.jpg",CIRCLE
+http://afn4t.nicsew.xyz:80/live/te43148/Aj7AYPMJWv/1032025.ts
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Movies" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/fav-icon.png" tvg-logo="https://logowik.com/content/uploads/images/comet-tv1460.jpg",COMET
+http://Supersonictv.live:8080/live/006779/439866/22066.ts
+#EXTINF:-1 tvg-id="ComedyCentralEast.us" tvg-logo="https://iili.io/doKLV87.png" group-title="Movies",Comedy Central
+http://fl3.moveonjoy.com/Comedy_Central/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Movies" tvg-logo="https://blog.solidsignal.com/wp-content/uploads/2020/04/epix-logo-v2.png",EPIX
+http://xxip9.top:8080/live/Gizvid192@giz.com/1234@4321/13214.ts
+#EXTINF:-1 group-title="Movies"  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTf9QFkUY-QJZFXrGtdrMxHZSLk1LxaO-PvMA&usqp=CAU",& FLIK
+http://watchindia.net:8880/live/72144/41454/2088.ts
+#EXTINF:-1 group-title="Movies"  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTf9QFkUY-QJZFXrGtdrMxHZSLk1LxaO-PvMA&usqp=CAU",& FRIVE
+http://watchindia.net:8880/live/72144/41454/2103.ts
+#EXTINF:-1 group-title="Movies" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmFJbRKBem3i_T_OSaZvO8s0riWfOlfkYR1A&usqp=CAU",FXM
+http://opplex.tv:8080/live/mother/mother/346559.ts
+#EXTINF:-1 group-title="Movies" tvg-logo="https://i.ibb.co.com/km8bKsQ/Black-and-White-Circle-Business-Logo-20241224-195342-0000.jpg", m-net movie
+http://opplex.tv:8080/live/mother/mother/238569.ts
+#EXTINF:-1 tvg-id="Movie Now" tvg-logo="https://i.ibb.co.com/km8bKsQ/Black-and-White-Circle-Business-Logo-20241224-195342-0000.jpg" group-title="Movies",Movie Now
+http://watchindia.net:8880/live/72144/41454/2102.ts
+#EXTINF:-1 tvg-id="Studio Universal" tvg-logo="https://i.ibb.co.com/km8bKsQ/Black-and-White-Circle-Business-Logo-20241224-195342-0000.jpg" group-title="Movies", Studio Universal
+http://730068572688.cdn-eag.com:80/live/38:68:a4:35:35:04/3oyj4rbfty/138631.ts
+#EXTINF:-1 tvg-id="Universal" tvg-logo="https://i.ibb.co.com/km8bKsQ/Black-and-White-Circle-Business-Logo-20241224-195342-0000.jpg" group-title="Movies", Universal
+http://730068572688.cdn-eag.com:80/live/38:68:a4:35:35:04/3oyj4rbfty/265813.ts
+#EXTINF:-1 tvg-id="Universal" tvg-logo="https://i.ibb.co.com/km8bKsQ/Black-and-White-Circle-Business-Logo-20241224-195342-0000.jpg" group-title="Movies", HDNEt 
+http://xxip9.top:8080/live/Gizvid192@giz.com/1234@4321/16265.ts
+#EXTINF:-1 group-title="Movies" tvg-id="" tvg-url="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQL-jhFX1Y-ZjAh0C0FLDekh8fRAkbhTDpz8Q&usqp=CAU",IQIYI
+http://opplex.tv:8080/live/mother/mother/388720.ts
+#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://i.ibb.co.com/km8bKsQ/Black-and-White-Circle-Business-Logo-20241224-195342-0000.jpg" group-title="Movies",MoviesMax
+http://xxip9.top:8080/live/Gizvid192@giz.com/1234@4321/13480.ts
+#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://i.ibb.co.com/km8bKsQ/Black-and-White-Circle-Business-Logo-20241224-195342-0000.jpg" group-title="Movies",MoviesPlex
+http://xxip9.top:8080/live/Gizvid192@giz.com/1234@4321/1829.ts
+#EXTINF:-1 tvg-id="My Kidz - [Channel 15].id" tvg-url="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0sObd63wB7iUePtauDQ7DSXMDctxjHtLxjw&usqp=CAU" group-title="Movies",Peacock
+http://defaultgen.com:3050/live/JSteen0824/ffusRGRFwx/567192.ts
+#EXTINF:-1 tvg-id="My Cinema" tvg-url="" tvg-logo="https://i.ibb.co.com/km8bKsQ/Black-and-White-Circle-Business-Logo-20241224-195342-0000.jpg" group-title="Movies",Thrillermax
+http://xxip9.top:8080/live/Gizvid192@giz.com/1234@4321/17774.ts
+#EXTINF:-1 tvg-id="My Cinema" tvg-url="" tvg-logo="https://i.ibb.co.com/km8bKsQ/Black-and-White-Circle-Business-Logo-20241224-195342-0000.jpg" group-title="Movies",Showtime
+http://xxip9.top:8080/live/Gizvid192@giz.com/1234@4321/46214.ts
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Movies" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c1/Wowow_cinema.jpg/revision/latest/scale-to-width-down/250?cb=20200215065059",Wowow Cinema
+https://stream01.willfonk.com/live_playlist.m3u8?cid=BS193&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+#EXTINF:-1 tvg-id="USANetworkWest.us" tvg-logo="https://iili.io/Jmo3RoP.png" group-title="Movies",USA Network
+http://730068572688.cdn-eag.com:80/live/38:68:a4:35:35:04/3oyj4rbfty/13099.ts
+#EXTINF:-1 tvg-id="UNIVERSO (East)" tvg-logo="https://iili.io/dxjZc79.png" group-title="Movies",Universo
+http://730068572688.cdn-eag.com:80/live/38:68:a4:35:35:04/3oyj4rbfty/279297.ts
+#EXTINF:-1  tvg-id="TNTEast.us" tvg-logo="https://iili.io/Jmo35V1.png" group-title="Movies",TNT
+http://fl2.moveonjoy.com/TNT/index.m3u8
+#EXTINF:-1 tvg-id="TBSEast.us" tvg-logo="https://iili.io/Jmo37iF.png" group-title="Movies",TBS
+http://xxip9.top:8080/live/Gizvid192@giz.com/1234@4321/20867.ts
+#EXTINF:-1 tvg-id="TNTEast.us" tvg-logo="https://static02.astro.com.my/astro/media/astromain/packagepromotion/astro_share_1.png" group-title="Movies",Astro Showcase movies
+http://activefrance.net:80/live/F17103C21112C14/xJYbCkwLRR/1052584.ts
+#EXTINF:-1 tvg-id="TBSEast.us" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/PIX%20SD.png" group-title="Movies",SONY FIX
+http://watchindia.net:8880/live/72144/41454/2101.ts
+#EXTINF:-1 group-title="Movies" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1c/Sony_Movies_2019_%28Print%29.png/revision/latest?cb=20190917082854", SONY MOVIE
+http://xxip9.top:8080/live/Gizvid192@giz.com/1234@4321/2214.ts
+#EXTINF:-1 tvg-id="Starz Cinema" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRi03FILhrtr6o4ewGq0iFZIIFrw6ckqDQK5TsovLT5wA&s" group-title="Movies",Starz Cinema
+http://xxip9.top:8080/live/Gizvid192@giz.com/1234@4321/17775.ts
+#EXTINF:-1 group-title="Movies" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/88/StarChannelHDLA.png/revision/latest/scale-to-width-down/250?cb=20221117162011", STARZ EDGE
+http://xxip9.top:8080/live/Gizvid192@giz.com/1234@4321/16143.ts
+#EXTINF:-1 tvg-id="SBS Tv" tvg-url="" tvg-logo="https://i.ibb.co.com/Yb83PQG/download.png" group-title="Movies",SBS world movies
+http://blazetv.link:8080/live/suewall480@gmail.com/DybqAY27DRdJ/857483.ts
+#EXTINF:-1 tvg-id="RAKUTEN TV" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS08Ee87qQ9brN3EHG_A2VaO_VmGAhI7BV4xbWvRn_cOMdoSjTu3og8MQ&s=10" group-title="Movies",RAKUTEN TV
+https://rakuten-family-1-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQECrTzkbAheo-hdeR9hzPhglZG8mB87NBSsw&usqp=CAU" group-title="Movies",Sky cinema action
+http://xxip9.top:8080/live/Gizvid192@giz.com/1234@4321/35254.ts
+#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQECrTzkbAheo-hdeR9hzPhglZG8mB87NBSsw&usqp=CAU" group-title="Movies",Sky cinema premier
+http://opplex.tv:8080/live/mother/mother/346337.ts
+
 
 
 <======================== HBOMax ==========================>
@@ -954,6 +1163,427 @@ http://178.33.224.197:1935/euroindiemusic/euroindiemusic/playlist.m3u8
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/kGXK0m4k/Screenshot-142.png" group-title="MUSIC",KurdMax Music
 http://31.14.40.139:1935/music/livestream/playlist.m3u8
 
+<======================= RADIO ===============================>
+#EXTINF:-1 tvg-logo="https://iili.io/Jmoy8T7.png" group-title="RADIO",Suara Kupang
+http://45.64.97.211:9506/;
+#EXTINF:-1 tvg-logo="https://iili.io/Jmx9QKG.png" group-title="RADIO",Elshinta Jakarta
+https://stream-ssl.arenastreaming.com:8000/jakarta
+#EXTINF:-1 tvg-logo="https://iili.io/JmoySj9.png" group-title="RADIO",Suara Surabaya
+https://c5.siar.us:443/proxy/ssfm/stream
+#EXTINF:-1 tvg-logo="https://iili.io/Jmx9ane.png" group-title="RADIO",Ardan Radio
+https://stream.rcs.revma.com/1q762wy5a9hvv
+#EXTINF:-1 tvg-logo="https://iili.io/Jmx9WAB.png" group-title="RADIO",B-Radio
+https://stream.rcs.revma.com/9s8q27svceuvv
+#EXTINF:-1 tvg-logo="https://iili.io/JmxHBRV.png" group-title="RADIO",Gen FM Jakarta
+https://wz.mari.co.id:1936/web_genfm/genfm/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://iili.io/JmxHCOB.png" group-title="RADIO",Gen FM Surabaya
+https://wz.mari.co.id:1936/web_genfmsby/gensbyic.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://iili.io/Jmopj5B.png" group-title="RADIO",PRFM
+https://radio.pikiran-rakyat.com/prfm
+#EXTINF:-1 tvg-logo="https://iili.io/JmopezF.png" group-title="RADIO",Radio Andika
+http://andikafm.onlivestreaming.net:1057/mount
+#EXTINF:-1 tvg-logo="https://iili.io/JmE7ae4.png" group-title="RADIO",City Guide 911 FM
+https://i.klikhost.com:8230/stream
+#EXTINF:-1 tvg-logo="https://iili.io/Jmom4te.png" group-title="RADIO",Mercury FM
+https://svara-stream.radioddns.net:8443/surabaya_mercuryfm-aac
+#EXTINF:-1 tvg-logo="https://iili.io/JmopJVa.png" group-title="RADIO",Most 1058
+https://wz.mari.co.id:1936/web_mostfm/mostfm/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://iili.io/JmophJV.png" group-title="RADIO",Prambors Radio
+https://playerservices.streamtheworld.com/api/livestream-redirect/PRAMBORS_FMAAC.aac?dist=onlineradiobox
+#EXTINF:-1 tvg-logo="https://iili.io/Jmx9vcv.png" group-title="RADIO",Delta FM
+https://stream.cloudmu.id/listen/delta_fm/stream?icy=http
+#EXTINF:-1 tvg-logo="https://iili.io/JmomnGj.png" group-title="RADIO",iRadio Jakarta
+https://stream.radiojar.com/4ywdgup3bnzuv
+#EXTINF:-1 tvg-logo="https://iili.io/JmomRu1.png" group-title="RADIO",Jak FM
+https://wz.mari.co.id:1936/web_jakfm/jakfm/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://iili.io/JmomPou.png" group-title="RADIO",Merdeka FM
+http://streaming.merdekafm.com:8020/;stream.nsv
+#EXTINF:-1 tvg-logo="https://iili.io/JmomtSV.png" group-title="RADIO",MNC Trijaya FM Jakarta
+http://202.147.199.101:8000/;
+#EXTINF:-1 tvg-logo="https://iili.io/Jmoyfqb.png" group-title="RADIO",Smart FM Jakarta
+https://cast2.my-control-panel.com/proxy/radioso3/stream
+#EXTINF:-1 tvg-logo="https://iili.io/Jmx9Ia4.png" group-title="RADIO",Voks Radio Bandung
+https://svara-stream.radioddns.net:8443/bandung_voksradio
+#EXTINF:-1 tvg-logo="https://iili.io/Jmoyq1j.png" group-title="RADIO",Smart FM Makassar
+https://cast2.my-control-panel.com/proxy/radios13/stream
+#EXTINF:-1 tvg-logo="https://iili.io/Jmopuff.png" group-title="RADIO",OZ Radio Bandung
+http://45.64.97.211:1031/;stream.nsv
+#EXTINF:-1 tvg-logo="https://iili.io/Jmomz3Q.png" group-title="RADIO",iRadio Bandung
+http://stream.radiojar.com/u6ppe6hswk8uv
+#EXTINF:-1 tvg-logo="https://iili.io/JmomIaV.png" group-title="RADIO",iRadio Makassar
+http://stream.radiojar.com/seqmzfeu5k8uv
+#EXTINF:-1 tvg-logo="https://iili.io/Jmx94tt.png" group-title="RADIO",EBS FM
+http://streaming.suzanafm.com:8100/;stream.nsv
+#EXTINF:-1 tvg-logo="https://iili.io/Jmx9iVn.png" group-title="RADIO",Elshinta Bandung
+https://stream-ssl.arenastreaming.com:8005/bandung
+#EXTINF:-1 tvg-logo="https://iili.io/Jmop4Jp.png" group-title="RADIO",Radio Maria
+https://dreamsiteradiocp2.com/proxy/rmindonesia2?mp=/stream
+#EXTINF:-1 tvg-logo="https://iili.io/Jmx9l6b.png" group-title="RADIO",Bahtera Yudha FM
+http://streaming.bahterayudhafm.com:8050/;stream.nsv
+#EXTINF:-1 tvg-logo="https://iili.io/JmoyHeS.png" group-title="RADIO",RPK
+http://rpkfm.indostreamserver.com:8028/;
+#EXTINF:-1 tvg-logo="https://iili.io/Jmoml6v.png" group-title="RADIO",Kharisma FM
+https://ssg.streamingmurah.com:8342/;
+#EXTINF:-1 tvg-logo="https://iili.io/JmopWUQ.png" group-title="RADIO",Prambors Makassar
+https://rust.mrngroup.co/listen/prambors_makasar/;
+#EXTINF:-1 tvg-logo="https://iili.io/JmomyDF.png" group-title="RADIO",MNC Trijaya FM Surabaya
+https://live.indostreamserver.com:10961/;listen.pls?sid=1
+#EXTINF:-1 tvg-logo="https://iili.io/JmomZcQ.png" group-title="RADIO",MNC Trijaya FM Bandung
+http://stream.radbdg.net:8000/sindoradio.mp3
+#EXTINF:-1 tvg-logo="https://iili.io/Jmoyc2R.png" group-title="RADIO",Sonora FM Jakarta
+http://cast1.my-control-panel.com/proxy/radioso1/stream
+#EXTINF:-1 tvg-logo="https://iili.io/Jmx97t9.png" group-title="RADIO",A-Radio
+https://a1.siar.us/radio/8270/radio.mp3
+#EXTINF:-1 tvg-logo="https://iili.io/Jmx9cMu.png" group-title="RADIO",Bahana FM
+https://stream.cloudmu.id/listen/bahana_fm
+#EXTINF:-1 tvg-logo="https://iili.io/Jmx91Fj.png" group-title="RADIO",Bali United FM
+https://c1.siar.us:10690/stream
+#EXTINF:-1 tvg-logo="https://iili.io/Jmx9Ecx.png" group-title="RADIO",Beat FM Bali
+http://fm.gemamedia.id/beatfm
+#EXTINF:-1 tvg-logo="https://iili.io/Jmx9V9V.png" group-title="RADIO",Bens Radio
+https://stream-047.zeno.fm/047dgsp3v68uv
+#EXTINF:-1 tvg-logo="https://iili.io/Jmx9XwP.png" group-title="RADIO",Brava Radio
+https://stream.radiojar.com/5k7t0rq3bnzuv
+#EXTINF:-1 tvg-logo="https://iili.io/Jmx9ht1.png" group-title="RADIO",C Radio
+https://stream.cradio.co.id/cradio.aac
+#EXTINF:-1 tvg-logo="https://iili.io/Jmx9NMg.png" group-title="RADIO",Celebrities Radio
+http://202.147.199.100:8000/;stream.nsv
+#EXTINF:-1 tvg-logo="https://iili.io/Jmx9woF.png" group-title="RADIO",Cosmo Radio
+http://scg.streamingmurah.com:8074/stream
+#EXTINF:-1 tvg-logo="https://iili.io/Jmx9OPa.png" group-title="RADIO",Cosmopolitan Radio
+https://stream.radiojar.com/u7d8heq3bnzuv
+#EXTINF:-1 tvg-logo="https://iili.io/Jmx9kKJ.png" group-title="RADIO",Dahlia FM
+https://svara-stream.radioddns.net:8443/bandung_dahliafm
+#EXTINF:-1 tvg-logo="https://iili.io/Jmx98SR.png" group-title="RADIO",DJFM Surabaya
+https://svara-stream.radioddns.net:8443/surabaya_djfm_
+#EXTINF:-1 tvg-logo="https://iili.io/Jmx9gAN.png" group-title="RADIO",DMS FM
+http://live2.indostreamserver.com:8130/stream
+#EXTINF:-1 tvg-logo="https://iili.io/Jmx9rNI.png" group-title="RADIO",Duta FM
+https://live2.indostreamserver.com:8182/stream
+#EXTINF:-1 tvg-logo="https://iili.io/Jmx9PoX.png" group-title="RADIO",Elfara FM
+http://207.244.251.202:8300/;stream.mp3
+#EXTINF:-1 tvg-logo="https://iili.io/Jmx9Zlf.png" group-title="RADIO",Elshinta Lampung
+https://stream-ssl.arenastreaming.com:8070/lampung
+#EXTINF:-1 tvg-logo="https://iili.io/Jmx9tS4.png" group-title="RADIO",Elshinta Medan
+https://stream-ssl.arenastreaming.com:8035/medan
+#EXTINF:-1 tvg-logo="https://iili.io/Jmx9bHl.png" group-title="RADIO",Elshinta Palembang
+https://stream-ssl.arenastreaming.com:8015/palembang
+#EXTINF:-1 tvg-logo="https://iili.io/Jmx9mR2.png" group-title="RADIO",Elshinta Semarang
+https://stream-ssl.arenastreaming.com:8025/semarang
+#EXTINF:-1 tvg-logo="https://iili.io/JmxHHx9.png" group-title="RADIO",Favorit FM
+http://s4.vinhostmedia.com:8000/favoritfm
+#EXTINF:-1 tvg-logo="https://iili.io/JmxHJVe.png" group-title="RADIO",FBI Radio Bali
+http://server.fbifm.com:9180/fbibaliradio
+#EXTINF:-1 tvg-logo="https://iili.io/JmxH3Kb.png" group-title="RADIO",Female Radio
+https://stream.cloudmu.id/listen/female/stream
+#EXTINF:-1 tvg-logo="https://iili.io/JmxHFlj.png" group-title="RADIO",Gajahmada FM
+https://server.radioimeldafm.co.id:8040/gajahmadafm
+#EXTINF:-1 tvg-logo="https://iili.io/JmxHKUx.png" group-title="RADIO",Gamasi
+https://s3.vinhostmedia.com/9504/;
+#EXTINF:-1 tvg-logo="https://iili.io/JmxHqHQ.png" group-title="RADIO",Gema Merdeka
+http://110.44.169.32/gema
+#EXTINF:-1 tvg-logo="https://iili.io/JmxHnDP.png" group-title="RADIO",Genta Bali
+http://stream.werdimedia.com:8200/;
+#EXTINF:-1 tvg-logo="https://iili.io/JmxHxx1.png" group-title="RADIO",Geronimo FM
+http://103.153.2.58:8004/;stream.nsv
+#EXTINF:-1 tvg-logo="https://iili.io/JmxHzWF.png" group-title="RADIO",Goodnews FM
+https://goodnewsfm.id/radio.mp3
+#EXTINF:-1 tvg-logo="https://iili.io/JmxHufa.png" group-title="RADIO",Hard Rock FM Bandung
+http://stream.radiojar.com/fnex9bkswk8uv
+#EXTINF:-1 tvg-logo="https://iili.io/JmxHIig.png" group-title="RADIO",Hard Rock FM Bali
+http://stream.radiojar.com/9k28wsbu5k8uv
+#EXTINF:-1 tvg-logo="https://iili.io/JmxHA0J.png" group-title="RADIO",Hard Rock FM Jakarta
+https://stream.radiojar.com/7csmg90fuqruv
+#EXTINF:-1 tvg-logo="https://iili.io/JmxHRUv.png" group-title="RADIO",Hard Rock FM Surabaya
+http://stream.radiojar.com/yg8ne2v80k8uv
+#EXTINF:-1 tvg-logo="https://iili.io/JmxH7JR.png" group-title="RADIO",Heartline Bali
+https://svara-stream.radioddns.net:8443/bali_heartlineradio_stereo
+#EXTINF:-1 tvg-logo="https://iili.io/JmxHaON.png" group-title="RADIO",Heartline Samarinda
+http://202.129.186.43:7025/stream
+#EXTINF:-1 tvg-logo="https://iili.io/JmxHcbI.png" group-title="RADIO",Heartline Tangerang
+https://svara-stream.radioddns.net:8443/karawaci_heartline_stereo
+#EXTINF:-1 tvg-logo="https://iili.io/JmxH0xt.png" group-title="RADIO",Hits UNIKOM Radio
+http://hits.unikom.ac.id:9996/;
+#EXTINF:-1 tvg-logo="https://iili.io/JmxH1WX.png" group-title="RADIO",Hot FM
+https://wz.mari.co.id:1936/web_hotfm/hotfm/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://iili.io/JmxHEsn.png" group-title="RADIO",Imelda FM
+https://server.radioimeldafm.co.id:8030/imeldafm
+#EXTINF:-1 tvg-logo="https://iili.io/JmxHMfs.png" group-title="RADIO",IMI Radio
+https://live1.indostreamserver.com/8008/stream
+#EXTINF:-1 tvg-logo="https://iili.io/Jmomo6x.png" group-title="RADIO",iRadio Banjarmasin
+http://stream.radiojar.com/qfqd2aw80k8uv
+#EXTINF:-1 tvg-logo="https://iili.io/JmomT8B.png" group-title="RADIO",iRadio Medan
+http://stream.radiojar.com/hkuevehswk8uv
+#EXTINF:-1 tvg-logo="https://iili.io/JmomCCb.png" group-title="RADIO",iRadio Jogja
+http://stream.radiojar.com/hnf2cbv80k8uv
+#EXTINF:-1 tvg-logo="https://iili.io/JmomuyP.png" group-title="RADIO",Istara FM
+http://live.serverstreaming.net:8100/istarafm
+#EXTINF:-1 tvg-logo="https://iili.io/Jmom7Zg.png" group-title="RADIO",Jeje Radio
+https://i.klikhost.com/8026/stream
+#EXTINF:-1 tvg-logo="https://iili.io/Jmomana.png" group-title="RADIO",Jiz FM
+https://pu.klikhost.com/proxy/jizfm/stream
+#EXTINF:-1 tvg-logo="https://iili.io/JmomWut.png" group-title="RADIO",K-Lite
+https://svara-stream.radioddns.net:8443/bandung_klitefm_acc
+#EXTINF:-1 tvg-logo="https://iili.io/JmomG8N.png" group-title="RADIO",KLCBS
+https://streaming.klcbsofficial.com/listen/klcbs/klcbs
+#EXTINF:-1 tvg-logo="https://iili.io/JmomV9I.png" group-title="RADIO",Klik FM
+http://78.129.229.120:17450/;
+#EXTINF:-1 tvg-logo="https://iili.io/JmomcMJ.png" group-title="RADIO",Kalimaya Bhaskara
+https://streamingv2.shoutcast.com/kalimaya-bhaskara-malang
+#EXTINF:-1 tvg-logo="https://iili.io/Jmom1FR.png" group-title="RADIO",Kis FM Jakarta
+https://wz.mari.co.id:1936/web_kisfm/kisfm/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://iili.io/JmomEap.png" group-title="RADIO",Kiss FM Medan
+http://live.kissfm-medan.com:8080/kissfm.mp3
+#EXTINF:-1 tvg-logo="https://iili.io/JmomXwX.png" group-title="RADIO",M FM Malang
+http://202.164.223.22:8222/;
+#EXTINF:-1 tvg-logo="https://iili.io/Jmomhtn.png" group-title="RADIO",M Radio Surabaya
+https://c4.siar.us/proxy/mradio/stream
+#EXTINF:-1 tvg-logo="https://iili.io/Jmomwns.png" group-title="RADIO",Madama Radio
+https://sca.streamingmurah.com:8200/stream
+#EXTINF:-1 tvg-logo="https://iili.io/JmomNMG.png" group-title="RADIO",Maestro FM
+http://maestro.skyline.net.id:10925/radio.maestro
+#EXTINF:-1 tvg-logo="https://iili.io/JmomOPf.png" group-title="RADIO",Mara FM
+https://svara-stream.radioddns.net:8443/bandung_marafm
+#EXTINF:-1 tvg-logo="https://iili.io/JmomkF4.png" group-title="RADIO",Max FM
+https://pu.klikhost.com/proxy/maxfmwaingapu/stream
+#EXTINF:-1 tvg-logo="https://iili.io/Jmomvcl.png" group-title="RADIO",Medan FM
+http://streaming.cityradio.id:8000/medanfm.ogg
+#EXTINF:-1 tvg-logo="https://iili.io/Jmom8S2.png" group-title="RADIO",Megaswara FM Bogor
+http://103.53.189.18:8010/;
+#EXTINF:-1 tvg-logo="https://iili.io/JmomU9S.png" group-title="RADIO",Memora Radio
+http://i.klikhost.com:9044/;stream.nsv
+#EXTINF:-1 tvg-logo="https://iili.io/JmomgA7.png" group-title="RADIO",Menara FM
+http://server.menara-fm.com:10280/menarafmbali
+#EXTINF:-1 tvg-logo="https://iili.io/Jm1m2v2.png" group-title="RADIO",Maneuver Radio Makassar
+http://server-by.antoners.com:8020/mercurius
+#EXTINF:-1 tvg-logo="https://iili.io/Jm1m2v2.png" group-title="RADIO",Maneuver Radio Semarang
+http://server-by.antoners.com:8020/topfm
+#EXTINF:-1 tvg-logo="https://iili.io/JmomiMb.png" group-title="RADIO",Metta FM
+http://c1.siar.us:10136/stream
+#EXTINF:-1 tvg-logo="https://iili.io/JmomsPj.png" group-title="RADIO",MG Radio Network
+https://edge.medcom.id/live-edge/smil:mgradio.smil/chunklist_w1820042344_b192000_sleng.m3u8
+#EXTINF:-1 tvg-logo="https://iili.io/JmomQKx.png" group-title="RADIO",MGT Radio
+https://s1.gntr.net/listen/mgtradio/mgtradio
+#EXTINF:-1 tvg-logo="https://iili.io/JmombHB.png" group-title="RADIO",MNC Trijaya FM Maniling Natal
+http://158.69.119.235:8014/;
+#EXTINF:-1 tvg-logo="https://iili.io/JmommAP.png" group-title="RADIO",MNC Trijaya FM Palembang
+https://svara-stream.radioddns.net:8443/trijayafmplg_mono
+#EXTINF:-1 tvg-logo="https://iili.io/JmompN1.png" group-title="RADIO",MNC Trijaya FM Semarang
+http://stream.suararadio.com:8000/sindosemarang.stereo
+#EXTINF:-1 tvg-logo="https://iili.io/JmopdiJ.png" group-title="RADIO",Most FM Medan
+http://u.klikhost.net:7106/;
+#EXTINF:-1 tvg-logo="https://iili.io/Jmop3Kv.png" group-title="RADIO",Motion Radio Bangka
+https://cast2.my-control-panel.com/proxy/radios19/stream
+#EXTINF:-1 tvg-logo="https://iili.io/JmopFlR.png" group-title="RADIO",Motion Radio Banjarmasin
+https://cast1.my-control-panel.com/proxy/radios16/stream
+#EXTINF:-1 tvg-logo="https://iili.io/JmopKSp.png" group-title="RADIO",Motion Radio Jakarta
+https://cast1.my-control-panel.com/proxy/radioso2/stream
+#EXTINF:-1 tvg-logo="https://iili.io/JmopBRI.png" group-title="RADIO",Music City
+http://sci.streamingmurah.com:8003/stream
+#EXTINF:-1 tvg-logo="https://iili.io/JmopCNt.png" group-title="RADIO",Mustang FM
+https://wz.mari.co.id:1936/web_mustangfm/mustangfm/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://iili.io/JmopnDX.png" group-title="RADIO",Nagaswara FM
+https://live.nagaswarafm.com:9900/stream
+#EXTINF:-1 tvg-logo="https://iili.io/Jmopxxn.png" group-title="RADIO",Ninetysix
+https://c4.siar.us:8950/stream
+#EXTINF:-1 tvg-logo="https://iili.io/JmopzVs.png" group-title="RADIO",Okezone Radio Bandung
+http://stream.radbdg.net:8000/globalradiobandung.mp3
+#EXTINF:-1 tvg-logo="https://iili.io/JmopIiG.png" group-title="RADIO",Okezone Radio Jakarta
+http://202.147.199.98:80/;
+#EXTINF:-1 tvg-logo="https://iili.io/JmopRUl.png" group-title="RADIO",OZ Radio Bali
+https://void.idserverhost.com:8008/10/
+#EXTINF:-1 tvg-logo="https://iili.io/JmopAl4.png" group-title="RADIO",OZ Radio Jakarta
+https://streaming.ozradiojakarta.com:8443/ozjakarta
+#EXTINF:-1 tvg-logo="https://iili.io/Jmop7J2.png" group-title="RADIO",Paramuda FM
+http://115.178.48.43:9990/;
+#EXTINF:-1 tvg-logo="https://iili.io/JmopYRS.png" group-title="RADIO",Pas FM Jakarta
+https://i.klikhost.com/8266/stream
+#EXTINF:-1 tvg-logo="https://iili.io/JmopaO7.png" group-title="RADIO",Pas FM Surabaya
+http://radio.wow.net.id:8102/;?.mp3
+#EXTINF:-1 tvg-logo="https://iili.io/Jmopcb9.png" group-title="RADIO",Persib Radio
+https://s3.vinhostmedia.com:10945/;stream
+#EXTINF:-1 tvg-logo="https://iili.io/Jmop0xe.png" group-title="RADIO",Phoenix Radio
+https://live.phoenixradiobali.com:8250/phoenixradio
+#EXTINF:-1 tvg-logo="https://iili.io/Jmop1Wu.png" group-title="RADIO",Pinguin FM
+https://live.radiopinguinfm.com:8350/;stream.mp3
+#EXTINF:-1 tvg-logo="https://iili.io/JmopMfj.png" group-title="RADIO",Play FM Palembang
+http://66.96.237.109:8000/
+#EXTINF:-1 tvg-logo="https://iili.io/JmopV0x.png" group-title="RADIO",Pop FM
+http://i.klikhost.com:8272/
+#EXTINF:-1 tvg-logo="https://iili.io/JmopwOP.png" group-title="RADIO",PTPN Radio
+https://ssg.streamingmurah.com:8040/stream
+#EXTINF:-1 tvg-logo="https://iili.io/JmopNb1.png" group-title="RADIO",Publica FM
+https://streaming.publicafm.com/publica-fm
+#EXTINF:-1 tvg-logo="https://iili.io/Jmopvsa.png" group-title="RADIO",Radio AR
+https://live.radioarbali.com:8450/radioar
+#EXTINF:-1 tvg-logo="https://iili.io/JmopkWg.png" group-title="RADIO",Radio Cakra
+https://stream-41.zeno.fm/yoengdcdzyauv
+#EXTINF:-1 tvg-logo="https://iili.io/JmopSqJ.png" group-title="RADIO",Radio Gobers
+https://sx.alhasmedia.com/radio/8140/radio
+#EXTINF:-1 tvg-logo="https://iili.io/JmopU0v.png" group-title="RADIO",Radio Idola
+https://server.radioidola.com:8880/idolafm
+#EXTINF:-1 tvg-logo="https://iili.io/JmopggR.png" group-title="RADIO",Radio Katolikana
+https://ssg.streamingmurah.com:8096/;stream.mp3?_=1
+#EXTINF:-1 tvg-logo="https://iili.io/Jmop65N.png" group-title="RADIO",Radio PPI Dunia
+http://s1.voscast.com:8080/;
+#EXTINF:-1 tvg-logo="https://iili.io/JmopPeI.png" group-title="RADIO",Radio Telstar
+http://telstarfm.indostreamserver.com:8174/;
+#EXTINF:-1 tvg-logo="https://iili.io/Jmopibt.png" group-title="RADIO",Radio Tirilolok
+https://freeuk30.listen2myradio.com/live.mp3?typeportmount=s1_39956_stream_995050319
+#EXTINF:-1 tvg-logo="https://iili.io/JmopLzX.png" group-title="RADIO",Raka FM
+https://cast2.my-control-panel.com/proxy/radioso5/stream
+#EXTINF:-1 tvg-logo="https://iili.io/JmopZss.png" group-title="RADIO",Rama FM
+http://i.klikhost.com:8330/;stream.nsv
+#EXTINF:-1 tvg-logo="https://iili.io/JmopQXn.png" group-title="RADIO",Rase FM
+http://radio.jabarmaya.net.id:8000/rasefm?1613823975625
+#EXTINF:-1 tvg-logo="https://iili.io/Jmopb1f.png" group-title="RADIO",RCT FM
+http://i.klikhost.com:9614/
+#EXTINF:-1 tvg-logo="https://iili.io/JmopDqG.png" group-title="RADIO",RDI Jakarta
+http://202.147.199.99:8000/;
+#EXTINF:-1 tvg-logo="https://iili.io/Jmopmg4.png" group-title="RADIO",Retjo Buntung
+https://ssg.streamingmurah.com:9940/stream
+#EXTINF:-1 tvg-logo="https://iili.io/Jmopydl.png" group-title="RADIO",Rhema Radio
+http://streaming.rhemaradio.com:5757/;
+#EXTINF:-1 tvg-logo="https://iili.io/Jmoy972.png" group-title="RADIO",Ria FM
+https://cast1.my-control-panel.com/proxy/radioso6/stream
+#EXTINF:-1 tvg-logo="https://iili.io/JmoyJm7.png" group-title="RADIO",SAS FM
+http://i.klikhost.com:9616/
+#EXTINF:-1 tvg-logo="https://iili.io/JmoyFLu.png" group-title="RADIO",Scout Radio
+https://live2.indostreamserver.com/8036/stream
+#EXTINF:-1 tvg-logo="https://iili.io/Jmoy2I9.png" group-title="RADIO",Smart FM Balikpapan
+https://cast3.asurahosting.com/proxy/radios32/stream
+#EXTINF:-1 tvg-logo="https://iili.io/Jmoy3Xe.png" group-title="RADIO",Smart FM Banjarmasin
+https://cast2.my-control-panel.com/proxy/radios15/stream
+#EXTINF:-1 tvg-logo="https://iili.io/JmoyBrx.png" group-title="RADIO",Smart FM Manado
+https://cast2.my-control-panel.com/proxy/radios14/stream
+#EXTINF:-1 tvg-logo="https://iili.io/JmoyndQ.png" group-title="RADIO",Smart FM Medan
+https://cast2.my-control-panel.com/proxy/radios11/stream
+#EXTINF:-1 tvg-logo="https://iili.io/Jmoyo7V.png" group-title="RADIO",Smart FM Palembang
+https://cast3.asurahosting.com/proxy/radios22/stream
+#EXTINF:-1 tvg-logo="https://iili.io/JmoyxkB.png" group-title="RADIO",Smart FM Pekanbaru
+https://cast3.asurahosting.com/proxy/radios27/stream
+#EXTINF:-1 tvg-logo="https://iili.io/JmoyTI1.png" group-title="RADIO",Smart FM Surabaya
+https://cast3.asurahosting.com/proxy/radios23/stream
+#EXTINF:-1 tvg-logo="https://iili.io/JmoyALg.png" group-title="RADIO",Solopos FM
+https://radio.solopos.com:8002/stream
+#EXTINF:-1 tvg-logo="https://iili.io/Jmoy5Ba.png" group-title="RADIO",Sonora FM Bali
+https://cast1.my-control-panel.com/proxy/radios12/stream
+#EXTINF:-1 tvg-logo="https://iili.io/Jmoy7EJ.png" group-title="RADIO",Sonora FM Bandung
+https://cast1.my-control-panel.com/proxy/radios17/stream
+#EXTINF:-1 tvg-logo="https://iili.io/JmoyYrv.png" group-title="RADIO",Sonora FM Bangka
+https://cast2.my-control-panel.com/proxy/radios18/stream
+#EXTINF:-1 tvg-logo="https://iili.io/Jmoyl7p.png" group-title="RADIO",Sonora FM Lampung
+https://cast1.my-control-panel.com/proxy/radios20/stream
+#EXTINF:-1 tvg-logo="https://iili.io/Jmoy0kN.png" group-title="RADIO",Sonora FM Medan
+https://cast1.my-control-panel.com/proxy/radios10/stream
+#EXTINF:-1 tvg-logo="https://iili.io/Jmoy1pI.png" group-title="RADIO",Sonora FM Palembang
+https://cast2.my-control-panel.com/proxy/radios21/stream
+#EXTINF:-1 tvg-logo="https://iili.io/JmoyGIt.png" group-title="RADIO",Sonora FM Pontianak
+https://cast3.asurahosting.com/proxy/radios29/stream
+#EXTINF:-1 tvg-logo="https://iili.io/JmoyMhX.png" group-title="RADIO",Sonora FM Purwokerto
+https://cast3.asurahosting.com/proxy/radios24/stream
+#EXTINF:-1 tvg-logo="https://iili.io/JmoyVQn.png" group-title="RADIO",Sonora FM Semarang
+https://cast3.asurahosting.com/proxy/radios30/stream
+#EXTINF:-1 tvg-logo="https://iili.io/JmoyXBs.png" group-title="RADIO",Sonora FM Surabaya
+https://cast3.asurahosting.com/proxy/radios25/stream
+#EXTINF:-1 tvg-logo="https://iili.io/JmoyhEG.png" group-title="RADIO",Sonora FM Yogyakarta
+https://cast3.asurahosting.com/proxy/radios28/stream
+#EXTINF:-1 tvg-logo="https://iili.io/Jmoyj4f.png" group-title="RADIO",SPFM Makassar
+http://i18.klikhost.net:8712/;radio.mp3
+#EXTINF:-1 tvg-logo="https://iili.io/JmoyN24.png" group-title="RADIO",SSFM Semarang
+http://live.indostreamserver.com:8142/;
+#EXTINF:-1 tvg-logo="https://iili.io/JmoyOYl.png" group-title="RADIO",Star Radio
+http://listen.staradio1073fm.net:8070/;
+#EXTINF:-1 tvg-logo="https://iili.io/Jmoyev2.png" group-title="RADIO",Studio East
+https://live.indostreamserver.com:10979/;
+#EXTINF:-1 tvg-logo="https://iili.io/JmoykpS.png" group-title="RADIO",Suara Edukasi
+http://118.98.221.84:8803/stream
+#EXTINF:-1 tvg-logo="https://iili.io/JmoyUQe.png" group-title="RADIO",Suara Mahakam
+http://u.klikhost.com:8000/suara_mahakam
+#EXTINF:-1 tvg-logo="https://iili.io/JmoyrCu.png" group-title="RADIO",Suzana FM
+http://streaming.suzanafm.com:8000/listen.pls
+#EXTINF:-1 tvg-logo="https://iili.io/Jmoy4Eb.png" group-title="RADIO",Swara Semarang
+https://server.radioimeldafm.co.id/radio/8010/swarasemarang
+#EXTINF:-1 tvg-logo="https://iili.io/Jmoyi3x.png" group-title="RADIO",Swara Timor
+https://stream.zeno.fm/a2gedypktp8uv
+#EXTINF:-1 tvg-logo="https://iili.io/Jmoy64j.png" group-title="RADIO",Swaragama
+http://202.65.114.229:9314/;
+#EXTINF:-1 tvg-logo="https://iili.io/JmoysYQ.png" group-title="RADIO",TA Radio
+http://taradio.onlivestreaming.net:10350/stream
+#EXTINF:-1 tvg-logo="https://iili.io/JmoyLvV.png" group-title="RADIO",Thomson FM
+http://sgp2.onlivestreaming.net:9730/stream
+#EXTINF:-1 tvg-logo="https://iili.io/JmoyQyB.png" group-title="RADIO",Thomson News
+http://i.klikhost.com:8240/
+#EXTINF:-1 tvg-logo="https://iili.io/JmoytTP.png" group-title="RADIO",Trax FM Palembang
+http://stream.radiojar.com/qv4muvhswk8uv
+#EXTINF:-1 tvg-logo="https://iili.io/JmoybZF.png" group-title="RADIO",Trax FM Semarang
+http://stream.radiojar.com/fr9zqhv80k8uv
+#EXTINF:-1 tvg-logo="https://iili.io/JmoypCg.png" group-title="RADIO",Trax Jakarta
+https://stream.radiojar.com/rrqf78p3bnzuv
+#EXTINF:-1 tvg-logo="https://iili.io/JmoyyGa.png" group-title="RADIO",Trendy FM
+http://i.klikhost.net:8018/;
+#EXTINF:-1 tvg-logo="https://iili.io/Jmx996J.png" group-title="RADIO",UB Radio
+http://175.45.185.215:8000/admin
+#EXTINF:-1 tvg-logo="https://iili.io/Jmx9J3v.png" group-title="RADIO",Unasko FM
+https://svara-stream.radioddns.net:8443/unasko_radio
+#EXTINF:-1 tvg-logo="https://iili.io/Jmx9daR.png" group-title="RADIO",Unisi Radio
+http://202.162.32.23:8000/stream/1/
+#EXTINF:-1 tvg-logo="https://iili.io/Jmx93yN.png" group-title="RADIO",Urban Radio 106.3 FM
+https://live.indostreamserver.com/8250/;
+#EXTINF:-1 tvg-logo="https://iili.io/Jmx92vp.png" group-title="RADIO",Urban 90.1 FM Bandung
+https://stream.rcs.revma.com/uzxk3bzbtbkvv
+#EXTINF:-1 tvg-logo="https://iili.io/Jmx9fjt.png" group-title="RADIO",Urban Yudha Bali
+http://live.indostreamserver.com:8090/;
+#EXTINF:-1 tvg-logo="https://iili.io/Jmx9qZX.png" group-title="RADIO",UTY FM Medari
+http://utyfmedari.us.myradio.web.id:8000/utyfmedari
+#EXTINF:-1 tvg-logo="https://iili.io/Jmx9Cnn.png" group-title="RADIO",Venus FM
+https://stream-52.zeno.fm/3wiuocujuobtv
+#EXTINF:-1 tvg-logo="https://iili.io/Jmx9nGs.png" group-title="RADIO",Visi FM
+https://i.klikhost.com/8274/;stream.mp3
+#EXTINF:-1 tvg-logo="https://iili.io/Jmx9o6G.png" group-title="RADIO",Voks 99.3 FM Bali
+https://svara-stream.radioddns.net:8443/Bali_voksradio_993fm
+#EXTINF:-1 tvg-logo="https://iili.io/Jmx9zFf.png" group-title="RADIO",Voks 102 FM Bali
+https://onlineradiobox.com/json/id/cassanova/play?platform=web
+#EXTINF:-1 tvg-logo="https://iili.io/Jmx9T8l.png" group-title="RADIO",Voks Radio Jogja
+http://c1.siar.us:10219/stream
+#EXTINF:-1 tvg-logo="https://iili.io/Jmx9RuS.png" group-title="RADIO",Voks Radio Medan
+http://svara-stream.radioddns.net:8000/medan_voksradio
+#EXTINF:-1 tvg-logo="https://iili.io/Jmx9A92.png" group-title="RADIO",XChannel Bandung
+http://202.78.200.228:8002/stream
+#EXTINF:-1 tvg-logo="https://iili.io/Jmx9A92.png" group-title="RADIO",XChannel Banten
+http://202.78.200.228:8103/stream
+#EXTINF:-1 tvg-logo="https://iili.io/Jmx9A92.png" group-title="RADIO",XChannel Bogor
+http://202.78.200.228:8788/stream
+#EXTINF:-1 tvg-logo="https://iili.io/Jmx9A92.png" group-title="RADIO",XChannel Jakarta
+http://202.78.200.228:8000/stream
+#EXTINF:-1 tvg-logo="https://iili.io/Jmx95w7.png" group-title="RADIO",Z 99.9 FM
+https://svara-stream.radioddns.net:8443/jakarta_z999fm_aac
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Y9Yvj1ch/nagaswara.png"  group-title="RADIO",Nagaswara POP
+https://nagaswara-pop.fiqriaw8.workers.dev/stream/nagaswarafmbgr/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Y9Yvj1ch/nagaswara.png"  group-title="RADIO",Nagaswara Dangdut
+https://nagaswarakoplo.fiqriaw8.workers.dev/stream/nagaswarafmbgr/master.m3u8
+#EXTINF:-1  tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="http://p2k.unkris.ac.id/_sepakbola/_baca_image.php?td=12&kodegb=SSFM_Logo.png" group-title="RADIO",Suara Surabaya FM
+https://ssfm.siar.us/ssfm/live/playlist.m3u8
+#EXTINF:-1  tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e8/Nagaswara-FM-Cirebon.png" group-title="RADIO",Nagaswara FM
+https://live.nagaswarafm.com:9900/stream
+#EXTINF:-1  tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8b/OZ_Radio_bandung.png" group-title="RADIO",OZ Radio FM
+http://45.64.97.211:1031/;stream.nsv
+#EXTINF:-1  tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://cimanggubogor.com/wp-content/uploads/2019/03/logo-kisi-fm-bogor.jpg" group-title="RADIO",KISI FM Bogor
+http://live.serverstreaming.net:9340/kisifm
+#EXTINF:-1 tvg-logo="http://choos.wap.sh/images/radio/7004.jpg" group-title="RADIO",Prambors
+https://playerservices.streamtheworld.com/api/livestream-redirect/PRAMBORS_FM.mp3?dist=onlineradiobox
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vOliZ6Z.png" group-title="RADIO",Hard Rock FM Bandung
+http://stream.radiojar.com/fnex9bkswk8uv
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MmFTrZK.png" group-title="RADIO",Hard Rock FM Surabaya
+http://stream.radiojar.com/yg8ne2v80k8uv
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BwULFUI.png" group-title="RADIO",Hard Rock FM Bali
+http://stream.radiojar.com/9k28wsbu5k8uv
+#EXTINF:-1  tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/63/Smooth_fm_jkt.png/" group-title="RADIO",KISI FM Bogor
+https://svara-stream.radioddns.net:8443/jakarta_smoothfm_mp3
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BwULFUI.png" group-title="RADIO",KISI FM Bogor
+https://svara-stream.radioddns.net:8443/jakarta_smoothfm_mp3
+//svara-stream.radioddns.net:8443/jakarta_smoothfm_mp3
+a-stream.radioddns.net:8443/jakarta_smoothfm_mp3
 <=================== Entertainment & Lifestyle =============================>
 
 
@@ -1396,217 +2026,6 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:negara/manifest.mpd?id=8
 
 ************************************
 
-#EXTINF:-1 tvg-id="tv1.my" tvg-name="MY| TV1 HD" tvg-logo="https://lo1.in/MALAY/tv1.png" group-title="MALAYSIA",MY| TV1 HD
-http://extraott.com:900/live/3162523972/3791698850/192001.m3u8
-#EXTINF:-1 tvg-id="tv2.my" tvg-name="MY| TV2 HD" tvg-logo="https://lo1.in/MALAY/tv2.png" group-title="MALAYSIA",MY| TV2 HD
-http://extraott.com:900/live/3162523972/3791698850/192002.m3u8
-#EXTINF:-1 tvg-id="tv3.my" tvg-name="MY| TV3 HD" tvg-logo="https://lo1.in/MALAY/tv3.png" group-title="MALAYSIA",MY| TV3 HD
-http://extraott.com:900/live/3162523972/3791698850/400200329.m3u8
-#EXTINF:-1 tvg-id="astroria.my" tvg-name="MY| ASTRO RIA (not 24/7)" tvg-logo="https://lo1.in/MALAY/astrori.png" group-title="MALAYSIA",MY| ASTRO RIA (not 24/7)
-http://extraott.com:900/live/3162523972/3791698850/191867.m3u8
-#EXTINF:-1 tvg-id="astroawani.my" tvg-name="MY| ASTRO AWANI HD" tvg-logo="https://lo1.in/MALAY/astroaw.png" group-title="MALAYSIA",MY| ASTRO AWANI HD
-http://extraott.com:900/live/3162523972/3791698850/191859.m3u8
-
-#EXTINF:-1 tvg-id="astrooasis.my" tvg-name="MY| ASTRO OASIS HD" tvg-logo="https://lo1.in/MALAY/astrooas.png" group-title="MALAYSIA",MY| ASTRO OASIS HD
-http://extraott.com:900/live/3162523972/3791698850/191864.m3u8
-#EXTINF:-1 tvg-id="astrocitra.my" tvg-name="MY| ASTRO CITRA HD" tvg-logo="https://lo1.in/MALAY/astrocit.png" group-title="MALAYSIA",MY| ASTRO CITRA HD
-http://extraott.com:900/live/3162523972/3791698850/400200335.m3u8
-#EXTINF:-1 tvg-id="astrorania.my" tvg-name="MY| ASTRO RANIA HD" tvg-logo="https://lo1.in/MALAY/astror.png" group-title="MALAYSIA",MY| ASTRO RANIA HD
-http://extraott.com:900/live/3162523972/3791698850/191866.m3u8
-#EXTINF:-1 tvg-id="astroaura.my" tvg-name="MY| ASTRO AURA HD" tvg-logo="https://lo1.in/MALAY/astroaur.png" group-title="MALAYSIA",MY| ASTRO AURA HD
-http://extraott.com:900/live/3162523972/3791698850/191858.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MY| TV ALHIJRAH HD" tvg-logo="https://lo1.in/MALAY/hijrah.png" group-title="MALAYSIA",MY| TV ALHIJRAH HD
-http://extraott.com:900/live/3162523972/3791698850/192000.m3u8
-#EXTINF:-1 tvg-id="tv9.my" tvg-name="MY| TV9 HD" tvg-logo="https://lo1.in/MALAY/tv9.png" group-title="MALAYSIA",MY| TV9 HD
-http://extraott.com:900/live/3162523972/3791698850/192004.m3u8
-#EXTINF:-1 tvg-id="8tv.my" tvg-name="MY| 8TV HD" tvg-logo="https://lo1.in/MALAY/8tv.png" group-title="MALAYSIA",MY| 8TV HD
-http://extraott.com:900/live/3162523972/3791698850/191836.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MY| TVS Sarawak HD" tvg-logo="https://lo1.in/MALAY/flag.png" group-title="MALAYSIA",MY| TVS Sarawak HD
-http://extraott.com:900/live/3162523972/3791698850/401170435.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MY| ADITHYA HD" tvg-logo="https://lo1.in/MALAY/astroad.png" group-title="MALAYSIA",MY| ADITHYA HD
-http://extraott.com:900/live/3162523972/3791698850/191840.m3u8
-#EXTINF:-1 tvg-id="astrotviq.my" tvg-name="MY| IQIYI HD" tvg-logo="https://lo1.in/MALAY/astroiq.png" group-title="MALAYSIA",MY| IQIYI HD
-http://extraott.com:900/live/3162523972/3791698850/191950.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MY| CTI ASIA HD" tvg-logo="https://lo1.in/MALAY/ctas.png" group-title="MALAYSIA",MY| CTI ASIA HD
-http://extraott.com:900/live/3162523972/3791698850/191911.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MY| TVB XING HE HD" tvg-logo="https://lo1.in/MALAY/tvbxh.png" group-title="MALAYSIA",MY| TVB XING HE HD
-http://extraott.com:900/live/3162523972/3791698850/192007.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MY| TVB ENTERTAINMENT NEWS HD" tvg-logo="https://lo1.in/MALAY/flag.png" group-title="MALAYSIA",MY| TVB ENTERTAINMENT NEWS HD
-http://extraott.com:900/live/3162523972/3791698850/401170437.m3u8
-#EXTINF:-1 tvg-id="astrohuaheedai.my" tvg-name="MY| ASTRO HUA HEE DAI HD" tvg-logo="https://lo1.in/MALAY/astrohhd.png" group-title="MALAYSIA",MY| ASTRO HUA HEE DAI HD
-http://extraott.com:900/live/3162523972/3791698850/191948.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MY| CCTV4 HD" tvg-logo="https://lo1.in/MALAY/cc4.png" group-title="MALAYSIA",MY| CCTV4 HD
-http://extraott.com:900/live/3162523972/3791698850/191897.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MY| DREAMWORKS HD" tvg-logo="https://lo1.in/MALAY/flag.png" group-title="MALAYSIA",MY| DREAMWORKS HD
-http://extraott.com:900/live/3162523972/3791698850/12304.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MY| ASTRO VELLITHIRAI HD" tvg-logo="https://lo1.in/MALAY/flag.png" group-title="MALAYSIA",MY| ASTRO VELLITHIRAI HD
-http://extraott.com:900/live/3162523972/3791698850/12305.m3u8
-#EXTINF:-1 tvg-id="one.my" tvg-name="MY| ONE HD" tvg-logo="https://lo1.in/MALAY/one.png" group-title="MALAYSIA",MY| ONE HD
-http://extraott.com:900/live/3162523972/3791698850/191970.m3u8
-#EXTINF:-1 tvg-id="astrovaanavil.my" tvg-name="MY| ASTRO VAANAVIL HD" tvg-logo="https://lo1.in/MALAY/astrovv.png" group-title="MALAYSIA",MY| ASTRO VAANAVIL HD
-http://extraott.com:900/live/3162523972/3791698850/192011.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MY| PHOENIX CHINESE CHANNEL HD" tvg-logo="https://lo1.in/MALAY/phchch.png" group-title="MALAYSIA",MY| PHOENIX CHINESE CHANNEL HD
-http://extraott.com:900/live/3162523972/3791698850/33006.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MY| PHOENIX INFO NEWS HD" tvg-logo="https://lo1.in/MALAY/phinfns.png" group-title="MALAYSIA",MY| PHOENIX INFO NEWS HD
-http://extraott.com:900/live/3162523972/3791698850/33008.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MY| CGTN HD" tvg-logo="https://lo1.in/MALAY/cgtn.png" group-title="MALAYSIA",MY| CGTN HD
-http://extraott.com:900/live/3162523972/3791698850/33017.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MY| AL JAZEERA ENGLISH  HD" tvg-logo="https://lo1.in/MALAY/jazera.png" group-title="MALAYSIA",MY| AL JAZEERA ENGLISH  HD
-http://extraott.com:900/live/3162523972/3791698850/33019.m3u8
-#EXTINF:-1 tvg-id="kbsworld.my" tvg-name="MY| KBS WORLD HD" tvg-logo="https://lo1.in/MALAY/kbswrld.png" group-title="MALAYSIA",MY| KBS WORLD HD
-http://extraott.com:900/live/3162523972/3791698850/191953.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MY| BERNAMA TV" tvg-logo="https://lo1.in/MALAY/brnm.png" group-title="MALAYSIA",MY| BERNAMA TV
-http://extraott.com:900/live/3162523972/3791698850/400274059.m3u8
-#EXTINF:-1 tvg-id="bbcworldnews.id" tvg-name="MY| BBC NEWS HD" tvg-logo="https://lo1.in/MALAY/bbcns.png" group-title="MALAYSIA",MY| BBC NEWS HD
-http://extraott.com:900/live/3162523972/3791698850/191880.m3u8
-#EXTINF:-1 tvg-id="bbcearth.id" tvg-name="MY| BBC EARTH HD" tvg-logo="https://lo1.in/MALAY/bbcea.png" group-title="MALAYSIA",MY| BBC EARTH HD
-http://extraott.com:900/live/3162523972/3791698850/191878.m3u8
-#EXTINF:-1 tvg-id="skynews.id" tvg-name="MY| SKY NEWS HD" tvg-logo="https://lo1.in/MALAY/skyns.png" group-title="MALAYSIA",MY| SKY NEWS HD
-http://extraott.com:900/live/3162523972/3791698850/191981.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MY| CNBC ASIA FHD" tvg-logo="https://lo1.in/MALAY/cnbc.png" group-title="MALAYSIA",MY| CNBC ASIA FHD
-http://extraott.com:900/live/3162523972/3791698850/29620.m3u8
-#EXTINF:-1 tvg-id="cnbc.id" tvg-name="MY| CNBC ASIA HD" tvg-logo="https://lo1.in/MALAY/cnbc.png" group-title="MALAYSIA",MY| CNBC ASIA HD
-http://extraott.com:900/live/3162523972/3791698850/191904.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MY| CNA HD" tvg-logo="https://lo1.in/MALAY/cna.png" group-title="MALAYSIA",MY| CNA HD
-http://extraott.com:900/live/3162523972/3791698850/13039.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MY| CNN HD" tvg-logo="https://lo1.in/ind/cnn.png" group-title="MALAYSIA",MY| CNN HD
-http://extraott.com:900/live/3162523972/3791698850/13041.m3u8
-#EXTINF:-1 tvg-id="bloomberg.id" tvg-name="MY| BLOOMBERG TV HD" tvg-logo="https://lo1.in/MALAY/blmbrg.png" group-title="MALAYSIA",MY| BLOOMBERG TV HD
-http://extraott.com:900/live/3162523972/3791698850/191886.m3u8
-#EXTINF:-1 tvg-id="abcaustralia.id" tvg-name="MY| ABC AUSTRALIA HD" tvg-logo="https://lo1.in/MALAY/abcaus.png" group-title="MALAYSIA",MY| ABC AUSTRALIA HD
-http://extraott.com:900/live/3162523972/3791698850/191837.m3u8
-#EXTINF:-1 tvg-id="france24english.id" tvg-name="MY| FRANCE 24 HD" tvg-logo="https://lo1.in/MALAY/fr24.png" group-title="MALAYSIA",MY| FRANCE 24 HD
-http://extraott.com:900/live/3162523972/3791698850/191936.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MY| KPLUS HD" tvg-logo="https://lo1.in/MALAY/kpls.png" group-title="MALAYSIA",MY| KPLUS HD
-http://extraott.com:900/live/3162523972/3791698850/191955.m3u8
-#EXTINF:-1 tvg-id="tlc.my" tvg-name="MY| TLC HD" tvg-logo="https://lo1.in/MALAY/tlc.png" group-title="MALAYSIA",MY| TLC HD
-http://extraott.com:900/live/3162523972/3791698850/191994.m3u8
-#EXTINF:-1 tvg-id="warnertv.my" tvg-name="MY| WARNER TV HD" tvg-logo="https://lo1.in/MALAY/wrnr.png" group-title="MALAYSIA",MY| WARNER TV HD
-http://extraott.com:900/live/3162523972/3791698850/192013.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MY| MTV ASIA HD" tvg-logo="https://lo1.in/MALAY/mtv.png" group-title="MALAYSIA",MY| MTV ASIA HD
-http://extraott.com:900/live/3162523972/3791698850/191957.m3u8
-#EXTINF:-1 tvg-id="dw.id" tvg-name="MY| DW HD" tvg-logo="https://lo1.in/MALAY/dw.png" group-title="MALAYSIA",MY| DW HD
-http://extraott.com:900/live/3162523972/3791698850/191922.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MY| DW" tvg-logo="https://lo1.in/MALAY/dw.png" group-title="MALAYSIA",MY| DW
-http://extraott.com:900/live/3162523972/3791698850/13106.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MY| JAYA MAX HD" tvg-logo="https://lo1.in/MALAY/jayamx.png" group-title="MALAYSIA",MY| JAYA MAX HD
-http://extraott.com:900/live/3162523972/3791698850/191951.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MY| HARVEST TV ARABIA" tvg-logo="https://lo1.in/MALAY/hrvstar.png" group-title="MALAYSIA",MY| HARVEST TV ARABIA
-http://extraott.com:900/live/3162523972/3791698850/380228.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MY| SONY MAX HD" tvg-logo="https://lo1.in/MALAY/snysetmx.png" group-title="MALAYSIA",MY| SONY MAX HD
-http://extraott.com:900/live/3162523972/3791698850/191990.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MY| GLOBAL TREKKER HD" tvg-logo="https://lo1.in/MALAY/GSZ.png" group-title="MALAYSIA",MY| GLOBAL TREKKER HD
-http://extraott.com:900/live/3162523972/3791698850/54898.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MY| AI FM" tvg-logo="https://lo1.in/MALAY/flag.png" group-title="MALAYSIA",MY| AI FM
-http://extraott.com:900/live/3162523972/3791698850/401600503.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MY| ASYIK FM" tvg-logo="https://lo1.in/MALAY/flag.png" group-title="MALAYSIA",MY| ASYIK FM
-http://extraott.com:900/live/3162523972/3791698850/401600502.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MY| ERA FM" tvg-logo="https://lo1.in/MALAY/flag.png" group-title="MALAYSIA",MY| ERA FM
-http://extraott.com:900/live/3162523972/3791698850/401600501.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MY| HITZ FM" tvg-logo="https://lo1.in/MALAY/flag.png" group-title="MALAYSIA",MY| HITZ FM
-http://extraott.com:900/live/3162523972/3791698850/401600500.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MY| LITE FM" tvg-logo="https://lo1.in/MALAY/flag.png" group-title="MALAYSIA",MY| LITE FM
-http://extraott.com:900/live/3162523972/3791698850/401600499.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MY| MELODY FM" tvg-logo="https://lo1.in/MALAY/flag.png" group-title="MALAYSIA",MY| MELODY FM
-http://extraott.com:900/live/3162523972/3791698850/401600498.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MY| MINNAL FM" tvg-logo="https://lo1.in/MALAY/flag.png" group-title="MALAYSIA",MY| MINNAL FM
-http://extraott.com:900/live/3162523972/3791698850/401600497.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MY| MIX FM" tvg-logo="https://lo1.in/MALAY/flag.png" group-title="MALAYSIA",MY| MIX FM
-http://extraott.com:900/live/3162523972/3791698850/401600496.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MY| MY FM" tvg-logo="https://lo1.in/MALAY/flag.png" group-title="MALAYSIA",MY| MY FM
-http://extraott.com:900/live/3162523972/3791698850/401600495.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MY| NAS FM" tvg-logo="https://lo1.in/MALAY/flag.png" group-title="MALAYSIA",MY| NAS FM
-http://extraott.com:900/live/3162523972/3791698850/401600494.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MY| SINAR FM" tvg-logo="https://lo1.in/MALAY/flag.png" group-title="MALAYSIA",MY| SINAR FM
-http://extraott.com:900/live/3162523972/3791698850/401600493.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MY| TRAXX FM" tvg-logo="https://lo1.in/MALAY/flag.png" group-title="MALAYSIA",MY| TRAXX FM
-http://extraott.com:900/live/3162523972/3791698850/401600492.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MY| V FM" tvg-logo="https://lo1.in/MALAY/flag.png" group-title="MALAYSIA",MY| V FM
-http://extraott.com:900/live/3162523972/3791698850/401600491.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MY| WAI FM" tvg-logo="https://lo1.in/MALAY/flag.png" group-title="MALAYSIA",MY| WAI FM
-http://extraott.com:900/live/3162523972/3791698850/401600490.m3u8
-
-
-#EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my/
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0
-#EXTINF:-1 tvg-url="https://www.bevy.be/bevyfiles/malaysia.xml" tvg-id="" group-title="MALAYSIA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/RTM_Asean_%282024%29.svg/1280px-RTM_Asean_%282024%29.svg.png",RTM Asean
-https://d25tgymtnqzu8s.cloudfront.net/event/smil:event2/chunklist_b2596000_slENG.m3u8
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=YmE1ODUyNDctMTU5NS0zMWEzLWJhYWYtZDVmMjI3Y2VjODIz
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-#EXTINF:-1 group-title="MALAYSIA" tvg-id="Dunia Sinema HD"  tvg-url="https://www.bevy.be/bevyfiles/malaysiapremium2.xml" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190716/20190716074123890vav.png",Dunia Sinema HD
-https://unifi-live01.secureswiftcontent.com/UnifiHD/live27-1080FHD.m3u8
-#EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my/
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0
-#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://rtm-images.glueapi.io/320x0/live_channel/SALURAN_1920x1080px_TV6.jpg" group-title="MALAYSIA",TV 6
-https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/manifest.mpd
-#EXTINF:-1 tvg-id="Sukan RTM" tvg-url="https://www.bevy.be/bevyfiles/malaysiapremium1.xml" tvg-logo="https://rtm-images.glueapi.io/320x0/live_channel/SALURAN_1920x1080px_SUKANRTM.jpg" group-title="MALAYSIA",Sukan RTM
-https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/chunklist.m3u8?id=1|Referer=https://rtmklik.rtm.gov.my
-#EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my/
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0
-#EXTINF:-1 tvg-id="Berita RTM" tvg-url="https://www.bevy.be/bevyfiles/malaysiapremium1.xml" tvg-logo="https://rtm-images.glueapi.io/320x0/live_channel/berita_bckg.png" group-title="MALAYSIA",Berita RTM
-https://d25tgymtnqzu8s.cloudfront.net/smil:berita/chunklist_b2596000_slENG.m3u8?id=5
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/unifitv/duniasinema/
-#EXTINF:-1 group-title="MALAYSIA" tvg-id="Dunia Sinema HD"  tvg-url="https://www.bevy.be/bevyfiles/malaysiapremium2.xml" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190716/20190716074123890vav.png",Dunia Sinema HD
-https://unifi-live05.secureswiftcontent.com/UnifiHD/live27-1080FHD.m3u8
-#EXTINF:-1 tvg-id="Okey" tvg-url="https://www.bevy.be/bevyfiles/malaysiapremium1.xml" group-title="MALAYSIA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Okey_RTM.png",TV Okey
-https://d25tgymtnqzu8s.cloudfront.net/smil:okey/manifest.mpd
-
--------------------------------------korea--------------------------
-
-#EXTINF:-1 tvg-id="KIX - [Channel 161].id" tvg-logo="https://iili.io/JZICJNS.png" group-title="Korean Channels",Kix
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=fe761e8fac143d40510e70825dad0b20:eed9fb0b4e254e9104ef98e8a7035387
-#EXTVLCOPT:http-referrer=https://visionplus.id/
-https://d1abp075u76pbq.cloudfront.net/live/eds/KIX/sa_dash_vmx/KIX.mpd
-#EXTINF:-1 tvg-id="Arirang - [Channel 351].id" tvg-logo="https://iili.io/Jmo2lu2.png" group-title="Korean Channels",Arirang
-https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b2256000_sleng.m3u8 
-#EXTVLCOPT:http-referrer=https://www.dens.tv/
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-id="416.astro" tvg-logo="https://iili.io/JmoHtne.png" group-title="Korean Channels",tvN Movies
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=45c004003b09719751adb885d28d491f:fe82bc3ffe00477c833812fae74caed7
-#EXTVLCOPT:http-referrer=https://visionplus.id/
-https://d1abp075u76pbq.cloudfront.net/live/eds/tvNMovies/sa_dash_vmx/tvNMovies.mpd
-#EXTINF:-1 tvg-id="211.unifi" tvg-logo="https://iili.io/Jmo20jS.png" group-title="Korean Channels",tvN
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=742131dbcb507c31502eb60b32be6bb8:209f03c525bbbc9fd8652aa7a9cc5cb0
-#EXTVLCOPT:http-referrer=https://visionplus.id/
-https://d1abp075u76pbq.cloudfront.net/live/eds/tvN/sa_dash_vmx/tvN.mpd
-#EXTVLCOPT:http-referrer=https://visionplus.id
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=7b212a67ce3e8b056af85b890e3de811:428a68fac3d97a5fae0f695edcee6346
-#EXTINF:-1 group-title="Korean Channels" tvg-id="SONE" tvg-url="https://www.bevy.be/bevyfiles/indonesiapremium3.xml" tvg-logo="https://static.mncnow.id/images/channel/3ad70848/b686_r32.jpg",ONE
-https://dsgtq5sngxkde.cloudfront.net/live/eds/SetOne/sa_dash_vmx/SetOne.mpd
-#EXTVLCOPT:http-referrer=https://www.dens.tv/
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-id="K-Plus" tvg-url="https://www.bevy.be/bevyfiles/malaysiapremium2.xml" tvg-logo="https://www.pngkey.com/png/full/306-3060351_k-plus-k-plus-channel-logo.png" group-title="Korean Channels",K+
-https://dsgtq5sngxkde.cloudfront.net/live/eds/SetOne/sa_dash_vmx/SetOne.mpd|Referer=https://www.visionplus.id/&user-agent=Android
-#EXTVLCOPT:http-referrer=https://www.dens.tv/
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-id="KBSWorld.kr" tvg-url="https://www.bevy.be/bevyfiles/malaysia.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/KBS_World.svg/2560px-KBS_World.svg.png" group-title="Korean Channels",KBS WORLD
-https://op-group1-swiftservehd-1.dens.tv/h/h243/02.m3u8
-#EXTVLCOPT:http-referrer=https://www.dens.tv/
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-id="" tvg-url="https://www.bevy.be/bevyfiles/malaysia.xml" tvg-logo="https://w7.pngwing.com/pngs/24/5/png-transparent-television-in-south-korea-korean-broadcasting-system-kbs-world-others.png" group-title="Korean Channels",KBS Korea
-https://op-group1-swiftservehd-1.dens.tv/h/h241/02.m3u8
 
 
 
