@@ -15,14 +15,43 @@ https://iptv-org.github.io/epg/guides/uk/sky.com.epg.xml.gz, https://raw.githubu
 https://iptv-org.github.io/epg/guides/id-en/mncvision.id.epg.xml.gz, https://iptv-org.github.io/epg/guides/id/vidio.com.epg.xml.gz,
 https://iptv-org.github.io/epg/guides/id/transvision.co.id.epg.xml.gz, https://iptv-org.github.io/epg/guides/in/dishtv.in.epg.xml.gz,
 https://iptv-org.github.io/epg/guides/sg/starhubtvplus.com.epg.xml.gz" refresh="3600
+
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/68y2OmC.png" group-title="NASIONAL",Soccer Channel
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://terabit.web.id/drmkv.php?id=115&type=drm
+#EXTVLCOPT:http-referrer=https://visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://d2xz2v5wuvgur6.cloudfront.net/out/v1/63c0da12bb4d48afbaf053f51dff2353/index.mpd 
+#EXTINF:0 tvg-logo="https://i.imgur.com/OkQzNhc.png" group-title="NASIONAL",Sportstars 1
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://terabit.web.id/drmkv.php?id=112&type=drm
+#EXTVLCOPT:http-referrer=https://visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://d2tjypxxy769fn.cloudfront.net/out/v1/89a6e4261cd7470f83e5869e90440cff/index.mpd 
+#EXTINF:0 tvg-logo="https://i.imgur.com/A1hlnLA.png" group-title="NASIONAL",Sportstars 2
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=911e72adf36946afbdbb4f80782a8394:08aec548a851ba64b7172ae7f05cb91c
+#EXTVLCOPT:http-referrer=https://visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://d3b0v7fggu5zwm.cloudfront.net/out/v1/d2c68a3dfb644808b416bd90dcc92d5f/index.mpd 
+#EXTINF:-1 group-title="NASIONAL" tvg-logo="https://i.imgur.com/dIcTZj3.png",Sportstars 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=https://multidrm.core.verimatrixcloud.net/widevine
+#KODIPROP:inputstream.adaptive.license_key=https://qtv.my.id/kvdrm.php?id=114&type=drm
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+https://d2xz2v5wuvgur6.cloudfront.net/out/v1/6f5596513af749c19d0bcdac013dda3c/index.mpd
+#EXTINF:0 tvg-id="SS4" tvg-logo="https://i.imgur.com/qUYLcS8.png" group-title="NASIONAL",Sportstars 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b576e5f5f1bc4cbaa866e5b0face5a30:3377be6c3b5f688ebed687312c9b9d95
+https://d2xz2v5wuvgur6.cloudfront.net/out/v1/2fcc58ccec8c45e9aa094fb980eb642d/index.mpd|referrer=https://visionplus.id/
+ 
+
 #EXTINF:-1 tvg-logo="https://iili.io/JMp3eKg.png" group-title="NASIONAL",Magna
 https://edge.medcom.id/live-edge/smil:magna.smil/playlist.m3u8
-
-#EXTINF:-1 group-title="NASIONAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/Sportstars_2.png",Sportstars 2 cdg
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://tvkitastream.my.id/rctiplus/drm.php/widevine?id=113
-https://d3b0v7fggu5zwm.cloudfront.net/out/v1/d2c68a3dfb644808b416bd90dcc92d5f/index.mpd
 #KODIPROP:inputstream=inputstream.ffmpegdirect
 #KODIPROP:mimetype=application/x-mpegURL
 #KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
@@ -2096,13 +2125,6 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:negara/manifest.mpd?id=8
 
 
 
-
-************************************
-
-
-
-
-
 <============================== Brunei ======================================>
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -2128,7 +2150,47 @@ https://d2kziuzkf9oizb.cloudfront.net/rd004/chunklist.m3u8
 #EXTINF:-1 tvg-id="" group-title="Brunei" group-logo="https://pictr.com/images/2023/04/18/Enlr0g.png" tvg-logo="https://rtb-images.glueapi.io/320x0/radio/nasional-title.png",RTB Nasional
 https://d2kziuzkf9oizb.cloudfront.net/rd005/chunklist.m3u8
 
-
+#EXTINF:-1  group-title="MALAYSIA" tvg-logo="https://github.com/MIFNtechnology/siaranMy/raw/main/logo/AstroAwani.png", Astro Awani 
+https://mifntechnology.github.io/siaranMy/channels/AstroAwani/index.m3u8
+ 
+#EXTINF:-1  group-title="MALAYSIA" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/OkeyTv.png",Okey TV
+https://mifntechnology.github.io/siaranMy/channels/TvOkey/index.m3u8
+ 
+#EXTINF:-1  group-title="MALAYSIA" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/Tv1.png",TV1 
+https://mifntechnology.github.io/siaranMy/channels/Tv1/index.m3u8
+ 
+#EXTINF:-1  group-title="MALAYSIA" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/Tv2.png",TV2 
+https://mifntechnology.github.io/siaranMy/channels/Tv2/index.m3u8
+ 
+#EXTINF:-1  group-title="MALAYSIA" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/Tv3.png",TV3 
+https://mifntechnology.github.io/siaranMy/channels/Tv3/index.m3u8
+ 
+#EXTINF:-1  group-title="MALAYSIA" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/Tv6.png",TV6 
+https://mifntechnology.github.io/siaranMy/channels/Tv6/index.m3u8
+ 
+#EXTINF:-1  group-title="MALAYSIA" tvg-logo="https://bm.soyacincau.com/wp-content/uploads/2021/02/210217-DidikTV-KPM-01.jpg",DIDIK TV KPM 
+https://mifntechnology.github.io/siaranMy/channels/DidikTvKPM/index.m3u8
+ 
+#EXTINF:-1  group-title="MALAYSIA" tvg-logo="https://i.ytimg.com/vi/XFzOZYv2Q8Y/maxresdefault.jpg",8TV 
+https://mifntechnology.github.io/siaranMy/channels/8tv/index.m3u8
+ 
+#EXTINF:-1  group-title="MALAYSIA" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/Tv9.png",TV9 
+https://mifntechnology.github.io/siaranMy/channels/Tv9/index.m3u8
+ 
+#EXTINF:-1  group-title="MALAYSIA" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/BeritaRtm.png",BERITA RTM 
+https://mifntechnology.github.io/siaranMy/channels/BeritaRTM/index.m3u8
+ 
+#EXTINF:-1  group-title="MALAYSIA" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/SukanRtm.png",SUKAN RTM 
+https://mifntechnology.github.io/siaranMy/channels/SukanRTM/index.m3u8
+ 
+#EXTINF:-1  group-title="MALAYSIA" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/Bernama.png",BERNAMA TV
+https://raw.githubusercontent.com/MIFNtechnology/YtM3u8/github-private/bernama/live.m3u8
+ 
+#EXTINF:-1  group-title="MALAYSIA" tvg-logo="https://github.com/MIFNtechnology/siaranMy/raw/main/logo/DuniaSinema.png", Dunia Sinema 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://mifntechnology.github.io/siaranMy/channels/DuniaSinema/index.m3u8
+ 
+ 
 
 <========================= China ====================================>
 
