@@ -630,6 +630,24 @@ http://202.147.193.244/live/eds/GalaxyPremium-HD/sa_dash/GalaxyPremium-HD.mpd
 
 #EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/617/617-LOGO-m.png" group-title="Movies",Galaxy (V+)
 http://202.147.193.244/live/eds/Galaxy-HD/sa_dash/Galaxy-HD.mpd
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/ETV-Bioskop-1.png" group-title="Movies",eTvBioskop1
+https://WahyuIPTV.short.gy/ETVBioskop1.ts
+
+
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/ETV-Bioskop-2.png" group-title="Movies",eTvBioskop2
+https://WahyuIPTV.short.gy/ETVBioskop2.ts
+
+
+
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/ETV-Bioskop-3.png" group-title="Movies", eTvBioskop3
+https://WahyuIPTV.short.gy/ETVBioskop3.ts
+
+
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/ETV-Bioskop-4.png" group-title="Movies", eTvBioskop4
+https://WahyuIPTV.short.gy/ETVBioskop4.ts
 
 #EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/645/645-LOGO-m.png" group-title="Movies",Rock Action (V+)
 http://202.147.193.244/live/eds/Rockaction/sa_dash/Rockaction.mpd
