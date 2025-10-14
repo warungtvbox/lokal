@@ -120,16 +120,14 @@ https://livestream.transtv.co.id/stream/live/ttv.m3u8
 https://video.detik.com/transtv/smil:transtv.smil/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/p4813vn2o8275z1/trans7.png" group-title="NASIONAL",TRANS 7
 https://video.detik.com/trans7/smil:trans7.smil/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/RCTI.png"" tvg-id="RCTI.id" tvg-name="ID: RCTI" group-title="NASIONAL",RCTI HD
-#EXTVLCOPT:http-user-agent=android-R+
-#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-https://rcti-cutv.rctiplus.id/rcti-sdi.m3u8
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d386001215594043a8995db796ad9e9c:3404792cb4c804902acdc6ca65c1a298
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/946/49946-SNAPSHOT-l.png" group-title="INDONESIA",RCTI (V+)
+https://d2xz2v5wuvgur6.cloudfront.net/out/v1/997ce8767b604fae9fce05379b3b8b3a/index.mpd
 #EXTINF:-1 tvg-id="--" group-title="NASIONAL" group-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/IndiHome_TV_%282023%29.png/1200px-IndiHome_TV_%282023%29.png" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/IndiHome_TV_%282023%29.png/1200px-IndiHome_TV_%282023%29.png", Trans 7
 https://cdn10jtedge.indihometv.com/atm/DASH/trans7/manifest.mpd
-#EXTINF:-1 group-title="NASIONAL" tvg-logo="https://perfecttv.net/logo/rcti.png", RCTI 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=9ba3e153ef8956d6e2b0684fcf74f58f:dbc28cb5c6426080f984a5b6d436bb30
-https://d1abp075u76pbq.cloudfront.net/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd|Referer=https://www.visionplus.id/
 
 #EXTINF:-1 tvg-id="SindoNews.id" group-title="NASIONAL" group-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/IndiHome_TV_%282023%29.png/1200px-IndiHome_TV_%282023%29.png" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/IndiHome_TV_%282023%29.png/1200px-IndiHome_TV_%282023%29.png", Sindonews
 https://cdn10jtedge.indihometv.com/atm/DASH/mncnews/manifest.mpd
