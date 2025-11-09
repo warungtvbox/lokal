@@ -232,8 +232,7 @@ https://e.siar.us/live/dmtv.m3u8
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Tbd8LXw/inspira.jpg" group-title="LOKAL",Inspira Tv 
 https://inspiratv.siar.us/inspiratv/live/playlist.m3u8
-#EXTINF:-1   tvg-logo="https://i.imgur.com/vbV0KKG.jpg" group-title="LOKAL",Jogja Istimewa TV (720p)
-http://103.255.15.222:1935/tv/jitv_720p/playlist.m3u8
+
 #EXTINF:-1 tvg-id="Bandung TV.id" tvg-logo="https://iili.io/Jbtnh2j.png" group-title="LOKAL",Bandung TV
 http://202.150.153.254:65500/bandungtvWEBSITE.m3u8
 
@@ -246,11 +245,7 @@ https://b.webcache.maxindo.net.id/dhamma/dhamma.m3u8
 https://cdn.gunadarma.ac.id/streams/ugtv/ingestugtv_high.m3u8
 #EXTINF:-1 tvg-logo="https://imgs.search.brave.com/2l424MY67Zj1YYcsreW8IV9oLfCYNI1X2XJdW8kMkd4/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvaWQvdGh1bWIv/OC84Ni9EaG9ob1RW/LnBuZy8yMDBweC1E/aG9ob1RWLnBuZw" group-title="LOKAL",Dhoho TV
 https://dhohotv.siar.us/dhohotv/live/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsESlZzrBmSfJgLESkGisoFXxwQRGlqzIDDA&s" group-title="LOKAL", DAAI TV
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=dfd7c4f6420843ab9ffb1b8fdda1073a:d99603a39c300373a2edaf4f048276be
-https://atemecdnbalancer-voe.sysln.id/live/eds/DAAITV/mpd/DAAITV.mpd
+
 
 
 --------------------------------------kids------------------
