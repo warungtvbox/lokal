@@ -788,6 +788,64 @@ http://178.33.224.197:1935/euroindiemusic/euroindiemusic/playlist.m3u8
  
  
 <=================== KONWLEDGE =============================>
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/m3uzone/logo/main/Animal_Planet.svg" group-title="KNOWLEDGE & DOCUMENTARY",Animal planet HD
+#EXTVLCOPT:http-referrer=https://www.indihometv.com
+https://cdn08jtedge.indihometv.com/dassdvr/194/animalplanet/manifest.mpd|http-user-agent=Mozilla/5.0 (Linux; Android 11; BRAVIA) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.5993.0 Safari/537.36
+
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/m3uzone/logo/main/BBC_Earth.svg" group-title="KNOWLEDGE & DOCUMENTARY",BBC Earth Asia
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=5709bc59805c4f23b000306efea48438:1772cf06c2f5dd3980a3245cd31fd356
+https://d84q7nw4qf3j3.cloudfront.net/out/v1/4e5b2a283adf462c8b6b55b2ef059fac/index.mpd|http-user-agent=Mozilla/5.0 (Linux; Android 11; BRAVIA) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.5993.0 Safari/537.36
+
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/m3uzone/logo/main/CGTN_Documentary.svg" group-title="KNOWLEDGE & DOCUMENTARY",CGTN Documentary
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000035/1024.m3u8|http-user-agent=Mozilla/5.0 (Linux; Android 11; BRAVIA) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.5993.0 Safari/537.36
+
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/m3uzone/logo/main/Curiosity_Channel.svg" group-title="KNOWLEDGE & DOCUMENTARY",Curiosity
+#EXTVLCOPT:http-referrer=https://www.indihometv.com
+https://cdn08jtedge.indihometv.com/dassdvr/194/curiosity/manifest.mpd|http-user-agent=Mozilla/5.0 (Linux; Android 11; BRAVIA) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.5993.0 Safari/537.36
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/m3uzone/logo/main/Discovery.svg" group-title="KNOWLEDGE & DOCUMENTARY",Discovery
+https://dub.sh/vMJflat|http-user-agent=Mozilla/5.0 (Linux; Android 11; BRAVIA) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.5993.0 Safari/537.36
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/m3uzone/logo/main/Discovery_Asia.webp" group-title="KNOWLEDGE & DOCUMENTARY",Discovery Asia
+#EXTVLCOPT:http-referrer=https://www.indihometv.com
+https://cdn08jtedge.indihometv.com/dassdvr/194/discoveryasia/manifest.mpd|http-user-agent=Mozilla/5.0 (Linux; Android 11; BRAVIA) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.5993.0 Safari/537.36
+
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/m3uzone/logo/main/GlobalTrekker.webp" group-title="KNOWLEDGE & DOCUMENTARY",Global Trekker
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000132/1024.m3u8|http-user-agent=Mozilla/5.0 (Linux; Android 11; BRAVIA) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.5993.0 Safari/537.36
+
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/m3uzone/logo/main/History.webp" group-title="KNOWLEDGE & DOCUMENTARY",HISTORY HD
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=bf7ec2974fa14a248e338280a6e64cb8:7e81ae9282d08881e304aa527a1d7e72
+https://cutt.ly/ItypQv32
+
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/m3uzone/logo/main/Love_Nature.webp" group-title="KNOWLEDGE & DOCUMENTARY",Love Nature
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000127/1024.m3u8|http-user-agent=Mozilla/5.0 (Linux; Android 11; BRAVIA) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.5993.0 Safari/537.36
+
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/m3uzone/logo/main/Love_Nature.webp" group-title="KNOWLEDGE & DOCUMENTARY",Love Nature HD
+#EXTVLCOPT:http-referrer=https://www.indihometv.com
+https://cdn08jtedge.indihometv.com/dassdvr/194/lovenature/manifest.mpd|http-user-agent=Mozilla/5.0 (Linux; Android 11; BRAVIA) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.5993.0 Safari/537.36
+
+
+#EXTINF:-1 tvg-id="" tvg-name="National Geographic 1" tvg-logo="https://raw.githubusercontent.com/m3uzone/logo/main/National_Geographic.svg" group-title="📺 | DOCUMENTARY",National Geographic 
+https://s.id/zmwvK|http-user-agent=Mozilla/5.0 (Linux; Android 11; BRAVIA) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.5993.0 Safari/537.36
+
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/m3uzone/logo/main/National_Geographic_Wild.svg" group-title="KNOWLEDGE & DOCUMENTARY",National Geographic WILD
+https://s.id/BZ2KT|http-user-agent=Mozilla/5.0 (Linux; Android 11; BRAVIA) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.5993.0 Safari/537.36
+
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/m3uzone/logo/main/Viasat_Nature.svg" group-title="KNOWLEDGE & DOCUMENTARY",VIASAT NATURE 
+https://s.id/x2v7G|http-user-agent=Mozilla/5.0 (Linux; Android 11; BRAVIA) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.5993.0 Safari/537.36
 
 
 #EXTINF:-1 tvg-logo="https://iili.io/d9HE0l9.png" group-title="KNOWLEDGE & DOCUMENTARY",DMAX
@@ -795,57 +853,30 @@ http://opplex.tv:8080/live/mother/mother/346217.ts
 
 #EXTINF:-1 tvg-logo="https://images.indihometv.com/assets/CURIOSITY-OTT-135-HD.png?v=2.0.0.13" group-title="KNOWLEDGE & DOCUMENTARY",Curiosity
 https://cdn08jtedge.indihometv.com/dassdvr/194/curiosity/manifest.mpd
-
-
-
 #EXTINF:-1 tvg-logo="https://images.indihometv.com/assets/CURIOSITY-OTT-135-HD.png?v=2.0.0.13" group-title="KNOWLEDGE & DOCUMENTARY",Curiosity Indihome
 #EXTVLCOPT:http-referrer=https://www.indihometv.com/
 #EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #https://raw.githubusercontent.com/hendroagung2904/IDH/refs/heads/main/IDH-Curiosity.m3u8
 https://cdn08jtedge.indihometv.com/dassdvr/194/curiosity/manifest.mpd
-
-
 #EXTINF:-1 tvg-logo="https://iili.io/Jmoc3MX.png" group-title="KNOWLEDGE & DOCUMENTARY",TBN
 http://xxip9.top:8080/live/Gizvid192@giz.com/1234@4321/21895.ts
-
-
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/dc/AWE_Logo_%28platinum%29.jpg" group-title="KNOWLEDGE & DOCUMENTARY",AWE Encore
 #EXTVLCOPT:http-origin=https://www.distro.tv
 #EXTVLCOPT:http-referrer=https://www.distro.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/awe-encore/f9df390f-1207-4bc5-b2cf-0e97ccac135d/0.m3u8
-
 #EXTINF:-1 tvg-logo="" group-title="KNOWLEDGE & DOCUMENTARY",Earth Touch tv
 https://autentic-adventure-earth-1-gb.lg.wurl.tv/playlist.m3u8
-
 #EXTINF:-1 group-title="KNOWLEDGE & DOCUMENTARY" tvg-id="National Geographic Channel HD" tvg-url=""tvg-logo="https://iili.io/JmoCZ5g.png",Outdoor Channel
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00718-outdoorchannela-outdoortvnz-samsungnz/playlist.m3u8
-
-
-
-
-
 #EXTINF:-1 tvg-id="biznet adventure" tvg-logo="https://iili.io/JmoCN07.png" group-title="KNOWLEDGE & DOCUMENTARY",Biznet Adventure
 http://livestream.biznetvideo.net/biznet_adventure/smil:adventure.smil/manifest.mpd?bizkeylivestarttime=0&bizkeyliveendtime=0&bizkeyliveCustomParameter=myParameter&bizkeylivehash=D2-Bdo6x4Cb0PsmWG5fu7YVz3FhpmD2005p60ZgyKUQS1JrK98LUd-yQ6T81d1tE
-
-
 #EXTINF:-1 tvg-logo="https://www.dens.tv/images/channel-logo/1.jpg" group-title="KNOWLEDGE & DOCUMENTARY",Dens Learning
 #EXTVLCOPT:http-referrer=https://www.dens.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://op-group1-swiftservehd-1.dens.tv/h/h236/02.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/4LgsdtB/wp8223158.jpg" group-title="KNOWLEDGE & DOCUMENTARY",National Geographic Wild
 http://opplex.tv:8080/live/mother/mother/109976.ts
-
-
-
-
-
-
-
-
-
 #EXTVLCOPT:http-referrer=https://www.visionplus.id
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
 #EXTINF:-1 group-title="KNOWLEDGE & DOCUMENTARY" tvg-id="CrimeInvestigation.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://www.visionplus.id/images/repository/014/50014-SNAPSHOT-l.png",Crime Investigation V+
