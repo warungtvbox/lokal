@@ -363,6 +363,18 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/637e55347427a40007fac7
 
 --------------------------------------MOVIES---------------------------
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/m3uzone/logo/main/HBO.svg" group-title="MOVIES",HBO 
+https://dub.sh/siMx6dX|http-user-agent=Mozilla/5.0 (Linux; Android 11; BRAVIA) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.5993.0 Safari/537.36
+
+
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/m3uzone/logo/main/HBO_Family.svg" group-title="MOVIES",HBO Familiy 
+https://dub.sh/KHCQDI7|http-user-agent=Mozilla/5.0 (Linux; Android 11; BRAVIA) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.5993.0 Safari/537.36
+
+
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/m3uzone/logo/main/HBO_HiTS.svg" group-title="MOVIES",HBO Hits 
+https://dub.sh/au2Y7Sy|http-user-agent=Mozilla/5.0 (Linux; Android 11; BRAVIA) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.5993.0 Safari/537.36
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/2498aa1ffc66cf53f77c63b77a787d3a.png" group-title="Movies",ID: GTV HD
 http://filex.tv:8080//live/Waqas%20Latif/12345678/302247.ts
