@@ -362,6 +362,137 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/637e55347427a40007fac7
 
 
 --------------------------------------MOVIES---------------------------
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/m3uzone/logo/main/Bioskop_Indonesia_2.png" group-title="📺 | MOVIES",BIOSKOP INDONESIA
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
+https://cdn08jtedge.indihometv.com/dassdvr/130/bioskopindonesia/manifest.mpd|http-user-agent=Mozilla/5.0 (Linux; Android 11; BRAVIA) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.5993.0 Safari/537.36
+
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/m3uzone/logo/main/CCM_Logo_2.png" group-title="📺 | MOVIES",CCM
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000028/1024.m3u8|http-user-agent=Mozilla/5.0 (Linux; Android 11; BRAVIA) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.5993.0 Safari/537.36
+
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/m3uzone/logo/main/Celestial_Movies_logo.png" group-title="📺 | MOVIES",CELESTIAL MOVIES
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000032/1024.m3u8|http-user-agent=Mozilla/5.0 (Linux; Android 11; BRAVIA) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.5993.0 Safari/537.36
+
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/m3uzone/logo/main/Cineedge.png" group-title="📺 | MOVIES",CINEEDGE
+#EXTVLCOPT:http-referrer=https://indihometv.com
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c7b3852d9c84418f942923e41c31e633:ddb99755e0bebd98c92c7eab974bf161
+https://d2xz2v5wuvgur6.cloudfront.net/out/v1/47c895ca72544fcfa4221c499b555a10/index.mpd|http-user-agent=Mozilla/5.0 (Linux; Android 11; BRAVIA) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.5993.0 Safari/537.36
+
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/m3uzone/logo/main/Cinemax_2016.svg" group-title="📺 | MOVIES",CINEMMAX
+#EXTVLCOPT:http-referrer=https://www.firstmedia.com
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b489136b34aa4166a9c9984f19155d30:2c6de796954779fd6f51584425ac834e
+https://cutt.ly/ctypW1tM
+
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/m3uzone/logo/main/Citra_Bioskop.png" group-title="📺 | MOVIES",Citra Bioskop
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=94788bc937054090b216dc101e5fa5dc:297c97962ff8d9e99f1da178ea0083ec
+https://cutt.ly/atypW4f8
+
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/m3uzone/logo/main/Galaxy_premium.webp" group-title="📺 | MOVIES",GALAXY PREMIUM
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000126/1024.m3u8|http-user-agent=Mozilla/5.0 (Linux; Android 11; BRAVIA) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.5993.0 Safari/537.36
+
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/m3uzone/logo/main/Galaxy.webp" group-title="📺 | MOVIES",GALAXY V+
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=cfbae59795044563b5b9b4927a79a76e:ce57c9490bd772b390d78b9fedaf8d36
+https://d2xz2v5wuvgur6.cloudfront.net/out/v1/751a0982779f4edd904205eb351e220d/index.mpd|http-user-agent=Mozilla/5.0 (Linux; Android 11; BRAVIA) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.5993.0 Safari/537.36
+
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/m3uzone/logo/main/HBO.svg" group-title="📺 | MOVIES",HBO 
+https://dub.sh/siMx6dX|http-user-agent=Mozilla/5.0 (Linux; Android 11; BRAVIA) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.5993.0 Safari/537.36
+
+
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/m3uzone/logo/main/HBO_Family.svg" group-title="📺 | MOVIES",HBO Familiy 
+https://dub.sh/KHCQDI7|http-user-agent=Mozilla/5.0 (Linux; Android 11; BRAVIA) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.5993.0 Safari/537.36
+
+
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/m3uzone/logo/main/HBO_HiTS.svg" group-title="📺 | MOVIES",HBO Hits 
+https://dub.sh/au2Y7Sy|http-user-agent=Mozilla/5.0 (Linux; Android 11; BRAVIA) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.5993.0 Safari/537.36
+
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/m3uzone/logo/main/Hits.svg" group-title="📺 | MOVIES",HITS
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000114/1024.m3u8|http-user-agent=Mozilla/5.0 (Linux; Android 11; BRAVIA) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.5993.0 Safari/537.36
+
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/m3uzone/logo/main/HITS_MOVIES.webp" group-title="📺 | MOVIES",HITS MOVIES
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000139/1024.m3u8|http-user-agent=Mozilla/5.0 (Linux; Android 11; BRAVIA) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.5993.0 Safari/537.36
+
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/m3uzone/logo/main/IMC.png" group-title="📺 | MOVIES",IMC
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000133/1024.m3u8|http-user-agent=Mozilla/5.0 (Linux; Android 11; BRAVIA) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.5993.0 Safari/537.36
+
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/m3uzone/logo/main/KIX.webp" group-title="📺 | MOVIES",KIX
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000037/1024.m3u8|http-user-agent=Mozilla/5.0 (Linux; Android 11; BRAVIA) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.5993.0 Safari/537.36
+
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/m3uzone/logo/main/My_Cinema_Logo.png" group-title="📺 | MOVIES",MY CINEMA ASIA
+http://op-group1-swiftservehd-1.dens.tv/h/h193/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=My_Cinema_Asia|http-user-agent=Mozilla/5.0 (Linux; Android 11; BRAVIA) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.5993.0 Safari/537.36
+
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/m3uzone/logo/main/MCN2.webp" group-title="📺 | MOVIES",MY CINEMA EUROPE
+http://op-group1-swiftservehd-1.dens.tv/h/h18/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=My_Cinema_Europe_HD|http-user-agent=Mozilla/5.0 (Linux; Android 11; BRAVIA) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.5993.0 Safari/537.36
+
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/m3uzone/logo/main/ORIGINALS.png" group-title="📺 | MOVIES",ORIGINALS
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000154/1024.m3u8|http-user-agent=Mozilla/5.0 (Linux; Android 11; BRAVIA) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.5993.0 Safari/537.36
+
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/m3uzone/logo/main/Rock_Action.png" group-title="📺 | MOVIES",ROCK ACTION
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=99e736f170b148ffb16d0ad6c8f93ef4:d1b4737ab41f0daae733f11a4b84fa02
+https://cutt.ly/jtypTaYG
+
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/m3uzone/logo/main/ROCK_entertainment.png" group-title="📺 | MOVIES",ROCK ENTERTAINMENT
+#EXTVLCOPT:http-referrer=https://indihometv.com
+https://cdn10jtedge.indihometv.com/atm/DASH/rock_entertainment/manifest.mpd|http-user-agent=Mozilla/5.0 (Linux; Android 11; BRAVIA) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.5993.0 Safari/537.36
+
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/m3uzone/logo/main/Studio_Universal.png" group-title="📺 | MOVIES",STUDIO UNIVERSAL V+
+#EXTVLCOPT:http-referrer=https://visionplus.id
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b4a7b3289eff493d8700becf2e2a1157:bfbcfcb8137dd565a7f4b5ce7800c1f0
+https://d84q7nw4qf3j3.cloudfront.net/out/v1/dc63bd198bc44193b570e0567ff5b22c/index.mpd|http-user-agent=Mozilla/5.0 (Linux; Android 11; BRAVIA) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.5993.0 Safari/537.36
+
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/m3uzone/logo/main/SUPERRIX.png" group-title="📺 | MOVIES",SUPERRIX V+
+#EXTVLCOPT:http-referrer=https://visionplus.id
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1dc30f49888c4652897d9c998aa2cac1:8ccb6857157c1a01c5a47eb853f51aa2
+https://d2tjypxxy769fn.cloudfront.net/out/v1/782400332c96440598260730a864bc6f/index.mpd|http-user-agent=Mozilla/5.0 (Linux; Android 11; BRAVIA) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.5993.0 Safari/537.36
+
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/m3uzone/logo/main/Thrill.svg" group-title="📺 | MOVIES",Thrill
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000001/1024.m3u8|http-user-agent=Mozilla/5.0 (Linux; Android 11; BRAVIA) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.5993.0 Safari/537.36
+
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/m3uzone/logo/main/TvN_Movies.webp" group-title="📺 | MOVIES",TVN MOVIES
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000142/1024.m3u8|http-user-agent=Mozilla/5.0 (Linux; Android 11; BRAVIA) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.5993.0 Safari/537.36
+
+
+#EXTINF:-1 tvg-logo=https://raw.githubusercontent.com/m3uzone/logo/main/Warner_TV_logo.svg.png" group-title="📺 | MOVIES",WARNER TV
+#EXTVLCOPT:http-referrer=https://indihometv.com
+https://cdn10jtedge.indihometv.com/atm/DASH/warner/manifest.mpd|http-user-agent=Mozilla/5.0 (Linux; Android 11; BRAVIA) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.5993.0 Safari/537.36
+
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/m3uzone/logo/main/Zee_Bioskop.svg" group-title="📺 | MOVIES",Z BIOSKOP
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000061/1024.m3u8|http-user-agent=Mozilla/5.0 (Linux; Android 11; BRAVIA) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.5993.0 Safari/537.36
+
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/m3uzone/logo/main/HBO.svg" group-title="MOVIES",HBO 
 https://dub.sh/siMx6dX|http-user-agent=Mozilla/5.0 (Linux; Android 11; BRAVIA) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.5993.0 Safari/537.36
@@ -851,22 +982,6 @@ https://cdn08jtedge.indihometv.com/dassdvr/194/maxstream/manifest.mpd |http-user
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/m3uzone/logo/main/One_logopng.png" group-title="📺 | Entertainment",ONE
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000123/1024.m3u8|http-user-agent=Mozilla/5.0 (Linux; Android 11; BRAVIA) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.5993.0 Safari/537.36
 
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/m3uzone/logo/main/TvN_Logo.svg" group-title="📺 | Entertainment",TVN
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2000141/1024.m3u8|http-user-agent=Mozilla/5.0 (Linux; Android 11; BRAVIA) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.5993.0 Safari/537.36
-
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/m3uzone/logo/main/UNIQUES.png" group-title="📺 | Entertainment",UNIQUES
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2000156/1024.m3u8|http-user-agent=Mozilla/5.0 (Linux; Android 11; BRAVIA) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.5993.0 Safari/537.36
-
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/m3uzone/logo/main/Vision_Prime.svg" group-title="📺 | Entertainment",VISION PRIME HD
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2000130/1024.m3u8|http-user-agent=Mozilla/5.0 (Linux; Android 11; BRAVIA) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.5993.0 Safari/537.36
-
-
-
-
- 
  
 <=================== KONWLEDGE =============================>
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/m3uzone/logo/main/Animal_Planet.svg" group-title="KNOWLEDGE & DOCUMENTARY",Animal planet HD
@@ -893,8 +1008,6 @@ https://cutt.ly/ItypQv32
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/m3uzone/logo/main/Love_Nature.webp" group-title="KNOWLEDGE & DOCUMENTARY",Love Nature HD
 #EXTVLCOPT:http-referrer=https://www.indihometv.com
 https://cdn08jtedge.indihometv.com/dassdvr/194/lovenature/manifest.mpd|http-user-agent=Mozilla/5.0 (Linux; Android 11; BRAVIA) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.5993.0 Safari/537.36
-#EXTINF:-1 tvg-id="" tvg-name="National Geographic 1" tvg-logo="https://raw.githubusercontent.com/m3uzone/logo/main/National_Geographic.svg" group-title="📺 | DOCUMENTARY",National Geographic 
-https://s.id/zmwvK|http-user-agent=Mozilla/5.0 (Linux; Android 11; BRAVIA) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.5993.0 Safari/537.36
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/m3uzone/logo/main/National_Geographic_Wild.svg" group-title="KNOWLEDGE & DOCUMENTARY",National Geographic WILD
 https://s.id/BZ2KT|http-user-agent=Mozilla/5.0 (Linux; Android 11; BRAVIA) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.5993.0 Safari/537.36
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/m3uzone/logo/main/Viasat_Nature.svg" group-title="KNOWLEDGE & DOCUMENTARY",VIASAT NATURE 
@@ -951,26 +1064,26 @@ https://rt-rtd.rttv.com/live/rtdoc/playlist.m3u8
 https://d84q7nw4qf3j3.cloudfront.net/out/v1/4e5b2a283adf462c8b6b55b2ef059fac/index.mpd
 #EXTINF:-1 group-title="》NAT_&_KNOW" tvg-id="nasatv.us" tvg-logo="https://i.pinimg.com/236x/1b/f2/bc/1bf2bcdd8ff93c8e184979be642c5c43.jpg",NASA TV MEDIA
 #https://raw.githubusercontent.com/Cutsiffa/on/main/Nasa.m3u8
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/f2/95/cc/f295cc1b6543904e3db5d450a8749577.jpg" group-title="》NAT_&_KNOW", Naturescape 
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/f2/95/cc/f295cc1b6543904e3db5d450a8749577.jpg" group-title="KNOWLEDGE & DOCUMENTARY", Naturescape 
 https://lotus.stingray.com/manifest/naturescape-a003-montreal/samsungtvplus/f7ed86a4-b8ac-38e0-a745-710077a95be6/3291200/manifest.m3u8
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/3b/72/82/3b7282aecb9f260f2c5f3f3479f9bfa6.jpg" group-title="》NAT_&_KNOW",Love Nature US
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/3b/72/82/3b7282aecb9f260f2c5f3f3479f9bfa6.jpg" group-title="KNOWLEDGE & DOCUMENTARY",Love Nature US
 https://bamus-lovenature-lg.amagi.tv/720p-cc/index.m3u8
-#EXTINF:-1 tvg-id="GBBB1000005IO" tvg-name="REAL WILD" tvg-logo="https://iili.io/JpsBB8Q.jpg" group-title="》NAT_&_KNOW", REAL WILD
+#EXTINF:-1 tvg-id="GBBB1000005IO" tvg-name="REAL WILD" tvg-logo="https://iili.io/JpsBB8Q.jpg" group-title="KNOWLEDGE & DOCUMENTARY", REAL WILD
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00426-littledotstudio-realwild-tcl/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/d2/dd/14/d2dd14e1fe8bc9156574046239902f53.jpg" group-title="》NAT_&_KNOW",A KNOWLEDGE
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/d2/dd/14/d2dd14e1fe8bc9156574046239902f53.jpg" group-title="KNOWLEDGE & DOCUMENTARY",A KNOWLEDGE
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 http://op-group1-swiftservehd-1.dens.tv/h/h236/02.m3u8
-#EXTINF:-1 group-title="》NAT_&_KNOW" tvg-logo="https://i.pinimg.com/236x/4b/ad/6f/4bad6f6779fe8ad241172d79c00694a2.jpg",TECHSTORM 
+#EXTINF:-1 group-title="KNOWLEDGE & DOCUMENTARY" tvg-logo="https://i.pinimg.com/236x/4b/ad/6f/4bad6f6779fe8ad241172d79c00694a2.jpg",TECHSTORM 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=5675d85ce6754ba6aa8f6acc4660f76f:140bfb365cf143c349f68699238a610c
 https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_tech_storm.mpd
-#EXTINF:-1 group-title="》NAT_&_KNOW" tvg-id="" tvg-logo="https://i.pinimg.com/236x/2a/f4/2d/2af42d69f5c404e6b15307603480209f.jpg",V NATURE
+#EXTINF:-1 group-title="KNOWLEDGE & DOCUMENTARY" tvg-id="" tvg-logo="https://i.pinimg.com/236x/2a/f4/2d/2af42d69f5c404e6b15307603480209f.jpg",V NATURE
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
 https://mob.webtvstream.bhtelecom.ba/hls15/viasat_nature.mpd?n=276ceb87b528e1ce0973b5d585851284
-#EXTINF:-1 group-title="》NAT_&_KNOW" tvg-logo="https://i.pinimg.com/736x/2a/f4/2d/2af42d69f5c404e6b15307603480209f.jpg", NAT GEO
+#EXTINF:-1 group-title="KNOWLEDGE & DOCUMENTARY" tvg-logo="https://i.pinimg.com/736x/2a/f4/2d/2af42d69f5c404e6b15307603480209f.jpg", NAT GEO
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referer=https://webtv.sk/tv/
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -978,7 +1091,7 @@ https://mob.webtvstream.bhtelecom.ba/hls15/viasat_nature.mpd?n=276ceb87b528e1ce0
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://drm.antik.sk/widevine/key
 https://dash2.antik.sk/stream/hisi_ngc/playlist_cbcs.mpd
-#EXTINF:-1 group-title="》NAT_&_KNOW" tvg-logo="https://i.pinimg.com/736x/2a/f4/2d/2af42d69f5c404e6b15307603480209f.jpg", NAT GEO WILD
+#EXTINF:-1 group-title="KNOWLEDGE & DOCUMENTARY" tvg-logo="https://i.pinimg.com/736x/2a/f4/2d/2af42d69f5c404e6b15307603480209f.jpg", NAT GEO WILD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referer=https://webtv.sk/tv/
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -986,13 +1099,13 @@ https://dash2.antik.sk/stream/hisi_ngc/playlist_cbcs.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://drm.antik.sk/widevine/key
 https://dash2.antik.sk/stream/hisi_ngw/playlist_cbcs.mpd
-#EXTINF:-1 group-title="》NAT_&_KNOW" tvg-logo="https://i.pinimg.com/736x/2a/f4/2d/2af42d69f5c404e6b15307603480209f.jpg", KBS LIVECAM
+#EXTINF:-1 group-title="KNOWLEDGE & DOCUMENTARY" tvg-logo="https://i.pinimg.com/736x/2a/f4/2d/2af42d69f5c404e6b15307603480209f.jpg", KBS LIVECAM
 http://kbs-dokdo.gscdn.com/dokdo_300/dokdo_300.stream/playlist.m3u8
-#EXTINF:-1 group-title="》NAT_&_KNOW" tvg-logo="https://i.pinimg.com/736x/2a/f4/2d/2af42d69f5c404e6b15307603480209f.jpg",TLC
+#EXTINF:-1 group-title="KNOWLEDGE & DOCUMENTARY" tvg-logo="https://i.pinimg.com/736x/2a/f4/2d/2af42d69f5c404e6b15307603480209f.jpg",TLC
 http://125hvt.ddns.net:21585/tlc/index.m3u8
-#EXTINF:-1 group-title="》NAT_&_KNOW" tvg-logo="https://i.pinimg.com/736x/2a/f4/2d/2af42d69f5c404e6b15307603480209f.jpg",TRAVEL & TASTE
+#EXTINF:-1 group-title="KNOWLEDGE & DOCUMENTARY" tvg-logo="https://i.pinimg.com/736x/2a/f4/2d/2af42d69f5c404e6b15307603480209f.jpg",TRAVEL & TASTE
 https://b27a6dd8a86c3e4ba93fbae22aaaac64.pmqrop.channel-assembly.mediatailor.ap-southeast-1.amazonaws.com/v1/channel/FAST_5/dash.mpd
-#EXTINF:-1 group-title="》NAT_&_KNOW" tvg-id="" tvg-logo="https://i.pinimg.com/236x/2a/f4/2d/2af42d69f5c404e6b15307603480209f.jpg",OUTDOR
+#EXTINF:-1 group-title="KNOWLEDGE & DOCUMENTARY" tvg-id="" tvg-logo="https://i.pinimg.com/236x/2a/f4/2d/2af42d69f5c404e6b15307603480209f.jpg",OUTDOR
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00718-outdoorchannela-outdoortvnz-samsungnz/playlist.m3u8
 ########################## NEWS ##########################
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
