@@ -362,6 +362,29 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/637e55347427a40007fac7
 
 
 --------------------------------------MOVIES---------------------------
+#EXTINF:-1 tvg-logo="https://iili.io/JmoHtne.png" group-title="Movies",TVN Movies 🔵
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=17fb563c784848f09d8a1ea88a2fa989:1d0bd94eab5d5f56a950b784d9345439
+https://fta2-cdn-flr.visionplus.id/out/v1/096d5cf064294e7ea3a7f59ee2899669/index.mpd
+#EXTINF:-1 tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687502909_tvchannels_v1.jpg" group-title="Movies",TVN Movies ⚪
+#EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+#EXTVLCOPT:http-referrer=http://dens.tv/
+https://op-group1-swiftservehd-1.dens.tv/h/h21/index.m3u8?app_type=web&userid=lite&chname=tvN_Movies_HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/n600MdC/hbo.png" group-title="HBO Group",HBO
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/cubmu/bintangstream/forsattv_pro/sultantvnew1.php
+https://zozotv.xyz:443/live/rohaiza@4424/rohaiza@4424/96.ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/n600MdC/hbo.png" group-title="HBO Group",HBO (ID)
+https://zozotv.xyz:443/live/rohaiza@4424/rohaiza@4424/693.ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/pQW1JcG/xyfs.png" group-title="HBO Group",HBO Hits
+https://zozotv.xyz:443/live/rohaiza@4424/rohaiza@4424/97.ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/TmGc8Tw/gxy.png" group-title="HBO Group",HBO Family
+https://zozotv.xyz:443/live/rohaiza@4424/rohaiza@4424/98.ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zX9LRZd/BDZ.png" group-title="HBO Group",HBO Signature
+https://zozotv.xyz:443/live/rohaiza@4424/rohaiza@4424/99.ts
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/m3uzone/logo/main/Bioskop_Indonesia_2.png" group-title="📺 | MOVIES",BIOSKOP INDONESIA
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
