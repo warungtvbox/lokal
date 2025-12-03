@@ -362,23 +362,7 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/637e55347427a40007fac7
 
 
 --------------------------------------MOVIES---------------------------
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/ab/76/db/ab76dbd105f34be0029a2e8da161642a.jpg" group-title="📺 | MOVIES" tvg-id="HITS.id" tvg-name="HITS HD", HITS
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=530cb2294e474e1f910498363a8c3864:e70e6b093930453d1dc66ab0e259131a
-https://atemeshield1-voe.sysln.id/live/eds/HitsHD/mpd/HitsHD.mpd
- 
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/cb/db/ec/cbdbecd298aa95af1eb6d88af8275cb0.jpg" group-title="📺 | MOVIES" tvg-id="Hits Movies HD" tvg-name="Hits Movies HD", HITS MOVIES
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=12a34fccac944a19a14101a9009dae05:2d1543668411b31aec7269d889d4821c
-https://atemecdnbalancer-voe.sysln.id/live/eds/HitsMoviesHD/mpd/HitsMoviesHD.mpd
- 
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/cb/db/ec/cbdbecd298aa95af1eb6d88af8275cb0.jpg" group-title="📺 | MOVIES" tvg-id="Hits Movies HD" tvg-name="Hits Movies HD", HITS NOW
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1 
-#KODIPROP:inputstream.adaptive.license_type=clearkey 
-#KODIPROP:inputstream.adaptive.license_key=26bfec0f1cb047d7963f37e1b6401ec0:60e2302b29cb9cabf7e1743fc2f0f059 
-https://atemeshield1-voe.sysln.id/live/eds/HITSNowHD/mpd/HITSNowHD.mpd 
+
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/bb/f6/ba/bbf6ba90552ae0cc18cda5cde4b4abfc.jpg" group-title="📺 | MOVIES", Zee Cinema ᴴᴰ 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f56beaac9f124616872c741c9ce4fa4e:5d40a903238f4ad98abbed1877d4e3d1
@@ -1286,8 +1270,145 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:berita/manifest.mpd
 #EXTINF:-1 tvg-id="AstroAwani.my" tvg-url="https://www.bevy.be/bevyfiles/malaysia.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/ff/Astro_Awani.png" group-title="Malaysia",Astro Awani
 https://d2idp3hzkhjpih.cloudfront.net/out/v1/4b85d9c2bf97413eb0c9fd875599b837/index.m3u8?c
 
- 
- 
+ ----------------------------------PHILIPINA----------------------------
+
+ #EXTINF:-1 group-title="📺 | TV Channels | PH",Animal Planet
+http://tv-centreduquebec.info:80/play/live.php?mac=00:1A:79:86:AC:0B&stream=926204&extension=ts&play_token=uKRl8UMMuu|http-user-agent=Mozilla/5.0 (Linux; Android 11; BRAVIA) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.5993.0 Safari/537.36
+
+
+#EXTM3U
+#EXTINF:-1 group-title="📺 | TV Channels | PH",AXN
+http://tv-centreduquebec.info:80/play/live.php?mac=00:1A:79:86:AC:0B&stream=731863&extension=ts&play_token=mmQlFcvSwb|http-user-agent=Mozilla/5.0 (Linux; Android 11; BRAVIA) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.5993.0 Safari/537.36
+
+
+#EXTINF:-1 group-title="📺 | TV Channels | PH",BUKO
+http://tv-centreduquebec.info:80/play/live.php?mac=00:1A:79:86:AC:0B&stream=926198&extension=ts&play_token=tQnwebDJUy|http-user-agent=Mozilla/5.0 (Linux; Android 11; BRAVIA) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.5993.0 Safari/537.36
+
+
+#EXTINF:-1 group-title="📺 | TV Channels | PH",Cartoon Network
+http://45.139.122.199:2095/play/live.php?mac=00:1A:79:D4:C8:D6&stream=143976&extension=ts&play_token=Nn9K8lFDFD|http-user-agent=Mozilla/5.0 (Linux; Android 11; BRAVIA) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.5993.0 Safari/537.36
+
+
+#EXTINF:-1 group-title="📺 | TV Channels | PH",Cinema One
+http://tv-centreduquebec.info:80/play/live.php?mac=00:1A:79:86:AC:0B&stream=223079&extension=ts&play_token=KxLPFFMZ37|http-user-agent=Mozilla/5.0 (Linux; Android 11; BRAVIA) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.5993.0 Safari/537.36
+
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/m3uzone/logo/main/Cinemax_2016.svg" group-title="📺 | TV Channels | PH",CINEMAX
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=b207c44332844523a3a3b0469e5652d7:fe71aea346db08f8c6fbf0592209f955
+https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_cinemax/default/index.mpd
+
+
+#EXTINF:-1 group-title="📺 | TV Channels | PH",Cinemo
+http://tv-centreduquebec.info:80/play/live.php?mac=00:1A:79:86:AC:0B&stream=731855&extension=ts&play_token=Oo7jJAa9kP|http-user-agent=Mozilla/5.0 (Linux; Android 11; BRAVIA) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.5993.0 Safari/537.36
+
+
+#EXTINF:-1 group-title="📺 | TV Channels | PH",Dreamworks
+http://tv-centreduquebec.info:80/play/live.php?mac=00:1A:79:86:AC:0B&stream=926185&extension=ts&play_token=bQJFjkvZko|http-user-agent=Mozilla/5.0 (Linux; Android 11; BRAVIA) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.5993.0 Safari/537.36
+
+
+#EXTINF:-1 group-title="📺 | TV Channels | PH",GMA NEWS
+http://tv-centreduquebec.info:80/play/live.php?mac=00:1A:79:86:AC:0B&stream=223025&extension=ts&play_token=uwjnRf4kgL|http-user-agent=Mozilla/5.0 (Linux; Android 11; BRAVIA) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.5993.0 Safari/537.36
+
+
+#EXTINF:-1 group-title="📺 | TV Channels | PH",GMA Pinoy
+http://tv-centreduquebec.info:80/play/live.php?mac=00:1A:79:86:AC:0B&stream=223027&extension=ts&play_token=E0xDLlgSHv|http-user-agent=Mozilla/5.0 (Linux; Android 11; BRAVIA) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.5993.0 Safari/537.36
+
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/m3uzone/logo/main/HBO.svg" group-title="📺 | TV Channels | PH",HBO 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=d47ebabf7a21430b83a8c4b82d9ef6b1:54c213b2b5f885f1e0290ee4131d425b
+https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_hbohd/default/index.mpd
+
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/m3uzone/logo/main/HBO_Family.svg" group-title="📺 | TV Channels | PH",HBO Familiy 
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=872910c843294319800d85f9a0940607:f79fd895b79c590708cf5e8b5c6263be
+https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_hbofam/default/index.mpd
+
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/m3uzone/logo/main/HBO_HiTS.svg" group-title="📺 | TV Channels | PH",HBO Hits 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=b04ae8017b5b4601a5a0c9060f6d5b7d:a8795f3bdb8a4778b7e888ee484cc7a1
+https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_hbohits/default1/index.mpd
+
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/m3uzone/logo/main/HBO_Signature.svg" group-title="📺 | TV Channels | PH",HBO Signature
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=a06ca6c275744151895762e0346380f5:559da1b63eec77b5a942018f14d3f56f
+https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_hbosign/default/index.mpd
+
+
+#EXTINF:-1 group-title="📺 | TV Channels | PH",Hits
+http://tv-centreduquebec.info:80/play/live.php?mac=00:1A:79:86:AC:0B&stream=926174&extension=ts&play_token=TPnaqlo9p4|http-user-agent=Mozilla/5.0 (Linux; Android 11; BRAVIA) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.5993.0 Safari/537.36
+
+
+#EXTINF:-1 group-title="📺 | TV Channels | PH",Hits Movies
+http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/380127.ts|http-user-agent=Mozilla/5.0 (Linux; Android 11; BRAVIA) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.5993.0 Safari/537.36
+
+
+#EXTINF:-1 group-title="📺 | TV Channels | PH",K-Movies
+http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/401292590.ts|http-user-agent=Mozilla/5.0 (Linux; Android 11; BRAVIA) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.5993.0 Safari/537.36
+
+
+#EXTINF:-1 group-title="📺 | TV Channels | PH",Kapamilya
+http://tv-centreduquebec.info:80/play/live.php?mac=00:1A:79:86:AC:0B&stream=731786&extension=ts&play_token=4pNhTRSDf1|http-user-agent=Mozilla/5.0 (Linux; Android 11; BRAVIA) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.5993.0 Safari/537.36
+
+
+#EXTINF:-1 group-title="📺 | TV Channels | PH",KIX
+http://tv-centreduquebec.info:80/play/live.php?mac=00:1A:79:86:AC:0B&stream=926171&extension=ts&play_token=SQxdlQbKNK|http-user-agent=Mozilla/5.0 (Linux; Android 11; BRAVIA) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.5993.0 Safari/537.36
+
+
+#EXTINF:-1 group-title="📺 | TV Channels | PH",MYX
+http://45.139.122.199:2095/play/live.php?mac=00:1A:79:D4:C8:D6&stream=31036&extension=ts&play_token=8PqLV8eDKm|http-user-agent=Mozilla/5.0 (Linux; Android 11; BRAVIA) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.5993.0 Safari/537.36
+
+
+#EXTM3U
+#EXTINF:-1 group-title="📺 | TV Channels | PH",One 
+http://tv-centreduquebec.info:80/play/live.php?mac=00:1A:79:86:AC:0B&stream=731816&extension=ts&play_token=Kl7g0nnZKU|http-user-agent=Mozilla/5.0 (Linux; Android 11; BRAVIA) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.5993.0 Safari/537.36
+
+
+#EXTINF:-1 group-title="📺 | TV Channels | PH",One Sports
+http://tv-centreduquebec.info:80/play/live.php?mac=00:1A:79:86:AC:0B&stream=731814&extension=ts&play_token=iJYYCvVUUg|http-user-agent=Mozilla/5.0 (Linux; Android 11; BRAVIA) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.5993.0 Safari/537.36
+
+
+#EXTINF:-1 group-title="📺 | TV Channels | PH",One Sports+
+http://tv-centreduquebec.info:80/play/live.php?mac=00:1A:79:86:AC:0B&stream=926161&extension=ts&play_token=dKzUejg1Aa|http-user-agent=Mozilla/5.0 (Linux; Android 11; BRAVIA) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.5993.0 Safari/537.36
+
+
+#EXTINF:-1 group-title="📺 | TV Channels | PH",Outdoor Channels
+http://tv-centreduquebec.info:80/play/live.php?mac=00:1A:79:86:AC:0B&stream=731813&extension=ts&play_token=MJrpb18Ns7|http-user-agent=Mozilla/5.0 (Linux; Android 11; BRAVIA) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.5993.0 Safari/537.36
+
+
+#EXTINF:-1 group-title="📺 | TV Channels | PH",PBA Rush
+http://tv-centreduquebec.info:80/play/live.php?mac=00:1A:79:86:AC:0B&stream=914598&extension=ts&play_token=1SGOuT2PXr|http-user-agent=Mozilla/5.0 (Linux; Android 11; BRAVIA) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.5993.0 Safari/537.36
+
+
+#EXTINF:-1 group-title="📺 | TV Channels | PH",PBO
+http://tv-centreduquebec.info:80/play/live.php?mac=00:1A:79:86:AC:0B&stream=731812&extension=ts&play_token=YRx2Iq4Ief|http-user-agent=Mozilla/5.0 (Linux; Android 11; BRAVIA) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.5993.0 Safari/537.36
+
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/m3uzone/logo/main/SPOTV_logo.svg" group-title="📺 | TV Channels | PH",SPOTV (PH)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://qp-pldt-live-bpk-01-prod.akamaized.net
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ec7ee27d83764e4b845c48cca31c8eef:9c0e4191203fccb0fde34ee29999129e
+https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/cg_spotvhd/default/index.mpd
+
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/m3uzone/logo/main/SPOTV2.svg" group-title="📺 | TV Channels | PH",SPOTV 2 (PH)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://qp-pldt-live-bpk-01-prod.akamaized.net
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7eea72d6075245a99ee3255603d58853:6848ef60575579bf4d415db1032153ed
+https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/dr_spotv2hd/default/index.mpd
+
+
+
 
 
  
