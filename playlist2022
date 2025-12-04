@@ -132,6 +132,10 @@ https://video.detik.com/trans7/smil:trans7.smil/chunklist.m3u8
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/997ce8767b604fae9fce05379b3b8b3a/index.mpd
 #EXTINF:-1 tvg-id="--" group-title="NASIONAL" group-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/IndiHome_TV_%282023%29.png/1200px-IndiHome_TV_%282023%29.png" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/IndiHome_TV_%282023%29.png/1200px-IndiHome_TV_%282023%29.png", Trans 7
 https://cdn10jtedge.indihometv.com/atm/DASH/trans7/manifest.mpd
+#EXTVLCOPT:http-referrer=https://www.indihometv.com/
+#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://mimipipi22.github.io/logo/nasional/sindonews.jpg" group-title="NASIONAL",SINDONEWS
+https://cdn10jtedge.indihometv.com/atm/DASH/mncnews/manifest.mpd
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/m3uzone/logo/main/SindoNews_Logo.svg" group-title="NASIONAL",SINDO NEWS
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7)
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000115/1024.m3u8
