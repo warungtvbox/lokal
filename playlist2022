@@ -348,7 +348,16 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/637e55347427a40007fac7
 
 
 --------------------------------------MOVIES---------------------------
-
+#EXTINF:-1 tvg-logo="https://iili.io/Ju79f8g.png" group-title="📺 | MOVIES",HBO
+https://cdn10jtedge.indihometv.com/atm/DASH/hbo/manifest.mpd
+#EXTINF:-1 tvg-logo="https://iili.io/Ju79nwv.png" group-title="📺 | MOVIES",HBO Hits
+https://alibaba-cdn.cdnpub-maxstream.com/atm/DASH/hbohits/manifest.mpd
+#EXTINF:-1 tvg-logo="https://iili.io/Ju79otR.png" group-title="📺 | MOVIES",HBO Family
+https://cdn10jtedge.indihometv.com/atm/DASH/hbofamily/manifest.mpd
+#EXTINF:-1 tvg-logo="https://iili.io/Ju79IMN.png" group-title="📺 | MOVIES",HBO Signature
+https://alibaba-cdn.cdnpub-maxstream.com/atm/DASH/hbosignature/manifest.mpd
+#EXTINF:-1 tvg-logo="https://iili.io/Ju79znp.png" group-title="📺 | MOVIES",Cinemax
+https://alibaba-cdn.cdnpub-maxstream.com/atm/DASH/cinemax/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/bb/f6/ba/bbf6ba90552ae0cc18cda5cde4b4abfc.jpg" group-title="📺 | MOVIES", Zee Cinema ᴴᴰ 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
