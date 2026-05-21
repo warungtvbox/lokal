@@ -43,9 +43,6 @@ https://fta1-cdn-flr.visionplus.id/out/v1/0a6c6b1534444ab4bd903af8761e6747/index
 #KODIPROP:inputstream.adaptive.license_key=https://aspaltvpasti.top/11111/205.drm
 https://aspaltvpasti.top/11111/205.mpd
 http://103.148.44.38:8000/play/a05c/index.m3u8
-http://202.169.224.202:8800/udp/239.9.1.25:1234
-http://202.169.224.202:8800/udp/239.4.4.2:1234
-
 
 #EXTVLCOPT:http-referrer=http://www.dens.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
@@ -151,7 +148,7 @@ https://ott-balancer.tvri.go.id/live/eds/TVRIWorld/hls/TVRIWorld.m3u8?checkedby:
 #EXTINF:-1 tvg-id="--" group-title="NASIONAL" group-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/IndiHome_TV_%282023%29.png/1200px-IndiHome_TV_%282023%29.png" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/IndiHome_TV_%282023%29.png/1200px-IndiHome_TV_%282023%29.png", Al Jazeera
 https://cdn10jtedge.indihometv.com/atm/DASH/aljazeera/manifest.mpd 
 #EXTINF:-1 tvg-id="Indosiar" tvg-url="" tvg-logo="https://iili.io/JMp3wV1.png/1280px-INDOSIAR_Logo.png" group-title="NASIONAL",Indosiar 🇮🇩
-http://op-group1-swiftservehd-1.dens.tv/h/h235/02.m3u8
+http://202.169.224.202:8800/udp/239.9.1.25:1234
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=8afcd53a12df4443ba4fba722a1771c8:b431e78b8bd1bcbbab3d06e22ac67afb
@@ -242,7 +239,9 @@ https://fta4-cdn-flr.visionplus.id/out/v1/dafcaf8b26064ae7b27702088240b535/index
 #EXTINF:-1 tvg-id="Rajawali TV" tvg-url="https://www.bevy.be/bevyfiles/indonesiapremium3.xml" tvg-logo="https://www.visionplus.id/images/repository/964/49964-SNAPSHOT-l.png" group-title="NASIONAL",RTV 🇮🇩
 https://op-group1-swiftservehd-1.dens.tv/h/h10/01.m3u8 
 
-
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-id="CNN.Indonesia.id" tvg-name="" tvg-logo="https://mimipipi22.github.io/logo/nasional/cnnid.jpg" group-title="NASIONAL",CNN INDONESIA
+https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="SEA.Today.id" tvg-name="" tvg-logo="https://static.mncnow.id/images/channel/7bdd87fc/0cb7_r32.jpg" group-title="NASIONAL",SEA TODAY
 #https://mimipipi22.github.io/logo/offline.m3u8
