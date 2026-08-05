@@ -13,7 +13,12 @@ https://ott-balancer.tvri.go.id/live/eds/TVRIWorld/hls/TVRIWorld.m3u8
 #EXTVLCOPT:http-user-agent=android-R+
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 https://rpluz.ben45mcc.workers.dev/index.m3u8?ch=rcti
-
+#EXTINF:-1 tvg-id="Indosiar.id" tvg-logo="https://i.ibb.co.com/xjNQwrH/indosiar.png" group-title="INDONESIA", INDOSIAR 🇮🇩
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ab1fe99e4e4f4cbe95930b3154c1fb19:c7f529deccbf6709e3e65c61c8d1344f
+https://d2tjypxxy769fn.cloudfront.net/out/v1/e930be336fed49e6b26a7554e113f7a4/index.mpd
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:contentlookup=false
@@ -53,8 +58,6 @@ https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8
 https://edge.medcom.id/live-edge/smil:metro.smil/playlist.m3u8
 
 
-#EXTINF:-1 tvg-id="Indosiar.IPTV" tvg-name="Indosiar.IPTV" group-title="INDONESIA" tvg-logo="https://cdn.phototourl.com/free/2026-05-29-6da5ca00-8436-470b-91b7-f2ddecaef7b1.png",INDOSIAR DIGITAL 
-http://mag.king-4k.cc:80/live/C1645263A1D245C/1sFTVBSVCP/1505849.ts
 
 
 #EXTINF:-1 tvg-id="Moji.id"  tvg-logo="https://i.ibb.co.com/nsSg2Q7/moji.png" group-title="INDONESIA", MOJI 🇮🇩
