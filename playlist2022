@@ -30,7 +30,12 @@ https://r-plus.sedotcw3.workers.dev/index.m3u8?id=mnctv
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/d6b026ad50f14b7f9af5ddd5450007d4/indeks.mpd
 https://mnctv-cutv.rctiplus.id/mnctv-sdi.m3u8
 https://cempedak-live-cdn.mncnow.id/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd
-
+#EXTINF:-1 tvg-id="MDTV.id@HD" group-title="INDONESIA" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/imageCir_MDTV-180x180-CL_2025_10_08_13_01_28.jpg",MDTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/rcti_pro/index.drm?id=23
+https://d3b0v7fggu5zwm.cloudfront.net/out/v1/3aefa03d32954b678e5faab6daa04b58/index.mpd
  
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/06/MNCTV_MNC-Group.png" group-title="INDONESIA",MNC TV (2)
 #EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
