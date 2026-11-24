@@ -827,7 +827,6 @@ https://hgmtv.com:19360/garudatvlivestreaming/480p.m3u8
 
 ------------------------------------MOVIES--------------------------------------------------------
 
-
 EXTINF:-1 tvg-id="HITS.sg@SD" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/epgs/guide.xml"  tvg-logo="https://www.hitstv.com/assets/hits.png" group-title="Premium Movies",Hits (Vision+)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
@@ -1072,7 +1071,6 @@ https://times-ott-live.akamaized.net/romedynow_wv_drm/index.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=7dc3abc5027b234af5af237d9ba1fb16:2542140d96078c87eca2a2b2fd7529aa
 https://otte.live.fly.ww.aiv-cdn.net/sin-nitro/live/clients/dash/enc/dxhd2i96mn/out/v1/c622abb40a8143d08135f5d8a5fccdc9/cenc.mpd?encoding=segmentBase
-
 
 
 
